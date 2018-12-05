@@ -15,5 +15,6 @@
 * [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 * [Making smart grids smarter by using machine learning](https://ieeexplore.ieee.org/document/6125536) - Ioana Pisica, Mircea Eremia
 * [NEMGAN (Noise Engineered Mode Matching GAN)](https://arxiv.org/abs/1811.03692) - Deepak Mishra, Prathosh AP, Aravind J, Prashant Pandey, Santanu Chaudhury
+* [Phase-Functioned Neural Networks for Character Control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
 * [PredicTouch, a system to reduce touchscreen latency using neural networks and inertial measurement units](https://dl.acm.org/citation.cfm?id=3134138) - Huy Viet Le, Valentin Schwind, 	Philipp Göttlich, Niels Henze
 * [Improving software-reduced touchscreen latency](https://dl.acm.org/citation.cfm?id=3098279.3122150) - Neils Henze, Sven Mayer, Huy Viet Le, Valentin Schwind
