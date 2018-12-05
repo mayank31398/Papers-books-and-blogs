@@ -8,7 +8,7 @@
 * [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
 * [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 * [Designing for low-latency direct-touch input](https://dl.acm.org/citation.cfm?id=2380174) - Albert Ng, Julian Lepinski, Daniel Wigdor, Steven Sanders, Paul Dietz
-* [Detection of glottal closure instants using deep dilated convolutional neural networks](https://arxiv.org/abs/1804.10147) - Prathosh A. P., Mohit Goyal, Varun Srivastava
+* [Detection of glottal closure instants using deep dilated convolutional neural networks](https://arxiv.org/abs/1804.10147) - Prathosh AP, Mohit Goyal, Varun Srivastava
 * [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 * [Implement of interpolation on multi-touch screen to trace the movement of finger](https://ieeexplore.ieee.org/document/6950607) - Young-Jin Park, Hong-Kun Lyu and Hui-Sup Cho
 * [Improving Software-Reduced touch screen latency](https://dl.acm.org/citation.cfm?id=3098279.3122150) - Neils Henze, Sven Mayer, Huy Viet Le, Valentin Schwind
