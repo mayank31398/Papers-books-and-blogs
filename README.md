@@ -1,6 +1,7 @@
 # Research papers
 
 * [A comparative analysis of capacitive touch panel grid designs and interpolation methods](https://ieeexplore.ieee.org/document/7026172) - Humza Akhtar, Ramakrishna Kakarala
+* [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
 * [A significant multi‐touch algorithm for the tracking problem based on the Hungarian algorithm](https://doi.org/10.1002/j.2168-0159.2013.tb06534.x) - Shih‐Lun Huang  Charlie Chung‐Ping Chen
 * [A smooth tracking algorithm for capacitive touch panels](https://www.atlantis-press.com/proceedings/ceie-16/25872614) - Zucheng Zhang, Jupeng Li, Moyu Li
 * [An efficient multi-touch tracking algorithm with a large number of points](https://ieeexplore.ieee.org/document/7034205) - Shih-Lun Huang, Sheng-Yi Hung, Charlie Chung-Ping Chen, Cheng-Han Tsao, Nai-Wen Chang
