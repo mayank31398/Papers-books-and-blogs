@@ -15,6 +15,7 @@
 * [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 * [Implement of interpolation on multi-touch screen to trace the movement of finger](https://ieeexplore.ieee.org/document/6950607) - Young-Jin Park, Hong-Kun Lyu, Hui-Sup Cho
 * [Improving software-reduced touchscreen latency](https://dl.acm.org/citation.cfm?id=3098279.3122150) - Neils Henze, Sven Mayer, Huy Viet Le, Valentin Schwind
+* [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
 * [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 * [Making smart grids smarter by using machine learning](https://ieeexplore.ieee.org/document/6125536) - Ioana Pisica, Mircea Eremia
 * [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692) - Deepak Mishra, Prathosh AP, Aravind J, Prashant Pandey, Santanu Chaudhury
