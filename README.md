@@ -2,7 +2,7 @@
 
 ## Quantum computing
 
-* [On the problem of hidden variables in quantum mechanics](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.38.447) - John S. Bell
+* [Can quantum-mechanical description of physical reality be cosidered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
 
 ## Deep learning, reinforcement learning and classical AI
 
