@@ -2,7 +2,7 @@
 
 ## Quantum computing
 
-* [Can quantum-mechanical description of physical reality be cosidered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
+* [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
 
 ## Deep learning, reinforcement learning and classical AI
 
