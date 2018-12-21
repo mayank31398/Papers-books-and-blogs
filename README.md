@@ -1,5 +1,11 @@
 # Research papers
 
+## Quantum computing
+
+* [On the Einstein Podolsky Rosen paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf) - John S. Bell
+
+## Deep learning, reinforcement learning and classical AI
+
 * [A comparative analysis of capacitive touch panel grid designs and interpolation methods](https://ieeexplore.ieee.org/document/7026172) - Humza Akhtar, Ramakrishna Kakarala
 * [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
 * [A significant multi‐touch algorithm for the tracking problem based on the Hungarian algorithm](https://doi.org/10.1002/j.2168-0159.2013.tb06534.x) - Shih‐Lun Huang  Charlie Chung‐Ping Chen
