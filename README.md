@@ -2,7 +2,7 @@
 
 ## Quantum computing
 
-* [On the Einstein Podolsky Rosen paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf) - John S. Bell
+* [On the Einstein Podolsky Rosen paradox](http://cds.cern.ch/record/111654/files/) - John S. Bell
 
 ## Deep learning, reinforcement learning and classical AI
 
