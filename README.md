@@ -2,7 +2,7 @@
 
 ## Quantum computing
 
-* [On the Einstein Podolsky Rosen paradox](http://cds.cern.ch/record/111654/files/) - John S. Bell
+* [On the problem of hidden variables in quantum mechanics](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.38.447) - John S. Bell
 
 ## Deep learning, reinforcement learning and classical AI
 
