@@ -4,6 +4,7 @@
 
 * [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0) - W. K. Wootters, W. H. Zurek
 * [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
+* [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895) - Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters
 
 ## Deep learning, reinforcement learning and classical AI
 
