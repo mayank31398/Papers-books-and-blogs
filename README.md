@@ -13,6 +13,7 @@
 * [A significant multi‐touch algorithm for the tracking problem based on the Hungarian algorithm](https://doi.org/10.1002/j.2168-0159.2013.tb06534.x) - Shih‐Lun Huang  Charlie Chung‐Ping Chen
 * [A smooth tracking algorithm for capacitive touch panels](https://www.atlantis-press.com/proceedings/ceie-16/25872614) - Zucheng Zhang, Jupeng Li, Moyu Li
 * [An efficient multi-touch tracking algorithm with a large number of points](https://ieeexplore.ieee.org/document/7034205) - Shih-Lun Huang, Sheng-Yi Hung, Charlie Chung-Ping Chen, Cheng-Han Tsao, Nai-Wen Chang
+* [Adversarial examples that fool both computer vision and time-limited humans](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
 * [Approximations by superpositions of sigmoidal functions](https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085) - George Cybenko
 * [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
 * [Clustering-based multi-touch algorithm framework for the tracking problem with a large number of points](https://dl.acm.org/citation.cfm?id=2755917) - Shih-Lun Huang, Sheng-Yi Hung, Chung-Ping Chen
