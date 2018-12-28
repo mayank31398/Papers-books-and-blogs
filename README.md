@@ -31,6 +31,6 @@
 * [Making smart grids smarter by using machine learning](https://ieeexplore.ieee.org/document/6125536) - Ioana Pisica, Mircea Eremia
 * [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692) - Deepak Mishra, Prathosh AP, Aravind J, Prashant Pandey, Santanu Chaudhury
 * [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
-* [PredicTouch, a system to reduce touchscreen latency using neural networks and inertial measurement units](https://dl.acm.org/citation.cfm?id=3134138) - Huy Viet Le, Valentin Schwind, 	Philipp Göttlich, Niels Henze
+* [PredicTouch, a system to reduce touchscreen latency using neural networks and inertial measurement units](https://dl.acm.org/citation.cfm?id=3134138) - Huy Viet Le, Valentin Schwind, Philipp Göttlich, Niels Henze
 * [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
 * [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1609.03499) - Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
