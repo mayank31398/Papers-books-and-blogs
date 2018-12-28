@@ -17,6 +17,7 @@
 * [Approximations by superpositions of sigmoidal functions](https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085) - George Cybenko
 * [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
 * [Clustering-based multi-touch algorithm framework for the tracking problem with a large number of points](https://dl.acm.org/citation.cfm?id=2755917) - Shih-Lun Huang, Sheng-Yi Hung, Chung-Ping Chen
+* [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585) - Augustus Odena, Christopher Olah, Jonathon Shlens
 * [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
 * [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 * [Designing for low-latency direct-touch input](https://dl.acm.org/citation.cfm?id=2380174) - Albert Ng, Julian Lepinski, Daniel Wigdor, Steven Sanders, Paul Dietz
