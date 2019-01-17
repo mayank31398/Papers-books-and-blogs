@@ -10,7 +10,7 @@
 
 ## Deep learning, reinforcement learning and classical AI
 
-1. [A3T: Adversarially augmented adversarial training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
+1. [A3T: Adversarially Augmented Adversarial Training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
 1. [Adversarial examples that fool both computer vision and time-limited humans](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
 1. [Approximations by superpositions of sigmoidal functions](https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085) - George Cybenko
@@ -20,6 +20,7 @@
 1. [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 1. [Detection of glottal closure instants using deep dilated convolutional neural networks](https://arxiv.org/abs/1804.10147) - Prathosh AP, Mohit Goyal, Varun Srivastava
+1. [Exploring deep recurrent models with reinforcement learning for molecular design](https://openreview.net/forum?id=HkcTe-bR-) - Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
