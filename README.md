@@ -18,6 +18,7 @@
 1. [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) - Sergey Ioffe, Christian Szegedy
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585) - Augustus Odena, Christopher Olah, Jonathon Shlens
 1. [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
+1. [Deep complex networks](https://arxiv.org/abs/1705.09792) - Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 1. [Detection of glottal closure instants using deep dilated convolutional neural networks](https://arxiv.org/abs/1804.10147) - Prathosh AP, Mohit Goyal, Varun Srivastava
 1. [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-) - Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown
