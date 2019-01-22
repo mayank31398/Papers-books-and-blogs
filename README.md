@@ -30,6 +30,7 @@
 1. [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
 1. [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692) - Deepak Mishra, Prathosh AP, Aravind J, Prashant Pandey, Santanu Chaudhury
+1. [Neural ordinary differential equations](http://papers.nips.cc/paper/7892-neural-ordinary-differential-equations) - Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
 1. [Playing Atari with deep reinforcement learning](https://arxiv.org/abs/1312.5602) - Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
 1. [Supervised learning of probability distribution by neural networks](https://papers.nips.cc/paper/3-supervised-learning-of-probability-distributions-by-neural-networks) - Eric B. Baum, Frank Wilczek
