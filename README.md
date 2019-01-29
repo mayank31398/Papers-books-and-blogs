@@ -26,7 +26,7 @@
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
-1. [Learning on a general netwrok](https://papers.nips.cc/paper/9-learning-on-a-general-network) - Amir F. Atiya
+1. [Learning on a general network](https://papers.nips.cc/paper/9-learning-on-a-general-network) - Amir F. Atiya
 1. [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
 1. [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692) - Deepak Mishra, Prathosh AP, Aravind J, Prashant Pandey, Santanu Chaudhury
