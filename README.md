@@ -22,7 +22,9 @@
 1. [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792) - Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
+1. [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385) - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 1. [Detection of glottal closure instants using deep dilated convolutional neural networks](https://arxiv.org/abs/1804.10147) - Prathosh AP, Mohit Goyal, Varun Srivastava
+1. [Dropout (a simple way to prevent neural networks from overfitting)](http://jmlr.org/papers/v15/srivastava14a.html) - Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov
 1. [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-) - Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
@@ -33,10 +35,11 @@
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
 1. [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692) - Deepak Mishra, Prathosh AP, Aravind J, Prashant Pandey, Santanu Chaudhury
 1. [Neural ordinary differential equations](http://papers.nips.cc/paper/7892-neural-ordinary-differential-equations) - Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
+1. [On the power of neural networks for solving hard problems](https://papers.nips.cc/paper/70-on-the-power-of-neural-networks-for-solving-hard-problems) - Jehoshua Bruck, Joseph W. Goodman
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
 1. [Playing Atari with deep reinforcement learning](https://arxiv.org/abs/1312.5602) - Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
 1. [Supervised learning of probability distributions by neural networks](https://papers.nips.cc/paper/3-supervised-learning-of-probability-distributions-by-neural-networks) - Eric B. Baum, Frank Wilczek
-1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - 	Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
+1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
 1. [The information bottleneck method](https://arxiv.org/abs/physics/0004057) - Naftali Tishby, Fernando C. Pereira, William Bialek
 1. [Understanding convolutional neural networks with a mathematical model](https://arxiv.org/abs/1609.04112) - C.-C. Jay Kuo
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
