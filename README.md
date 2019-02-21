@@ -41,6 +41,7 @@
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
 1. [Playing Atari with deep reinforcement learning](https://arxiv.org/abs/1312.5602) - Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
 1. [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545) - David Lopez-Paz, Maxime Oquab
+1. [Self-normalizing neural networks](https://papers.nips.cc/paper/6698-self-normalizing-neural-networks) - Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
 1. [Supervised learning of probability distributions by neural networks](https://papers.nips.cc/paper/3-supervised-learning-of-probability-distributions-by-neural-networks) - Eric B. Baum, Frank Wilczek
 1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
 1. [The information bottleneck method](https://arxiv.org/abs/physics/0004057) - Naftali Tishby, Fernando C. Pereira, William Bialek
