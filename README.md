@@ -49,5 +49,6 @@
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
 1. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556) - Karen Simonyan, Andrew Zisserman
 1. [Visualizing data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html) - Laurens van der Maaten, Geoffrey Hinton
+1. [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - Martin Arjovsky, Soumith Chintala, Léon Bottou
 1. [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1609.03499) - Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
 1. [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640) - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
