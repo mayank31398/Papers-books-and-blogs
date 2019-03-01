@@ -12,6 +12,7 @@
 
 <!-- Add Adversarial approximate inference -->
 
+1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
 1. [A3T: Adversarially Augmented Adversarial Training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
