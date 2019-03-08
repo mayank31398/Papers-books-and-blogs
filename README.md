@@ -30,6 +30,7 @@
 1. [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-) - Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
+1. [Improving entity linking by modeling latent relations between mentions](https://arxiv.org/abs/1804.10637) - Phong Le, Ivan Titov
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
 1. [Learning on a general network](https://papers.nips.cc/paper/9-learning-on-a-general-network) - Amir F. Atiya
