@@ -26,6 +26,7 @@
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792) - Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 1. [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385) - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+1. [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161) - Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781) - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
 1. [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-) - Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
