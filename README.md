@@ -48,6 +48,7 @@
 1. [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545) - David Lopez-Paz, Maxime Oquab
 1. [Self-normalizing neural networks](https://papers.nips.cc/paper/6698-self-normalizing-neural-networks) - Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
 1. [Strategies for teaching layered networks classification tasks](https://papers.nips.cc/paper/85-strategies-for-teaching-layered-networks-classification-tasks) - Ben S. Wittner, John S. Denker
+1. [Style transfer from non-parallel text by cross-alignment](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment) - Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola
 1. [Supervised learning of probability distributions by neural networks](https://papers.nips.cc/paper/3-supervised-learning-of-probability-distributions-by-neural-networks) - Eric B. Baum, Frank Wilczek
 1. [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets) - Jacques J. Vidal, John Haggerty
 1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
