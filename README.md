@@ -14,6 +14,7 @@
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
+1. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap
 1. [A3T: Adversarially Augmented Adversarial Training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
 1. [Adversarial examples that fool both computer vision and time-limited humans](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
 1. [Approximations by superpositions of sigmoidal functions](https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085) - George Cybenko
