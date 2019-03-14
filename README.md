@@ -24,6 +24,7 @@
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585) - Augustus Odena, Christopher Olah, Jonathon Shlens
 1. [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
 1. [Convolutional neural network language models](https://aclanthology.info/papers/D16-1123/d16-1123) - Ngoc-Quan Pham, Germán Kruszewski, Gemma Boleda
+1. [Curriculum learning](https://dl.acm.org/citation.cfm?id=1553380) - Yoshua Bengio, Jérôme Louradour, Ronan Collobert, Jason Weston
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792) - Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 1. [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385) - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
