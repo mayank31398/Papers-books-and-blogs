@@ -18,6 +18,7 @@
 1. [A3T: Adversarially Augmented Adversarial Training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
 1. [Adversarial examples that fool both computer vision and time-limited humans](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
 1. [Approximations by superpositions of sigmoidal functions](https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085) - George Cybenko
+1. [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need) - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
 1. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
 1. [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) - Sergey Ioffe, Christian Szegedy
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585) - Augustus Odena, Christopher Olah, Jonathon Shlens
