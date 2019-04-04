@@ -9,7 +9,6 @@
 
 # Deep learning
 
-<!-- Add Adversarial approximate inference -->
 <!-- Going deeper with convolutions -->
 
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
@@ -37,7 +36,7 @@
 1. [Learning on a general network](https://papers.nips.cc/paper/9-learning-on-a-general-network) - Amir F. Atiya
 1. [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 1. [Mutual information neural estimation](https://arxiv.org/abs/1801.04062) - Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm
-1. [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692) - Deepak Mishra, Prathosh A. P., Aravind J, Prashant Pandey, Santanu Chaudhury
+1. [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692v2) - Deepak Mishra, Prathosh A. P., Aravind J, Prashant Pandey, Santanu Chaudhury
 1. [Neural GPUs learn algorithms](https://arxiv.org/abs/1511.08228) - Łukasz Kaiser, Ilya Sutskever
 1. [Neural ordinary differential equations](http://papers.nips.cc/paper/7892-neural-ordinary-differential-equations) - Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
 1. [On the power of neural networks for solving hard problems](https://papers.nips.cc/paper/70-on-the-power-of-neural-networks-for-solving-hard-problems) - Jehoshua Bruck, Joseph W. Goodman
