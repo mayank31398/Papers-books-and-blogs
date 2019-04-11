@@ -9,8 +9,6 @@
 
 # Deep learning
 
-<!-- Going deeper with convolutions -->
-
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
@@ -30,6 +28,7 @@
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 1. [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385) - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
+1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
