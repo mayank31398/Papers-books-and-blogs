@@ -51,6 +51,7 @@
 1. [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets) - Jacques J. Vidal, John Haggerty
 1. [The information bottleneck method](https://arxiv.org/abs/physics/0004057) - Naftali Tishby, Fernando C. Pereira, William Bialek
 1. [Understanding convolutional neural networks with a mathematical model](https://arxiv.org/abs/1609.04112) - C.-C. Jay Kuo
+1. [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599) - Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
 1. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556) - Karen Simonyan, Andrew Zisserman
 1. [Visualizing data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html) - Laurens van der Maaten, Geoffrey Hinton
