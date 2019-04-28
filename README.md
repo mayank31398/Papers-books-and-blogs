@@ -17,6 +17,7 @@
 1. [Adversarial approximate inference for speech to electroglottograph conversion](https://arxiv.org/abs/1903.12248) - Prathosh A. P., Varun Srivastava, Mayank Mishra
 1. [Adversarial autoencoders](https://arxiv.org/abs/1511.05644) - Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
 1. [Adversarial examples that fool both computer vision and time-limited humans](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
+1. [Adversarial feature learning](https://arxiv.org/abs/1605.09782) - Jeff Donahue, Philipp Krähenbühl, Trevor Darrell
 1. [Adversarial information factorization](https://arxiv.org/abs/1711.05175) - Antonia Creswell, Yumnah Mohamied, Biswa Sengupta, Anil A Bharath
 1. [Adversarially learned inference](https://arxiv.org/abs/1606.00704) - Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville
 1. [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) - Sebastian Ruder
