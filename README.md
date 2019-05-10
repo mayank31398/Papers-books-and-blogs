@@ -13,6 +13,7 @@
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
 1. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap
+1. [A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948) - Tero Karras, Samuli Laine, Timo Aila
 1. [A3T: Adversarially Augmented Adversarial Training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
 1. [Adversarial approximate inference for speech to electroglottograph conversion](https://arxiv.org/abs/1903.12248) - Prathosh A. P., Varun Srivastava, Mayank Mishra
 1. [Adversarial autoencoders](https://arxiv.org/abs/1511.05644) - Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
