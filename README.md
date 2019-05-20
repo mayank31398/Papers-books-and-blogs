@@ -82,3 +82,7 @@
 1. [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
 1. [Style transfer from non-parallel text by cross-alignment](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment) - Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola
 1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
+
+# Operating systems
+
+1. [A complete method for porting operating system for embedded systems](https://www.researchgate.net/publication/241340783_A_Complete_Method_for_Porting_Operating_System_for_Embedded_Systems) - Osvaldo De Souza, Helano Castro
