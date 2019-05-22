@@ -1,3 +1,5 @@
+My favourite books can be found [here](https://github.com/mayank31398/Books-I-love).
+
 # Quantum computing
 
 1. [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) - Lov K. Grover
