@@ -53,6 +53,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [On the power of neural networks for solving hard problems](https://papers.nips.cc/paper/70-on-the-power-of-neural-networks-for-solving-hard-problems) - Jehoshua Bruck, Joseph W. Goodman
 1. [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155) - Justin Johnson, Alexandre Alahi, Li Fei-Fei
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
+1. [Restricted Boltzmann machines for collaborative filtering](https://dl.acm.org/citation.cfm?doid=1273496.1273596) - Ruslan Salakhutdinov, Andriy Mnih, Geoffrey Hinton
 1. [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545) - David Lopez-Paz, Maxime Oquab
 1. [Self-normalizing neural networks](https://papers.nips.cc/paper/6698-self-normalizing-neural-networks) - Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
 1. [Strategies for teaching layered networks classification tasks](https://papers.nips.cc/paper/85-strategies-for-teaching-layered-networks-classification-tasks) - Ben S. Wittner, John S. Denker
