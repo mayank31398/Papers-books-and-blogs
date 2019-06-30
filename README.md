@@ -2,7 +2,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 
 # Quantum computing
 
-1. [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) - Lov K. Grover
+1. [![Paper](https://img.shields.io/badge/arXiv-A_fast_quantum_mechanical_algorithm_for_database_search-red.svg)](https://arxiv.org/abs/quant-ph/9605043) - Lov K. Grover
 1. [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0) - W. K. Wootters, W. H. Zurek
 1. [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
 1. [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027) - Peter W. Shor
