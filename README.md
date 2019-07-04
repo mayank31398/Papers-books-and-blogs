@@ -5,10 +5,10 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) - Lov K. Grover
 1. [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0) - W. K. Wootters, W. H. Zurek
 1. [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
-1. [Partitioning optimization problems for hybrid classical/quantum execution](https://www.semanticscholar.org/paper/Partitioning-Optimization-Problems-for-Hybrid-%2F-Booth-Reinhardt/03a5a5f1c17d0573a5ab93fc514ae9b2897cc76a) - Michael Booth, Steven P. Reinhardt
+1. [Partitioning optimization problems for hybrid classical/quantum execution](https://www.dwavesys.com/resources/publications?type=white) - Michael Booth, Steven P. Reinhardt, Aidan Roy
 1. [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027) - Peter W. Shor
 1. [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064) - Lu-Ming Duan, Guang-Can Guo
-1. [Programming with D-Wave (map coloring problem)](https://www.dwavesys.com/sites/default/files/Map%20Coloring%20WP2.pdf) - E. D. Dahl
+1. [Programming with D-Wave (map coloring problem)](https://www.dwavesys.com/resources/publications?type=white) - E. D. Dahl
 1. [Rapid solution of problems by quantum computation](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167) - David Deutsche, Richard Jozsa
 1. [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895) - Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters
 
@@ -89,7 +89,3 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
 1. [Style transfer from non-parallel text by cross-alignment](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment) - Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola
 1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
-
-# Operating systems
-
-1. [A complete method for porting operating system for embedded systems](https://www.researchgate.net/publication/241340783_A_Complete_Method_for_Porting_Operating_System_for_Embedded_Systems) - Osvaldo De Souza, Helano Castro
