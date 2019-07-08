@@ -5,6 +5,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) - Lov K. Grover
 1. [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0) - W. K. Wootters, W. H. Zurek
 1. [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
+1. [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/publications?type=white)
 1. [Partitioning optimization problems for hybrid classical/quantum execution](https://www.dwavesys.com/resources/publications?type=white) - Michael Booth, Steven P. Reinhardt, Aidan Roy
 1. [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027) - Peter W. Shor
 1. [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064) - Lu-Ming Duan, Guang-Can Guo
