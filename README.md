@@ -6,14 +6,15 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 2. [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0) - W. K. Wootters, W. H. Zurek
 3. [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
 4. [Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization](https://arxiv.org/abs/0804.4457) - Hartmut Neven, Geordie Rose, William G. Macready
-5. [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/publications?type=white)
-6. [Partitioning optimization problems for hybrid classical/quantum execution](https://www.dwavesys.com/resources/publications?type=white) - Michael Booth, Steven P. Reinhardt, Aidan Roy
-7. [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027) - Peter W. Shor
-8. [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064) - Lu-Ming Duan, Guang-Can Guo
-9. [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/publications?type=white) - E. D. Dahl
-10. [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/publications?type=white)
-11. [Rapid solution of problems by quantum computation](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167) - David Deutsche, Richard Jozsa
-12. [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895) - Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters
+5. [Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)](https://1qbit.com/our-thinking/white-papers/) - Pooya Ronagh
+6. [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/publications?type=white)
+7. [Partitioning optimization problems for hybrid classical/quantum execution](https://www.dwavesys.com/resources/publications?type=white) - Michael Booth, Steven P. Reinhardt, Aidan Roy
+8. [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027) - Peter W. Shor
+9. [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064) - Lu-Ming Duan, Guang-Can Guo
+10. [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/publications?type=white) - E. D. Dahl
+11. [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/publications?type=white)
+12. [Rapid solution of problems by quantum computation](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167) - David Deutsche, Richard Jozsa
+13. [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895) - Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters
 
 # Deep learning
 
