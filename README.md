@@ -72,6 +72,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599) - Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
 1. [Variational inference using implicit distributions](https://arxiv.org/abs/1702.08235) - Ferenc Huszár
+1. [Variational inference with latent space quantization for adversarial resilience](https://arxiv.org/abs/1903.09940) - Vinay Kyatham, Prathosh A. P., Deepak Mishra, Tarun Kumar Yadav, Dheeraj Mundhra
 1. [VEEGAN: reducing mode collapse in GANs using implicit variational learning](https://arxiv.org/abs/1705.07761) - Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton
 1. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556) - Karen Simonyan, Andrew Zisserman
 1. [Visualizing data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html) - Laurens van der Maaten, Geoffrey Hinton
