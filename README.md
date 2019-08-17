@@ -45,6 +45,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
+1. [Graph attention networks](https://arxiv.org/abs/1710.10903) - Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
 1. [ImageNet classification using deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) - Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 1. [InfoGAN: interpretable representation learning by information maximizing generative adversarial nets](https://arxiv.org/abs/1606.03657) - Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel
