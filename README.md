@@ -57,6 +57,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692v2) - Deepak Mishra, Prathosh A. P., Aravind J, Prashant Pandey, Santanu Chaudhury
 1. [Neural GPUs learn algorithms](https://arxiv.org/abs/1511.08228) - Łukasz Kaiser, Ilya Sutskever
 1. [Neural ordinary differential equations](http://papers.nips.cc/paper/7892-neural-ordinary-differential-equations) - Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
+1. [Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples](https://arxiv.org/abs/1802.00420) - Anish Athalye, Nicholas Carlini, David Wagner
 1. [On the power of neural networks for solving hard problems](https://papers.nips.cc/paper/70-on-the-power-of-neural-networks-for-solving-hard-problems) - Jehoshua Bruck, Joseph W. Goodman
 1. [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155) - Justin Johnson, Alexandre Alahi, Li Fei-Fei
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
