@@ -23,7 +23,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
 1. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap
 1. [A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948) - Tero Karras, Samuli Laine, Timo Aila
-1. [A3T: Adversarially Augmented Adversarial Training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
+1. [A3T: adversarially augmented adversarial training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
 1. [Adversarial approximate inference for speech to electroglottograph conversion](https://arxiv.org/abs/1903.12248) - Prathosh A. P., Varun Srivastava, Mayank Mishra
 1. [Adversarial autoencoders](https://arxiv.org/abs/1511.05644) - Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
 1. [Adversarial examples that fool both computer vision and time-limited humans](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
@@ -41,6 +41,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792) - Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 1. [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385) - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+1. [Discrete variational autoencoders](https://arxiv.org/abs/1609.02200?context=cs) - Jason Tyler Rolfe
 1. [Disentangling by factorising](https://arxiv.org/abs/1802.05983) - Hyunjik Kim, Andriy Mnih
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
