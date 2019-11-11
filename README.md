@@ -1,23 +1,13 @@
 My favourite books can be found [here](https://github.com/mayank31398/Books-I-love).
 
-# Quantum computing
-
-1. [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) - Lov K. Grover
-1. [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0) - W. K. Wootters, W. H. Zurek
-1. [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
-1. [Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization](https://arxiv.org/abs/0804.4457) - Hartmut Neven, Geordie Rose, William G. Macready
-1. [Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)](https://1qbit.com/our-thinking/white-papers/) - Pooya Ronagh
-1. [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/publications?type=white)
-1. [Partitioning optimization problems for hybrid classical/quantum execution](https://www.dwavesys.com/resources/publications?type=white) - Michael Booth, Steven P. Reinhardt, Aidan Roy
-1. [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027) - Peter W. Shor
-1. [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064) - Lu-Ming Duan, Guang-Can Guo
-1. [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/publications?type=white) - E. D. Dahl
-1. [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/publications?type=white)
-1. [Rapid solution of problems by quantum computation](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167) - David Deutsche, Richard Jozsa
-1. [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895) - Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters
+### List of topics
+* [Deep learning](#Deep-learning)
+* [Natural language processing](#Natural-language-processing)
+* [Optimization theory](#Optimization-theory)
+* [Quantum computing](#Quantum-computing)
+* [Reinforcement learning](#Reinforcement-learning)
 
 # Deep learning
-
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
@@ -85,13 +75,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640) - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
 1. [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl) - Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner
 
-# Reinforcement learning
-
-1. [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-) - Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown
-1. [Playing Atari with deep reinforcement learning](https://arxiv.org/abs/1312.5602) - Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
-
 # Natural language processing
-
 1. [Adversarial generation of natural language](https://arxiv.org/abs/1705.10929) - Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville
 1. [Convolutional neural network language models](https://aclanthology.info/papers/D16-1123/d16-1123) - Ngoc-Quan Pham, Germán Kruszewski, Gemma Boleda
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161) - Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun
@@ -104,5 +88,23 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
 
 # Optimization theory
-
 1. [Distributed optimization and statistical learning via the alternating direction method of multipliers](https://web.stanford.edu/~boyd/papers/admm_distr_stats.html) - Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, Jonathan Eckstein
+
+# Quantum computing
+1. [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) - Lov K. Grover
+1. [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0) - W. K. Wootters, W. H. Zurek
+1. [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
+1. [Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization](https://arxiv.org/abs/0804.4457) - Hartmut Neven, Geordie Rose, William G. Macready
+1. [Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)](https://1qbit.com/our-thinking/white-papers/) - Pooya Ronagh
+1. [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/publications?type=white)
+1. [Partitioning optimization problems for hybrid classical/quantum execution](https://www.dwavesys.com/resources/publications?type=white) - Michael Booth, Steven P. Reinhardt, Aidan Roy
+1. [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027) - Peter W. Shor
+1. [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064) - Lu-Ming Duan, Guang-Can Guo
+1. [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/publications?type=white) - E. D. Dahl
+1. [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/publications?type=white)
+1. [Rapid solution of problems by quantum computation](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167) - David Deutsche, Richard Jozsa
+1. [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895) - Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters
+
+# Reinforcement learning
+1. [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-) - Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown
+1. [Playing Atari with deep reinforcement learning](https://arxiv.org/abs/1312.5602) - Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
