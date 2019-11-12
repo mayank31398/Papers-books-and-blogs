@@ -1,6 +1,6 @@
 My favourite books can be found [here](https://github.com/mayank31398/Books-I-love).
 
-### List of topics
+### Table of contents
 * [Deep learning](#Deep-learning)
 * [Natural language processing](#Natural-language-processing)
 * [Optimization theory](#Optimization-theory)
