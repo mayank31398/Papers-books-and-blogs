@@ -1,11 +1,14 @@
 My favourite books can be found [here](https://github.com/mayank31398/Books-I-love).
 
 ### Table of contents
-* [Deep learning](#Deep-learning)
+* [Deep learning](#Deep-learning)<!-- * [Information theory](#Information-theory) -->
 * [Natural language processing](#Natural-language-processing)
 * [Optimization theory](#Optimization-theory)
 * [Quantum computing](#Quantum-computing)
 * [Reinforcement learning](#Reinforcement-learning)
+
+# Coding theory
+1. [Error detecting and error correcting codes](https://ieeexplore.ieee.org/document/6772729) - R. W. Hamming
 
 # Deep learning
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
@@ -74,6 +77,9 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1609.03499) - Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
 1. [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640) - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
 1. [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl) - Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner
+
+<!-- # Information theory
+1. [Secure data provenance compression using arithmetic coding in wireless sensor networks](https://ieeexplore.ieee.org/document/7017068) - Syed Rafiul Hussain, Changda Wang, Salmin Sultana, Elisa Bertino -->
 
 # Natural language processing
 1. [Adversarial generation of natural language](https://arxiv.org/abs/1705.10929) - Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville
