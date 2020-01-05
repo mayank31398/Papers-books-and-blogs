@@ -1,7 +1,8 @@
 My favourite books can be found [here](https://github.com/mayank31398/Books-I-love).
 
 ### Table of contents
-* [Deep learning](#Deep-learning)<!-- * [Information theory](#Information-theory) -->
+* [Coding theory](#Coding-theory)
+* [Deep learning](#Deep-learning)
 * [Natural language processing](#Natural-language-processing)
 * [Optimization theory](#Optimization-theory)
 * [Quantum computing](#Quantum-computing)
