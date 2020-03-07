@@ -2,6 +2,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 
 ### Table of contents
 * [Coding theory](#Coding-theory)
+* [Computer architecture](#Computer-architecture)
 * [Deep learning](#Deep-learning)
 * [Natural language processing](#Natural-language-processing)
 * [Optimization theory](#Optimization-theory)
@@ -10,6 +11,9 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 
 # Coding theory
 1. [Error detecting and error correcting codes](https://ieeexplore.ieee.org/document/6772729) - R. W. Hamming
+
+# Computer architecture
+1. [Memory performance attacks: denial of memory service in multi-core systems](https://www.usenix.org/conference/16th-usenix-security-symposium/memory-performance-attacks-denial-memory-service-multi) - Thomas Moscibroda, Onur Mutlu
 
 # Deep learning
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
