@@ -32,6 +32,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Approximations by superpositions of sigmoidal functions](https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085) - George Cybenko
 1. [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need) - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
 1. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
+1. [Backpropagation through the void: optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123) - Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud
 1. [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) - Sergey Ioffe, Christian Szegedy
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585) - Augustus Odena, Christopher Olah, Jonathon Shlens
 1. [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
@@ -83,9 +84,6 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1609.03499) - Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
 1. [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640) - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
 1. [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl) - Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner
-
-<!-- # Information theory
-1. [Secure data provenance compression using arithmetic coding in wireless sensor networks](https://ieeexplore.ieee.org/document/7017068) - Syed Rafiul Hussain, Changda Wang, Salmin Sultana, Elisa Bertino -->
 
 # Natural language processing
 1. [Adversarial generation of natural language](https://arxiv.org/abs/1705.10929) - Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville
