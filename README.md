@@ -13,6 +13,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Error detecting and error correcting codes](https://ieeexplore.ieee.org/document/6772729) - R. W. Hamming
 
 # Computer architecture
+1. [Flipping bits in memory without accessing them: an experimental study of DRAM disturbance errors](https://ieeexplore.ieee.org/document/6853210) - Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu
 1. [Memory performance attacks: denial of memory service in multi-core systems](https://www.usenix.org/conference/16th-usenix-security-symposium/memory-performance-attacks-denial-memory-service-multi) - Thomas Moscibroda, Onur Mutlu
 
 # Deep learning
