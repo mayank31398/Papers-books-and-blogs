@@ -15,6 +15,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 # Computer architecture
 1. [Flipping bits in memory without accessing them: an experimental study of DRAM disturbance errors](https://ieeexplore.ieee.org/document/6853210) - Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu
 1. [Memory performance attacks: denial of memory service in multi-core systems](https://www.usenix.org/conference/16th-usenix-security-symposium/memory-performance-attacks-denial-memory-service-multi) - Thomas Moscibroda, Onur Mutlu
+1. [RAIDR: Retention-Aware Intelligent DRAM Refresh](https://dl.acm.org/doi/10.5555/2337159.2337161) - Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu
 1. [Stall-time fair memory access scheduling for chip multiprocessors](https://ieeexplore.ieee.org/document/4408252) - Onur Mutlu, Thomas Moscibroda
 
 # Deep learning
