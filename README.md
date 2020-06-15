@@ -118,6 +118,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064) - Lu-Ming Duan, Guang-Can Guo
 1. [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/publications?type=white) - E. D. Dahl
 1. [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/publications?type=white)
+1. [Quantum theory, the Church-Turing principle and the universal quantum computer](https://royalsocietypublishing.org/doi/10.1098/rspa.1985.0070) - David Deutsch
 1. [Rapid solution of problems by quantum computation](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167) - David Deutsche, Richard Jozsa
 1. [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895) - Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters
 
