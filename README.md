@@ -100,7 +100,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161) - Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781) - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
 1. [Improving entity linking by modeling latent relations between mentions](https://arxiv.org/abs/1804.10637) - Phong Le, Ivan Titov
-1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
+1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-iciently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
 1. [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976) - Gaurav Pandey, Dinesh Raghu, Sachindra Joshi
 1. [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705) - Thomas Hofmann
 1. [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
