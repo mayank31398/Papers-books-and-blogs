@@ -95,6 +95,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl) - Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner
 
 # Natural language processing
+1. [A simple language model for task-oriented dialogue](https://arxiv.org/abs/2005.00796) - Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher
 1. [Adversarial generation of natural language](https://arxiv.org/abs/1705.10929) - Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville
 1. [Convolutional neural network language models](https://aclanthology.info/papers/D16-1123/d16-1123) - Ngoc-Quan Pham, Germán Kruszewski, Gemma Boleda
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161) - Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun
