@@ -1,12 +1,12 @@
 My favourite books can be found [here](https://github.com/mayank31398/Books-I-love).
 
-### Table of contents
+<!-- ### Table of contents
 * [Coding theory](#Coding-theory)
 * [Computer architecture](#Computer-architecture)
 * [Deep learning & NLP](#Deep-learning-&-NLP)
 * [Optimization theory](#Optimization-theory)
 * [Quantum computing](#Quantum-computing)
-* [Reinforcement learning](#Reinforcement-learning)
+* [Reinforcement learning](#Reinforcement-learning) -->
 
 # Coding theory
 1. [Error detecting and error correcting codes](https://ieeexplore.ieee.org/document/6772729) - R. W. Hamming
