@@ -3,7 +3,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 ### Table of contents
 * [Coding theory](#Coding-theory)
 * [Computer architecture](#Computer-architecture)
-* [Deep learning](#Deep-learning-&-NLP)
+* [Deep learning & NLP](#Deep-learning-&-NLP)
 * [Optimization theory](#Optimization-theory)
 * [Quantum computing](#Quantum-computing)
 * [Reinforcement learning](#Reinforcement-learning)
