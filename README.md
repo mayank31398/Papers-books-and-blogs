@@ -98,6 +98,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [A simple but tough-to-beat baseline for sentence embeddings](https://openreview.net/forum?id=SyK00v5xx) - Sanjeev Arora, Yingyu Liang, Tengyu Ma
 1. [A simple language model for task-oriented dialogue](https://arxiv.org/abs/2005.00796) - Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher
 1. [Adversarial generation of natural language](https://arxiv.org/abs/1705.10929) - Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville
+1. [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533) - Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur
 1. [Convolutional neural network language models](https://aclanthology.info/papers/D16-1123/d16-1123) - Ngoc-Quan Pham, Germán Kruszewski, Gemma Boleda
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161) - Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781) - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
