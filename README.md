@@ -65,6 +65,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [ImageNet classification using deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) - Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 1. [Improving entity linking by modeling latent relations between mentions](https://arxiv.org/abs/1804.10637) - Phong Le, Ivan Titov
+1. [Inference suboptimality in variational autoencoders](https://arxiv.org/abs/1801.03558) - Chris Cremer, Xuechen Li, David Duvenaud
 1. [InfoGAN: interpretable representation learning by information maximizing generative adversarial nets](https://arxiv.org/abs/1606.03657) - Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
