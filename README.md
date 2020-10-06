@@ -69,6 +69,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Inference suboptimality in variational autoencoders](https://arxiv.org/abs/1801.03558) - Chris Cremer, Xuechen Li, David Duvenaud
 1. [InfoGAN: interpretable representation learning by information maximizing generative adversarial nets](https://arxiv.org/abs/1606.03657) - Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
+1. [Language models are unsupervised multitask learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) - Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
 1. [Learning on a general network](https://papers.nips.cc/paper/9-learning-on-a-general-network) - Amir F. Atiya
 1. [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
