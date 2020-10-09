@@ -1,12 +1,12 @@
 My favourite books can be found [here](https://github.com/mayank31398/Books-I-love).
 
-<!-- ### Table of contents
+### Table of contents
 * [Coding theory](#Coding-theory)
 * [Computer architecture](#Computer-architecture)
-* [Deep learning & NLP](#Deep-learning-&-NLP)
+* [Deep learning and NLP](#Deep-learning-and-NLP)
 * [Optimization theory](#Optimization-theory)
 * [Quantum computing](#Quantum-computing)
-* [Reinforcement learning](#Reinforcement-learning) -->
+* [Reinforcement learning](#Reinforcement-learning)
 
 # Coding theory
 1. [Error detecting and error correcting codes](https://ieeexplore.ieee.org/document/6772729) - R. W. Hamming
@@ -20,7 +20,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [RAIDR: Retention-Aware Intelligent DRAM Refresh](https://dl.acm.org/doi/10.5555/2337159.2337161) - Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu
 1. [Stall-time fair memory access scheduling for chip multiprocessors](https://ieeexplore.ieee.org/document/4408252) - Onur Mutlu, Thomas Moscibroda
 
-# Deep learning & NLP
+# Deep learning and NLP
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
@@ -42,6 +42,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
 1. [Backpropagation through the void: optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123) - Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud
 1. [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) - Sergey Ioffe, Christian Szegedy
+1. [BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 1. [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533) - Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585) - Augustus Odena, Christopher Olah, Jonathon Shlens
 1. [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
