@@ -41,6 +41,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need) - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
 1. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
 1. [Backpropagation through the void: optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123) - Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud
+1. [BART: denoising seuqence-to-sequence pre-training for natural language generation, translation and comprehension](https://arxiv.org/abs/1910.13461) - Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer
 1. [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) - Sergey Ioffe, Christian Szegedy
 1. [BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 1. [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533) - Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur
