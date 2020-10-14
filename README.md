@@ -60,6 +60,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/) - Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367) - Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud
+1. [Generating sentences from a continuous space](https://arxiv.org/abs/1511.06349) - Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
 1. [Gradient-based hyperparameter optimization through reversible learning](https://arxiv.org/abs/1502.03492) - Dougal Maclaurin, David Duvenaud, Ryan P. Adams
