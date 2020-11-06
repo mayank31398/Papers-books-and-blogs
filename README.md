@@ -74,6 +74,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
 1. [Language models are unsupervised multitask learners](https://openai.com/blog/better-language-models/) - Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
+1. [Learning discourse-level diversity for neural dialog models using conditional variational autoencoders](https://arxiv.org/abs/1703.10960) - Tiancheng Zhao, Ran Zhao, Maxine Eskenazi
 1. [Learning on a general network](https://papers.nips.cc/paper/9-learning-on-a-general-network) - Amir F. Atiya
 1. [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
