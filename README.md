@@ -73,6 +73,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Inference suboptimality in variational autoencoders](https://arxiv.org/abs/1801.03558) - Chris Cremer, Xuechen Li, David Duvenaud
 1. [InfoGAN: interpretable representation learning by information maximizing generative adversarial nets](https://arxiv.org/abs/1606.03657) - Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
+1. [Knowledge-grounded dialogue generation with pre-trained language models](https://arxiv.org/abs/2010.08824) - Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan
 1. [Language models are unsupervised multitask learners](https://openai.com/blog/better-language-models/) - Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
 1. [Learning discourse-level diversity for neural dialog models using conditional variational autoencoders](https://arxiv.org/abs/1703.10960) - Tiancheng Zhao, Ran Zhao, Maxine Eskenazi
