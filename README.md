@@ -98,6 +98,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Retrieval-augmented generation for knowledge-intensive NLP tasks](https://arxiv.org/abs/2005.11401) - Patrick Lewis, Ethan Perez, Aleksandara Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
 1. [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545) - David Lopez-Paz, Maxime Oquab
 1. [Self-normalizing neural networks](https://papers.nips.cc/paper/6698-self-normalizing-neural-networks) - Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
+1. [Sequential latent knowledge selection for knowledge-grounded dialogue](https://arxiv.org/abs/2002.07510) - Byeongchang Kim, Jaewoo Ahn, Gunhee Kim
 1. [Soloist few-shot task-oriented dialog with a single pre-trained auto-regressive model](https://arxiv.org/abs/2005.05298) - Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao
 1. [Sticking the landing: simple, lower-variance gradient estimators for variational inference](https://papers.nips.cc/paper/7268-sticking-the-landing-simple-lower-variance-gradient-estimators-for-variational-inference) - Geoffrey Roeder, Yuhuai Wu, David K. Duvenaud
 1. [Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419) - Jonathan Lorraine, David Duvenaud
