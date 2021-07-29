@@ -82,6 +82,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
 1. [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976) - Gaurav Pandey, Dinesh Raghu, Sachindra Joshi
 1. [Multi-level memory for task oriented dialogs](https://arxiv.org/abs/1810.10647) - Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi
+1. [MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling](https://aclanthology.org/D18-1547/) - Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan, Milica Gašić
 1. [Mutual information neural estimation](https://arxiv.org/abs/1801.04062) - Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm
 1. [NEMGAN: Noise Engineered Mode-Matching GAN](https://arxiv.org/abs/1811.03692v2) - Deepak Mishra, Prathosh A. P., Aravind J, Prashant Pandey, Santanu Chaudhury
 1. [Neural GPUs learn algorithms](https://arxiv.org/abs/1511.08228) - Łukasz Kaiser, Ilya Sutskever
