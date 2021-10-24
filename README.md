@@ -22,6 +22,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 
 # Deep learning and NLP
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
+1. [A few more examples may be worth billions of parameters](https://arxiv.org/abs/2110.04374) - Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
 1. [A simple but tough-to-beat baseline for sentence embeddings](https://openreview.net/forum?id=SyK00v5xx) - Sanjeev Arora, Yingyu Liang, Tengyu Ma
@@ -61,6 +62,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/) - Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367) - Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud
+1. [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652) - Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le
 1. [Generating sentences from a continuous space](https://arxiv.org/abs/1511.06349) - Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
@@ -95,6 +97,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Open question answering over tables and text](https://openreview.net/forum?id=MmCRswl1UYl) - Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen
 1. [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155) - Justin Johnson, Alexandre Alahi, Li Fei-Fei
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
+1. [Prefix-tuning: optimizing continuous prompts for generation](https://aclanthology.org/2021.acl-long.353/) - Xiang Lisa Li, Percy Liang
 1. [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705) - Thomas Hofmann
 1. [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
 1. [REALM: Retrieval-augmented language model pretraining](https://arxiv.org/abs/2002.08909) - Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang
