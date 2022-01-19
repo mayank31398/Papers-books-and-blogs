@@ -58,6 +58,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161) - Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun
 1. [Discrete variational autoencoders](https://arxiv.org/abs/1609.02200?context=cs) - Jason Tyler Rolfe
 1. [Disentangling by factorising](https://arxiv.org/abs/1802.05983) - Hyunjik Kim, Andriy Mnih
+1. [Disentangling language and knowledge in task-oriented dialogs](https://aclanthology.org/N19-1126/) - Dinesh Raghu, Nikhil Gupta, Mausam
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781) - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/) - Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi
