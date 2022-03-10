@@ -60,6 +60,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Disentangling by factorising](https://arxiv.org/abs/1802.05983) - Hyunjik Kim, Andriy Mnih
 1. [Disentangling language and knowledge in task-oriented dialogs](https://aclanthology.org/N19-1126/) - Dinesh Raghu, Nikhil Gupta, Mausam
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781) - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
+1. [End-to-end task-oriented dialog modeling with semi-structured knowledge management](https://arxiv.org/abs/2106.11796) - Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/) - Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367) - Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud
@@ -85,6 +86,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
 1. [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976) - Gaurav Pandey, Dinesh Raghu, Sachindra Joshi
+1. [MinTL: minimalist transfer learning for task-oriented dialogue systems](https://arxiv.org/abs/2009.12005) - Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung
 1. [Multi-level memory for task oriented dialogs](https://arxiv.org/abs/1810.10647) - Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi
 1. [MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling](https://aclanthology.org/D18-1547/) - Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan, Milica Gašić
 1. [Mutual information neural estimation](https://arxiv.org/abs/1801.04062) - Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm
