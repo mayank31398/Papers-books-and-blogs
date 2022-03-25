@@ -70,6 +70,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
 1. [Gradient-based hyperparameter optimization through reversible learning](https://arxiv.org/abs/1502.03492) - Dougal Maclaurin, David Duvenaud, Ryan P. Adams
 1. [Graph attention networks](https://arxiv.org/abs/1710.10903) - Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
+1. [Hindsight: posterior-guided training of retrievers for improved open-ended generation](https://arxiv.org/abs/2110.07752) - Ashwin Paranjape, Omar Khattab, Christopher Potts, Matei Zaharia, Christopher D. Manning
 1. [HyKnow: end-to-end task-oriented dialog modeling with hybrid knowledge management](https://aclanthology.org/2021.findings-acl.139/) - Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang
 1. [ImageNet classification using deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) - Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
