@@ -47,8 +47,10 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 1. [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533) - Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur
 1. [Bridging the gap between prior and posterior knowledge selection for knowledge-grounded dialogue generation](https://www.aclweb.org/anthology/2020.emnlp-main.275/) - Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou
+1. [ColBERT: efficient and effective passage search via contextualized late interaction over BERT](https://arxiv.org/abs/2004.12832) - Omar Khattab, Matei Zaharia
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585) - Augustus Odena, Christopher Olah, Jonathon Shlens
 1. [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
+1. [Constraint based knowledge base distillation in end-to-end task oriented dialogs](https://aclanthology.org/2021.findings-acl.448/) - Dinesh Raghu, Atishya Jain, Mausam, Sachindra Joshi
 1. [Convolutional networks for graphs for learning molecular fingerprints](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints) - David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams
 1. [Convolutional neural network language models](https://aclanthology.info/papers/D16-1123/d16-1123) - Ngoc-Quan Pham, Germán Kruszewski, Gemma Boleda
 1. [Curriculum learning](https://dl.acm.org/citation.cfm?id=1553380) - Yoshua Bengio, Jérôme Louradour, Ronan Collobert, Jason Weston
@@ -103,6 +105,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
 1. [Prefix-tuning: optimizing continuous prompts for generation](https://aclanthology.org/2021.acl-long.353/) - Xiang Lisa Li, Percy Liang
 1. [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705) - Thomas Hofmann
+1. [PullNet: open domain question answering with iterative retrieval on knowledge bases and text](http://aclanthology.lst.uni-saarland.de/D19-1242/) - Haitian Sun, Tania Bedrax-Weiss, William Cohen
 1. [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
 1. [REALM: Retrieval-augmented language model pretraining](https://arxiv.org/abs/2002.08909) - Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang
 1. [Restricted Boltzmann machines for collaborative filtering](https://dl.acm.org/citation.cfm?doid=1273496.1273596) - Ruslan Salakhutdinov, Andriy Mnih, Geoffrey Hinton
