@@ -68,6 +68,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367) - Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud
 1. [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652) - Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le
 1. [Generating sentences from a continuous space](https://arxiv.org/abs/1511.06349) - Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio
+1. [Generation-augmented retrieval for open-domain question answering](https://arxiv.org/abs/2009.08553) - Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
 1. [Gradient-based hyperparameter optimization through reversible learning](https://arxiv.org/abs/1502.03492) - Dougal Maclaurin, David Duvenaud, Ryan P. Adams
@@ -129,6 +130,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Understanding convolutional neural networks with a mathematical model](https://arxiv.org/abs/1609.04112) - C.-C. Jay Kuo
 1. [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599) - Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
+1. [Unsupervised machine translation using monolingual corpora only](https://arxiv.org/abs/1711.00043) - Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato
 1. [Variational inference using implicit distributions](https://arxiv.org/abs/1702.08235) - Ferenc Huszár
 1. [Variational inference with latent space quantization for adversarial resilience](https://arxiv.org/abs/1903.09940) - Vinay Kyatham, Mayank Mishra, Tarun Kumar Yadav, Deepak Mishra, Prathosh AP
 1. [Variational lossy autoencoder](https://arxiv.org/abs/1611.02731) - Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel
