@@ -127,6 +127,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW) - Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow
 1. [To regularize or not to regularize? The bias variance trade-off in regularized AEs](https://arxiv.org/abs/2006.05838) - Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP
 1. [Towards evaluating the robustness of neural networks](https://arxiv.org/abs/1608.04644) - Nicholas Carlini, David Wagner
+1. [Transformer memory as a differentiable search index](https://arxiv.org/abs/2202.06991) - Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler
 1. [Understanding convolutional neural networks with a mathematical model](https://arxiv.org/abs/1609.04112) - C.-C. Jay Kuo
 1. [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599) - Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
