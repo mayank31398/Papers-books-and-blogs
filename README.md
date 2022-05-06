@@ -38,6 +38,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Adversarial information factorization](https://arxiv.org/abs/1711.05175) - Antonia Creswell, Yumnah Mohamied, Biswa Sengupta, Anil A Bharath
 1. [Adversarially learned inference](https://arxiv.org/abs/1606.00704) - Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville
 1. [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) - Sebastian Ruder
+1. [Analysing mathematical reasoning abilities of neural models](https://arxiv.org/abs/1904.01557) - David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli
 1. [Approximations by superpositions of sigmoidal functions](https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085) - George Cybenko
 1. [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need) - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
 1. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
