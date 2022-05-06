@@ -103,6 +103,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [One model to learn them all](https://arxiv.org/abs/1706.05137) - Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit
 1. [Open domain question answering over tables via dense retrieval](https://aclanthology.org/2021.naacl-main.43/) - Jonathan Herzig, Thomas Müller, Syrine Krichene, Julian Eisenschlos
 1. [Open question answering over tables and text](https://openreview.net/forum?id=MmCRswl1UYl) - Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen
+1. [OPT: open pre-trained transformer language models](https://arxiv.org/abs/2205.01068) - Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer
 1. [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155) - Justin Johnson, Alexandre Alahi, Li Fei-Fei
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
 1. [Prefix-tuning: optimizing continuous prompts for generation](https://aclanthology.org/2021.acl-long.353/) - Xiang Lisa Li, Percy Liang
