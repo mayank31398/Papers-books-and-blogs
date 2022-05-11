@@ -54,6 +54,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Constraint based knowledge base distillation in end-to-end task oriented dialogs](https://aclanthology.org/2021.findings-acl.448/) - Dinesh Raghu, Atishya Jain, Mausam, Sachindra Joshi
 1. [Convolutional networks for graphs for learning molecular fingerprints](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints) - David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams
 1. [Convolutional neural network language models](https://aclanthology.info/papers/D16-1123/d16-1123) - Ngoc-Quan Pham, Germán Kruszewski, Gemma Boleda
+1. [Countering adversarial images using input transformations](https://arxiv.org/abs/1711.00117) - Chuan Guo, Mayank Rana, Moustapha Cisse, Laurens van der Maaten
 1. [Curriculum learning](https://dl.acm.org/citation.cfm?id=1553380) - Yoshua Bengio, Jérôme Louradour, Ronan Collobert, Jason Weston
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792) - Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
