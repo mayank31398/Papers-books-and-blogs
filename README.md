@@ -27,6 +27,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
 1. [A simple but tough-to-beat baseline for sentence embeddings](https://openreview.net/forum?id=SyK00v5xx) - Sanjeev Arora, Yingyu Liang, Tengyu Ma
 1. [A simple language model for task-oriented dialogue](https://arxiv.org/abs/2005.00796) - Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher
+1. [A simple neural attentive meta-learner](https://arxiv.org/abs/1707.03141) - Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
 1. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap
 1. [A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948) - Tero Karras, Samuli Laine, Timo Aila
 1. [A3T: adversarially augmented adversarial training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
