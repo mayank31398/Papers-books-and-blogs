@@ -95,6 +95,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Learning transferable visual models from natural language supervision](https://arxiv.org/abs/2103.00020) - Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
 1. [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976) - Gaurav Pandey, Dinesh Raghu, Sachindra Joshi
+1. [Megatron-LM: training multi-billion parameter language models using model parallelism](https://arxiv.org/abs/1909.08053) - Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro
 1. [MinTL: minimalist transfer learning for task-oriented dialogue systems](https://arxiv.org/abs/2009.12005) - Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung
 1. [Multi-level memory for task oriented dialogs](https://arxiv.org/abs/1810.10647) - Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi
 1. [MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling](https://aclanthology.org/D18-1547/) - Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan, Milica Gašić
