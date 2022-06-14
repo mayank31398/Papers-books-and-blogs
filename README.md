@@ -133,6 +133,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets) - Jacques J. Vidal, John Haggerty
 1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
 1. [The information bottleneck method](https://arxiv.org/abs/physics/0004057) - Naftali Tishby, Fernando C. Pereira, William Bialek
+1. [The Pile: an 800GB dataset of diverse text for language modeling](https://arxiv.org/abs/2101.00027) - Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy
 1. [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW) - Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow
 1. [To regularize or not to regularize? The bias variance trade-off in regularized AEs](https://arxiv.org/abs/2006.05838) - Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP
 1. [Towards evaluating the robustness of neural networks](https://arxiv.org/abs/1608.04644) - Nicholas Carlini, David Wagner
