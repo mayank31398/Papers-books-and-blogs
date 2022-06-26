@@ -66,6 +66,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Disentangling language and knowledge in task-oriented dialogs](https://aclanthology.org/N19-1126/) - Dinesh Raghu, Nikhil Gupta, Mausam
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781) - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
 1. [Efficient large-scale language model training on GPU clusters using Megatron-LM](https://arxiv.org/abs/2104.04473) - Deepak Narayanan, Mohammad Shoeybi, Jared Casper, Patrick LeGresley, Mostofa Patwary, Vijay Anand Korthikanti, Dmitri Vainbrand, Prethvi Kashinkunti, Julie Bernauer, Bryan Catanzaro, Amar Phanishayee, Matei Zaharia
+1. [Enchancing the reliability of out-of-distribution image detection in neural networks](https://openreview.net/forum?id=H1VGkIxRZ) - Shiyu Liang, Yixuan Li, R. Srikant
 1. [End-to-end task-oriented dialog modeling with semi-structured knowledge management](https://arxiv.org/abs/2106.11796) - Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/) - Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi
@@ -112,6 +113,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [OPT: open pre-trained transformer language models](https://arxiv.org/abs/2205.01068) - Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer
 1. [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155) - Justin Johnson, Alexandre Alahi, Li Fei-Fei
 1. [Phase-functioned neural networks for character control](https://dl.acm.org/citation.cfm?id=3073663) - Daniel Holden, Taku Komura, Jun Saito
+1. [Pre-train, prompt, and predict: a systematic survey of prompting methods in natural language processing](https://arxiv.org/abs/2107.13586) - Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig
 1. [Prefix-tuning: optimizing continuous prompts for generation](https://aclanthology.org/2021.acl-long.353/) - Xiang Lisa Li, Percy Liang
 1. [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705) - Thomas Hofmann
 1. [PullNet: open domain question answering with iterative retrieval on knowledge bases and text](http://aclanthology.lst.uni-saarland.de/D19-1242/) - Haitian Sun, Tania Bedrax-Weiss, William Cohen
