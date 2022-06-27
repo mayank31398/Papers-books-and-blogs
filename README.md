@@ -120,6 +120,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
 1. [REALM: Retrieval-augmented language model pretraining](https://arxiv.org/abs/2002.08909) - Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang
 1. [Recurrent models of visual attention](https://arxiv.org/abs/1406.6247) - Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu
+1. [Regularizing and optimizing LSTM language models](https://openreview.net/forum?id=SyyGPP0TZ) - Stephen Merity, Nitish Shirish Keskar, Richard Socher
 1. [Restricted Boltzmann machines for collaborative filtering](https://dl.acm.org/citation.cfm?doid=1273496.1273596) - Ruslan Salakhutdinov, Andriy Mnih, Geoffrey Hinton
 1. [Retrieval augmentation reduces hallucination in conversation](https://arxiv.org/abs/2104.07567) - Kurt Shuster, Spencer Poff, Moya Chen, Douwe Kiela, Jason Weston
 1. [Retrieval-augmented generation for knowledge-intensive NLP tasks](https://arxiv.org/abs/2005.11401) - Patrick Lewis, Ethan Perez, Aleksandara Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
