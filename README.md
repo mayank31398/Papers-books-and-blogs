@@ -22,6 +22,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 
 # Deep learning and NLP
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
+1. [A deep reinforced model for abstractive summarization](https://openreview.net/forum?id=HkAClQgA-) - Romain Paulus, Caiming Xiong, Richard Socher
 1. [A few more examples may be worth billions of parameters](https://arxiv.org/abs/2110.04374) - Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
@@ -61,6 +62,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 1. [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385) - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161) - Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun
+1. [Diffusion convolutional recurrent neural network: data-driven traffic forecasting](https://openreview.net/forum?id=SJiHXGWAZ) - Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu
 1. [Discrete variational autoencoders](https://arxiv.org/abs/1609.02200?context=cs) - Jason Tyler Rolfe
 1. [Disentangling by factorising](https://arxiv.org/abs/1802.05983) - Hyunjik Kim, Andriy Mnih
 1. [Disentangling language and knowledge in task-oriented dialogs](https://aclanthology.org/N19-1126/) - Dinesh Raghu, Nikhil Gupta, Mausam
