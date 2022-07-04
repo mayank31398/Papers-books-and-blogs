@@ -70,6 +70,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Efficient large-scale language model training on GPU clusters using Megatron-LM](https://arxiv.org/abs/2104.04473) - Deepak Narayanan, Mohammad Shoeybi, Jared Casper, Patrick LeGresley, Mostofa Patwary, Vijay Anand Korthikanti, Dmitri Vainbrand, Prethvi Kashinkunti, Julie Bernauer, Bryan Catanzaro, Amar Phanishayee, Matei Zaharia
 1. [Enchancing the reliability of out-of-distribution image detection in neural networks](https://openreview.net/forum?id=H1VGkIxRZ) - Shiyu Liang, Yixuan Li, R. Srikant
 1. [End-to-end task-oriented dialog modeling with semi-structured knowledge management](https://arxiv.org/abs/2106.11796) - Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang
+1. [Ensemble adversarial training: attacks and defenses](https://openreview.net/forum?id=rkZvSe-RZ) - Florian Tramèr, Alexey Kurakin, Nicolas Papernot, Ian Goodfellow, Dan Boneh, Patrick McDaniel
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/) - Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367) - Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud
