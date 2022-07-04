@@ -148,6 +148,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Unit tests for stochastic optimization](https://arxiv.org/abs/1312.6055) - Tom Schaul, Ioannis Antonoglou, David Silver
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
 1. [Unsupervised machine translation using monolingual corpora only](https://arxiv.org/abs/1711.00043) - Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato
+1. [Unsupervised representation learning by predicting image rotations](https://openreview.net/forum?id=S1v4N2l0-) - Spyros Gidaris, Praveer Singh, Nikos Komodakis
 1. [Variational inference using implicit distributions](https://arxiv.org/abs/1702.08235) - Ferenc Huszár
 1. [Variational inference with latent space quantization for adversarial resilience](https://arxiv.org/abs/1903.09940) - Vinay Kyatham, Mayank Mishra, Tarun Kumar Yadav, Deepak Mishra, Prathosh AP
 1. [Variational lossy autoencoder](https://arxiv.org/abs/1611.02731) - Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel
