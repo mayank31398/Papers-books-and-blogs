@@ -20,6 +20,9 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [RAIDR: Retention-Aware Intelligent DRAM Refresh](https://dl.acm.org/doi/10.5555/2337159.2337161) - Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu
 1. [Stall-time fair memory access scheduling for chip multiprocessors](https://ieeexplore.ieee.org/document/4408252) - Onur Mutlu, Thomas Moscibroda
 
+# Computer graphics
+1. [Principles of traditional animation applied to 3D computer animation](https://dl.acm.org/doi/10.1145/37402.37407) - John Lasseter
+
 # Deep learning and NLP
 1. [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
 1. [A deep reinforced model for abstractive summarization](https://openreview.net/forum?id=HkAClQgA-) - Romain Paulus, Caiming Xiong, Richard Socher
