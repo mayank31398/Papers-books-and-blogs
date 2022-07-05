@@ -134,6 +134,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Self-normalizing neural networks](https://papers.nips.cc/paper/6698-self-normalizing-neural-networks) - Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
 1. [Sequential latent knowledge selection for knowledge-grounded dialogue](https://arxiv.org/abs/2002.07510) - Byeongchang Kim, Jaewoo Ahn, Gunhee Kim
 1. [Soloist few-shot task-oriented dialog with a single pre-trained auto-regressive model](https://arxiv.org/abs/2005.05298) - Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao
+1. [Solving quantitative reasoning problems with language models](https://arxiv.org/abs/2206.14858) - Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra
 1. [Sticking the landing: simple, lower-variance gradient estimators for variational inference](https://papers.nips.cc/paper/7268-sticking-the-landing-simple-lower-variance-gradient-estimators-for-variational-inference) - Geoffrey Roeder, Yuhuai Wu, David K. Duvenaud
 1. [Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419) - Jonathan Lorraine, David Duvenaud
 1. [Strategies for teaching layered networks classification tasks](https://papers.nips.cc/paper/85-strategies-for-teaching-layered-networks-classification-tasks) - Ben S. Wittner, John S. Denker
