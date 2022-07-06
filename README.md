@@ -165,6 +165,7 @@ My favourite books can be found [here](https://github.com/mayank31398/Books-I-lo
 1. [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1609.03499) - Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
 1. [Word translation without parallel data](https://openreview.net/forum?id=H196sainb) - Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou
 1. [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640) - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
+1. [ZeRO: memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054) - Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He
 1. [Zero-shot text-to-image generation](http://proceedings.mlr.press/v139/ramesh21a.html) - Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever
 1. [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl) - Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner
 
