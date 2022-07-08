@@ -20,7 +20,7 @@ This repository contains a list of the research papers, books and blogs that I h
 1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> Artificial Intelligence: a modern approach - Stuart Russell, Peter Norvig
 1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> Deep learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> Genetic algorithms in search, optimization and machine learning - David E. Goldberg
-1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue">  Machine learning - Tom M. Mitchell
+1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> Machine learning - Tom M. Mitchell
 1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> Machine learning: a probabilistic perspective - Kevin P. Murphy
 1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> Neural networks for pattern recognition - Christopher M. Bishop
 1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> Neural network methods for natural language processing - Yaov Goldberg
@@ -30,6 +30,7 @@ This repository contains a list of the research papers, books and blogs that I h
 1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> Speech and language processing - Daniel Jurafsky, James H. Martin
 1. <img src="https://img.shields.io/static/v1?label=&message=book&color=blue"> The elements of statistical learning: data mining, inference and prediction - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 1. <img src="https://img.shields.io/static/v1?label=&message=blog&color=brightgreen"> [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) - Corby Rosset
+1. <img src="https://img.shields.io/static/v1?label=&message=blog&color=brightgreen"> [Understanding the Open Pre-Trained Transformers (OPT) library](https://towardsdatascience.com/understanding-the-open-pre-trained-transformers-opt-library-193a29c14a15) - Cameron Wolfe
 1. <img src="https://img.shields.io/static/v1?label=&message=paper&color=blueviolet"> [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
 1. <img src="https://img.shields.io/static/v1?label=&message=paper&color=blueviolet"> [A deep reinforced model for abstractive summarization](https://openreview.net/forum?id=HkAClQgA-) - Romain Paulus, Caiming Xiong, Richard Socher
 1. <img src="https://img.shields.io/static/v1?label=&message=paper&color=blueviolet"> [A few more examples may be worth billions of parameters](https://arxiv.org/abs/2110.04374) - Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy
