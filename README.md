@@ -163,6 +163,7 @@ This repository contains a list of the research papers, books and blogs that I h
 1. ![image][paper] [Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419) - Jonathan Lorraine, David Duvenaud
 1. ![image][paper] [Strategies for teaching layered networks classification tasks](https://papers.nips.cc/paper/85-strategies-for-teaching-layered-networks-classification-tasks) - Ben S. Wittner, John S. Denker
 1. ![image][paper] [Style transfer from non-parallel text by cross-alignment](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment) - Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola
+1. ![image][paper] [Subword regularization: improving neural network translation models with multiple subword candidates](https://aclanthology.org/P18-1007/) - Taku Kudo
 1. ![image][paper] [Supervised learning of probability distributions by neural networks](https://papers.nips.cc/paper/3-supervised-learning-of-probability-distributions-by-neural-networks) - Eric B. Baum, Frank Wilczek
 1. ![image][paper] [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets) - Jacques J. Vidal, John Haggerty
 1. ![image][paper] [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
