@@ -104,6 +104,7 @@ This repository contains a list of the research papers, books and blogs that I h
 1. ![image][paper] [Graph attention networks](https://arxiv.org/abs/1710.10903) - Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
 1. ![image][paper] [Hierarchical neural story generation](https://aclanthology.org/P18-1082/) - Angela Fan, Mike Lewis, Yann Dauphin
 1. ![image][paper] [Hindsight: posterior-guided training of retrievers for improved open-ended generation](https://arxiv.org/abs/2110.07752) - Ashwin Paranjape, Omar Khattab, Christopher Potts, Matei Zaharia, Christopher D. Manning
+1. ![image][paper] [HotFlip: white-box adversarial examples for text classification](https://aclanthology.org/P18-2006/) - Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou
 1. ![image][paper] [HyKnow: end-to-end task-oriented dialog modeling with hybrid knowledge management](https://aclanthology.org/2021.findings-acl.139/) - Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang
 1. ![image][paper] [ImageNet classification using deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) - Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 1. ![image][paper] [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004) - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
