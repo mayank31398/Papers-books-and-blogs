@@ -34,6 +34,7 @@ This repository contains a list of the research papers, books and blogs that I h
 1. ![image][book] Reinforcement Learning: An Introduction - Richard S. Sutton, Andrew G. Barto
 1. ![image][book] Speech and language processing - Daniel Jurafsky, James H. Martin
 1. ![image][book] The elements of statistical learning: data mining, inference and prediction - Trevor Hastie, Robert Tibshirani, Jerome Friedman
+1. ![image][blog] [DeepSpeed: advancing MoE inference and training to power next-generation AI scale](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/) - DeepSpeed Team, Andrey Proskurin
 1. ![image][blog] [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) - Corby Rosset
 1. ![image][blog] [Understanding the Open Pre-Trained Transformers (OPT) library](https://towardsdatascience.com/understanding-the-open-pre-trained-transformers-opt-library-193a29c14a15) - Cameron Wolfe
 1. ![image][blog] [Using DeepSpeed and Megatron to train Megatron-Turing NLG 530B, the world’s largest and most powerful generative language model](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/) - Ali Alvi, Paresh Kharya
