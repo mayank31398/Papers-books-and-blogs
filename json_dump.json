@@ -1443,21 +1443,21 @@
     },
     {
         "name": "Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)",
-        "url": "https://1qbit.com/our-thinking/white-papers/",
+        "url": "https://1qbit.com/whitepaper/integer-optimization-toolbox/",
         "topic": "Quantum computing",
         "datatype": "whitepaper",
         "authors": "Pooya Ronagh"
     },
     {
         "name": "Limits on parallel speedup for classical Ising model solvers",
-        "url": "https://www.dwavesys.com/resources/publications?type=white",
+        "url": "https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/",
         "topic": "Quantum computing",
         "datatype": "whitepaper",
         "authors": ""
     },
     {
         "name": "Partitioning optimization problems for hybrid classical/quantum execution",
-        "url": "https://www.dwavesys.com/resources/publications?type=white",
+        "url": "https://docs.ocean.dwavesys.com/projects/qbsolv/en/latest/_downloads/bd15a2d8f32e587e9e5997ce9d5512cc/qbsolv_techReport.pdf",
         "topic": "Quantum computing",
         "datatype": "whitepaper",
         "authors": "Michael Booth, Steven P. Reinhardt, Aidan Roy"
@@ -1478,14 +1478,14 @@
     },
     {
         "name": "Programming with D-Wave: map coloring problem",
-        "url": "https://www.dwavesys.com/resources/publications?type=white",
+        "url": "https://www.dwavesys.com/resources/white-paper/programming-with-d-wave-map-coloring-problem/",
         "topic": "Quantum computing",
         "datatype": "whitepaper",
         "authors": "E. D. Dahl"
     },
     {
         "name": "Quantum performance evaluation: a short reading list",
-        "url": "https://www.dwavesys.com/resources/publications?type=white",
+        "url": "https://www.dwavesys.com/resources/white-paper/quantum-performance-evaluation-a-short-reading-list/",
         "topic": "Quantum computing",
         "datatype": "whitepaper",
         "authors": ""

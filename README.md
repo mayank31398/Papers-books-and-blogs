@@ -250,15 +250,15 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0) - W. K. Wootters, W. H. Zurek
 1. ![image][paper] [Can quantum-mechanical description of physical reality be considered complete](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777) - Albert Einstein, Boris Podolsky, Nathan Rosen
 1. ![image][paper] [Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization](https://arxiv.org/abs/0804.4457) - Hartmut Neven, Geordie Rose, William G. Macready
-1. ![image][whitepaper] [Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)](https://1qbit.com/our-thinking/white-papers/) - Pooya Ronagh
-1. ![image][whitepaper] [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/publications?type=white)
-1. ![image][whitepaper] [Partitioning optimization problems for hybrid classical/quantum execution](https://www.dwavesys.com/resources/publications?type=white) - Michael Booth, Steven P. Reinhardt, Aidan Roy
+1. ![image][whitepaper] [Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)](https://1qbit.com/whitepaper/integer-optimization-toolbox/) - Pooya Ronagh
+1. ![image][whitepaper] [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/)
+1. ![image][whitepaper] [Partitioning optimization problems for hybrid classical/quantum execution](https://docs.ocean.dwavesys.com/projects/qbsolv/en/latest/_downloads/bd15a2d8f32e587e9e5997ce9d5512cc/qbsolv_techReport.pdf) - Michael Booth, Steven P. Reinhardt, Aidan Roy
 1. ![image][paper] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027) - Peter W. Shor
 1. ![image][paper] [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064) - Lu-Ming Duan, Guang-Can Guo
-1. ![image][whitepaper] [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/publications?type=white) - E. D. Dahl
+1. ![image][whitepaper] [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/white-paper/programming-with-d-wave-map-coloring-problem/) - E. D. Dahl
 1. ![image][book] Quantum computation and quantum information - Michael A. Nielsen, Isaac L. Chuang
 1. ![image][book] Quantum computing: a gentle introduction - Eleanor Rieffel, Wolfgang Polak
-1. ![image][whitepaper] [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/publications?type=white)
+1. ![image][whitepaper] [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/white-paper/quantum-performance-evaluation-a-short-reading-list/)
 1. ![image][paper] [Quantum theory, the Church-Turing principle and the universal quantum computer](https://royalsocietypublishing.org/doi/10.1098/rspa.1985.0070) - David Deutsch
 1. ![image][paper] [Rapid solution of problems by quantum computation](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167) - David Deutsche, Richard Jozsa
 1. ![image][paper] [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895) - Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters
