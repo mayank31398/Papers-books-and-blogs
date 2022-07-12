@@ -126,6 +126,7 @@ This repository contains a list of the research papers, books and blogs that I h
 1. ![image][paper] [Megatron-LM: training multi-billion parameter language models using model parallelism](https://arxiv.org/abs/1909.08053) - Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro
 1. ![image][paper] [MinTL: minimalist transfer learning for task-oriented dialogue systems](https://arxiv.org/abs/2009.12005) - Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung
 1. ![image][paper] [mixup: beyond empirical risk minimization](https://openreview.net/forum?id=r1Ddp1-Rb) - Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz
+1. ![image][paper] [MMCoQA: conversational question answering over text, tables and images](https://aclanthology.org/2022.acl-long.290/) - Yongqi Li, Wenjie Li, Liqiang Nie
 1. ![image][paper] [Multi-level memory for task oriented dialogs](https://arxiv.org/abs/1810.10647) - Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi
 1. ![image][paper] [MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling](https://aclanthology.org/D18-1547/) - Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan, Milica Gašić
 1. ![image][paper] [Mutual information neural estimation](https://arxiv.org/abs/1801.04062) - Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm
