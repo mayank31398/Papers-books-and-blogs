@@ -185,6 +185,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [VEEGAN: reducing mode collapse in GANs using implicit variational learning](https://arxiv.org/abs/1705.07761) - Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton
 1. ![image][paper] [Variational inference using implicit distributions](https://arxiv.org/abs/1702.08235) - Ferenc Huszár
 1. ![image][paper] [Variational inference with latent space quantization for adversarial resilience](https://arxiv.org/abs/1903.09940) - Vinay Kyatham, Mayank Mishra, Tarun Kumar Yadav, Deepak Mishra, Prathosh AP
+1. ![image][paper] [Variational learning for unsupervised knowledge grounded dialogs](https://arxiv.org/abs/2112.00653) - Mayank Mishra, Dhiraj Madan, Gaurav Pandey, Danish Contractor
 1. ![image][paper] [Variational lossy autoencoder](https://arxiv.org/abs/1611.02731) - Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel
 1. ![image][paper] [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556) - Karen Simonyan, Andrew Zisserman
 1. ![image][paper] [Visualizing data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html) - Laurens van der Maaten, Geoffrey Hinton
