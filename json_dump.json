@@ -1545,5 +1545,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Mayank Mishra, Dhiraj Madan, Gaurav Pandey, Danish Contractor"
+    },
+    {
+        "name": "ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3458817.3476205",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He"
     }
 ]
