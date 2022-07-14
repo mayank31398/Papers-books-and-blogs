@@ -1552,5 +1552,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He"
+    },
+    {
+        "name": "A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings",
+        "url": "https://aclanthology.org/P18-1073/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Mikel Artetxe, Gorka Labaka, Eneko Agirre"
     }
 ]

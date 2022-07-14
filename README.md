@@ -27,6 +27,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
 1. ![image][paper] [A few more examples may be worth billions of parameters](https://arxiv.org/abs/2110.04374) - Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy
 1. ![image][paper] [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844) - Lucas Theis, Aäron van den Oord, Matthias Bethge
+1. ![image][paper] [A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings](https://aclanthology.org/P18-1073/) - Mikel Artetxe, Gorka Labaka, Eneko Agirre
 1. ![image][paper] [A simple but tough-to-beat baseline for sentence embeddings](https://openreview.net/forum?id=SyK00v5xx) - Sanjeev Arora, Yingyu Liang, Tengyu Ma
 1. ![image][paper] [A simple language model for task-oriented dialogue](https://arxiv.org/abs/2005.00796) - Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher
 1. ![image][paper] [A simple neural attentive meta-learner](https://arxiv.org/abs/1707.03141) - Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
