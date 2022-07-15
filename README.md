@@ -104,6 +104,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
 1. ![image][paper] [Know what you don't know: unanswerable questions for SQuAD](https://aclanthology.org/P18-2124/) - Pranav Rajpurkar, Robin Jia, Percy Liang
 1. ![image][paper] [Knowledge-grounded dialogue generation with pre-trained language models](https://arxiv.org/abs/2010.08824) - Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan
+1. ![image][paper] [Language modelling with pixels](https://arxiv.org/abs/2207.06991) - Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott
 1. ![image][paper] [Language models are unsupervised multitask learners](https://openai.com/blog/better-language-models/) - Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever
 1. ![image][paper] [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830) - Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi
 1. ![image][paper] [Learning discourse-level diversity for neural dialog models using conditional variational autoencoders](https://arxiv.org/abs/1703.10960) - Tiancheng Zhao, Ran Zhao, Maxine Eskenazi

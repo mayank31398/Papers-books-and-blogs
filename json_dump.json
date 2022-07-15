@@ -1559,5 +1559,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Mikel Artetxe, Gorka Labaka, Eneko Agirre"
+    },
+    {
+        "name": "Language modelling with pixels",
+        "url": "https://arxiv.org/abs/2207.06991",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott"
     }
 ]
