@@ -1566,5 +1566,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott"
+    },
+    {
+        "name": "8-bit optimizers via block-wise quantization",
+        "url": "https://openreview.net/forum?id=shpkpVXzo3h",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer"
     }
 ]

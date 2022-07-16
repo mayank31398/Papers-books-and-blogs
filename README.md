@@ -22,6 +22,7 @@ This repository contains a list of the books, blogs, research papers and white p
 - [Signal processing](#signal-processing)
 
 # AI, DL, NLP and RL
+1. ![image][paper] [8-bit optimizers via block-wise quantization](https://openreview.net/forum?id=shpkpVXzo3h) - Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer
 1. ![image][paper] [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon) - Gerald Tesauro, Terrence J. Sejnowski
 1. ![image][paper] [A deep reinforced model for abstractive summarization](https://openreview.net/forum?id=HkAClQgA-) - Romain Paulus, Caiming Xiong, Richard Socher
 1. ![image][paper] [A dynamic approach to temporal pattern processing](https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing) - W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman
