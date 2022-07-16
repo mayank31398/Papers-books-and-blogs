@@ -1580,5 +1580,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Yen-Chun Chen, Mohit Bansal"
+    },
+    {
+        "name": "Universal language model fine-tuning for text classification",
+        "url": "https://aclanthology.org/P18-1031/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Jeremy Howard, Sebastian Ruder"
     }
 ]

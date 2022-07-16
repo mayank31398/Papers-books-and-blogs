@@ -182,6 +182,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599) - Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner
 1. ![image][blog] [Understanding the Open Pre-Trained Transformers (OPT) library](https://towardsdatascience.com/understanding-the-open-pre-trained-transformers-opt-library-193a29c14a15) - Cameron Wolfe
 1. ![image][paper] [Unit tests for stochastic optimization](https://arxiv.org/abs/1312.6055) - Tom Schaul, Ioannis Antonoglou, David Silver
+1. ![image][paper] [Universal language model fine-tuning for text classification](https://aclanthology.org/P18-1031/) - Jeremy Howard, Sebastian Ruder
 1. ![image][paper] [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593) - Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
 1. ![image][paper] [Unsupervised machine translation using monolingual corpora only](https://arxiv.org/abs/1711.00043) - Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato
 1. ![image][paper] [Unsupervised representation learning by predicting image rotations](https://openreview.net/forum?id=S1v4N2l0-) - Spyros Gidaris, Praveer Singh, Nikos Komodakis
