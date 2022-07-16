@@ -1573,5 +1573,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer"
+    },
+    {
+        "name": "Fast abstractive summarization with reinforce-selected sentence rewriting",
+        "url": "https://aclanthology.org/P18-1063/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Yen-Chun Chen, Mohit Bansal"
     }
 ]

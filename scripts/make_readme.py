@@ -48,7 +48,7 @@ def ParseArgs():
 def MakeElement(json_obj: json) -> str:
     element = "1. ![image][{}]".format(json_obj["datatype"])
 
-    if (json_obj["url"] != None):
+    if (json_obj["url"]):
         element += " [{}]({})".format(json_obj["name"], json_obj["url"])
     else:
         element += " {}".format(json_obj["name"], json_obj["url"])
