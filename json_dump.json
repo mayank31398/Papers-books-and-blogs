@@ -1587,5 +1587,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Jeremy Howard, Sebastian Ruder"
+    },
+    {
+        "name": "A stylometric inquiry into hyperpartisan and fake news",
+        "url": "https://aclanthology.org/P18-1022/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein"
     }
 ]

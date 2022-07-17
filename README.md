@@ -34,6 +34,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [A simple neural attentive meta-learner](https://arxiv.org/abs/1707.03141) - Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
 1. ![image][paper] [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap
 1. ![image][paper] [A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948) - Tero Karras, Samuli Laine, Timo Aila
+1. ![image][paper] [A stylometric inquiry into hyperpartisan and fake news](https://aclanthology.org/P18-1022/) - Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein
 1. ![image][paper] [A3T: adversarially augmented adversarial training](https://arxiv.org/abs/1801.04055) - Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien
 1. ![image][paper] [Adversarial approximate inference for speech to electroglottograph conversion](https://arxiv.org/abs/1903.12248) - Prathosh A. P., Varun Srivastava, Mayank Mishra
 1. ![image][paper] [Adversarial autoencoders](https://arxiv.org/abs/1511.05644) - Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
