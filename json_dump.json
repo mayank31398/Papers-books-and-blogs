@@ -1594,5 +1594,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein"
+    },
+    {
+        "name": "What language model to train if you have one million GPU hours?",
+        "url": "https://openreview.net/forum?id=rI7BL3fHIZq",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Teven Le Scao, Thomas Wang, Daniel Hesslow, Lucile Saulnier, Stas Bekman, M Saiful Bari, Stella Biderman, Hady Elsahar, Jason Phang, Ofir Press, Colin Raffel, Victor Sanh, Sheng Shen, Lintang Sutawika, Jaesung Tae, Zheng Xin Yong, Julien Launay, Iz Beltagy"
     }
 ]
