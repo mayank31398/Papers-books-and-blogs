@@ -3,8 +3,10 @@ import json
 
 from values import METADATA, SHIELD_VARIABLES
 
+
 def NormalizeTopic(topic: str) -> str:
     return topic.lower().replace(", ", "-").replace(" ", "-")
+
 
 def GetAllTopics(json_dump: list[dict]) -> list[str]:
     topics = set()
@@ -29,7 +31,7 @@ def GroupByTopics(json_file: list[dict], topics: list[str] = None) -> list[dict]
                 grouped_json[topic].append(i)
 
     for topic in grouped_json:
-        grouped_json[topic].sort(key=lambda x: x["name"])
+        grouped_json[topic].sort(key=lambda x: x["name"].lower())
 
     return grouped_json
 

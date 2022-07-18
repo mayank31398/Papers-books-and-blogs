@@ -49,10 +49,10 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][book] Artificial Intelligence: a modern approach - Stuart Russell, Peter Norvig
 1. ![image][paper] [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need) - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
 1. ![image][paper] [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
-1. ![image][paper] [BART: denoising seuqence-to-sequence pre-training for natural language generation, translation and comprehension](https://arxiv.org/abs/1910.13461) - Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer
-1. ![image][paper] [BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 1. ![image][paper] [Backpropagation through the void: optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123) - Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud
+1. ![image][paper] [BART: denoising seuqence-to-sequence pre-training for natural language generation, translation and comprehension](https://arxiv.org/abs/1910.13461) - Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer
 1. ![image][paper] [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) - Sergey Ioffe, Christian Szegedy
+1. ![image][paper] [BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 1. ![image][paper] [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533) - Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur
 1. ![image][paper] [Bridging the gap between prior and posterior knowledge selection for knowledge-grounded dialogue generation](https://www.aclweb.org/anthology/2020.emnlp-main.275/) - Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou
 1. ![image][paper] [ColBERT: efficient and effective passage search via contextualized late interaction over BERT](https://arxiv.org/abs/2004.12832) - Omar Khattab, Matei Zaharia
@@ -83,15 +83,15 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179) - Benjamin Scellier, Yoshua Bengio
 1. ![image][paper] [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/) - Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi
 1. ![image][paper] [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-) - Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown
-1. ![image][paper] [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367) - Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud
 1. ![image][paper] [Fast abstractive summarization with reinforce-selected sentence rewriting](https://aclanthology.org/P18-1063/) - Yen-Chun Chen, Mohit Bansal
+1. ![image][paper] [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367) - Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud
 1. ![image][paper] [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652) - Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le
-1. ![image][paper] [GPT-NeoX-20B: an open-source autoregressive language model](https://arxiv.org/abs/2204.06745) - Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach
 1. ![image][paper] [Generating sentences from a continuous space](https://arxiv.org/abs/1511.06349) - Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio
 1. ![image][paper] [Generation-augmented retrieval for open-domain question answering](https://arxiv.org/abs/2009.08553) - Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen
 1. ![image][paper] [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. ![image][book] Genetic algorithms in search, optimization and machine learning - David E. Goldberg
 1. ![image][paper] [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
+1. ![image][paper] [GPT-NeoX-20B: an open-source autoregressive language model](https://arxiv.org/abs/2204.06745) - Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach
 1. ![image][paper] [Gradient-based hyperparameter optimization through reversible learning](https://arxiv.org/abs/1502.03492) - Dougal Maclaurin, David Duvenaud, Ryan P. Adams
 1. ![image][paper] [Graph attention networks](https://arxiv.org/abs/1710.10903) - Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
 1. ![image][paper] [Hierarchical neural story generation](https://aclanthology.org/P18-1082/) - Angela Fan, Mike Lewis, Yann Dauphin
@@ -115,12 +115,13 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 1. ![image][paper] [Learning transferable visual models from natural language supervision](https://arxiv.org/abs/2103.00020) - Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
 1. ![image][paper] [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
-1. ![image][paper] [MMCoQA: conversational question answering over text, tables and images](https://aclanthology.org/2022.acl-long.290/) - Yongqi Li, Wenjie Li, Liqiang Nie
 1. ![image][book] Machine learning - Tom M. Mitchell
 1. ![image][book] Machine learning: a probabilistic perspective - Kevin P. Murphy
 1. ![image][paper] [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976) - Gaurav Pandey, Dinesh Raghu, Sachindra Joshi
 1. ![image][paper] [Megatron-LM: training multi-billion parameter language models using model parallelism](https://arxiv.org/abs/1909.08053) - Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro
 1. ![image][paper] [MinTL: minimalist transfer learning for task-oriented dialogue systems](https://arxiv.org/abs/2009.12005) - Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung
+1. ![image][paper] [mixup: beyond empirical risk minimization](https://openreview.net/forum?id=r1Ddp1-Rb) - Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz
+1. ![image][paper] [MMCoQA: conversational question answering over text, tables and images](https://aclanthology.org/2022.acl-long.290/) - Yongqi Li, Wenjie Li, Liqiang Nie
 1. ![image][paper] [Multi-level memory for task oriented dialogs](https://arxiv.org/abs/1810.10647) - Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi
 1. ![image][paper] [MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling](https://aclanthology.org/D18-1547/) - Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan, Milica Gašić
 1. ![image][paper] [Mutual information neural estimation](https://arxiv.org/abs/1801.04062) - Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm
@@ -129,13 +130,13 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][book] Neural network methods for natural language processing - Yaov Goldberg
 1. ![image][book] Neural networks for pattern recognition - Christopher M. Bishop
 1. ![image][paper] [Neural ordinary differential equations](http://papers.nips.cc/paper/7892-neural-ordinary-differential-equations) - Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
-1. ![image][paper] [OPT: open pre-trained transformer language models](https://arxiv.org/abs/2205.01068) - Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer
 1. ![image][paper] [Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples](https://arxiv.org/abs/1802.00420) - Anish Athalye, Nicholas Carlini, David Wagner
 1. ![image][paper] [On the convergence of Adam and beyond](https://openreview.net/forum?id=ryQu7f-RZ) - Sashank J. Reddi, Satyen Kale, Sanjiv Kumar
 1. ![image][paper] [On the power of neural networks for solving hard problems](https://papers.nips.cc/paper/70-on-the-power-of-neural-networks-for-solving-hard-problems) - Jehoshua Bruck, Joseph W. Goodman
 1. ![image][paper] [One model to learn them all](https://arxiv.org/abs/1706.05137) - Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit
 1. ![image][paper] [Open domain question answering over tables via dense retrieval](https://aclanthology.org/2021.naacl-main.43/) - Jonathan Herzig, Thomas Müller, Syrine Krichene, Julian Eisenschlos
 1. ![image][paper] [Open question answering over tables and text](https://openreview.net/forum?id=MmCRswl1UYl) - Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen
+1. ![image][paper] [OPT: open pre-trained transformer language models](https://arxiv.org/abs/2205.01068) - Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer
 1. ![image][book] Pattern classification - Richard O. Duda, Peter E. Hart, David G. Stork
 1. ![image][book] Pattern recognition and machine learning - Christopher M. Bishop
 1. ![image][paper] [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155) - Justin Johnson, Alexandre Alahi, Li Fei-Fei
@@ -147,8 +148,8 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705) - Thomas Hofmann
 1. ![image][paper] [Progressive growing of GANs from improved quality, stability and variation](https://openreview.net/forum?id=Hk99zCeAb) - Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen
 1. ![image][paper] [PullNet: open domain question answering with iterative retrieval on knowledge bases and text](http://aclanthology.lst.uni-saarland.de/D19-1242/) - Haitian Sun, Tania Bedrax-Weiss, William Cohen
-1. ![image][paper] [REALM: Retrieval-augmented language model pretraining](https://arxiv.org/abs/2002.08909) - Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang
 1. ![image][paper] [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
+1. ![image][paper] [REALM: Retrieval-augmented language model pretraining](https://arxiv.org/abs/2002.08909) - Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang
 1. ![image][paper] [Recurrent models of visual attention](https://arxiv.org/abs/1406.6247) - Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu
 1. ![image][paper] [Regularizing and optimizing LSTM language models](https://openreview.net/forum?id=SyyGPP0TZ) - Stephen Merity, Nitish Shirish Keskar, Richard Socher
 1. ![image][book] Reinforcement Learning: An Introduction - Richard S. Sutton, Andrew G. Barto
@@ -171,10 +172,10 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Supervised learning of probability distributions by neural networks](https://papers.nips.cc/paper/3-supervised-learning-of-probability-distributions-by-neural-networks) - Eric B. Baum, Frank Wilczek
 1. ![image][paper] [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets) - Jacques J. Vidal, John Haggerty
 1. ![image][paper] [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
-1. ![image][paper] [The Pile: an 800GB dataset of diverse text for language modeling](https://arxiv.org/abs/2101.00027) - Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy
 1. ![image][paper] [The best of both worlds: combining recent advances in neural machine translation](https://aclanthology.org/P18-1008/) - Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes
 1. ![image][book] The elements of statistical learning: data mining, inference and prediction - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 1. ![image][paper] [The information bottleneck method](https://arxiv.org/abs/physics/0004057) - Naftali Tishby, Fernando C. Pereira, William Bialek
+1. ![image][paper] [The Pile: an 800GB dataset of diverse text for language modeling](https://arxiv.org/abs/2101.00027) - Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy
 1. ![image][paper] [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW) - Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow
 1. ![image][paper] [To regularize or not to regularize? The bias variance trade-off in regularized AEs](https://arxiv.org/abs/2006.05838) - Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP
 1. ![image][paper] [Towards deep learning models resilient to adversarial attacks](https://openreview.net/forum?id=rJzIBfZAb) - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu
@@ -190,11 +191,11 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Unsupervised machine translation using monolingual corpora only](https://arxiv.org/abs/1711.00043) - Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato
 1. ![image][paper] [Unsupervised representation learning by predicting image rotations](https://openreview.net/forum?id=S1v4N2l0-) - Spyros Gidaris, Praveer Singh, Nikos Komodakis
 1. ![image][blog] [Using DeepSpeed and Megatron to train Megatron-Turing NLG 530B, the world’s largest and most powerful generative language model](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/) - Ali Alvi, Paresh Kharya
-1. ![image][paper] [VEEGAN: reducing mode collapse in GANs using implicit variational learning](https://arxiv.org/abs/1705.07761) - Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton
 1. ![image][paper] [Variational inference using implicit distributions](https://arxiv.org/abs/1702.08235) - Ferenc Huszár
 1. ![image][paper] [Variational inference with latent space quantization for adversarial resilience](https://arxiv.org/abs/1903.09940) - Vinay Kyatham, Mayank Mishra, Tarun Kumar Yadav, Deepak Mishra, Prathosh AP
 1. ![image][paper] [Variational learning for unsupervised knowledge grounded dialogs](https://arxiv.org/abs/2112.00653) - Mayank Mishra, Dhiraj Madan, Gaurav Pandey, Danish Contractor
 1. ![image][paper] [Variational lossy autoencoder](https://arxiv.org/abs/1611.02731) - Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel
+1. ![image][paper] [VEEGAN: reducing mode collapse in GANs using implicit variational learning](https://arxiv.org/abs/1705.07761) - Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton
 1. ![image][paper] [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556) - Karen Simonyan, Andrew Zisserman
 1. ![image][paper] [Visualizing data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html) - Laurens van der Maaten, Geoffrey Hinton
 1. ![image][paper] [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - Martin Arjovsky, Soumith Chintala, Léon Bottou
@@ -204,9 +205,8 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][blog] [Yandex publishes YaLM 100B. It’s the largest GPT-like neural network in open source](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6) - Mikhail Khrushchev
 1. ![image][paper] [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640) - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
 1. ![image][paper] [ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning](https://dl.acm.org/doi/abs/10.1145/3458817.3476205) - Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He
-1. ![image][paper] [ZeRO: memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054) - Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He
 1. ![image][paper] [Zero-shot text-to-image generation](http://proceedings.mlr.press/v139/ramesh21a.html) - Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever
-1. ![image][paper] [mixup: beyond empirical risk minimization](https://openreview.net/forum?id=r1Ddp1-Rb) - Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz
+1. ![image][paper] [ZeRO: memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054) - Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He
 1. ![image][paper] [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl) - Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner
 
 # Calculus
