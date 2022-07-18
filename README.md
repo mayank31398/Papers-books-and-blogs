@@ -47,6 +47,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Analysing mathematical reasoning abilities of neural models](https://arxiv.org/abs/1904.01557) - David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli
 1. ![image][paper] [Approximations by superpositions of sigmoidal functions](https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085) - George Cybenko
 1. ![image][book] Artificial Intelligence: a modern approach - Stuart Russell, Peter Norvig
+1. ![image][paper] [Aspect based sentiment analysis with gated convolutional networks](https://aclanthology.org/P18-1234/) - Wei Xue, Tao Li
 1. ![image][paper] [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need) - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
 1. ![image][paper] [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114) - Diederik P. Kingma, Max Welling
 1. ![image][paper] [Backpropagation through the void: optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123) - Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud

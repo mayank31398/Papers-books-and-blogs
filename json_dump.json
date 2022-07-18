@@ -1622,5 +1622,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin"
+    },
+    {
+        "name": "Aspect based sentiment analysis with gated convolutional networks",
+        "url": "https://aclanthology.org/P18-1234/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Wei Xue, Tao Li"
     }
 ]
