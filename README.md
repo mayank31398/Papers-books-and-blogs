@@ -172,6 +172,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets) - Jacques J. Vidal, John Haggerty
 1. ![image][paper] [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916) - Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger
 1. ![image][paper] [The Pile: an 800GB dataset of diverse text for language modeling](https://arxiv.org/abs/2101.00027) - Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy
+1. ![image][paper] [The best of both worlds: combining recent advances in neural machine translation](https://aclanthology.org/P18-1008/) - Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes
 1. ![image][book] The elements of statistical learning: data mining, inference and prediction - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 1. ![image][paper] [The information bottleneck method](https://arxiv.org/abs/physics/0004057) - Naftali Tishby, Fernando C. Pereira, William Bialek
 1. ![image][paper] [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW) - Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow

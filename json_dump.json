@@ -1608,5 +1608,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Christopher Clark, Matt Gardner"
+    },
+    {
+        "name": "The best of both worlds: combining recent advances in neural machine translation",
+        "url": "https://aclanthology.org/P18-1008/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes"
     }
 ]
