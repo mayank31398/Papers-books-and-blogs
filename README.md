@@ -158,6 +158,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Retrieval-augmented generation for knowledge-intensive NLP tasks](https://arxiv.org/abs/2005.11401) - Patrick Lewis, Ethan Perez, Aleksandara Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
 1. ![image][paper] [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545) - David Lopez-Paz, Maxime Oquab
 1. ![image][paper] [Self-normalizing neural networks](https://papers.nips.cc/paper/6698-self-normalizing-neural-networks) - Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
+1. ![image][paper] [Semantically equivalent adversarial rules for debugging NLP models](https://aclanthology.org/P18-1079/) - Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin
 1. ![image][paper] [Sequential latent knowledge selection for knowledge-grounded dialogue](https://arxiv.org/abs/2002.07510) - Byeongchang Kim, Jaewoo Ahn, Gunhee Kim
 1. ![image][paper] [Simple and effective multi-paragraph reading comprehension](https://aclanthology.org/P18-1078/) - Christopher Clark, Matt Gardner
 1. ![image][paper] [Soloist few-shot task-oriented dialog with a single pre-trained auto-regressive model](https://arxiv.org/abs/2005.05298) - Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao

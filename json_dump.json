@@ -1615,5 +1615,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes"
+    },
+    {
+        "name": "Semantically equivalent adversarial rules for debugging NLP models",
+        "url": "https://aclanthology.org/P18-1079/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin"
     }
 ]
