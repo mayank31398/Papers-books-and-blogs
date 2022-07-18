@@ -158,6 +158,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545) - David Lopez-Paz, Maxime Oquab
 1. ![image][paper] [Self-normalizing neural networks](https://papers.nips.cc/paper/6698-self-normalizing-neural-networks) - Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
 1. ![image][paper] [Sequential latent knowledge selection for knowledge-grounded dialogue](https://arxiv.org/abs/2002.07510) - Byeongchang Kim, Jaewoo Ahn, Gunhee Kim
+1. ![image][paper] [Simple and effective multi-paragraph reading comprehension](https://aclanthology.org/P18-1078/) - Christopher Clark, Matt Gardner
 1. ![image][paper] [Soloist few-shot task-oriented dialog with a single pre-trained auto-regressive model](https://arxiv.org/abs/2005.05298) - Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao
 1. ![image][paper] [Solving quantitative reasoning problems with language models](https://arxiv.org/abs/2206.14858) - Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra
 1. ![image][paper] [Spectral normalization for generative adversarial networks](https://openreview.net/forum?id=B1QRgziT-) - Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida

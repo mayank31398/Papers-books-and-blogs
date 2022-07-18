@@ -1601,5 +1601,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Teven Le Scao, Thomas Wang, Daniel Hesslow, Lucile Saulnier, Stas Bekman, M Saiful Bari, Stella Biderman, Hady Elsahar, Jason Phang, Ofir Press, Colin Raffel, Victor Sanh, Sheng Shen, Lintang Sutawika, Jaesung Tae, Zheng Xin Yong, Julien Launay, Iz Beltagy"
+    },
+    {
+        "name": "Simple and effective multi-paragraph reading comprehension",
+        "url": "https://aclanthology.org/P18-1078/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Christopher Clark, Matt Gardner"
     }
 ]
