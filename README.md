@@ -60,6 +60,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Conceptual captions: a cleaned, hypernymed, image alt-text dataset for automatic image captioning](https://aclanthology.org/P18-1238/) - Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut
 1. ![image][paper] [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585) - Augustus Odena, Christopher Olah, Jonathon Shlens
 1. ![image][paper] [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy) - Yaser S. Abu-Mostafa
+1. ![image][paper] [Constituency parsing with a self-attentive encoder](https://aclanthology.org/P18-1249/) - Nikita Kitaev, Dan Klein
 1. ![image][paper] [Constraint based knowledge base distillation in end-to-end task oriented dialogs](https://aclanthology.org/2021.findings-acl.448/) - Dinesh Raghu, Atishya Jain, Mausam, Sachindra Joshi
 1. ![image][paper] [Convolutional networks for graphs for learning molecular fingerprints](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints) - David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams
 1. ![image][paper] [Convolutional neural network language models](https://aclanthology.info/papers/D16-1123/d16-1123) - Ngoc-Quan Pham, Germán Kruszewski, Gemma Boleda
@@ -182,6 +183,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [To regularize or not to regularize? The bias variance trade-off in regularized AEs](https://arxiv.org/abs/2006.05838) - Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP
 1. ![image][paper] [Towards deep learning models resilient to adversarial attacks](https://openreview.net/forum?id=rJzIBfZAb) - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu
 1. ![image][paper] [Towards evaluating the robustness of neural networks](https://arxiv.org/abs/1608.04644) - Nicholas Carlini, David Wagner
+1. ![image][paper] [Train short, test long: Attention with linear biases enables input length extrapolation](https://openreview.net/forum?id=R8sQPpGCv0) - Ofir Press, Noah Smith, Mike Lewis
 1. ![image][paper] [Transformer memory as a differentiable search index](https://arxiv.org/abs/2202.06991) - Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler
 1. ![image][blog] [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) - Corby Rosset
 1. ![image][paper] [Understanding convolutional neural networks with a mathematical model](https://arxiv.org/abs/1609.04112) - C.-C. Jay Kuo

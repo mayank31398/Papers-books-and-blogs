@@ -1629,5 +1629,19 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Wei Xue, Tao Li"
+    },
+    {
+        "name": "Constituency parsing with a self-attentive encoder",
+        "url": "https://aclanthology.org/P18-1249/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Nikita Kitaev, Dan Klein"
+    },
+    {
+        "name": "Train short, test long: Attention with linear biases enables input length extrapolation",
+        "url": "https://openreview.net/forum?id=R8sQPpGCv0",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Ofir Press, Noah Smith, Mike Lewis"
     }
 ]
