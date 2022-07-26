@@ -1657,5 +1657,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu"
+    },
+    {
+        "name": "Outer product-based neural collaborative filtering",
+        "url": "https://www.ijcai.org/proceedings/2018/0308",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua"
     }
 ]

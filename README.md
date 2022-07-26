@@ -141,6 +141,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Open domain question answering over tables via dense retrieval](https://aclanthology.org/2021.naacl-main.43/) - Jonathan Herzig, Thomas Müller, Syrine Krichene, Julian Eisenschlos
 1. ![image][paper] [Open question answering over tables and text](https://openreview.net/forum?id=MmCRswl1UYl) - Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen
 1. ![image][paper] [OPT: open pre-trained transformer language models](https://arxiv.org/abs/2205.01068) - Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer
+1. ![image][paper] [Outer product-based neural collaborative filtering](https://www.ijcai.org/proceedings/2018/0308) - Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua
 1. ![image][book] Pattern classification - Richard O. Duda, Peter E. Hart, David G. Stork
 1. ![image][book] Pattern recognition and machine learning - Christopher M. Bishop
 1. ![image][paper] [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155) - Justin Johnson, Alexandre Alahi, Li Fei-Fei
