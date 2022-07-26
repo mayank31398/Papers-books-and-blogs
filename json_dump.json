@@ -1664,5 +1664,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua"
+    },
+    {
+        "name": "R^{3}Net: recurrent residual refinement network for saliency detection",
+        "url": "https://www.ijcai.org/proceedings/2018/0308",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua"
     }
 ]

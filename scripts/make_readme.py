@@ -1,5 +1,6 @@
 import argparse
 import json
+import re
 
 from values import METADATA, SHIELD_VARIABLES
 
@@ -17,6 +18,17 @@ def GetAllTopics(json_dump: list[dict]) -> list[str]:
     topics.sort()
 
     return topics
+
+
+def PreprocessNames(json_file: list[dict]) -> list[dict]:
+    pattern = re.compile("\^{\w*}")
+    for i in json_file:
+        x = pattern.findall(i["name"])
+        for j in x:
+            exponent = j[2: len(j) - 1]
+            i["name"] = i["name"].replace(j, "<sup>{}</sup>".format(exponent))
+            
+    return json_file
 
 
 def GroupByTopics(json_file: list[dict], topics: list[str] = None) -> list[dict]:
@@ -66,6 +78,7 @@ def main():
     args = ParseArgs()
 
     json_file = json.load(open(args.json_dump, "r"))
+    json_file = PreprocessNames(json_file)
     topics = GetAllTopics(json_file)
     grouped_json = GroupByTopics(json_file, topics)
 

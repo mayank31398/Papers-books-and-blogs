@@ -153,6 +153,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705) - Thomas Hofmann
 1. ![image][paper] [Progressive growing of GANs from improved quality, stability and variation](https://openreview.net/forum?id=Hk99zCeAb) - Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen
 1. ![image][paper] [PullNet: open domain question answering with iterative retrieval on knowledge bases and text](http://aclanthology.lst.uni-saarland.de/D19-1242/) - Haitian Sun, Tania Bedrax-Weiss, William Cohen
+1. ![image][paper] [R<sup>3</sup>Net: recurrent residual refinement network for saliency detection](https://www.ijcai.org/proceedings/2018/0308) - Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua
 1. ![image][paper] [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
 1. ![image][paper] [REALM: Retrieval-augmented language model pretraining](https://arxiv.org/abs/2002.08909) - Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang
 1. ![image][paper] [Recurrent models of visual attention](https://arxiv.org/abs/1406.6247) - Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu
