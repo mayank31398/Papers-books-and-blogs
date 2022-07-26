@@ -55,6 +55,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) - Sergey Ioffe, Christian Szegedy
 1. ![image][paper] [BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 1. ![image][paper] [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533) - Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur
+1. ![image][paper] [Bootstrapping entity alignment with knowledge graph embedding](https://www.ijcai.org/proceedings/2018/611) - Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu
 1. ![image][paper] [Bridging the gap between prior and posterior knowledge selection for knowledge-grounded dialogue generation](https://www.aclweb.org/anthology/2020.emnlp-main.275/) - Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou
 1. ![image][paper] [ColBERT: efficient and effective passage search via contextualized late interaction over BERT](https://arxiv.org/abs/2004.12832) - Omar Khattab, Matei Zaharia
 1. ![image][paper] [Conceptual captions: a cleaned, hypernymed, image alt-text dataset for automatic image captioning](https://aclanthology.org/P18-1238/) - Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut
@@ -92,6 +93,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Generation-augmented retrieval for open-domain question answering](https://arxiv.org/abs/2009.08553) - Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen
 1. ![image][paper] [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. ![image][book] Genetic algorithms in search, optimization and machine learning - David E. Goldberg
+1. ![image][paper] [GeoMAN: multi-level attention networks for geo-sensory time series prediction](https://www.ijcai.org/proceedings/2018/476) - Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng
 1. ![image][paper] [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
 1. ![image][paper] [GPT-NeoX-20B: an open-source autoregressive language model](https://arxiv.org/abs/2204.06745) - Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach
 1. ![image][paper] [Gradient-based hyperparameter optimization through reversible learning](https://arxiv.org/abs/1502.03492) - Dougal Maclaurin, David Duvenaud, Ryan P. Adams

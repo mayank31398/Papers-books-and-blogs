@@ -1643,5 +1643,19 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Ofir Press, Noah Smith, Mike Lewis"
+    },
+    {
+        "name": "GeoMAN: multi-level attention networks for geo-sensory time series prediction",
+        "url": "https://www.ijcai.org/proceedings/2018/476",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng"
+    },
+    {
+        "name": "Bootstrapping entity alignment with knowledge graph embedding",
+        "url": "https://www.ijcai.org/proceedings/2018/611",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu"
     }
 ]
