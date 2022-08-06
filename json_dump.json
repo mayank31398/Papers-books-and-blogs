@@ -1706,5 +1706,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Faraz Torabi, Garrett Warnell, Peter Stone"
+    },
+    {
+        "name": "Deep text classification can be fooled",
+        "url": "https://www.ijcai.org/proceedings/2018/585",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi"
     }
 ]

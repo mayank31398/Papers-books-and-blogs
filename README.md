@@ -72,6 +72,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][book] Deep learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 1. ![image][paper] [Deep learning and the information bottleneck principle](https://ieeexplore.ieee.org/document/7133169) - Naftali Tishby, Noga Zaslavsky
 1. ![image][paper] [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385) - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+1. ![image][paper] [Deep text classification can be fooled](https://www.ijcai.org/proceedings/2018/585) - Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi
 1. ![image][blog] [DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/#:~:text=DeepSpeed%20Inference%20also%20supports%20fast,multiple%20GPUs%20for%20parallel%20execution.) - DeepSpeed Team, Rangan Majumder, Andrey Proskurin
 1. ![image][blog] [DeepSpeed: advancing MoE inference and training to power next-generation AI scale](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/) - DeepSpeed Team, Andrey Proskurin
 1. ![image][paper] [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161) - Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun
