@@ -1685,5 +1685,19 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Andrey Proskurin"
+    },
+    {
+        "name": "Q-BERT: Hessian based ultra low precision quantization of BERT",
+        "url": "https://arxiv.org/abs/1909.05840",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer"
+    },
+    {
+        "name": "GLM-130B: an open bilingual pre-trained model",
+        "url": "https://keg.cs.tsinghua.edu.cn/glm-130b/#fn:1",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "blog",
+        "authors": ""
     }
 ]

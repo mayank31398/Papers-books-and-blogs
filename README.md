@@ -95,6 +95,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 1. ![image][book] Genetic algorithms in search, optimization and machine learning - David E. Goldberg
 1. ![image][paper] [GeoMAN: multi-level attention networks for geo-sensory time series prediction](https://www.ijcai.org/proceedings/2018/476) - Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng
+1. ![image][blog] [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/#fn:1)
 1. ![image][paper] [Going deeper with convolutions](https://arxiv.org/abs/1409.4842) - Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
 1. ![image][paper] [GPT-NeoX-20B: an open-source autoregressive language model](https://arxiv.org/abs/2204.06745) - Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach
 1. ![image][paper] [Gradient-based hyperparameter optimization through reversible learning](https://arxiv.org/abs/1502.03492) - Dougal Maclaurin, David Duvenaud, Ryan P. Adams
@@ -155,6 +156,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705) - Thomas Hofmann
 1. ![image][paper] [Progressive growing of GANs from improved quality, stability and variation](https://openreview.net/forum?id=Hk99zCeAb) - Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen
 1. ![image][paper] [PullNet: open domain question answering with iterative retrieval on knowledge bases and text](http://aclanthology.lst.uni-saarland.de/D19-1242/) - Haitian Sun, Tania Bedrax-Weiss, William Cohen
+1. ![image][paper] [Q-BERT: Hessian based ultra low precision quantization of BERT](https://arxiv.org/abs/1909.05840) - Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer
 1. ![image][paper] [R<sup>3</sup>Net: recurrent residual refinement network for saliency detection](https://www.ijcai.org/proceedings/2018/95) - Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, Pheng-Ann Heng
 1. ![image][paper] [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051) - Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes
 1. ![image][paper] [REALM: Retrieval-augmented language model pretraining](https://arxiv.org/abs/2002.08909) - Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang
