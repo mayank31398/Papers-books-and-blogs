@@ -53,6 +53,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Backpropagation through the void: optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123) - Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud
 1. ![image][paper] [BART: denoising seuqence-to-sequence pre-training for natural language generation, translation and comprehension](https://arxiv.org/abs/1910.13461) - Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer
 1. ![image][paper] [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/abs/1502.03167) - Sergey Ioffe, Christian Szegedy
+1. ![image][paper] [Behavioral cloning from observation](https://www.ijcai.org/proceedings/2018/687) - Faraz Torabi, Garrett Warnell, Peter Stone
 1. ![image][paper] [BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 1. ![image][paper] [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533) - Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur
 1. ![image][paper] [Bootstrapping entity alignment with knowledge graph embedding](https://www.ijcai.org/proceedings/2018/611) - Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu

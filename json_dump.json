@@ -1699,5 +1699,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "blog",
         "authors": ""
+    },
+    {
+        "name": "Behavioral cloning from observation",
+        "url": "https://www.ijcai.org/proceedings/2018/687",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Faraz Torabi, Garrett Warnell, Peter Stone"
     }
 ]
