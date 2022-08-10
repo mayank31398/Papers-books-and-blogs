@@ -219,6 +219,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Word translation without parallel data](https://openreview.net/forum?id=H196sainb) - Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou
 1. ![image][blog] [Yandex publishes YaLM 100B. It’s the largest GPT-like neural network in open source](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6) - Mikhail Khrushchev
 1. ![image][paper] [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640) - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
+1. ![image][blog] [ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/) - DeepSpeed Team, Rangan Majumder, Junhua Wang
 1. ![image][paper] [ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning](https://dl.acm.org/doi/abs/10.1145/3458817.3476205) - Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He
 1. ![image][paper] [Zero-shot text-to-image generation](http://proceedings.mlr.press/v139/ramesh21a.html) - Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever
 1. ![image][paper] [ZeRO: memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054) - Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He

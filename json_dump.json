@@ -1720,5 +1720,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "blog",
         "authors": "Olatunji Ruwase, Jeff Rasley"
+    },
+    {
+        "name": "ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale",
+        "url": "https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "blog",
+        "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang"
     }
 ]
