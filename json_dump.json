@@ -1727,5 +1727,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang"
+    },
+    {
+        "name": "Memory-efficient pipeline-parallel DNN training",
+        "url": "https://proceedings.mlr.press/v139/narayanan21a.html",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Deepak Narayanan, Amar Phanishayee, Kaiyu Shi, Xie Chen, Matei Zaharia"
     }
 ]

@@ -127,6 +127,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][book] Machine learning: a probabilistic perspective - Kevin P. Murphy
 1. ![image][paper] [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976) - Gaurav Pandey, Dinesh Raghu, Sachindra Joshi
 1. ![image][paper] [Megatron-LM: training multi-billion parameter language models using model parallelism](https://arxiv.org/abs/1909.08053) - Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro
+1. ![image][paper] [Memory-efficient pipeline-parallel DNN training](https://proceedings.mlr.press/v139/narayanan21a.html) - Deepak Narayanan, Amar Phanishayee, Kaiyu Shi, Xie Chen, Matei Zaharia
 1. ![image][paper] [MinTL: minimalist transfer learning for task-oriented dialogue systems](https://arxiv.org/abs/2009.12005) - Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung
 1. ![image][paper] [mixup: beyond empirical risk minimization](https://openreview.net/forum?id=r1Ddp1-Rb) - Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz
 1. ![image][paper] [MMCoQA: conversational question answering over text, tables and images](https://aclanthology.org/2022.acl-long.290/) - Yongqi Li, Wenjie Li, Liqiang Nie
