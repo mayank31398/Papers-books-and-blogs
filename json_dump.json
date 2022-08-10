@@ -1713,5 +1713,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi"
+    },
+    {
+        "name": "Supporting efficient large model training on AMD Instinct^{TM} GPUs with DeepSpeed",
+        "url": "https://cloudblogs.microsoft.com/opensource/2022/03/21/supporting-efficient-large-model-training-on-amd-instinct-gpus-with-deepspeed/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "blog",
+        "authors": "Olatunji Ruwase, Jeff Rasley"
     }
 ]
