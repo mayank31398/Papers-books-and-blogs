@@ -1729,6 +1729,13 @@
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang"
     },
     {
+        "name": "ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters",
+        "url": "https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "blog",
+        "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang"
+    },
+    {
         "name": "Memory-efficient pipeline-parallel DNN training",
         "url": "https://proceedings.mlr.press/v139/narayanan21a.html",
         "topic": "AI, DL, NLP and RL",
