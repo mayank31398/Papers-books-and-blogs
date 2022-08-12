@@ -1741,5 +1741,19 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Deepak Narayanan, Amar Phanishayee, Kaiyu Shi, Xie Chen, Matei Zaharia"
+    },
+    {
+        "name": "DeepSpeed compression: a composable library for extreme compression and zero-cost quantization",
+        "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "DeepSpeed Team, Andrey Proskurin "
+    },
+    {
+        "name": "Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps",
+        "url": "https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": ""
     }
 ]
