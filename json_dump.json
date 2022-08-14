@@ -1753,7 +1753,14 @@
         "name": "Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps",
         "url": "https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
+        "datatype": "blog",
         "authors": ""
+    },
+    {
+        "name": "Spatio-temporal graph convolutional networks: a deep learning framework for traffic forecasting",
+        "url": "https://www.ijcai.org/proceedings/2018/505",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Bing Yu, Haoteng Yin, Zhanxing Zhu"
     }
 ]

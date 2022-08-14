@@ -114,7 +114,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Inference suboptimality in variational autoencoders](https://arxiv.org/abs/1801.03558) - Chris Cremer, Xuechen Li, David Duvenaud
 1. ![image][paper] [InfoGAN: interpretable representation learning by information maximizing generative adversarial nets](https://arxiv.org/abs/1606.03657) - Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel
 1. ![image][paper] [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786) - C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen
-1. ![image][paper] [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)
+1. ![image][blog] [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)
 1. ![image][paper] [Know what you don't know: unanswerable questions for SQuAD](https://aclanthology.org/P18-2124/) - Pranav Rajpurkar, Robin Jia, Percy Liang
 1. ![image][paper] [Knowledge-grounded dialogue generation with pre-trained language models](https://arxiv.org/abs/2010.08824) - Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan
 1. ![image][paper] [Language modelling with pixels](https://arxiv.org/abs/2207.06991) - Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott
@@ -178,6 +178,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Simple and effective multi-paragraph reading comprehension](https://aclanthology.org/P18-1078/) - Christopher Clark, Matt Gardner
 1. ![image][paper] [Soloist few-shot task-oriented dialog with a single pre-trained auto-regressive model](https://arxiv.org/abs/2005.05298) - Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao
 1. ![image][paper] [Solving quantitative reasoning problems with language models](https://arxiv.org/abs/2206.14858) - Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra
+1. ![image][paper] [Spatio-temporal graph convolutional networks: a deep learning framework for traffic forecasting](https://www.ijcai.org/proceedings/2018/505) - Bing Yu, Haoteng Yin, Zhanxing Zhu
 1. ![image][paper] [Spectral normalization for generative adversarial networks](https://openreview.net/forum?id=B1QRgziT-) - Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida
 1. ![image][book] Speech and language processing - Daniel Jurafsky, James H. Martin
 1. ![image][paper] [Sticking the landing: simple, lower-variance gradient estimators for variational inference](https://papers.nips.cc/paper/7268-sticking-the-landing-simple-lower-variance-gradient-estimators-for-variational-inference) - Geoffrey Roeder, Yuhuai Wu, David K. Duvenaud
