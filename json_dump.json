@@ -1769,5 +1769,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Xiaoxia Wu, Zhewei Yao, Minjia Zhang, Conglong Li, Yuxiong He"
+    },
+    {
+        "name": "DeepSpeed powers 8x larger MoE model training with high performance",
+        "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-powers-8x-larger-moe-model-training-with-high-performance/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "blog",
+        "authors": "DeepSpeed Team, Z-code Team"
     }
 ]
