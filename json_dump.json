@@ -1762,5 +1762,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Bing Yu, Haoteng Yin, Zhanxing Zhu"
+    },
+    {
+        "name": "Extreme compression for pre-trained transformers made simple and efficient",
+        "url": "https://arxiv.org/abs/2206.01859",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Xiaoxia Wu, Zhewei Yao, Minjia Zhang, Conglong Li, Yuxiong He"
     }
 ]
