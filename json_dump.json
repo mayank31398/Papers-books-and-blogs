@@ -1776,5 +1776,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "blog",
         "authors": "DeepSpeed Team, Z-code Team"
+    },
+    {
+        "name": "Soft filter pruning for accelerating deep convolutional neural networks",
+        "url": "https://www.ijcai.org/proceedings/2018/309",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang"
     }
 ]

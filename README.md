@@ -178,6 +178,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Semantically equivalent adversarial rules for debugging NLP models](https://aclanthology.org/P18-1079/) - Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin
 1. ![image][paper] [Sequential latent knowledge selection for knowledge-grounded dialogue](https://arxiv.org/abs/2002.07510) - Byeongchang Kim, Jaewoo Ahn, Gunhee Kim
 1. ![image][paper] [Simple and effective multi-paragraph reading comprehension](https://aclanthology.org/P18-1078/) - Christopher Clark, Matt Gardner
+1. ![image][paper] [Soft filter pruning for accelerating deep convolutional neural networks](https://www.ijcai.org/proceedings/2018/309) - Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang
 1. ![image][paper] [Soloist few-shot task-oriented dialog with a single pre-trained auto-regressive model](https://arxiv.org/abs/2005.05298) - Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao
 1. ![image][paper] [Solving quantitative reasoning problems with language models](https://arxiv.org/abs/2206.14858) - Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra
 1. ![image][paper] [Spatio-temporal graph convolutional networks: a deep learning framework for traffic forecasting](https://www.ijcai.org/proceedings/2018/505) - Bing Yu, Haoteng Yin, Zhanxing Zhu
