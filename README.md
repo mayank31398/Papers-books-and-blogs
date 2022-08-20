@@ -95,6 +95,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Fast abstractive summarization with reinforce-selected sentence rewriting](https://aclanthology.org/P18-1063/) - Yen-Chun Chen, Mohit Bansal
 1. ![image][paper] [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367) - Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud
 1. ![image][paper] [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652) - Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le
+1. ![image][paper] [Generating adversarial examples with adversarial networks](https://www.ijcai.org/proceedings/2018/543) - Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song
 1. ![image][paper] [Generating sentences from a continuous space](https://arxiv.org/abs/1511.06349) - Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio
 1. ![image][paper] [Generation-augmented retrieval for open-domain question answering](https://arxiv.org/abs/2009.08553) - Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen
 1. ![image][paper] [Generative adversarial nets](https://arxiv.org/abs/1406.2661) - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio

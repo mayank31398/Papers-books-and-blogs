@@ -1783,5 +1783,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang"
+    },
+    {
+        "name": "Generating adversarial examples with adversarial networks",
+        "url": "https://www.ijcai.org/proceedings/2018/543",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song"
     }
 ]
