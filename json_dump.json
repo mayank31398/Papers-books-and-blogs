@@ -1797,5 +1797,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre"
+    },
+    {
+        "name": "A gentle introduction to 8-bit matrix multiplication for transformers at scale using Hugging Face transformers, accelerate and bitsandbytes",
+        "url": "https://huggingface.co/blog/hf-bitsandbytes-integration",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "blog",
+        "authors": "Younes Belkada, Tim Dettmers"
     }
 ]
