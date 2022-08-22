@@ -130,6 +130,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) - David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams
 1. ![image][paper] [Learning transferable visual models from natural language supervision](https://arxiv.org/abs/2103.00020) - Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
 1. ![image][paper] [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation) - Andriy Mnih, Koray Kavukcuoglu
+1. ![image][paper] [LLM.int8(): 8-bit matrix multiplication for transformers at scale](https://arxiv.org/abs/2208.07339) - Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer
 1. ![image][book] Machine learning - Tom M. Mitchell
 1. ![image][book] Machine learning: a probabilistic perspective - Kevin P. Murphy
 1. ![image][paper] [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976) - Gaurav Pandey, Dinesh Raghu, Sachindra Joshi

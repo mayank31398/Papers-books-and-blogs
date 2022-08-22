@@ -1804,5 +1804,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "blog",
         "authors": "Younes Belkada, Tim Dettmers"
+    },
+    {
+        "name": "LLM.int8(): 8-bit matrix multiplication for transformers at scale",
+        "url": "https://arxiv.org/abs/2208.07339",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer"
     }
 ]
