@@ -1746,7 +1746,7 @@
         "name": "DeepSpeed compression: a composable library for extreme compression and zero-cost quantization",
         "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
+        "datatype": "blog",
         "authors": "DeepSpeed Team, Andrey Proskurin "
     },
     {
