@@ -235,6 +235,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. ![image][paper] [ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning](https://dl.acm.org/doi/abs/10.1145/3458817.3476205) - Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He
 1. ![image][paper] [Zero-shot text-to-image generation](http://proceedings.mlr.press/v139/ramesh21a.html) - Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever
 1. ![image][paper] [ZeRO: memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054) - Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He
+1. ![image][paper] [ZeroQuant: efficient and affordable post-training quantization for large-scale transformers](https://arxiv.org/abs/2206.01861) - Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He
 1. ![image][paper] [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl) - Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner
 
 # Calculus

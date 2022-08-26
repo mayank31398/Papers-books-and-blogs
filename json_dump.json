@@ -1811,5 +1811,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer"
+    },
+    {
+        "name": "ZeroQuant: efficient and affordable post-training quantization for large-scale transformers",
+        "url": "https://arxiv.org/abs/2206.01861",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He"
     }
 ]
