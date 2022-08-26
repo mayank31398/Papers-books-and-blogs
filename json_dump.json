@@ -1818,5 +1818,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He"
+    },
+    {
+        "name": "Mixed precision training",
+        "url": "https://openreview.net/forum?id=r1gs9JgRZ",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu"
     }
 ]
