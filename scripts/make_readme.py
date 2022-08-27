@@ -56,19 +56,28 @@ def ParseArgs():
                         required=True, help="JSON dump file")
     parser.add_argument("--group_by_datatype",
                         action="store_true", help="Group by data type")
+    parser.add_argument("--add_shields",
+                        action="store_true", help="Add shields")
     return parser.parse_args()
 
 
-def MakeElement(json_obj: json) -> str:
-    element = "1. ![image][{}]".format(json_obj["datatype"])
+def MakeElement(json_obj: json, add_shield: bool) -> str:
+    element = "1. "
 
     if (json_obj["url"]):
-        element += " [{}]({})".format(json_obj["name"], json_obj["url"])
+        element += "[{}]({})".format(json_obj["name"], json_obj["url"])
     else:
-        element += " {}".format(json_obj["name"], json_obj["url"])
+        element += "{}".format(json_obj["name"])
 
     if (json_obj["authors"]):
-        element += " - {}".format(json_obj["authors"])
+        element += "  \n*{}*".format(json_obj["authors"])
+
+    if (add_shield):
+        element += "  \n![image][{}]".format(json_obj["datatype"])
+
+    # if (json_obj["metadata"]):
+    #     element += "\n> {}".format(json_obj["metadata"])
+
     element += "\n"
 
     return element
@@ -100,10 +109,10 @@ def main():
                 for datatype in SHIELD_VARIABLES:
                     for i in grouped_json[topic]:
                         if (i["datatype"] == datatype):
-                            f.write(MakeElement(i))
+                            f.write(MakeElement(i, args.add_shields))
             else:
                 for i in grouped_json[topic]:
-                    f.write(MakeElement(i))
+                    f.write(MakeElement(i, args.add_shields))
             f.write("\n")
 
 

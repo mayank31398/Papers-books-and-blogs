@@ -119,7 +119,7 @@
         "authors": "Mikhail Khrushchev"
     },
     {
-        "name": "A dynamic approach to temporal pattern processing",
+        "name": "A dynamical approach to temporal pattern processing",
         "url": "https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing",
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
@@ -1747,7 +1747,7 @@
         "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/",
         "topic": "AI, DL, NLP and RL",
         "datatype": "blog",
-        "authors": "DeepSpeed Team, Andrey Proskurin "
+        "authors": "DeepSpeed Team, Andrey Proskurin"
     },
     {
         "name": "Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps",
