@@ -1825,5 +1825,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "paper",
         "authors": "Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu"
+    },
+    {
+        "name": "DeepSpeed Inference: enabling efficient inference of transformer models at unprecedented scale",
+        "url": "https://arxiv.org/abs/2207.00032",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "paper",
+        "authors": "Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He"
     }
 ]

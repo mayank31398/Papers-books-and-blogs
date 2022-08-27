@@ -245,6 +245,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Deep text classification can be fooled](https://www.ijcai.org/proceedings/2018/585)  
 *Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi*  
 ![image][paper]
+1. [DeepSpeed Inference: enabling efficient inference of transformer models at unprecedented scale](https://arxiv.org/abs/2207.00032)  
+*Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He*  
+![image][paper]
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.info/papers/P18-1161/p18-1161)  
 *Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun*  
 ![image][paper]
