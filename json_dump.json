@@ -3,1834 +3,3117 @@
         "name": "Artificial Intelligence: a modern approach",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Stuart Russell, Peter Norvig"
+        "datatype": "Book",
+        "authors": "Stuart Russell, Peter Norvig",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Deep learning",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Ian Goodfellow, Yoshua Bengio, Aaron Courville"
+        "datatype": "Book",
+        "authors": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Genetic algorithms in search, optimization and machine learning",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "David E. Goldberg"
+        "datatype": "Book",
+        "authors": "David E. Goldberg",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Machine learning",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Tom M. Mitchell"
+        "datatype": "Book",
+        "authors": "Tom M. Mitchell",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Machine learning: a probabilistic perspective",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Kevin P. Murphy"
+        "datatype": "Book",
+        "authors": "Kevin P. Murphy",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Neural networks for pattern recognition",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Christopher M. Bishop"
+        "datatype": "Book",
+        "authors": "Christopher M. Bishop",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Neural network methods for natural language processing",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Yaov Goldberg"
+        "datatype": "Book",
+        "authors": "Yaov Goldberg",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Pattern recognition and machine learning",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Christopher M. Bishop"
+        "datatype": "Book",
+        "authors": "Christopher M. Bishop",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Pattern classification",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Richard O. Duda, Peter E. Hart, David G. Stork"
+        "datatype": "Book",
+        "authors": "Richard O. Duda, Peter E. Hart, David G. Stork",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Reinforcement Learning: An Introduction",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Richard S. Sutton, Andrew G. Barto"
+        "datatype": "Book",
+        "authors": "Richard S. Sutton, Andrew G. Barto",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Speech and language processing",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Daniel Jurafsky, James H. Martin"
+        "datatype": "Book",
+        "authors": "Daniel Jurafsky, James H. Martin",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "The elements of statistical learning: data mining, inference and prediction",
         "url": null,
         "topic": "AI, DL, NLP and RL",
-        "datatype": "book",
-        "authors": "Trevor Hastie, Robert Tibshirani, Jerome Friedman"
+        "datatype": "Book",
+        "authors": "Trevor Hastie, Robert Tibshirani, Jerome Friedman",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "DeepSpeed: advancing MoE inference and training to power next-generation AI scale",
         "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "DeepSpeed Team, Andrey Proskurin"
+        "datatype": "Blog",
+        "authors": "DeepSpeed Team, Andrey Proskurin",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Turing-NLG: a 17-billion-parameter language model by Microsoft",
         "url": "https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "Corby Rosset"
+        "datatype": "Blog",
+        "authors": "Corby Rosset",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Understanding the Open Pre-Trained Transformers (OPT) library",
         "url": "https://towardsdatascience.com/understanding-the-open-pre-trained-transformers-opt-library-193a29c14a15",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "Cameron Wolfe"
+        "datatype": "Blog",
+        "authors": "Cameron Wolfe",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Using DeepSpeed and Megatron to train Megatron-Turing NLG 530B, the world\u2019s largest and most powerful generative language model",
         "url": "https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "Ali Alvi, Paresh Kharya"
+        "datatype": "Blog",
+        "authors": "Ali Alvi, Paresh Kharya",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Yandex publishes YaLM 100B. It\u2019s the largest GPT-like neural network in open source",
         "url": "https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "Mikhail Khrushchev"
+        "datatype": "Blog",
+        "authors": "Mikhail Khrushchev",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "A dynamical approach to temporal pattern processing",
         "url": "https://papers.nips.cc/paper/76-a-dynamical-approach-to-temporal-pattern-processing",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman"
+        "datatype": "Paper",
+        "authors": "W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 1987"
     },
     {
         "name": "A deep reinforced model for abstractive summarization",
-        "url": "https://openreview.net/forum?id=HkAClQgA-",
+        "url": "https://arxiv.org/abs/1705.04304",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Romain Paulus, Caiming Xiong, Richard Socher"
+        "datatype": "Paper",
+        "authors": "Romain Paulus, Caiming Xiong, Richard Socher",
+        "keywords": [
+            "NLP",
+            "Reinforcement Learning",
+            "Summarization"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "A few more examples may be worth billions of parameters",
         "url": "https://arxiv.org/abs/2110.04374",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy"
+        "datatype": "Paper",
+        "authors": "Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy",
+        "keywords": [
+            "NLP",
+            "Few Shot"
+        ],
+        "venue": null
     },
     {
         "name": "A 'neural' network that learns to play Backgammon",
         "url": "https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Gerald Tesauro, Terrence J. Sejnowski"
+        "datatype": "Paper",
+        "authors": "Gerald Tesauro, Terrence J. Sejnowski",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 1987"
     },
     {
         "name": "A note on the evaluation of generative models",
         "url": "https://arxiv.org/abs/1511.01844",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Lucas Theis, A\u00e4ron van den Oord, Matthias Bethge"
+        "datatype": "Paper",
+        "authors": "Lucas Theis, A\u00e4ron van den Oord, Matthias Bethge",
+        "keywords": [
+            "Generative Models",
+            "Deep Learning"
+        ],
+        "venue": "ICLR 2016"
     },
     {
         "name": "A simple but tough-to-beat baseline for sentence embeddings",
         "url": "https://openreview.net/forum?id=SyK00v5xx",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Sanjeev Arora, Yingyu Liang, Tengyu Ma"
+        "datatype": "Paper",
+        "authors": "Sanjeev Arora, Yingyu Liang, Tengyu Ma",
+        "keywords": [
+            "NLP",
+            "Embeddings"
+        ],
+        "venue": "ICLR 2017"
     },
     {
         "name": "A simple language model for task-oriented dialogue",
         "url": "https://arxiv.org/abs/2005.00796",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher"
+        "datatype": "Paper",
+        "authors": "Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "NeurIPS 2020"
     },
     {
         "name": "A simple neural attentive meta-learner",
         "url": "https://arxiv.org/abs/1707.03141",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel"
+        "datatype": "Paper",
+        "authors": "Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel",
+        "keywords": [
+            "Deep Learning",
+            "Meta Learning",
+            "Few Shot"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "A simple neural network module for relational reasoning",
         "url": "https://arxiv.org/abs/1706.01427",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap"
+        "datatype": "Paper",
+        "authors": "Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap",
+        "keywords": [
+            "Relational Reasoning",
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 2017"
     },
     {
         "name": "A style-based generator architecture for generative adversarial networks",
         "url": "https://arxiv.org/abs/1812.04948",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Tero Karras, Samuli Laine, Timo Aila"
+        "datatype": "Paper",
+        "authors": "Tero Karras, Samuli Laine, Timo Aila",
+        "keywords": [
+            "Generative Models",
+            "Adversarial Learning",
+            "Deep Learning"
+        ],
+        "venue": "CVPR 2019"
     },
     {
         "name": "A3T: adversarially augmented adversarial training",
         "url": "https://arxiv.org/abs/1801.04055",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien"
+        "datatype": "Paper",
+        "authors": "Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": "NeurIPS 2017"
     },
     {
         "name": "Adversarial approximate inference for speech to electroglottograph conversion",
         "url": "https://arxiv.org/abs/1903.12248",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Prathosh A. P., Varun Srivastava, Mayank Mishra"
+        "datatype": "Paper",
+        "authors": "Prathosh A. P., Varun Srivastava, Mayank Mishra",
+        "keywords": [
+            "Speech",
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning",
+            "Approximate Inference"
+        ],
+        "venue": "IEEE TASLP 2019"
     },
     {
         "name": "Adversarial autoencoders",
         "url": "https://arxiv.org/abs/1511.05644",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey"
+        "datatype": "Paper",
+        "authors": "Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Adversarial examples that fool both computer vision and time-limited humans",
         "url": "https://arxiv.org/abs/1802.08195",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein"
+        "datatype": "Paper",
+        "authors": "Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Examples"
+        ],
+        "venue": "NeurIPS 2018"
     },
     {
         "name": "Adversarial feature learning",
         "url": "https://arxiv.org/abs/1605.09782",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jeff Donahue, Philipp Kr\u00e4henb\u00fchl, Trevor Darrell"
+        "datatype": "Paper",
+        "authors": "Jeff Donahue, Philipp Kr\u00e4henb\u00fchl, Trevor Darrell",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": "ICLR 2017"
     },
     {
         "name": "Adversarial generation of natural language",
         "url": "https://arxiv.org/abs/1705.10929",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville"
+        "datatype": "Paper",
+        "authors": "Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville",
+        "keywords": [
+            "NLP",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": "ACL 2017"
     },
     {
         "name": "Adversarial information factorization",
         "url": "https://arxiv.org/abs/1711.05175",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Antonia Creswell, Yumnah Mohamied, Biswa Sengupta, Anil A Bharath"
+        "datatype": "Paper",
+        "authors": "Antonia Creswell, Yumnah Mohamied, Biswa Sengupta, Anil A Bharath",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Adversarially learned inference",
         "url": "https://arxiv.org/abs/1606.00704",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville"
+        "datatype": "Paper",
+        "authors": "Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": null
     },
     {
         "name": "An overview of gradient descent optimization algorithms",
         "url": "https://arxiv.org/abs/1609.04747",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Sebastian Ruder"
+        "datatype": "Paper",
+        "authors": "Sebastian Ruder",
+        "keywords": [
+            "Optimization",
+            "Deep Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Analysing mathematical reasoning abilities of neural models",
         "url": "https://arxiv.org/abs/1904.01557",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli"
+        "datatype": "Paper",
+        "authors": "David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "ICLR 2019"
     },
     {
-        "name": "Approximations by superpositions of sigmoidal functions",
-        "url": "https://www.semanticscholar.org/paper/Approximation-by-superpositions-of-a-sigmoidal-Cybenko/8da1dda34ecc96263102181448c94ec7d645d085",
+        "name": "Approximation by superpositions of sigmoidal function",
+        "url": "https://link.springer.com/article/10.1007/BF02551274",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "George Cybenko"
+        "datatype": "Paper",
+        "authors": "George Cybenko",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "MCSS 1989"
     },
     {
         "name": "Attention is all you need",
-        "url": "https://papers.nips.cc/paper/7181-attention-is-all-you-need",
+        "url": "https://arxiv.org/abs/1706.03762",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, \u0141ukasz Kaiser, Illia Polosukhin"
+        "datatype": "Paper",
+        "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, \u0141ukasz Kaiser, Illia Polosukhin",
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ],
+        "venue": "NeurIPS 2017"
     },
     {
         "name": "Auto-encoding variational Bayes",
         "url": "https://arxiv.org/abs/1312.6114",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Diederik P. Kingma, Max Welling"
+        "datatype": "Paper",
+        "authors": "Diederik P. Kingma, Max Welling",
+        "keywords": [
+            "Variational Inference",
+            "Generative Models",
+            "Deep Learning"
+        ],
+        "venue": "ICLR 2014"
     },
     {
         "name": "Backpropagation through the void: optimizing control variates for black-box gradient estimation",
         "url": "https://arxiv.org/abs/1711.00123",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud"
+        "datatype": "Paper",
+        "authors": "Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud",
+        "keywords": [
+            "Deep Learning",
+            "Optimization",
+            "Variational Inference",
+            "Reinforcement Learning",
+            "Backpropagation",
+            "Gradient Estimation",
+            "Discrete Optimization"
+        ],
+        "venue": "ICLR 2018"
     },
     {
-        "name": "BART: denoising seuqence-to-sequence pre-training for natural language generation, translation and comprehension",
+        "name": "BART: denoising sequence-to-sequence pre-training for natural language generation, translation and comprehension",
         "url": "https://arxiv.org/abs/1910.13461",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer"
+        "datatype": "Paper",
+        "authors": "Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer",
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ],
+        "venue": "ACL 2020"
     },
     {
         "name": "Batch normalization: accelerating deep network training by reducing internal covariate shift",
         "url": "https://arxiv.org/abs/1502.03167",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Sergey Ioffe, Christian Szegedy"
+        "datatype": "Paper",
+        "authors": "Sergey Ioffe, Christian Szegedy",
+        "keywords": [
+            "Deep Learning",
+            "Optimization",
+            "Normalization"
+        ],
+        "venue": "ICML 2015"
     },
     {
         "name": "BERT: pre-training of deep bidirectional transformers for language understanding",
         "url": "https://arxiv.org/abs/1810.04805",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova"
+        "datatype": "Paper",
+        "authors": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova",
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ],
+        "venue": "NAACL 2019"
     },
     {
         "name": "Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access",
         "url": "https://arxiv.org/abs/2006.03533",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur"
+        "datatype": "Paper",
+        "authors": "Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "SIGDIAL 2020"
     },
     {
         "name": "Bridging the gap between prior and posterior knowledge selection for knowledge-grounded dialogue generation",
         "url": "https://www.aclweb.org/anthology/2020.emnlp-main.275/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou"
+        "datatype": "Paper",
+        "authors": "Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou",
+        "keywords": [
+            "Variational Inference",
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "EMNLP 2020"
     },
     {
         "name": "ColBERT: efficient and effective passage search via contextualized late interaction over BERT",
         "url": "https://arxiv.org/abs/2004.12832",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Omar Khattab, Matei Zaharia"
+        "datatype": "Paper",
+        "authors": "Omar Khattab, Matei Zaharia",
+        "keywords": [
+            "NLP",
+            "Information Retrieval"
+        ],
+        "venue": "SIGIR 2020"
     },
     {
         "name": "Conceptual captions: a cleaned, hypernymed, image alt-text dataset for automatic image captioning",
         "url": "https://aclanthology.org/P18-1238/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut"
+        "datatype": "Paper",
+        "authors": "Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut",
+        "keywords": [
+            "Dataset",
+            "NLP",
+            "Computer Vision"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Conditional image synthesis with auxilliary classifier GANs",
         "url": "https://arxiv.org/abs/1610.09585",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Augustus Odena, Christopher Olah, Jonathon Shlens"
+        "datatype": "Paper",
+        "authors": "Augustus Odena, Christopher Olah, Jonathon Shlens",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": "ICML 2017"
     },
     {
         "name": "Connectivity versus entropy",
         "url": "https://papers.nips.cc/paper/63-connectivity-versus-entropy",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yaser S. Abu-Mostafa"
+        "datatype": "Paper",
+        "authors": "Yaser S. Abu-Mostafa",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 1987"
     },
     {
         "name": "Constraint based knowledge base distillation in end-to-end task oriented dialogs",
-        "url": "https://aclanthology.org/2021.findings-acl.448/",
+        "url": "https://arxiv.org/abs/2109.07396",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Dinesh Raghu, Atishya Jain, Mausam, Sachindra Joshi"
+        "datatype": "Paper",
+        "authors": "Dinesh Raghu, Atishya Jain, Mausam, Sachindra Joshi",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "ACL 2021"
     },
     {
         "name": "Convolutional networks for graphs for learning molecular fingerprints",
-        "url": "https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints",
+        "url": "https://arxiv.org/abs/1509.09292",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams"
+        "datatype": "Paper",
+        "authors": "David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams",
+        "keywords": [
+            "Deep Learning",
+            "Molecular Chemistry"
+        ],
+        "venue": "NeurIPS 2015"
     },
     {
         "name": "Convolutional neural network language models",
-        "url": "https://aclanthology.info/papers/D16-1123/d16-1123",
+        "url": "https://aclanthology.org/D16-1123/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ngoc-Quan Pham, Germ\u00e1n Kruszewski, Gemma Boleda"
+        "datatype": "Paper",
+        "authors": "Ngoc-Quan Pham, Germ\u00e1n Kruszewski, Gemma Boleda",
+        "keywords": [
+            "NLP"
+        ],
+        "venue": "EMNLP 2016"
     },
     {
         "name": "Countering adversarial images using input transformations",
         "url": "https://arxiv.org/abs/1711.00117",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Chuan Guo, Mayank Rana, Moustapha Cisse, Laurens van der Maaten"
+        "datatype": "Paper",
+        "authors": "Chuan Guo, Mayank Rana, Moustapha Cisse, Laurens van der Maaten",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Examples",
+            "Robustness"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Curriculum learning",
         "url": "https://dl.acm.org/citation.cfm?id=1553380",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yoshua Bengio, J\u00e9r\u00f4me Louradour, Ronan Collobert, Jason Weston"
+        "datatype": "Paper",
+        "authors": "Yoshua Bengio, J\u00e9r\u00f4me Louradour, Ronan Collobert, Jason Weston",
+        "keywords": [
+            "Deep Learning",
+            "Curriculum Learning"
+        ],
+        "venue": "ICML 2009"
     },
     {
         "name": "Deep complex networks",
         "url": "https://arxiv.org/abs/1705.09792",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, Jo\u00e3o Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal"
+        "datatype": "Paper",
+        "authors": "Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, Jo\u00e3o Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal",
+        "keywords": [
+            "Deep Learning",
+            "Complex Numbers"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Deep learning and the information bottleneck principle",
-        "url": "https://ieeexplore.ieee.org/document/7133169",
+        "url": "https://arxiv.org/abs/1503.02406",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Naftali Tishby, Noga Zaslavsky"
+        "datatype": "Paper",
+        "authors": "Naftali Tishby, Noga Zaslavsky",
+        "keywords": [
+            "Deep Learning",
+            "Information Theory"
+        ],
+        "venue": "IEEE Information Theory Workshop 2015"
     },
     {
         "name": "Deep residual learning for image recognition",
         "url": "https://arxiv.org/abs/1512.03385",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun"
+        "datatype": "Paper",
+        "authors": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
+        "keywords": [
+            "Deep Learning",
+            "Computer Vision",
+            "Image Classification"
+        ],
+        "venue": "CVPR 2016"
     },
     {
         "name": "Denoising distantly supervised open-domain question answering",
-        "url": "https://aclanthology.info/papers/P18-1161/p18-1161",
+        "url": "https://aclanthology.org/P18-1161/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun"
+        "datatype": "Paper",
+        "authors": "Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun",
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Diffusion convolutional recurrent neural network: data-driven traffic forecasting",
-        "url": "https://openreview.net/forum?id=SJiHXGWAZ",
+        "url": "https://arxiv.org/abs/1707.01926",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu"
+        "datatype": "Paper",
+        "authors": "Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu",
+        "keywords": [
+            "Spatio-Temporal Reasoning",
+            "Time Series",
+            "Deep Learning",
+            "Graph Neural Networks"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Discrete variational autoencoders",
-        "url": "https://arxiv.org/abs/1609.02200?context=cs",
+        "url": "https://arxiv.org/abs/1609.02200",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jason Tyler Rolfe"
+        "datatype": "Paper",
+        "authors": "Jason Tyler Rolfe",
+        "keywords": [
+            "Variational Inference",
+            "Generative Models",
+            "Deep Learning"
+        ],
+        "venue": "ICLR 2017"
     },
     {
         "name": "Disentangling by factorising",
         "url": "https://arxiv.org/abs/1802.05983",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Hyunjik Kim, Andriy Mnih"
+        "datatype": "Paper",
+        "authors": "Hyunjik Kim, Andriy Mnih",
+        "keywords": [
+            "Deep Learning",
+            "Disentanglement",
+            "Variational Inference",
+            "Generative Models"
+        ],
+        "venue": "ICML 2018"
     },
     {
         "name": "Disentangling language and knowledge in task-oriented dialogs",
-        "url": "https://aclanthology.org/N19-1126/",
+        "url": "https://arxiv.org/abs/1805.01216",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Dinesh Raghu, Nikhil Gupta, Mausam"
+        "datatype": "Paper",
+        "authors": "Dinesh Raghu, Nikhil Gupta, Mausam",
+        "keywords": [
+            "NLP",
+            "Disentanglement",
+            "Dialog"
+        ],
+        "venue": "NAACL 2019"
     },
     {
         "name": "Efficient estimation of word representations in vector space",
         "url": "https://arxiv.org/abs/1301.3781",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean"
+        "datatype": "Paper",
+        "authors": "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean",
+        "keywords": [
+            "NLP",
+            "Embeddings"
+        ],
+        "venue": "ICLR 2013"
     },
     {
         "name": "Efficient large scale language modeling with mixtures of experts",
         "url": "https://arxiv.org/abs/2112.10684",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Mikel Artetxe, Shruti Bhosale, Naman Goyal, Todor Mihaylov, Myle Ott, Sam Shleifer, Xi Victoria Lin, Jingfei Du, Srinivasan Iyer, Ramakanth Pasunuru, Giri Anantharaman, Xian Li, Shuohui Chen, Halil Akin, Mandeep Baines, Louis Martin, Xing Zhou, Punit Singh Koura, Brian O'Horo, Jeff Wang, Luke Zettlemoyer, Mona Diab, Zornitsa Kozareva, Ves Stoyanov"
+        "datatype": "Paper",
+        "authors": "Mikel Artetxe, Shruti Bhosale, Naman Goyal, Todor Mihaylov, Myle Ott, Sam Shleifer, Xi Victoria Lin, Jingfei Du, Srinivasan Iyer, Ramakanth Pasunuru, Giri Anantharaman, Xian Li, Shuohui Chen, Halil Akin, Mandeep Baines, Louis Martin, Xing Zhou, Punit Singh Koura, Brian O'Horo, Jeff Wang, Luke Zettlemoyer, Mona Diab, Zornitsa Kozareva, Ves Stoyanov",
+        "keywords": [
+            "Deep Learning",
+            "NLP",
+            "Transformers",
+            "Large Models"
+        ],
+        "venue": null
     },
     {
         "name": "Efficient large-scale language model training on GPU clusters using Megatron-LM",
         "url": "https://arxiv.org/abs/2104.04473",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Deepak Narayanan, Mohammad Shoeybi, Jared Casper, Patrick LeGresley, Mostofa Patwary, Vijay Anand Korthikanti, Dmitri Vainbrand, Prethvi Kashinkunti, Julie Bernauer, Bryan Catanzaro, Amar Phanishayee, Matei Zaharia"
+        "datatype": "Paper",
+        "authors": "Deepak Narayanan, Mohammad Shoeybi, Jared Casper, Patrick LeGresley, Mostofa Patwary, Vijay Anand Korthikanti, Dmitri Vainbrand, Prethvi Kashinkunti, Julie Bernauer, Bryan Catanzaro, Amar Phanishayee, Matei Zaharia",
+        "keywords": [
+            "Deep Learning",
+            "Transformers",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": "SC 2021"
     },
     {
         "name": "Enchancing the reliability of out-of-distribution image detection in neural networks",
-        "url": "https://openreview.net/forum?id=H1VGkIxRZ",
+        "url": "https://arxiv.org/abs/1706.02690",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Shiyu Liang, Yixuan Li, R. Srikant"
+        "datatype": "Paper",
+        "authors": "Shiyu Liang, Yixuan Li, R. Srikant",
+        "keywords": [
+            "Deep Learning",
+            "Out-of-Distribution Detection"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "End-to-end task-oriented dialog modeling with semi-structured knowledge management",
         "url": "https://arxiv.org/abs/2106.11796",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang"
+        "datatype": "Paper",
+        "authors": "Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "IEEE TASLP 2022"
     },
     {
         "name": "Ensemble adversarial training: attacks and defenses",
-        "url": "https://openreview.net/forum?id=rkZvSe-RZ",
+        "url": "https://arxiv.org/abs/1705.07204",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Florian Tram\u00e8r, Alexey Kurakin, Nicolas Papernot, Ian Goodfellow, Dan Boneh, Patrick McDaniel"
+        "datatype": "Paper",
+        "authors": "Florian Tram\u00e8r, Alexey Kurakin, Nicolas Papernot, Ian Goodfellow, Dan Boneh, Patrick McDaniel",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Examples",
+            "Robustness"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Equilibrium propagation: bridging the gap between energy-based models and backpropagation",
         "url": "https://arxiv.org/abs/1602.05179",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Benjamin Scellier, Yoshua Bengio"
+        "datatype": "Paper",
+        "authors": "Benjamin Scellier, Yoshua Bengio",
+        "keywords": [
+            "Deep Learning",
+            "Enery based Models",
+            "Backpropagation"
+        ],
+        "venue": "Frontiers in Computational Neuroscience 2017"
     },
     {
         "name": "Exemplar encoder-decoder for neural conversation generation",
         "url": "https://www.aclweb.org/anthology/P18-1123/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi"
+        "datatype": "Paper",
+        "authors": "Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Exploring deep recurrent models with reinforcement learning for molecule design",
         "url": "https://openreview.net/forum?id=HkcTe-bR-",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown"
+        "datatype": "Paper",
+        "authors": "Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown",
+        "keywords": [
+            "Reinforcement Learning",
+            "Molecular Chemistry"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
         "url": "https://arxiv.org/abs/1810.01367",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud"
+        "datatype": "Paper",
+        "authors": "Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models"
+        ],
+        "venue": "ICLR 2019"
     },
     {
         "name": "Finetuned language models are zero-shot learners",
         "url": "https://arxiv.org/abs/2109.01652",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le"
+        "datatype": "Paper",
+        "authors": "Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le",
+        "keywords": [
+            "Zero Shot",
+            "NLP",
+            "Transformers"
+        ],
+        "venue": "ICLR 2022"
     },
     {
         "name": "Generating sentences from a continuous space",
         "url": "https://arxiv.org/abs/1511.06349",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio"
+        "datatype": "Paper",
+        "authors": "Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio",
+        "keywords": [
+            "NLP"
+        ],
+        "venue": "CoNLL 2016"
     },
     {
         "name": "Generation-augmented retrieval for open-domain question answering",
         "url": "https://arxiv.org/abs/2009.08553",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen"
+        "datatype": "Paper",
+        "authors": "Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen",
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ],
+        "venue": "ACL 2021"
     },
     {
         "name": "Generative adversarial nets",
         "url": "https://arxiv.org/abs/1406.2661",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio"
+        "datatype": "Paper",
+        "authors": "Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": "NeurIPS 2014"
     },
     {
         "name": "Going deeper with convolutions",
         "url": "https://arxiv.org/abs/1409.4842",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich"
+        "datatype": "Paper",
+        "authors": "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich",
+        "keywords": [
+            "Deep Learning",
+            "Computer Vision",
+            "Image Classification"
+        ],
+        "venue": "CVPR 2015"
     },
     {
         "name": "GPT-NeoX-20B: an open-source autoregressive language model",
         "url": "https://arxiv.org/abs/2204.06745",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach"
+        "datatype": "Paper",
+        "authors": "Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach",
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Large Models"
+        ],
+        "venue": "ACL 2022"
     },
     {
         "name": "Gradient-based hyperparameter optimization through reversible learning",
         "url": "https://arxiv.org/abs/1502.03492",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Dougal Maclaurin, David Duvenaud, Ryan P. Adams"
+        "datatype": "Paper",
+        "authors": "Dougal Maclaurin, David Duvenaud, Ryan P. Adams",
+        "keywords": [
+            "Meta Learning",
+            "Deep Learning"
+        ],
+        "venue": "ICML 2015"
     },
     {
         "name": "Graph attention networks",
         "url": "https://arxiv.org/abs/1710.10903",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Petar Veli\u010dkovi\u0107, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li\u00f2, Yoshua Bengio"
+        "datatype": "Paper",
+        "authors": "Petar Veli\u010dkovi\u0107, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li\u00f2, Yoshua Bengio",
+        "keywords": [
+            "Deep Learning",
+            "Graph Neural Networks"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Hierarchical neural story generation",
-        "url": "https://aclanthology.org/P18-1082/",
+        "url": "https://arxiv.org/abs/1805.04833",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Angela Fan, Mike Lewis, Yann Dauphin"
+        "datatype": "Paper",
+        "authors": "Angela Fan, Mike Lewis, Yann Dauphin",
+        "keywords": [
+            "NLP",
+            "Story Generation"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Hindsight: posterior-guided training of retrievers for improved open-ended generation",
         "url": "https://arxiv.org/abs/2110.07752",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ashwin Paranjape, Omar Khattab, Christopher Potts, Matei Zaharia, Christopher D. Manning"
+        "datatype": "Paper",
+        "authors": "Ashwin Paranjape, Omar Khattab, Christopher Potts, Matei Zaharia, Christopher D. Manning",
+        "keywords": [
+            "NLP",
+            "Retrieval-Augmented Generation",
+            "Variational Inference"
+        ],
+        "venue": "ICLR 2022"
     },
     {
         "name": "HotFlip: white-box adversarial examples for text classification",
-        "url": "https://aclanthology.org/P18-2006/",
+        "url": "https://arxiv.org/abs/1712.06751",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou"
+        "datatype": "Paper",
+        "authors": "Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou",
+        "keywords": [
+            "NLP",
+            "Adversarial Examples"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "HyKnow: end-to-end task-oriented dialog modeling with hybrid knowledge management",
-        "url": "https://aclanthology.org/2021.findings-acl.139/",
+        "url": "https://arxiv.org/abs/2105.06041",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang"
+        "datatype": "Paper",
+        "authors": "Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "ACL 2021"
     },
     {
         "name": "ImageNet classification using deep convolutional neural networks",
         "url": "https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton"
+        "datatype": "Paper",
+        "authors": "Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton",
+        "keywords": [
+            "Computer Vision",
+            "Image Classification",
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 2012"
     },
     {
         "name": "Image-to-image translation with conditional generative adversarial networks",
         "url": "https://arxiv.org/abs/1611.07004",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros"
+        "datatype": "Paper",
+        "authors": "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Improving entity linking by modeling latent relations between mentions",
         "url": "https://arxiv.org/abs/1804.10637",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Phong Le, Ivan Titov"
+        "datatype": "Paper",
+        "authors": "Phong Le, Ivan Titov",
+        "keywords": [
+            "NLP",
+            "Entity Linking"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Improving language understanding by generative pre-training",
-        "url": "https://openai.com/blog/language-unsupervised/",
+        "url": "https://arxiv.org/abs/2112.04426",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever"
+        "datatype": "Paper",
+        "authors": "Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever",
+        "keywords": [
+            "NLP",
+            "Retrieval-Augmented Generation"
+        ],
+        "venue": "ICML 2022"
     },
     {
         "name": "Inference suboptimality in variational autoencoders",
         "url": "https://arxiv.org/abs/1801.03558",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Chris Cremer, Xuechen Li, David Duvenaud"
+        "datatype": "Paper",
+        "authors": "Chris Cremer, Xuechen Li, David Duvenaud",
+        "keywords": [
+            "Approximate Inference",
+            "Variational Inference",
+            "Deep Learning"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "InfoGAN: interpretable representation learning by information maximizing generative adversarial nets",
         "url": "https://arxiv.org/abs/1606.03657",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel"
+        "datatype": "Paper",
+        "authors": "Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel",
+        "keywords": [
+            "Information Theory",
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": "NeurIPS 2016"
     },
     {
         "name": "Interpretable convolutional neural networks via feedforward design",
         "url": "https://arxiv.org/abs/1810.02786",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen"
+        "datatype": "Paper",
+        "authors": "C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen",
+        "keywords": [
+            "Deep Learning",
+            "Computer Vision"
+        ],
+        "venue": "Journal of Visual Communication and Image Representation 2019"
     },
     {
         "name": "Know what you don't know: unanswerable questions for SQuAD",
-        "url": "https://aclanthology.org/P18-2124/",
+        "url": "https://arxiv.org/abs/1806.03822",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Pranav Rajpurkar, Robin Jia, Percy Liang"
+        "datatype": "Paper",
+        "authors": "Pranav Rajpurkar, Robin Jia, Percy Liang",
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Knowledge-grounded dialogue generation with pre-trained language models",
         "url": "https://arxiv.org/abs/2010.08824",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan"
+        "datatype": "Paper",
+        "authors": "Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "EMNLP 2020"
     },
     {
         "name": "Language models are unsupervised multitask learners",
         "url": "https://openai.com/blog/better-language-models/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever"
+        "datatype": "Paper",
+        "authors": "Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever",
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ],
+        "venue": null
     },
     {
         "name": "Learning activation functions to improve deep neural networks",
         "url": "https://arxiv.org/abs/1412.6830",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi"
+        "datatype": "Paper",
+        "authors": "Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Learning discourse-level diversity for neural dialog models using conditional variational autoencoders",
         "url": "https://arxiv.org/abs/1703.10960",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Tiancheng Zhao, Ran Zhao, Maxine Eskenazi"
+        "datatype": "Paper",
+        "authors": "Tiancheng Zhao, Ran Zhao, Maxine Eskenazi",
+        "keywords": [
+            "NLP",
+            "Dialog",
+            "Variational Inference"
+        ],
+        "venue": "ACL 2017"
     },
     {
         "name": "Learning on a general network",
         "url": "https://papers.nips.cc/paper/9-learning-on-a-general-network",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Amir F. Atiya"
+        "datatype": "Paper",
+        "authors": "Amir F. Atiya",
+        "keywords": [
+            "Deep Learning",
+            "Backpropagation"
+        ],
+        "venue": "NeurIPS 1987"
     },
     {
         "name": "Learning representations by back-propagating errors",
         "url": "https://www.nature.com/articles/323533a0",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams"
+        "datatype": "Paper",
+        "authors": "David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams",
+        "keywords": [
+            "Deep Learning",
+            "Backpropagation"
+        ],
+        "venue": "Nature 1986"
     },
     {
         "name": "Learning transferable visual models from natural language supervision",
         "url": "https://arxiv.org/abs/2103.00020",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever"
+        "datatype": "Paper",
+        "authors": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever",
+        "keywords": [
+            "Deep Learning",
+            "Computer Vision"
+        ],
+        "venue": "ICML 2021"
     },
     {
         "name": "Learning word embeddings efficiently with noise-contrastive estimation",
         "url": "https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Andriy Mnih, Koray Kavukcuoglu"
+        "datatype": "Paper",
+        "authors": "Andriy Mnih, Koray Kavukcuoglu",
+        "keywords": [
+            "NLP",
+            "Embeddings"
+        ],
+        "venue": "NeurIPS 2013"
     },
     {
         "name": "Mask & focus: conversation modelling by learning concepts",
         "url": "https://arxiv.org/abs/2003.04976",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Gaurav Pandey, Dinesh Raghu, Sachindra Joshi"
+        "datatype": "Paper",
+        "authors": "Gaurav Pandey, Dinesh Raghu, Sachindra Joshi",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "AAAI 2020"
     },
     {
         "name": "Megatron-LM: training multi-billion parameter language models using model parallelism",
         "url": "https://arxiv.org/abs/1909.08053",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro"
+        "datatype": "Paper",
+        "authors": "Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro",
+        "keywords": [
+            "Deep Learning",
+            "Transformers",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": null
     },
     {
         "name": "MinTL: minimalist transfer learning for task-oriented dialogue systems",
         "url": "https://arxiv.org/abs/2009.12005",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung"
+        "datatype": "Paper",
+        "authors": "Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "EMNLP 2020"
     },
     {
         "name": "mixup: beyond empirical risk minimization",
-        "url": "https://openreview.net/forum?id=r1Ddp1-Rb",
+        "url": "https://arxiv.org/abs/1710.09412v1",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz"
+        "datatype": "Paper",
+        "authors": "Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz",
+        "keywords": [
+            "Empirical Risk Minimization",
+            "Adversarial Examples",
+            "Adversarial Learning",
+            "Generative Models",
+            "Deep Learning"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "MMCoQA: conversational question answering over text, tables and images",
         "url": "https://aclanthology.org/2022.acl-long.290/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yongqi Li, Wenjie Li, Liqiang Nie"
+        "datatype": "Paper",
+        "authors": "Yongqi Li, Wenjie Li, Liqiang Nie",
+        "keywords": [
+            "NLP",
+            "Question Answering",
+            "Dialog",
+            "Dataset"
+        ],
+        "venue": "ACL 2022"
     },
     {
         "name": "Multi-level memory for task oriented dialogs",
         "url": "https://arxiv.org/abs/1810.10647",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi"
+        "datatype": "Paper",
+        "authors": "Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "NAACL 2019"
     },
     {
         "name": "MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling",
-        "url": "https://aclanthology.org/D18-1547/",
+        "url": "https://arxiv.org/abs/1810.00278",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Pawe\u0142 Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, I\u00f1igo Casanueva, Stefan Ultes, Osman Ramadan, Milica Ga\u0161i\u0107"
+        "datatype": "Paper",
+        "authors": "Pawe\u0142 Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, I\u00f1igo Casanueva, Stefan Ultes, Osman Ramadan, Milica Ga\u0161i\u0107",
+        "keywords": [
+            "NLP",
+            "Dialog",
+            "Dataset"
+        ],
+        "venue": "EMNLP 2018"
     },
     {
         "name": "Mutual information neural estimation",
         "url": "https://arxiv.org/abs/1801.04062",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm"
+        "datatype": "Paper",
+        "authors": "Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm",
+        "keywords": [
+            "Deep Learning",
+            "Information Theory"
+        ],
+        "venue": "ICML 2018"
     },
     {
-        "name": "NEMGAN: Noise Engineered Mode-Matching GAN",
-        "url": "https://arxiv.org/abs/1811.03692v2",
+        "name": "Mode matching in GANs through latent space learning and inversion",
+        "url": "https://arxiv.org/abs/1811.03692",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Deepak Mishra, Prathosh A. P., Aravind J, Prashant Pandey, Santanu Chaudhury"
+        "datatype": "Paper",
+        "authors": "Deepak Mishra, Prathosh A. P., Aravind Jayendran, Varun Srivastava, Santanu Chaudhury",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Neural GPUs learn algorithms",
         "url": "https://arxiv.org/abs/1511.08228",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "\u0141ukasz Kaiser, Ilya Sutskever"
+        "datatype": "Paper",
+        "authors": "\u0141ukasz Kaiser, Ilya Sutskever",
+        "keywords": [
+            "Theory of Computation",
+            "Deep Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Neural ordinary differential equations",
-        "url": "http://papers.nips.cc/paper/7892-neural-ordinary-differential-equations",
+        "url": "https://arxiv.org/abs/1806.07366",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud"
+        "datatype": "Paper",
+        "authors": "Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud",
+        "keywords": [
+            "Differential Equations",
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 2018"
     },
     {
         "name": "Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples",
         "url": "https://arxiv.org/abs/1802.00420",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Anish Athalye, Nicholas Carlini, David Wagner"
+        "datatype": "Paper",
+        "authors": "Anish Athalye, Nicholas Carlini, David Wagner",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Examples"
+        ],
+        "venue": "ICML 2018"
     },
     {
         "name": "On the convergence of Adam and beyond",
-        "url": "https://openreview.net/forum?id=ryQu7f-RZ",
+        "url": "https://arxiv.org/abs/1904.09237",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Sashank J. Reddi, Satyen Kale, Sanjiv Kumar"
+        "datatype": "Paper",
+        "authors": "Sashank J. Reddi, Satyen Kale, Sanjiv Kumar",
+        "keywords": [
+            "Deep Learning",
+            "Optimization",
+            "Convergence"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "On the power of neural networks for solving hard problems",
         "url": "https://papers.nips.cc/paper/70-on-the-power-of-neural-networks-for-solving-hard-problems",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jehoshua Bruck, Joseph W. Goodman"
+        "datatype": "Paper",
+        "authors": "Jehoshua Bruck, Joseph W. Goodman",
+        "keywords": [
+            "Deep Learning",
+            "NP-Hard"
+        ],
+        "venue": "NeurIPS 1987"
     },
     {
         "name": "One model to learn them all",
         "url": "https://arxiv.org/abs/1706.05137",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit"
+        "datatype": "Paper",
+        "authors": "Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit",
+        "keywords": [
+            "Deep Learning",
+            "Multi-modal"
+        ],
+        "venue": null
     },
     {
         "name": "Open domain question answering over tables via dense retrieval",
-        "url": "https://aclanthology.org/2021.naacl-main.43/",
+        "url": "https://arxiv.org/abs/2103.12011",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jonathan Herzig, Thomas M\u00fcller, Syrine Krichene, Julian Eisenschlos"
+        "datatype": "Paper",
+        "authors": "Jonathan Herzig, Thomas M\u00fcller, Syrine Krichene, Julian Eisenschlos",
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ],
+        "venue": "NAACL 2021"
     },
     {
         "name": "Open question answering over tables and text",
         "url": "https://openreview.net/forum?id=MmCRswl1UYl",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen"
+        "datatype": "Paper",
+        "authors": "Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen",
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ],
+        "venue": "ICLR 2021"
     },
     {
         "name": "OPT: open pre-trained transformer language models",
         "url": "https://arxiv.org/abs/2205.01068",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer"
+        "datatype": "Paper",
+        "authors": "Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer",
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Large Models"
+        ],
+        "venue": null
     },
     {
         "name": "Perceptual losses for real-time style transfer and super-resolution",
         "url": "https://arxiv.org/abs/1603.08155",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Justin Johnson, Alexandre Alahi, Li Fei-Fei"
+        "datatype": "Paper",
+        "authors": "Justin Johnson, Alexandre Alahi, Li Fei-Fei",
+        "keywords": [
+            "Computer Vision",
+            "Image Super Resolution",
+            "Deep Learning"
+        ],
+        "venue": "ECCV 2016"
     },
     {
         "name": "Personalizing dialogue agents: I have a dog, do you have pets too?",
-        "url": "https://aclanthology.org/P18-1205/",
+        "url": "https://arxiv.org/abs/1801.07243",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston"
+        "datatype": "Paper",
+        "authors": "Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston",
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Phase-functioned neural networks for character control",
         "url": "https://dl.acm.org/citation.cfm?id=3073663",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Daniel Holden, Taku Komura, Jun Saito"
+        "datatype": "Paper",
+        "authors": "Daniel Holden, Taku Komura, Jun Saito",
+        "keywords": [
+            "Deep Learning",
+            "Computer Graphics"
+        ],
+        "venue": "ACM Transactions on Graphics"
     },
     {
         "name": "Playing Atari with deep reinforcement learning",
         "url": "https://arxiv.org/abs/1312.5602",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller"
+        "datatype": "Paper",
+        "authors": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller",
+        "keywords": [
+            "Reinforcement Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Pre-train, prompt, and predict: a systematic survey of prompting methods in natural language processing",
         "url": "https://arxiv.org/abs/2107.13586",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig"
+        "datatype": "Paper",
+        "authors": "Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig",
+        "keywords": [
+            "Few Shot",
+            "NLP",
+            "Prompting"
+        ],
+        "venue": null
     },
     {
         "name": "Prefix-tuning: optimizing continuous prompts for generation",
-        "url": "https://aclanthology.org/2021.acl-long.353/",
+        "url": "https://arxiv.org/abs/2101.00190",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Xiang Lisa Li, Percy Liang"
+        "datatype": "Paper",
+        "authors": "Xiang Lisa Li, Percy Liang",
+        "keywords": [
+            "Prompting",
+            "NLP",
+            "Few Shot"
+        ],
+        "venue": "ACL 2021"
     },
     {
         "name": "Probabilistic latent semantic analysis",
         "url": "https://arxiv.org/abs/1301.6705",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Thomas Hofmann"
+        "datatype": "Paper",
+        "authors": "Thomas Hofmann",
+        "keywords": [
+            "NLP",
+            "Information Retrieval"
+        ],
+        "venue": null
     },
     {
         "name": "Progressive growing of GANs from improved quality, stability and variation",
-        "url": "https://openreview.net/forum?id=Hk99zCeAb",
+        "url": "https://arxiv.org/abs/1710.10196",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen"
+        "datatype": "Paper",
+        "authors": "Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen",
+        "keywords": [
+            "Deep Learning",
+            "Generative Models",
+            "Adversarial Learning"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "PullNet: open domain question answering with iterative retrieval on knowledge bases and text",
-        "url": "http://aclanthology.lst.uni-saarland.de/D19-1242/",
+        "url": "https://arxiv.org/abs/1904.09537",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Haitian Sun, Tania Bedrax-Weiss, William Cohen"
+        "datatype": "Paper",
+        "authors": "Haitian Sun, Tania Bedrax-Weiss, William Cohen",
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ],
+        "venue": "EMNLP 2019"
     },
     {
         "name": "Reading Wikipedia to answer open-domain questions",
         "url": "https://arxiv.org/abs/1704.00051",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes"
+        "datatype": "Paper",
+        "authors": "Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes",
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ],
+        "venue": "ACL 2017"
     },
     {
         "name": "REALM: Retrieval-augmented language model pretraining",
         "url": "https://arxiv.org/abs/2002.08909",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang"
+        "datatype": "Paper",
+        "authors": "Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang",
+        "keywords": [
+            "NLP",
+            "Information Retrieval",
+            "Retrieval-Augmented Generation"
+        ],
+        "venue": "ICML 2020"
     },
     {
         "name": "Recurrent models of visual attention",
         "url": "https://arxiv.org/abs/1406.6247",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu"
+        "datatype": "Paper",
+        "authors": "Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Regularizing and optimizing LSTM language models",
-        "url": "https://openreview.net/forum?id=SyyGPP0TZ",
+        "url": "https://arxiv.org/abs/1708.02182",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Stephen Merity, Nitish Shirish Keskar, Richard Socher"
+        "datatype": "Paper",
+        "authors": "Stephen Merity, Nitish Shirish Keskar, Richard Socher",
+        "keywords": [
+            "Deep Learning",
+            "Regularization",
+            "Optimization"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Restricted Boltzmann machines for collaborative filtering",
         "url": "https://dl.acm.org/citation.cfm?doid=1273496.1273596",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ruslan Salakhutdinov, Andriy Mnih, Geoffrey Hinton"
+        "datatype": "Paper",
+        "authors": "Ruslan Salakhutdinov, Andriy Mnih, Geoffrey Hinton",
+        "keywords": [
+            "Boltzmann Machines",
+            "Energy-based Models",
+            "Deep Learning",
+            "Collaborative Filtering",
+            "Recommender Systems"
+        ],
+        "venue": "ICML 2007"
     },
     {
         "name": "Retrieval augmentation reduces hallucination in conversation",
         "url": "https://arxiv.org/abs/2104.07567",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Kurt Shuster, Spencer Poff, Moya Chen, Douwe Kiela, Jason Weston"
+        "datatype": "Paper",
+        "authors": "Kurt Shuster, Spencer Poff, Moya Chen, Douwe Kiela, Jason Weston",
+        "keywords": [
+            "Dialog",
+            "NLP",
+            "Hallucination",
+            "Retrieval-Augmented Generation"
+        ],
+        "venue": "EMNLP 2021"
     },
     {
         "name": "Retrieval-augmented generation for knowledge-intensive NLP tasks",
         "url": "https://arxiv.org/abs/2005.11401",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Patrick Lewis, Ethan Perez, Aleksandara Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich K\u00fcttler, Mike Lewis, Wen-tau Yih, Tim Rockt\u00e4schel, Sebastian Riedel, Douwe Kiela"
+        "datatype": "Paper",
+        "authors": "Patrick Lewis, Ethan Perez, Aleksandara Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich K\u00fcttler, Mike Lewis, Wen-tau Yih, Tim Rockt\u00e4schel, Sebastian Riedel, Douwe Kiela",
+        "keywords": [
+            "NLP",
+            "Information Retrieval",
+            "Retrieval-Augmented Generation",
+            "Hallucination"
+        ],
+        "venue": "NeurIPS 2020"
     },
     {
         "name": "Revisiting classifier two-sample tests",
         "url": "https://arxiv.org/abs/1610.06545",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "David Lopez-Paz, Maxime Oquab"
+        "datatype": "Paper",
+        "authors": "David Lopez-Paz, Maxime Oquab",
+        "keywords": [
+            "Unsupervised Learning",
+            "Deep Learning"
+        ],
+        "venue": "ICLR 2017"
     },
     {
         "name": "Self-normalizing neural networks",
-        "url": "https://papers.nips.cc/paper/6698-self-normalizing-neural-networks",
+        "url": "https://arxiv.org/abs/1706.02515",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "G\u00fcnter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter"
+        "datatype": "Paper",
+        "authors": "G\u00fcnter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter",
+        "keywords": [
+            "Deep Learning",
+            "Normalization",
+            "Activation Function"
+        ],
+        "venue": "NeurIPS 2017"
     },
     {
         "name": "Sequential latent knowledge selection for knowledge-grounded dialogue",
         "url": "https://arxiv.org/abs/2002.07510",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Byeongchang Kim, Jaewoo Ahn, Gunhee Kim"
+        "datatype": "Paper",
+        "authors": "Byeongchang Kim, Jaewoo Ahn, Gunhee Kim",
+        "keywords": [
+            "NLP",
+            "Dialog",
+            "Variational Inference"
+        ],
+        "venue": "ICLR 2020"
     },
     {
-        "name": "Soloist few-shot task-oriented dialog with a single pre-trained auto-regressive model",
+        "name": "SOLOIST: building task bots at scale with transfer learning and machine teaching",
         "url": "https://arxiv.org/abs/2005.05298",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao"
+        "datatype": "Paper",
+        "authors": "Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao",
+        "keywords": [
+            "NLP",
+            "Dialog",
+            "Few Shot",
+            "Transfer Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Solving quantitative reasoning problems with language models",
         "url": "https://arxiv.org/abs/2206.14858",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra"
+        "datatype": "Paper",
+        "authors": "Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra",
+        "keywords": [
+            "NLP",
+            "Large Models",
+            "Transformers"
+        ],
+        "venue": null
     },
     {
         "name": "Spectral normalization for generative adversarial networks",
-        "url": "https://openreview.net/forum?id=B1QRgziT-",
+        "url": "https://arxiv.org/abs/1802.05957",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida"
+        "datatype": "Paper",
+        "authors": "Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Learning"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Sticking the landing: simple, lower-variance gradient estimators for variational inference",
-        "url": "https://papers.nips.cc/paper/7268-sticking-the-landing-simple-lower-variance-gradient-estimators-for-variational-inference",
+        "url": "https://arxiv.org/abs/1703.09194",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Geoffrey Roeder, Yuhuai Wu, David K. Duvenaud"
+        "datatype": "Paper",
+        "authors": "Geoffrey Roeder, Yuhuai Wu, David K. Duvenaud",
+        "keywords": [
+            "Deep Learning",
+            "Gradient Estimation",
+            "Variational Inference"
+        ],
+        "venue": "NeurIPS 2017"
     },
     {
         "name": "Stochastic hyperparameter optimization through hypernetworks",
         "url": "https://arxiv.org/abs/1802.09419",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jonathan Lorraine, David Duvenaud"
+        "datatype": "Paper",
+        "authors": "Jonathan Lorraine, David Duvenaud",
+        "keywords": [
+            "Meta Learning",
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 2018"
     },
     {
         "name": "Strategies for teaching layered networks classification tasks",
         "url": "https://papers.nips.cc/paper/85-strategies-for-teaching-layered-networks-classification-tasks",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ben S. Wittner, John S. Denker"
+        "datatype": "Paper",
+        "authors": "Ben S. Wittner, John S. Denker",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 1987"
     },
     {
         "name": "Style transfer from non-parallel text by cross-alignment",
-        "url": "https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment",
+        "url": "https://arxiv.org/abs/1705.09655",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola"
+        "datatype": "Paper",
+        "authors": "Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola",
+        "keywords": [
+            "Style Transfer",
+            "NLP"
+        ],
+        "venue": "NeurIPS 2017"
     },
     {
         "name": "Subword regularization: improving neural network translation models with multiple subword candidates",
-        "url": "https://aclanthology.org/P18-1007/",
+        "url": "https://arxiv.org/abs/1804.10959",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Taku Kudo"
+        "datatype": "Paper",
+        "authors": "Taku Kudo",
+        "keywords": [
+            "NLP",
+            "Machine Translation",
+            "Regularization"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Supervised learning of probability distributions by neural networks",
         "url": "https://papers.nips.cc/paper/3-supervised-learning-of-probability-distributions-by-neural-networks",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Eric B. Baum, Frank Wilczek"
+        "datatype": "Paper",
+        "authors": "Eric B. Baum, Frank Wilczek",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 1987"
     },
     {
         "name": "Synchronization in neural nets",
         "url": "https://papers.nips.cc/paper/32-synchronization-in-neural-nets",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jacques J. Vidal, John Haggerty"
+        "datatype": "Paper",
+        "authors": "Jacques J. Vidal, John Haggerty",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "NeurIPS 1987"
     },
     {
         "name": "Tackling the poor assumptions of Naive Bayes text classifiers",
         "url": "https://dl.acm.org/citation.cfm?id=3041916",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger"
+        "datatype": "Paper",
+        "authors": "Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger",
+        "keywords": [
+            "NLP"
+        ],
+        "venue": "ICML 2003"
     },
     {
         "name": "The information bottleneck method",
         "url": "https://arxiv.org/abs/physics/0004057",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Naftali Tishby, Fernando C. Pereira, William Bialek"
+        "datatype": "Paper",
+        "authors": "Naftali Tishby, Fernando C. Pereira, William Bialek",
+        "keywords": [
+            "Information Theory"
+        ],
+        "venue": null
     },
     {
         "name": "The Pile: an 800GB dataset of diverse text for language modeling",
         "url": "https://arxiv.org/abs/2101.00027",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy"
+        "datatype": "Paper",
+        "authors": "Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy",
+        "keywords": [
+            "NLP",
+            "Dataset"
+        ],
+        "venue": null
     },
     {
         "name": "Thermometer encoding: one hot way to resist adversarial examples",
         "url": "https://openreview.net/forum?id=S18Su--CW",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow"
+        "datatype": "Paper",
+        "authors": "Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Examples",
+            "Robustness"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "To regularize or not to regularize? The bias variance trade-off in regularized AEs",
         "url": "https://arxiv.org/abs/2006.05838",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP"
+        "datatype": "Paper",
+        "authors": "Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP",
+        "keywords": [
+            "Deep Learning",
+            "Regularization"
+        ],
+        "venue": null
     },
     {
         "name": "Towards deep learning models resilient to adversarial attacks",
-        "url": "https://openreview.net/forum?id=rJzIBfZAb",
+        "url": "https://arxiv.org/abs/1706.06083",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu"
+        "datatype": "Paper",
+        "authors": "Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Examples",
+            "Robustness"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Towards evaluating the robustness of neural networks",
         "url": "https://arxiv.org/abs/1608.04644",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Nicholas Carlini, David Wagner"
+        "datatype": "Paper",
+        "authors": "Nicholas Carlini, David Wagner",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Examples",
+            "Robustness"
+        ],
+        "venue": "IEEE Symposium on Security and Privacy 2017"
     },
     {
         "name": "Transformer memory as a differentiable search index",
         "url": "https://arxiv.org/abs/2202.06991",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler"
+        "datatype": "Paper",
+        "authors": "Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler",
+        "keywords": [
+            "Retrieval-Augmented Generation",
+            "NLP",
+            "Information Retrieval"
+        ],
+        "venue": null
     },
     {
         "name": "Understanding convolutional neural networks with a mathematical model",
         "url": "https://arxiv.org/abs/1609.04112",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "C.-C. Jay Kuo"
+        "datatype": "Paper",
+        "authors": "C.-C. Jay Kuo",
+        "keywords": [
+            "Deep Learning",
+            "Computer Vision"
+        ],
+        "venue": "Journal of Visual Communication and Image Representation 2016"
     },
     {
         "name": "Understanding disentangling in \u03b2-VAE",
         "url": "https://arxiv.org/abs/1804.03599",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner"
+        "datatype": "Paper",
+        "authors": "Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner",
+        "keywords": [
+            "Deep Learning",
+            "Disentanglement",
+            "Variational Inference"
+        ],
+        "venue": null
     },
     {
         "name": "Unit tests for stochastic optimization",
         "url": "https://arxiv.org/abs/1312.6055",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Tom Schaul, Ioannis Antonoglou, David Silver"
+        "datatype": "Paper",
+        "authors": "Tom Schaul, Ioannis Antonoglou, David Silver",
+        "keywords": [
+            "Deep Learning",
+            "Optimization"
+        ],
+        "venue": "ICLR 2014"
     },
     {
         "name": "Unpaired image-to-image translation using cycle-consistent adversarial networks",
         "url": "https://arxiv.org/abs/1703.10593",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros"
+        "datatype": "Paper",
+        "authors": "Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Learning",
+            "Generative Models"
+        ],
+        "venue": "ICCV 2017"
     },
     {
         "name": "Unsupervised machine translation using monolingual corpora only",
         "url": "https://arxiv.org/abs/1711.00043",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato"
+        "datatype": "Paper",
+        "authors": "Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato",
+        "keywords": [
+            "NLP",
+            "Machine Translation",
+            "Unsupervised Learning"
+        ],
+        "venue": "ACL 2019"
     },
     {
         "name": "Unsupervised representation learning by predicting image rotations",
-        "url": "https://openreview.net/forum?id=S1v4N2l0-",
+        "url": "https://arxiv.org/abs/1803.07728",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Spyros Gidaris, Praveer Singh, Nikos Komodakis"
+        "datatype": "Paper",
+        "authors": "Spyros Gidaris, Praveer Singh, Nikos Komodakis",
+        "keywords": [
+            "Unsupervised Learning",
+            "Deep Learning",
+            "Computer Vision"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "Variational inference using implicit distributions",
         "url": "https://arxiv.org/abs/1702.08235",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ferenc Husz\u00e1r"
+        "datatype": "Paper",
+        "authors": "Ferenc Husz\u00e1r",
+        "keywords": [
+            "Deep Learning",
+            "Variational Inference"
+        ],
+        "venue": null
     },
     {
         "name": "Variational inference with latent space quantization for adversarial resilience",
         "url": "https://arxiv.org/abs/1903.09940",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Vinay Kyatham, Mayank Mishra, Tarun Kumar Yadav, Deepak Mishra, Prathosh AP"
+        "datatype": "Paper",
+        "authors": "Vinay Kyatham, Mayank Mishra, Tarun Kumar Yadav, Deepak Mishra, Prathosh AP",
+        "keywords": [
+            "Variational Inference",
+            "Deep Learning",
+            "Quantization",
+            "Robustness"
+        ],
+        "venue": null
     },
     {
         "name": "Variational lossy autoencoder",
         "url": "https://arxiv.org/abs/1611.02731",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel"
+        "datatype": "Paper",
+        "authors": "Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel",
+        "keywords": [
+            "Variational Inference",
+            "Deep Learning"
+        ],
+        "venue": "ICLR 2017"
     },
     {
         "name": "VEEGAN: reducing mode collapse in GANs using implicit variational learning",
         "url": "https://arxiv.org/abs/1705.07761",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton"
+        "datatype": "Paper",
+        "authors": "Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Learning",
+            "Generative Models" 
+        ],
+        "venue": "NeurIPS 2017"
     },
     {
         "name": "Very deep convolutional networks for large-scale image recognition",
         "url": "https://arxiv.org/abs/1409.1556",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Karen Simonyan, Andrew Zisserman"
+        "datatype": "Paper",
+        "authors": "Karen Simonyan, Andrew Zisserman",
+        "keywords": [
+            "Deep Learning",
+            "Computer Vision",
+            "Image Classification"
+        ],
+        "venue": "ICLR 2015"
     },
     {
         "name": "Visualizing data using t-SNE",
         "url": "http://www.jmlr.org/papers/v9/vandermaaten08a.html",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Laurens van der Maaten, Geoffrey Hinton"
+        "datatype": "Paper",
+        "authors": "Laurens van der Maaten, Geoffrey Hinton",
+        "keywords": [
+            "Data Visualization",
+            "Deep Learning"
+        ],
+        "venue": "JMLR 2008"
     },
     {
         "name": "Wasserstein GAN",
         "url": "https://arxiv.org/abs/1701.07875",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Martin Arjovsky, Soumith Chintala, L\u00e9on Bottou"
+        "datatype": "Paper",
+        "authors": "Martin Arjovsky, Soumith Chintala, L\u00e9on Bottou",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Learning",
+            "Generative Models"
+        ],
+        "venue": "ICML 2017"
     },
     {
         "name": "Wavenet: a generative model for raw audio",
         "url": "https://arxiv.org/abs/1609.03499",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu"
+        "datatype": "Paper",
+        "authors": "Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu",
+        "keywords": [
+            "Audio",
+            "Generative Models",
+            "Deep Learning"
+        ],
+        "venue": null
     },
     {
         "name": "Word translation without parallel data",
         "url": "https://openreview.net/forum?id=H196sainb",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Herv\u00e9 J\u00e9gou"
+        "datatype": "Paper",
+        "authors": "Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Herv\u00e9 J\u00e9gou",
+        "keywords": [
+            "NLP",
+            "Machine Translation"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "You only look once: unified, real-time object detection",
         "url": "https://arxiv.org/abs/1506.02640",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi"
+        "datatype": "Paper",
+        "authors": "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi",
+        "keywords": [
+            "Object Detection",
+            "Deep Learning",
+            "Computer Vision"
+        ],
+        "venue": "CVPR 2016"
     },
     {
         "name": "ZeRO: memory optimizations toward training trillion parameter models",
         "url": "https://arxiv.org/abs/1910.02054",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He"
+        "datatype": "Paper",
+        "authors": "Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He",
+        "keywords": [
+            "Deep Learning",
+            "Transformers",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": "SC 2020"
     },
     {
         "name": "Zero-shot text-to-image generation",
         "url": "http://proceedings.mlr.press/v139/ramesh21a.html",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever"
+        "datatype": "Paper",
+        "authors": "Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever",
+        "keywords": [
+            "Zero Shot",
+            "Deep Learning",
+            "Generative Models",
+            "Variational Inference"
+        ],
+        "venue": "ICML 2021"
     },
     {
         "name": "\u03b2-VAE: learning basic visual concepts with a constrained variational framework",
         "url": "https://openreview.net/forum?id=Sy2fzU9gl",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner"
+        "datatype": "Paper",
+        "authors": "Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner",
+        "keywords": [
+            "Deep Learning",
+            "Variational Inference"
+        ],
+        "venue": "ICLR 2017"
     },
     {
         "name": "Calculus of variations",
         "url": null,
         "topic": "Calculus",
-        "datatype": "book",
-        "authors": "I. M. Gelfand, S. V. Fomin"
+        "datatype": "Book",
+        "authors": "I. M. Gelfand, S. V. Fomin",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Thomas' calculus",
         "url": null,
         "topic": "Calculus",
-        "datatype": "book",
-        "authors": "George B. Thomas Jr., Maurice D. Weir"
+        "datatype": "Book",
+        "authors": "George B. Thomas Jr., Maurice D. Weir",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Computer organization and design ARM edition: the hardware software interface",
         "url": null,
         "topic": "Computer architecture",
-        "datatype": "book",
-        "authors": "David A. Patterson, John L. Hennessy"
+        "datatype": "Book",
+        "authors": "David A. Patterson, John L. Hennessy",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Computer architecture: a quantitative approach",
         "url": null,
         "topic": "Computer architecture",
-        "datatype": "book",
-        "authors": "John L. Hennessy, David A. Patterson"
+        "datatype": "Book",
+        "authors": "John L. Hennessy, David A. Patterson",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Flipping bits in memory without accessing them: an experimental study of DRAM disturbance errors",
         "url": "https://ieeexplore.ieee.org/document/6853210",
         "topic": "Computer architecture",
-        "datatype": "paper",
-        "authors": "Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu"
+        "datatype": "Paper",
+        "authors": "Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu",
+        "keywords": [
+            "Computer Architecture",
+            "Security",
+            "Memory"
+        ],
+        "venue": "IEEE ISCA 2014"
     },
     {
         "name": "Improving DRAM performance by parallelizing refreshes with accesses",
         "url": "https://ieeexplore.ieee.org/document/6835946",
         "topic": "Computer architecture",
-        "datatype": "paper",
-        "authors": "Kevin Kai-Wei Chang, Donghyuk Lee, Zeshan Chishti, Alaa R. Alameldeen, Chris Wilkerson, Yoongu Kim, Onur Mutlu"
+        "datatype": "Paper",
+        "authors": "Kevin Kai-Wei Chang, Donghyuk Lee, Zeshan Chishti, Alaa R. Alameldeen, Chris Wilkerson, Yoongu Kim, Onur Mutlu",
+        "keywords": [
+            "Computer Architecture",
+            "Security",
+            "Memory"
+        ],
+        "venue": "IEEE HPCA 2014"
     },
     {
         "name": "Memory performance attacks: denial of memory service in multi-core systems",
         "url": "https://www.usenix.org/conference/16th-usenix-security-symposium/memory-performance-attacks-denial-memory-service-multi",
         "topic": "Computer architecture",
-        "datatype": "paper",
-        "authors": "Thomas Moscibroda, Onur Mutlu"
+        "datatype": "Paper",
+        "authors": "Thomas Moscibroda, Onur Mutlu",
+        "keywords": [
+            "Computer Architecture",
+            "Memory",
+            "Security"
+        ],
+        "venue": "USENIX Security Symposium 2007"
     },
     {
         "name": "Memory scaling: a systems architecture perspective",
         "url": "https://ieeexplore.ieee.org/document/6582088",
         "topic": "Computer architecture",
-        "datatype": "paper",
-        "authors": "Onur Mutlu"
+        "datatype": "Paper",
+        "authors": "Onur Mutlu",
+        "keywords": [
+            "Computer Architecture",
+            "Memory"
+        ],
+        "venue": "IEEE International Memory Worksop 2013"
     },
     {
         "name": "Millicode in an IBM zSeries processor",
         "url": "https://ieeexplore.ieee.org/document/5388884",
         "topic": "Computer architecture",
-        "datatype": "paper",
-        "authors": "L. C. Heller, M. S. Farrell"
+        "datatype": "Paper",
+        "authors": "L. C. Heller, M. S. Farrell",
+        "keywords": [
+            "Computer Architecture"
+        ],
+        "venue": "IBM Journal of Research and Development 2004"
     },
     {
         "name": "RAIDR: Retention-Aware Intelligent DRAM Refresh",
         "url": "https://dl.acm.org/doi/10.5555/2337159.2337161",
         "topic": "Computer architecture",
-        "datatype": "paper",
-        "authors": "Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu"
+        "datatype": "Paper",
+        "authors": "Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu",
+        "keywords": [
+            "Computer Architecture",
+            "Memory"
+        ],
+        "venue": "IEEE ISCA 2012"
     },
     {
         "name": "Stall-time fair memory access scheduling for chip multiprocessors",
         "url": "https://ieeexplore.ieee.org/document/4408252",
         "topic": "Computer architecture",
-        "datatype": "paper",
-        "authors": "Onur Mutlu, Thomas Moscibroda"
+        "datatype": "Paper",
+        "authors": "Onur Mutlu, Thomas Moscibroda",
+        "keywords": [
+            "Computer Architecture",
+            "Memory"
+        ],
+        "venue": "IEEE MICRO 2007"
     },
     {
         "name": "Principles of traditional animation applied to 3D computer animation",
         "url": "https://dl.acm.org/doi/10.1145/37402.37407",
         "topic": "Computer graphics",
-        "datatype": "paper",
-        "authors": "John Lasseter"
+        "datatype": "Paper",
+        "authors": "John Lasseter",
+        "keywords": [
+            "Computer Graphics",
+            "Animation"
+        ],
+        "venue": "ACM SIGGRAPH Computer Graphics 1987"
     },
     {
         "name": "Introduction to algorithms",
         "url": null,
         "topic": "Data structures and algorithms",
-        "datatype": "book",
-        "authors": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein"
+        "datatype": "Book",
+        "authors": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Data structures and algorithms in Java",
         "url": null,
         "topic": "Data structures and algorithms",
-        "datatype": "book",
-        "authors": "Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser"
+        "datatype": "Book",
+        "authors": "Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Digital design: with an introduction to the Verilog HDL",
         "url": null,
         "topic": "Digital electronics",
-        "datatype": "book",
-        "authors": "M. Morris Mano, Michael D. Ciletti"
+        "datatype": "Book",
+        "authors": "M. Morris Mano, Michael D. Ciletti",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Introduction to graph theory",
         "url": null,
         "topic": "Graph theory",
-        "datatype": "book",
-        "authors": "Robin Wilson"
+        "datatype": "Book",
+        "authors": "Robin Wilson",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Elements of information theory",
         "url": null,
         "topic": "Information theory",
-        "datatype": "book",
-        "authors": "Thomas M. Cover, Joy A. Thomas"
+        "datatype": "Book",
+        "authors": "Thomas M. Cover, Joy A. Thomas",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Error detecting and error correcting codes",
         "url": "https://ieeexplore.ieee.org/document/6772729",
         "topic": "Information theory",
-        "datatype": "paper",
-        "authors": "R. W. Hamming"
+        "datatype": "Paper",
+        "authors": "R. W. Hamming",
+        "keywords": [
+            "Error Detection",
+            "Error Correction",
+            "Information Theory"
+        ],
+        "venue": "The Bell System Technical Journal 1950"
     },
     {
         "name": "Linear algebra and its applications",
         "url": null,
         "topic": "Linear algebra",
-        "datatype": "book",
-        "authors": "Gilbert Strang"
+        "datatype": "Book",
+        "authors": "Gilbert Strang",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Matrix analysis and applied linear algebra",
         "url": null,
         "topic": "Linear algebra",
-        "datatype": "book",
-        "authors": "Carl D. Meyer"
+        "datatype": "Book",
+        "authors": "Carl D. Meyer",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "The matrix cookbook",
         "url": null,
         "topic": "Linear algebra",
-        "datatype": "book",
-        "authors": "Kaare Brandt Petersen, Michael Syskind Pedersen"
+        "datatype": "Book",
+        "authors": "Kaare Brandt Petersen, Michael Syskind Pedersen",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Measure theory",
         "url": null,
         "topic": "Measure theory",
-        "datatype": "book",
-        "authors": "Donald L. Cohn"
+        "datatype": "Book",
+        "authors": "Donald L. Cohn",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Convex Optimization",
         "url": null,
         "topic": "Optimization theory",
-        "datatype": "book",
-        "authors": "Stephen Boyd, Lieven Vandenberghe"
+        "datatype": "Book",
+        "authors": "Stephen Boyd, Lieven Vandenberghe",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Distributed optimization and statistical learning via the alternating direction method of multipliers",
-        "url": "https://web.stanford.edu/~boyd/papers/admm_distr_stats.html",
+        "url": "https://ieeexplore.ieee.org/document/8186925",
         "topic": "Optimization theory",
-        "datatype": "paper",
-        "authors": "Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, Jonathan Eckstein"
+        "datatype": "Book",
+        "authors": "Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, Jonathan Eckstein",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Introduction to probability and stochastic processes with applications",
         "url": null,
         "topic": "Probability and stochastic processes",
-        "datatype": "book",
-        "authors": "Liliana Blanco Castaneda, Viswanathan Arunachalam, Delvamuthu Dharmaraja"
+        "datatype": "Book",
+        "authors": "Liliana Blanco Castaneda, Viswanathan Arunachalam, Delvamuthu Dharmaraja",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Quantum computation and quantum information",
         "url": null,
         "topic": "Quantum computing",
-        "datatype": "book",
-        "authors": "Michael A. Nielsen, Isaac L. Chuang"
+        "datatype": "Book",
+        "authors": "Michael A. Nielsen, Isaac L. Chuang",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Quantum computing: a gentle introduction",
         "url": null,
         "topic": "Quantum computing",
-        "datatype": "book",
-        "authors": "Eleanor Rieffel, Wolfgang Polak"
+        "datatype": "Book",
+        "authors": "Eleanor Rieffel, Wolfgang Polak",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "A fast quantum mechanical algorithm for database search",
         "url": "https://arxiv.org/abs/quant-ph/9605043",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "Lov K. Grover"
+        "datatype": "Paper",
+        "authors": "Lov K. Grover",
+        "keywords": [
+            "Quantum Computing",
+            "Quantum Algorithms"
+        ],
+        "venue": "STOC 1996"
     },
     {
         "name": "A single quantum cannot be cloned",
         "url": "https://www.nature.com/articles/299802a0",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "W. K. Wootters, W. H. Zurek"
+        "datatype": "Paper",
+        "authors": "W. K. Wootters, W. H. Zurek",
+        "keywords": [
+            "Quantum Computing"
+        ],
+        "venue": "Nature 1982"
     },
     {
         "name": "Can quantum-mechanical description of physical reality be considered complete",
         "url": "https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "Albert Einstein, Boris Podolsky, Nathan Rosen"
+        "datatype": "Paper",
+        "authors": "Albert Einstein, Boris Podolsky, Nathan Rosen",
+        "keywords": [
+            "Quantum Computing"
+        ],
+        "venue": "Physical Review Journals 1935"
     },
     {
         "name": "Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization",
         "url": "https://arxiv.org/abs/0804.4457",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "Hartmut Neven, Geordie Rose, William G. Macready"
+        "datatype": "Paper",
+        "authors": "Hartmut Neven, Geordie Rose, William G. Macready",
+        "keywords": [
+            "Image Classification",
+            "Quantum Computing",
+            "QUBO"
+        ],
+        "venue": null
     },
     {
         "name": "Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)",
         "url": "https://1qbit.com/whitepaper/integer-optimization-toolbox/",
         "topic": "Quantum computing",
-        "datatype": "whitepaper",
-        "authors": "Pooya Ronagh"
+        "datatype": "Whitepaper",
+        "authors": "Pooya Ronagh",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Limits on parallel speedup for classical Ising model solvers",
         "url": "https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/",
         "topic": "Quantum computing",
-        "datatype": "whitepaper",
-        "authors": ""
+        "datatype": "Whitepaper",
+        "authors": "",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Partitioning optimization problems for hybrid classical/quantum execution",
         "url": "https://docs.ocean.dwavesys.com/projects/qbsolv/en/latest/_downloads/bd15a2d8f32e587e9e5997ce9d5512cc/qbsolv_techReport.pdf",
         "topic": "Quantum computing",
-        "datatype": "whitepaper",
-        "authors": "Michael Booth, Steven P. Reinhardt, Aidan Roy"
+        "datatype": "Whitepaper",
+        "authors": "Michael Booth, Steven P. Reinhardt, Aidan Roy",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer",
         "url": "https://arxiv.org/abs/quant-ph/9508027",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "Peter W. Shor"
+        "datatype": "Paper",
+        "authors": "Peter W. Shor",
+        "keywords": [
+            "Quantum Computing",
+            "Quantum Algorithms"
+        ],
+        "venue": "SIAM Journal on Computing 1997"
     },
     {
         "name": "Probabilistic cloning and identification of linearly independent quantum states",
         "url": "https://arxiv.org/abs/quant-ph/9804064",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "Lu-Ming Duan, Guang-Can Guo"
+        "datatype": "Paper",
+        "authors": "Lu-Ming Duan, Guang-Can Guo",
+        "keywords": [
+            "Quantum Computing",
+            "Cloning"
+        ],
+        "venue": "Physical Review Letters 1998"
     },
     {
         "name": "Programming with D-Wave: map coloring problem",
         "url": "https://www.dwavesys.com/resources/white-paper/programming-with-d-wave-map-coloring-problem/",
         "topic": "Quantum computing",
-        "datatype": "whitepaper",
-        "authors": "E. D. Dahl"
+        "datatype": "Whitepaper",
+        "authors": "E. D. Dahl",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Quantum performance evaluation: a short reading list",
         "url": "https://www.dwavesys.com/resources/white-paper/quantum-performance-evaluation-a-short-reading-list/",
         "topic": "Quantum computing",
-        "datatype": "whitepaper",
-        "authors": ""
+        "datatype": "Whitepaper",
+        "authors": "",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Quantum theory, the Church-Turing principle and the universal quantum computer",
         "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.1985.0070",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "David Deutsch"
+        "datatype": "Paper",
+        "authors": "David Deutsch",
+        "keywords": [
+            "Quantum Computing",
+            "Theory of Computation"
+        ],
+        "venue": "Proceedings of the Royal Society 1985"
     },
     {
         "name": "Rapid solution of problems by quantum computation",
         "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "David Deutsche, Richard Jozsa"
+        "datatype": "Paper",
+        "authors": "David Deutsche, Richard Jozsa",
+        "keywords": [
+            "Quantum Computing",
+            "Quantum Algorithms"
+        ],
+        "venue": "Proceedings of the Royal Society 1992"
     },
     {
         "name": "Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels",
         "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895",
         "topic": "Quantum computing",
-        "datatype": "paper",
-        "authors": "Charles H. Bennett, Gilles Brassard, Claude Cr\u00e9peau, Richard Jozsa, Asher Peres, William K. Wootters"
+        "datatype": "Paper",
+        "authors": "Charles H. Bennett, Gilles Brassard, Claude Cr\u00e9peau, Richard Jozsa, Asher Peres, William K. Wootters",
+        "keywords": [
+            "Quantum Computing",
+            "Quantum Teleportation"
+        ],
+        "venue": "Physical Review Journals 1993"
     },
     {
         "name": "Discrete-time signal processing",
         "url": null,
         "topic": "Signal processing",
-        "datatype": "book",
-        "authors": "Alan V. Oppenheim, Ronald W. Schafer"
+        "datatype": "Book",
+        "authors": "Alan V. Oppenheim, Ronald W. Schafer",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Foundations of Signal Processing",
         "url": null,
         "topic": "Signal processing",
-        "datatype": "book",
-        "authors": "Martin Vetterli, Jelena Kova\u010devi\u0107, Vivek K Goyal"
+        "datatype": "Book",
+        "authors": "Martin Vetterli, Jelena Kova\u010devi\u0107, Vivek K Goyal",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Signals and systems",
         "url": null,
         "topic": "Signal processing",
-        "datatype": "book",
-        "authors": "Alan V. Oppenheim"
+        "datatype": "Book",
+        "authors": "Alan V. Oppenheim",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Understanding digital signal processing",
         "url": null,
         "topic": "Signal processing",
-        "datatype": "book",
-        "authors": "Richard G. Lyons"
+        "datatype": "Book",
+        "authors": "Richard G. Lyons",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Variational learning for unsupervised knowledge grounded dialogs",
         "url": "https://arxiv.org/abs/2112.00653",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Mayank Mishra, Dhiraj Madan, Gaurav Pandey, Danish Contractor"
+        "datatype": "Paper",
+        "authors": "Mayank Mishra, Dhiraj Madan, Gaurav Pandey, Danish Contractor",
+        "keywords": [
+            "NLP",
+            "Dialog",
+            "Variational Inference"
+        ],
+        "venue": "IJCAI 2022"
     },
     {
         "name": "ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning",
-        "url": "https://dl.acm.org/doi/abs/10.1145/3458817.3476205",
+        "url": "https://arxiv.org/abs/2104.07857",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He"
+        "datatype": "Paper",
+        "authors": "Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He",
+        "keywords": [
+            "Deep Learning",
+            "Transformers",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": "SC 2021"
     },
     {
         "name": "A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings",
-        "url": "https://aclanthology.org/P18-1073/",
+        "url": "https://arxiv.org/abs/1805.06297",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Mikel Artetxe, Gorka Labaka, Eneko Agirre"
+        "datatype": "Paper",
+        "authors": "Mikel Artetxe, Gorka Labaka, Eneko Agirre",
+        "keywords": [
+            "NLP",
+            "Embeddings"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Language modelling with pixels",
         "url": "https://arxiv.org/abs/2207.06991",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott"
+        "datatype": "Paper",
+        "authors": "Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott",
+        "keywords": [
+            "NLP",
+            "Computer Vision"
+        ],
+        "venue": null
     },
     {
         "name": "8-bit optimizers via block-wise quantization",
-        "url": "https://openreview.net/forum?id=shpkpVXzo3h",
+        "url": "https://arxiv.org/abs/2110.02861",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer"
+        "datatype": "Paper",
+        "authors": "Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer",
+        "keywords": [
+            "Compression",
+            "Deep Learning",
+            "Quantization"
+        ],
+        "venue": "ICLR 2022"
     },
     {
         "name": "Fast abstractive summarization with reinforce-selected sentence rewriting",
-        "url": "https://aclanthology.org/P18-1063/",
+        "url": "https://arxiv.org/abs/1805.11080",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yen-Chun Chen, Mohit Bansal"
+        "datatype": "Paper",
+        "authors": "Yen-Chun Chen, Mohit Bansal",
+        "keywords": [
+            "NLP",
+            "Summarization",
+            "Reinforcement Learning"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Universal language model fine-tuning for text classification",
-        "url": "https://aclanthology.org/P18-1031/",
+        "url": "https://arxiv.org/abs/1801.06146",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Jeremy Howard, Sebastian Ruder"
+        "datatype": "Paper",
+        "authors": "Jeremy Howard, Sebastian Ruder",
+        "keywords": [
+            "NLP",
+            "Text Classification"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "A stylometric inquiry into hyperpartisan and fake news",
-        "url": "https://aclanthology.org/P18-1022/",
+        "url": "https://arxiv.org/abs/1702.05638",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein"
+        "datatype": "Paper",
+        "authors": "Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein",
+        "keywords": [
+            "NLP",
+            "Fake Content Detection"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "What language model to train if you have one million GPU hours?",
         "url": "https://openreview.net/forum?id=rI7BL3fHIZq",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Teven Le Scao, Thomas Wang, Daniel Hesslow, Lucile Saulnier, Stas Bekman, M Saiful Bari, Stella Biderman, Hady Elsahar, Jason Phang, Ofir Press, Colin Raffel, Victor Sanh, Sheng Shen, Lintang Sutawika, Jaesung Tae, Zheng Xin Yong, Julien Launay, Iz Beltagy"
+        "datatype": "Paper",
+        "authors": "Teven Le Scao, Thomas Wang, Daniel Hesslow, Lucile Saulnier, Stas Bekman, M Saiful Bari, Stella Biderman, Hady Elsahar, Jason Phang, Ofir Press, Colin Raffel, Victor Sanh, Sheng Shen, Lintang Sutawika, Jaesung Tae, Zheng Xin Yong, Julien Launay, Iz Beltagy",
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": "ACL 2022"
     },
     {
         "name": "Simple and effective multi-paragraph reading comprehension",
-        "url": "https://aclanthology.org/P18-1078/",
+        "url": "https://arxiv.org/abs/1710.10723",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Christopher Clark, Matt Gardner"
+        "datatype": "Paper",
+        "authors": "Christopher Clark, Matt Gardner",
+        "keywords": [
+            "NLP",
+            "Reading Comprehension"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "The best of both worlds: combining recent advances in neural machine translation",
-        "url": "https://aclanthology.org/P18-1008/",
+        "url": "https://arxiv.org/abs/1804.09849",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes"
+        "datatype": "Paper",
+        "authors": "Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes",
+        "keywords": [
+            "NLP",
+            "Machine Translation"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Semantically equivalent adversarial rules for debugging NLP models",
         "url": "https://aclanthology.org/P18-1079/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin"
+        "datatype": "Paper",
+        "authors": "Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin",
+        "keywords": [
+            "NLP"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Aspect based sentiment analysis with gated convolutional networks",
-        "url": "https://aclanthology.org/P18-1234/",
+        "url": "https://arxiv.org/abs/1805.07043",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Wei Xue, Tao Li"
+        "datatype": "Paper",
+        "authors": "Wei Xue, Tao Li",
+        "keywords": [
+            "NLP",
+            "Text Classification"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Constituency parsing with a self-attentive encoder",
-        "url": "https://aclanthology.org/P18-1249/",
+        "url": "https://arxiv.org/abs/1805.01052",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Nikita Kitaev, Dan Klein"
+        "datatype": "Paper",
+        "authors": "Nikita Kitaev, Dan Klein",
+        "keywords": [
+            "NLP",
+            "Constituency Parsing"
+        ],
+        "venue": "ACL 2018"
     },
     {
         "name": "Train short, test long: Attention with linear biases enables input length extrapolation",
-        "url": "https://openreview.net/forum?id=R8sQPpGCv0",
+        "url": "https://arxiv.org/abs/2108.12409",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Ofir Press, Noah Smith, Mike Lewis"
+        "datatype": "Paper",
+        "authors": "Ofir Press, Noah Smith, Mike Lewis",
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Embeddings"
+        ],
+        "venue": "ICLR 2022"
     },
     {
         "name": "GeoMAN: multi-level attention networks for geo-sensory time series prediction",
         "url": "https://www.ijcai.org/proceedings/2018/476",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng"
+        "datatype": "Paper",
+        "authors": "Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng",
+        "keywords": [
+            "Deep Learning",
+            "Time Series",
+            "Spatio-Temporal Reasoning"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "Bootstrapping entity alignment with knowledge graph embedding",
         "url": "https://www.ijcai.org/proceedings/2018/611",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu"
+        "datatype": "Paper",
+        "authors": "Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu",
+        "keywords": [
+            "NLP",
+            "Embeddings",
+            "Knowledge Graphs"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "Outer product-based neural collaborative filtering",
-        "url": "https://www.ijcai.org/proceedings/2018/0308",
+        "url": "https://arxiv.org/abs/1808.03912",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua"
+        "datatype": "Paper",
+        "authors": "Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua",
+        "keywords": [
+            "Deep Learning",
+            "Collaborative Filtering",
+            "Recommender Systems"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "R^{3}Net: recurrent residual refinement network for saliency detection",
         "url": "https://www.ijcai.org/proceedings/2018/95",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, Pheng-Ann Heng"
+        "datatype": "Paper",
+        "authors": "Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, Pheng-Ann Heng",
+        "keywords": [
+            "Computer Vision",
+            "Deep Learning",
+            "Saliency Detection"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "PaLM: scaling language modeling with pathways",
         "url": "https://arxiv.org/abs/2204.02311",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, Parker Schuh, Kensen Shi, Sasha Tsvyashchenko, Joshua Maynez, Abhishek Rao, Parker Barnes, Yi Tay, Noam Shazeer, Vinodkumar Prabhakaran, Emily Reif, Nan Du, Ben Hutchinson, Reiner Pope, James Bradbury, Jacob Austin, Michael Isard, Guy Gur-Ari, Pengcheng Yin, Toju Duke, Anselm Levskaya, Sanjay Ghemawat, Sunipa Dev, Henryk Michalewski, Xavier Garcia, Vedant Misra, Kevin Robinson, Liam Fedus, Denny Zhou, Daphne Ippolito, David Luan, Hyeontaek Lim, Barret Zoph, Alexander Spiridonov, Ryan Sepassi, David Dohan, Shivani Agrawal, Mark Omernick, Andrew M. Dai, Thanumalayan Sankaranarayana Pillai, Marie Pellat, Aitor Lewkowycz, Erica Moreira, Rewon Child, Oleksandr Polozov, Katherine Lee, Zongwei Zhou, Xuezhi Wang, Brennan Saeta, Mark Diaz, Orhan Firat, Michele Catasta, Jason Wei, Kathy Meier-Hellstern, Douglas Eck, Jeff Dean, Slav Petrov, Noah Fiedel"
+        "datatype": "Paper",
+        "authors": "Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, Parker Schuh, Kensen Shi, Sasha Tsvyashchenko, Joshua Maynez, Abhishek Rao, Parker Barnes, Yi Tay, Noam Shazeer, Vinodkumar Prabhakaran, Emily Reif, Nan Du, Ben Hutchinson, Reiner Pope, James Bradbury, Jacob Austin, Michael Isard, Guy Gur-Ari, Pengcheng Yin, Toju Duke, Anselm Levskaya, Sanjay Ghemawat, Sunipa Dev, Henryk Michalewski, Xavier Garcia, Vedant Misra, Kevin Robinson, Liam Fedus, Denny Zhou, Daphne Ippolito, David Luan, Hyeontaek Lim, Barret Zoph, Alexander Spiridonov, Ryan Sepassi, David Dohan, Shivani Agrawal, Mark Omernick, Andrew M. Dai, Thanumalayan Sankaranarayana Pillai, Marie Pellat, Aitor Lewkowycz, Erica Moreira, Rewon Child, Oleksandr Polozov, Katherine Lee, Zongwei Zhou, Xuezhi Wang, Brennan Saeta, Mark Diaz, Orhan Firat, Michele Catasta, Jason Wei, Kathy Meier-Hellstern, Douglas Eck, Jeff Dean, Slav Petrov, Noah Fiedel",
+        "keywords": [
+            "Transformers",
+            "Large Models",
+            "Distributed Training",
+            "NLP"
+        ],
+        "venue": null
     },
     {
         "name": "DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression",
         "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/#:~:text=DeepSpeed%20Inference%20also%20supports%20fast,multiple%20GPUs%20for%20parallel%20execution.",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "DeepSpeed Team, Rangan Majumder, Andrey Proskurin"
+        "datatype": "Blog",
+        "authors": "DeepSpeed Team, Rangan Majumder, Andrey Proskurin",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Q-BERT: Hessian based ultra low precision quantization of BERT",
         "url": "https://arxiv.org/abs/1909.05840",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer"
+        "datatype": "Paper",
+        "authors": "Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer",
+        "keywords": [
+            "NLP",
+            "Quantization"
+        ],
+        "venue": "AAAI 2020"
     },
     {
         "name": "GLM-130B: an open bilingual pre-trained model",
         "url": "https://keg.cs.tsinghua.edu.cn/glm-130b/#fn:1",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": ""
+        "datatype": "Blog",
+        "authors": "",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Behavioral cloning from observation",
-        "url": "https://www.ijcai.org/proceedings/2018/687",
+        "url": "https://arxiv.org/abs/1805.01954",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Faraz Torabi, Garrett Warnell, Peter Stone"
+        "datatype": "Paper",
+        "authors": "Faraz Torabi, Garrett Warnell, Peter Stone",
+        "keywords": [
+            "Deep Learning",
+            "Behavior and Control",
+            "Robotics",
+            "Genetic Algorithms"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "Deep text classification can be fooled",
-        "url": "https://www.ijcai.org/proceedings/2018/585",
+        "url": "https://arxiv.org/abs/1704.08006",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi"
+        "datatype": "Paper",
+        "authors": "Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi",
+        "keywords": [
+            "NLP",
+            "Adversarial Examples"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "Supporting efficient large model training on AMD Instinct^{TM} GPUs with DeepSpeed",
         "url": "https://cloudblogs.microsoft.com/opensource/2022/03/21/supporting-efficient-large-model-training-on-amd-instinct-gpus-with-deepspeed/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "Olatunji Ruwase, Jeff Rasley"
+        "datatype": "Blog",
+        "authors": "Olatunji Ruwase, Jeff Rasley",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale",
         "url": "https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang"
+        "datatype": "Blog",
+        "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters",
         "url": "https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang"
+        "datatype": "Blog",
+        "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Memory-efficient pipeline-parallel DNN training",
-        "url": "https://proceedings.mlr.press/v139/narayanan21a.html",
+        "url": "https://arxiv.org/abs/2006.09503",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Deepak Narayanan, Amar Phanishayee, Kaiyu Shi, Xie Chen, Matei Zaharia"
+        "datatype": "Paper",
+        "authors": "Deepak Narayanan, Amar Phanishayee, Kaiyu Shi, Xie Chen, Matei Zaharia",
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": "ICML 2021"
     },
     {
         "name": "DeepSpeed compression: a composable library for extreme compression and zero-cost quantization",
         "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "DeepSpeed Team, Andrey Proskurin"
+        "datatype": "Blog",
+        "authors": "DeepSpeed Team, Andrey Proskurin",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps",
         "url": "https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": ""
+        "datatype": "Blog",
+        "authors": null,
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Spatio-temporal graph convolutional networks: a deep learning framework for traffic forecasting",
-        "url": "https://www.ijcai.org/proceedings/2018/505",
+        "url": "https://arxiv.org/abs/1709.04875",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Bing Yu, Haoteng Yin, Zhanxing Zhu"
+        "datatype": "Paper",
+        "authors": "Bing Yu, Haoteng Yin, Zhanxing Zhu",
+        "keywords": [
+            "Spatio-Temporal Reasoning",
+            "Time Series",
+            "Deep Learning",
+            "Graph Neural Networks"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "Extreme compression for pre-trained transformers made simple and efficient",
         "url": "https://arxiv.org/abs/2206.01859",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Xiaoxia Wu, Zhewei Yao, Minjia Zhang, Conglong Li, Yuxiong He"
+        "datatype": "Paper",
+        "authors": "Xiaoxia Wu, Zhewei Yao, Minjia Zhang, Conglong Li, Yuxiong He",
+        "keywords": [
+            "Compression",
+            "Deep Learning",
+            "Transformers",
+            "Large Models",
+            "Pruning",
+            "Distillation"
+        ],
+        "venue": null
     },
     {
         "name": "DeepSpeed powers 8x larger MoE model training with high performance",
         "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-powers-8x-larger-moe-model-training-with-high-performance/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "DeepSpeed Team, Z-code Team"
+        "datatype": "Blog",
+        "authors": "DeepSpeed Team, Z-code Team",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "Soft filter pruning for accelerating deep convolutional neural networks",
-        "url": "https://www.ijcai.org/proceedings/2018/309",
+        "url": "https://arxiv.org/abs/1808.06866",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang"
+        "datatype": "Paper",
+        "authors": "Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang",
+        "keywords": [
+            "Deep Learning",
+            "Pruning"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "Generating adversarial examples with adversarial networks",
         "url": "https://www.ijcai.org/proceedings/2018/543",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song"
+        "datatype": "Paper",
+        "authors": "Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song",
+        "keywords": [
+            "Deep Learning",
+            "Adversarial Examples",
+            "Adversarial Learning",
+            "Generative Models"
+        ],
+        "venue": "IJCAI 2018"
     },
     {
         "name": "Improving language models by retrieving from trillions of tokens",
-        "url": "https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens",
+        "url": "https://arxiv.org/abs/2112.04426",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre"
+        "datatype": "Paper",
+        "authors": "Sebastian Borgeaud, Arthur Mensch, Jordan Hoffmann, Trevor Cai, Eliza Rutherford, Katie Millican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego de Las Casas, Aurelia Guy, Jacob Menick, Roman Ring, Tom Hennigan, Saffron Huang, Loren Maggiore, Chris Jones, Albin Cassirer, Andy Brock, Michela Paganini, Geoffrey Irving, Oriol Vinyals, Simon Osindero, Karen Simonyan, Jack W. Rae, Erich Elsen, Laurent Sifre",
+        "keywords": [
+            "NLP",
+            "Information Retrieval",
+            "Retrieval-Augmented Generation",
+            "Hallucination"
+        ],
+        "venue": null
     },
     {
         "name": "A gentle introduction to 8-bit matrix multiplication for transformers at scale using Hugging Face transformers, accelerate and bitsandbytes",
         "url": "https://huggingface.co/blog/hf-bitsandbytes-integration",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "blog",
-        "authors": "Younes Belkada, Tim Dettmers"
+        "datatype": "Blog",
+        "authors": "Younes Belkada, Tim Dettmers",
+        "keywords": null,
+        "venue": null
     },
     {
         "name": "LLM.int8(): 8-bit matrix multiplication for transformers at scale",
         "url": "https://arxiv.org/abs/2208.07339",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer"
+        "datatype": "Paper",
+        "authors": "Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer",
+        "keywords": [
+            "Deep Learning",
+            "Quantization"
+        ],
+        "venue": null
     },
     {
         "name": "ZeroQuant: efficient and affordable post-training quantization for large-scale transformers",
         "url": "https://arxiv.org/abs/2206.01861",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He"
+        "datatype": "Paper",
+        "authors": "Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He",
+        "keywords": [
+            "Deep Learning",
+            "Quantization"
+        ],
+        "venue": null
     },
     {
         "name": "Mixed precision training",
-        "url": "https://openreview.net/forum?id=r1gs9JgRZ",
+        "url": "https://arxiv.org/abs/1710.03740",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu"
+        "datatype": "Paper",
+        "authors": "Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu",
+        "keywords": [
+            "Deep Learning",
+            "Large Models"
+        ],
+        "venue": "ICLR 2018"
     },
     {
         "name": "DeepSpeed Inference: enabling efficient inference of transformer models at unprecedented scale",
         "url": "https://arxiv.org/abs/2207.00032",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "paper",
-        "authors": "Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He"
+        "datatype": "Paper",
+        "authors": "Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Large Model Inference"
+        ],
+        "venue": null
+    },
+    {
+        "name": "Amazon SageMaker model parallelism: a general and flexible framework for large model training",
+        "url": "https://arxiv.org/abs/2111.05972",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Can Karakus, Rahul Huilgol, Fei Wu, Anirudh Subramanian, Cade Daniel, Derya Cavdar, Teng Xu, Haohan Chen, Arash Rahnama, Luis Quintela",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": null
+    },
+    {
+        "name": "Neural networks and physical systems with emergent collective computational abilities",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "J. J. Hopfield",
+        "keywords": [
+            "Deep Learning",
+            "Biology",
+            "Energy-based Models"
+        ],
+        "venue": "PNAS 1982"
     }
 ]

@@ -1,10 +1,10 @@
 METADATA = "This repository contains a list of the books, blogs, research papers and white papers that I have read and found interesting."
 
 SHIELD_VARIABLES = {
-    "book": "[book]: https://img.shields.io/static/v1?label=&message=book&color=blue",
-    "blog": "[blog]: https://img.shields.io/static/v1?label=&message=blog&color=brightgreen",
-    "paper": "[paper]: https://img.shields.io/static/v1?label=&message=paper&color=blueviolet",
-    "whitepaper": "[whitepaper]: https://img.shields.io/static/v1?label=&message=whitepaper&color=red"
+    "Book": "[Book]: https://img.shields.io/static/v1?label=&message=Book&color=red",
+    "Blog": "[Blog]: https://img.shields.io/static/v1?label=&message=Blog&color=brightgreen",
+    "Paper": "[Paper]: https://img.shields.io/static/v1?label=&message=Paper&color=blueviolet",
+    "Whitepaper": "[Whitepaper]: https://img.shields.io/static/v1?label=&message=Whitepaper&color=yellow"
 }
 
 URL_PROVIDED = {
