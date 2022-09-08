@@ -656,7 +656,6 @@
         "datatype": "Paper",
         "authors": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
         "keywords": [
-            "Deep Learning",
             "Computer Vision",
             "Image Classification"
         ],
@@ -910,7 +909,6 @@
         "datatype": "Paper",
         "authors": "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich",
         "keywords": [
-            "Deep Learning",
             "Computer Vision",
             "Image Classification"
         ],
@@ -1010,8 +1008,7 @@
         "authors": "Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton",
         "keywords": [
             "Computer Vision",
-            "Image Classification",
-            "Deep Learning"
+            "Image Classification"
         ],
         "venue": "NeurIPS 2012"
     },
@@ -1082,7 +1079,6 @@
         "datatype": "Paper",
         "authors": "C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen",
         "keywords": [
-            "Deep Learning",
             "Computer Vision"
         ],
         "venue": "Journal of Visual Communication and Image Representation 2019"
@@ -1178,7 +1174,6 @@
         "datatype": "Paper",
         "authors": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever",
         "keywords": [
-            "Deep Learning",
             "Computer Vision"
         ],
         "venue": "ICML 2021"
@@ -1430,8 +1425,7 @@
         "authors": "Justin Johnson, Alexandre Alahi, Li Fei-Fei",
         "keywords": [
             "Computer Vision",
-            "Image Super Resolution",
-            "Deep Learning"
+            "Image Super Resolution"
         ],
         "venue": "ECCV 2016"
     },
@@ -1888,7 +1882,6 @@
         "datatype": "Paper",
         "authors": "C.-C. Jay Kuo",
         "keywords": [
-            "Deep Learning",
             "Computer Vision"
         ],
         "venue": "Journal of Visual Communication and Image Representation 2016"
@@ -1952,7 +1945,6 @@
         "authors": "Spyros Gidaris, Praveer Singh, Nikos Komodakis",
         "keywords": [
             "Unsupervised Learning",
-            "Deep Learning",
             "Computer Vision"
         ],
         "venue": "ICLR 2018"
@@ -2015,7 +2007,6 @@
         "datatype": "Paper",
         "authors": "Karen Simonyan, Andrew Zisserman",
         "keywords": [
-            "Deep Learning",
             "Computer Vision",
             "Image Classification"
         ],
@@ -2079,7 +2070,6 @@
         "authors": "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi",
         "keywords": [
             "Object Detection",
-            "Deep Learning",
             "Computer Vision"
         ],
         "venue": "CVPR 2016"
@@ -2819,7 +2809,6 @@
         "authors": "Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, Pheng-Ann Heng",
         "keywords": [
             "Computer Vision",
-            "Deep Learning",
             "Saliency Detection"
         ],
         "venue": "IJCAI 2018"
@@ -3127,5 +3116,16 @@
             "Energy-based Models"
         ],
         "venue": "CVPR 1983"
+    },
+    {
+        "name": "An image is worth 16x16 words: transformers for image recognition at scale",
+        "url": "https://arxiv.org/abs/2010.11929",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby",
+        "keywords": [
+            "Computer Vision"
+        ],
+        "venue": "ICLR 2021"
     }
 ]

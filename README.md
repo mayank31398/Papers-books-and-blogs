@@ -340,6 +340,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Amazon SageMaker model parallelism: a general and flexible framework for large model training](https://arxiv.org/abs/2111.05972)  
 *Can Karakus, Rahul Huilgol, Fei Wu, Anirudh Subramanian, Cade Daniel, Derya Cavdar, Teng Xu, Haohan Chen, Arash Rahnama, Luis Quintela*  
 ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+1. [An image is worth 16x16 words: transformers for image recognition at scale](https://arxiv.org/abs/2010.11929)  
+*Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby*  
+![image][Paper] ![image][ICLR 2021] ![image][Computer Vision]
 1. [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)  
 *Sebastian Ruder*  
 ![image][Paper] ![image][Deep Learning] ![image][Optimization]
@@ -420,7 +423,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][IEEE Information Theory Workshop 2015] ![image][Deep Learning] ![image][Information Theory]
 1. [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385)  
 *Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*  
-![image][Paper] ![image][CVPR 2016] ![image][Computer Vision] ![image][Deep Learning] ![image][Image Classification]
+![image][Paper] ![image][CVPR 2016] ![image][Computer Vision] ![image][Image Classification]
 1. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006)  
 *Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi*  
 ![image][Paper] ![image][IJCAI 2018] ![image][Adversarial Examples] ![image][NLP]
@@ -498,7 +501,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][IJCAI 2018] ![image][Deep Learning] ![image][Spatio-Temporal Reasoning] ![image][Time Series]
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
 *Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich*  
-![image][Paper] ![image][CVPR 2015] ![image][Computer Vision] ![image][Deep Learning] ![image][Image Classification]
+![image][Paper] ![image][CVPR 2015] ![image][Computer Vision] ![image][Image Classification]
 1. [GPT-NeoX-20B: an open-source autoregressive language model](https://arxiv.org/abs/2204.06745)  
 *Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach*  
 ![image][Paper] ![image][ACL 2022] ![image][Large Models] ![image][NLP] ![image][Transformers]
@@ -525,7 +528,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper]
 1. [ImageNet classification using deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)  
 *Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton*  
-![image][Paper] ![image][NeurIPS 2012] ![image][Computer Vision] ![image][Deep Learning] ![image][Image Classification]
+![image][Paper] ![image][NeurIPS 2012] ![image][Computer Vision] ![image][Image Classification]
 1. [Improving entity linking by modeling latent relations between mentions](https://arxiv.org/abs/1804.10637)  
 *Phong Le, Ivan Titov*  
 ![image][Paper] ![image][ACL 2018] ![image][Entity Linking] ![image][NLP]
@@ -543,7 +546,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][NeurIPS 2016] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models] ![image][Information Theory]
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786)  
 *C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen*  
-![image][Paper] ![image][Journal of Visual Communication and Image Representation 2019] ![image][Computer Vision] ![image][Deep Learning]
+![image][Paper] ![image][Journal of Visual Communication and Image Representation 2019] ![image][Computer Vision]
 1. [Know what you don't know: unanswerable questions for SQuAD](https://arxiv.org/abs/1806.03822)  
 *Pranav Rajpurkar, Robin Jia, Percy Liang*  
 ![image][Paper] ![image][ACL 2018] ![image][NLP] ![image][Question Answering]
@@ -570,7 +573,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Nature 1986] ![image][Backpropagation] ![image][Deep Learning]
 1. [Learning transferable visual models from natural language supervision](https://arxiv.org/abs/2103.00020)  
 *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever*  
-![image][Paper] ![image][ICML 2021] ![image][Computer Vision] ![image][Deep Learning]
+![image][Paper] ![image][ICML 2021] ![image][Computer Vision]
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation)  
 *Andriy Mnih, Koray Kavukcuoglu*  
 ![image][Paper] ![image][NeurIPS 2013] ![image][Embeddings] ![image][NLP]
@@ -651,7 +654,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Distributed Training] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155)  
 *Justin Johnson, Alexandre Alahi, Li Fei-Fei*  
-![image][Paper] ![image][ECCV 2016] ![image][Computer Vision] ![image][Deep Learning] ![image][Image Super Resolution]
+![image][Paper] ![image][ECCV 2016] ![image][Computer Vision] ![image][Image Super Resolution]
 1. [Personalizing dialogue agents: I have a dog, do you have pets too?](https://arxiv.org/abs/1801.07243)  
 *Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston*  
 ![image][Paper] ![image][ACL 2018] ![image][Dialog] ![image][NLP]
@@ -681,7 +684,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][AAAI 2020] ![image][NLP] ![image][Quantization]
 1. [R<sup>3</sup>Net: recurrent residual refinement network for saliency detection](https://www.ijcai.org/proceedings/2018/95)  
 *Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, Pheng-Ann Heng*  
-![image][Paper] ![image][IJCAI 2018] ![image][Computer Vision] ![image][Deep Learning] ![image][Saliency Detection]
+![image][Paper] ![image][IJCAI 2018] ![image][Computer Vision] ![image][Saliency Detection]
 1. [Reading Wikipedia to answer open-domain questions](https://arxiv.org/abs/1704.00051)  
 *Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes*  
 ![image][Paper] ![image][ACL 2017] ![image][NLP] ![image][Question Answering]
@@ -786,7 +789,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Information Retrieval] ![image][NLP] ![image][Retrieval-Augmented Generation]
 1. [Understanding convolutional neural networks with a mathematical model](https://arxiv.org/abs/1609.04112)  
 *C.-C. Jay Kuo*  
-![image][Paper] ![image][Journal of Visual Communication and Image Representation 2016] ![image][Computer Vision] ![image][Deep Learning]
+![image][Paper] ![image][Journal of Visual Communication and Image Representation 2016] ![image][Computer Vision]
 1. [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)  
 *Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner*  
 ![image][Paper] ![image][Deep Learning] ![image][Disentanglement] ![image][Variational Inference]
@@ -804,7 +807,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][ACL 2019] ![image][Machine Translation] ![image][NLP] ![image][Unsupervised Learning]
 1. [Unsupervised representation learning by predicting image rotations](https://arxiv.org/abs/1803.07728)  
 *Spyros Gidaris, Praveer Singh, Nikos Komodakis*  
-![image][Paper] ![image][ICLR 2018] ![image][Computer Vision] ![image][Deep Learning] ![image][Unsupervised Learning]
+![image][Paper] ![image][ICLR 2018] ![image][Computer Vision] ![image][Unsupervised Learning]
 1. [Variational inference using implicit distributions](https://arxiv.org/abs/1702.08235)  
 *Ferenc Huszár*  
 ![image][Paper] ![image][Deep Learning] ![image][Variational Inference]
@@ -822,7 +825,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][NeurIPS 2017] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
 1. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556)  
 *Karen Simonyan, Andrew Zisserman*  
-![image][Paper] ![image][ICLR 2015] ![image][Computer Vision] ![image][Deep Learning] ![image][Image Classification]
+![image][Paper] ![image][ICLR 2015] ![image][Computer Vision] ![image][Image Classification]
 1. [Visualizing data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html)  
 *Laurens van der Maaten, Geoffrey Hinton*  
 ![image][Paper] ![image][JMLR 2008] ![image][Data Visualization] ![image][Deep Learning]
@@ -840,7 +843,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][ICLR 2018] ![image][Machine Translation] ![image][NLP]
 1. [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640)  
 *Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi*  
-![image][Paper] ![image][CVPR 2016] ![image][Computer Vision] ![image][Deep Learning] ![image][Object Detection]
+![image][Paper] ![image][CVPR 2016] ![image][Computer Vision] ![image][Object Detection]
 1. [ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning](https://arxiv.org/abs/2104.07857)  
 *Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He*  
 ![image][Paper] ![image][SC 2021] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
