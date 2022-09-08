@@ -3115,5 +3115,17 @@
             "Energy-based Models"
         ],
         "venue": "PNAS 1982"
+    },
+    {
+        "name": "Optimal perceptual inference",
+        "url": "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.6007&rank=1&q=optimal%20perceptual%20inference&osm=&ossid=",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Geoffrey E. Hinton, Terrence J. Sejnowski",
+        "keywords": [
+            "Deep Learning",
+            "Energy-based Models"
+        ],
+        "venue": "CVPR 1983"
     }
 ]

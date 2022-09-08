@@ -105,6 +105,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [ACL 2022]: https://img.shields.io/static/v1?label=&message=ACL%202022&color=grey
 [ACM SIGGRAPH Computer Graphics 1987]: https://img.shields.io/static/v1?label=&message=ACM%20SIGGRAPH%20Computer%20Graphics%201987&color=grey
 [ACM Transactions on Graphics]: https://img.shields.io/static/v1?label=&message=ACM%20Transactions%20on%20Graphics&color=grey
+[CVPR 1983]: https://img.shields.io/static/v1?label=&message=CVPR%201983&color=grey
 [CVPR 2015]: https://img.shields.io/static/v1?label=&message=CVPR%202015&color=grey
 [CVPR 2016]: https://img.shields.io/static/v1?label=&message=CVPR%202016&color=grey
 [CVPR 2019]: https://img.shields.io/static/v1?label=&message=CVPR%202019&color=grey
@@ -639,6 +640,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [OPT: open pre-trained transformer language models](https://arxiv.org/abs/2205.01068)  
 *Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer*  
 ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [Optimal perceptual inference](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.6007&rank=1&q=optimal%20perceptual%20inference&osm=&ossid=)  
+*Geoffrey E. Hinton, Terrence J. Sejnowski*  
+![image][Paper] ![image][CVPR 1983] ![image][Deep Learning] ![image][Energy-based Models]
 1. [Outer product-based neural collaborative filtering](https://arxiv.org/abs/1808.03912)  
 *Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua*  
 ![image][Paper] ![image][IJCAI 2018] ![image][Collaborative Filtering] ![image][Deep Learning] ![image][Recommender Systems]
