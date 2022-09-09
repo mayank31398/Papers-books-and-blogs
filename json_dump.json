@@ -3127,5 +3127,16 @@
             "Computer Vision"
         ],
         "venue": "ICLR 2021"
+    },
+    {
+        "name": "A general and adaptive robust loss function",
+        "url": "https://arxiv.org/abs/1701.03077",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jonathan T. Barron",
+        "keywords": [
+            "Deep Learning"
+        ],
+        "venue": "CVPR 2019"
     }
 ]

@@ -289,6 +289,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [A few more examples may be worth billions of parameters](https://arxiv.org/abs/2110.04374)  
 *Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy*  
 ![image][Paper] ![image][Few Shot] ![image][NLP]
+1. [A general and adaptive robust loss function](https://arxiv.org/abs/1701.03077)  
+*Jonathan T. Barron*  
+![image][Paper] ![image][CVPR 2019] ![image][Deep Learning]
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844)  
 *Lucas Theis, Aäron van den Oord, Matthias Bethge*  
 ![image][Paper] ![image][ICLR 2016] ![image][Deep Learning] ![image][Generative Models]
