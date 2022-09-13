@@ -306,6 +306,19 @@
         "venue": null
     },
     {
+        "name": "AlexaTM 20B: few-shot learning using a large-scale multilingual seq2seq model",
+        "url": "https://arxiv.org/abs/2208.01448",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, Rahul Gupta, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan",
+        "keywords": [
+            "NLP",
+            "Large Models",
+            "Transformers"
+        ],
+        "venue": null
+    },
+    {
         "name": "Amazon SageMaker model parallelism: a general and flexible framework for large model training",
         "url": "https://arxiv.org/abs/2111.05972",
         "topic": "AI, DL, NLP and RL",
@@ -757,8 +770,7 @@
         "authors": "Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He",
         "keywords": [
             "Deep Learning",
-            "Large Models",
-            "Large Model Inference"
+            "Large Models"
         ],
         "venue": null
     },

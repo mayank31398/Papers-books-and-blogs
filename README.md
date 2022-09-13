@@ -52,7 +52,6 @@ This repository contains a list of the books, blogs, research papers and white p
 [Information Retrieval]: https://img.shields.io/static/v1?label=&message=Information%20Retrieval&color=blue
 [Information Theory]: https://img.shields.io/static/v1?label=&message=Information%20Theory&color=blue
 [Knowledge Graphs]: https://img.shields.io/static/v1?label=&message=Knowledge%20Graphs&color=blue
-[Large Model Inference]: https://img.shields.io/static/v1?label=&message=Large%20Model%20Inference&color=blue
 [Large Models]: https://img.shields.io/static/v1?label=&message=Large%20Models&color=blue
 [Machine Translation]: https://img.shields.io/static/v1?label=&message=Machine%20Translation&color=blue
 [Memory]: https://img.shields.io/static/v1?label=&message=Memory&color=blue
@@ -340,6 +339,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Adversarially learned inference](https://arxiv.org/abs/1606.00704)  
 *Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville*  
 ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+1. [AlexaTM 20B: few-shot learning using a large-scale multilingual seq2seq model](https://arxiv.org/abs/2208.01448)  
+*Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, Rahul Gupta, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan*  
+![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Amazon SageMaker model parallelism: a general and flexible framework for large model training](https://arxiv.org/abs/2111.05972)  
 *Can Karakus, Rahul Huilgol, Fei Wu, Anirudh Subramanian, Cade Daniel, Derya Cavdar, Teng Xu, Haohan Chen, Arash Rahnama, Luis Quintela*  
 ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
@@ -432,7 +434,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][IJCAI 2018] ![image][Adversarial Examples] ![image][NLP]
 1. [DeepSpeed Inference: enabling efficient inference of transformer models at unprecedented scale](https://arxiv.org/abs/2207.00032)  
 *Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He*  
-![image][Paper] ![image][Deep Learning] ![image][Large Model Inference] ![image][Large Models]
+![image][Paper] ![image][Deep Learning] ![image][Large Models]
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.org/P18-1161/)  
 *Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun*  
 ![image][Paper] ![image][ACL 2018] ![image][NLP] ![image][Question Answering]
