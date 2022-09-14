@@ -1670,6 +1670,19 @@
         "venue": null
     },
     {
+        "name": "Making DeepSpeed ZeRO run efficiently on more-affordable hardware",
+        "url": "https://www.amazon.science/blog/making-deepspeed-zero-run-efficiently-on-more-affordable-hardware",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Justin Chiu, Shuai Zheng",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": "Amazon"
+    },
+    {
         "name": "Mask & focus: conversation modelling by learning concepts",
         "url": "https://arxiv.org/abs/2003.04976",
         "topic": "AI, DL, NLP and RL",
@@ -2621,7 +2634,8 @@
         "authors": "Olatunji Ruwase, Jeff Rasley",
         "keywords": [
             "Deep Learning",
-            "Large Models"
+            "Large Models",
+            "Distributed Training"
         ],
         "venue": "Microsoft"
     },
@@ -3105,7 +3119,8 @@
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
         "keywords": [
             "Deep Learning",
-            "Large Models"
+            "Large Models",
+            "Distributed Training"
         ],
         "venue": "Microsoft"
     },
@@ -3117,7 +3132,8 @@
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
         "keywords": [
             "Deep Learning",
-            "Large Models"
+            "Large Models",
+            "Distributed Training"
         ],
         "venue": "Microsoft"
     },

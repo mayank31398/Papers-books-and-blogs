@@ -105,6 +105,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [ACL 2022]: https://img.shields.io/static/v1?label=&message=ACL%202022&color=grey
 [ACM SIGGRAPH Computer Graphics 1987]: https://img.shields.io/static/v1?label=&message=ACM%20SIGGRAPH%20Computer%20Graphics%201987&color=grey
 [ACM Transactions on Graphics]: https://img.shields.io/static/v1?label=&message=ACM%20Transactions%20on%20Graphics&color=grey
+[Amazon]: https://img.shields.io/static/v1?label=&message=Amazon&color=grey
 [CVPR 1983]: https://img.shields.io/static/v1?label=&message=CVPR%201983&color=grey
 [CVPR 2015]: https://img.shields.io/static/v1?label=&message=CVPR%202015&color=grey
 [CVPR 2016]: https://img.shields.io/static/v1?label=&message=CVPR%202016&color=grey
@@ -258,9 +259,12 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Blog] ![image][Tsinghua University] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Image Super Resolution]
+1. [Making DeepSpeed ZeRO run efficiently on more-affordable hardware](https://www.amazon.science/blog/making-deepspeed-zero-run-efficiently-on-more-affordable-hardware)  
+*Justin Chiu, Shuai Zheng*  
+![image][Blog] ![image][Amazon] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [Supporting efficient large model training on AMD Instinct<sup>TM</sup> GPUs with DeepSpeed](https://cloudblogs.microsoft.com/opensource/2022/03/21/supporting-efficient-large-model-training-on-amd-instinct-gpus-with-deepspeed/)  
 *Olatunji Ruwase, Jeff Rasley*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)  
 *Corby Rosset*  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Transformers]
@@ -275,10 +279,10 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Blog] ![image][Yandex] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters](https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/)  
 *DeepSpeed Team, Rangan Majumder, Junhua Wang*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)  
 *DeepSpeed Team, Rangan Majumder, Junhua Wang*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [8-bit optimizers via block-wise quantization](https://arxiv.org/abs/2110.02861)  
 *Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer*  
 ![image][Paper] ![image][ICLR 2022] ![image][Compression] ![image][Deep Learning] ![image][Quantization]
