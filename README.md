@@ -285,7 +285,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [1-bit Adam: communication efficient large-scale training with Adam’s convergence speed](https://arxiv.org/abs/2102.02888)  
 *Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He*  
-![image][Paper] ![image][Deep Learning] ![image][Deep Learning] ![image][Distributed Training]
+![image][Paper] ![image][Deep Learning] ![image][Distributed Training]
 1. [8-bit optimizers via block-wise quantization](https://arxiv.org/abs/2110.02861)  
 *Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer*  
 ![image][Paper] ![image][ICLR 2022] ![image][Compression] ![image][Deep Learning] ![image][Quantization]
@@ -601,6 +601,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976)  
 *Gaurav Pandey, Dinesh Raghu, Sachindra Joshi*  
 ![image][Paper] ![image][AAAI 2020] ![image][Dialog] ![image][NLP]
+1. [Maximizing communication efficiency for large-scale training via 0/1 Adam](https://arxiv.org/abs/2202.06009)  
+*Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He*  
+![image][Paper] ![image][Deep Learning] ![image][Distributed Training]
 1. [Megatron-LM: training multi-billion parameter language models using model parallelism](https://arxiv.org/abs/1909.08053)  
 *Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro*  
 ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]

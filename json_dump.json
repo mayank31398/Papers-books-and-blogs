@@ -7,7 +7,6 @@
         "authors": "Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He",
         "keywords": [
             "Deep Learning",
-            "Deep Learning",
             "Distributed Training"
         ],
         "venue": null
@@ -1714,6 +1713,18 @@
         "datatype": "Book",
         "authors": "Carl D. Meyer",
         "keywords": null,
+        "venue": null
+    },
+    {
+        "name": "Maximizing communication efficiency for large-scale training via 0/1 Adam",
+        "url": "https://arxiv.org/abs/2202.06009",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He",
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training"
+        ],
         "venue": null
     },
     {
