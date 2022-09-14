@@ -283,6 +283,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)  
 *DeepSpeed Team, Rangan Majumder, Junhua Wang*  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+1. [1-bit Adam: communication efficient large-scale training with Adam’s convergence speed](https://arxiv.org/abs/2102.02888)  
+*Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He*  
+![image][Paper] ![image][Deep Learning] ![image][Deep Learning] ![image][Distributed Training]
 1. [8-bit optimizers via block-wise quantization](https://arxiv.org/abs/2110.02861)  
 *Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer*  
 ![image][Paper] ![image][ICLR 2022] ![image][Compression] ![image][Deep Learning] ![image][Quantization]

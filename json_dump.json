@@ -1,5 +1,18 @@
 [
     {
+        "name": "1-bit Adam: communication efficient large-scale training with Adam\u2019s convergence speed",
+        "url": "https://arxiv.org/abs/2102.02888",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He",
+        "keywords": [
+            "Deep Learning",
+            "Deep Learning",
+            "Distributed Training"
+        ],
+        "venue": null
+    },
+    {
         "name": "8-bit optimizers via block-wise quantization",
         "url": "https://arxiv.org/abs/2110.02861",
         "topic": "AI, DL, NLP and RL",
