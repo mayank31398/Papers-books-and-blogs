@@ -88,8 +88,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Younes Belkada, Tim Dettmers",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Quantization",
+            "Transformers",
+            "Deep Learning"
+        ],
+        "venue": "HuggingFace"
     },
     {
         "name": "A note on the evaluation of generative models",
@@ -780,8 +784,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Andrey Proskurin",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Compression",
+            "Quantization",
+            "Deep Learning"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "DeepSpeed powers 8x larger MoE model training with high performance",
@@ -789,8 +797,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Z-code Team",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Mixture of Experts"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression",
@@ -798,8 +810,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Andrey Proskurin",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Large Models"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "DeepSpeed: advancing MoE inference and training to power next-generation AI scale",
@@ -807,8 +822,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Andrey Proskurin",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Mixture of Experts",
+            "Large Models"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "Denoising distantly supervised open-domain question answering",
@@ -1121,8 +1140,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Large Models"
+        ],
+        "venue": "Tsinghua University"
     },
     {
         "name": "GPT-NeoX-20B: an open-source autoregressive language model",
@@ -1432,8 +1455,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Image Super Resolution"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "Introduction to algorithms",
@@ -2593,8 +2619,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Olatunji Ruwase, Jeff Rasley",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Large Models"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "Synchronization in neural nets",
@@ -2775,8 +2804,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Corby Rosset",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Transformers"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "Understanding convolutional neural networks with a mathematical model",
@@ -2817,8 +2850,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Cameron Wolfe",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ],
+        "venue": "Meta"
     },
     {
         "name": "Unit tests for stochastic optimization",
@@ -2888,8 +2924,13 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ali Alvi, Paresh Kharya",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Distributed Training",
+            "Large Models"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "VEEGAN: reducing mode collapse in GANs using implicit variational learning",
@@ -3037,8 +3078,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Mikhail Khrushchev",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "NLP",
+            "Large Models",
+            "Transformers"
+        ],
+        "venue": "Yandex"
     },
     {
         "name": "You only look once: unified, real-time object detection",
@@ -3058,8 +3103,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Large Models"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale",
@@ -3067,8 +3115,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
-        "keywords": null,
-        "venue": null
+        "keywords": [
+            "Deep Learning",
+            "Large Models"
+        ],
+        "venue": "Microsoft"
     },
     {
         "name": "ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning",

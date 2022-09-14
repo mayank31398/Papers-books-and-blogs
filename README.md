@@ -56,6 +56,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Machine Translation]: https://img.shields.io/static/v1?label=&message=Machine%20Translation&color=blue
 [Memory]: https://img.shields.io/static/v1?label=&message=Memory&color=blue
 [Meta Learning]: https://img.shields.io/static/v1?label=&message=Meta%20Learning&color=blue
+[Mixture of Experts]: https://img.shields.io/static/v1?label=&message=Mixture%20of%20Experts&color=blue
 [Molecular Chemistry]: https://img.shields.io/static/v1?label=&message=Molecular%20Chemistry&color=blue
 [Multi-modal]: https://img.shields.io/static/v1?label=&message=Multi-modal&color=blue
 [NLP]: https://img.shields.io/static/v1?label=&message=NLP&color=blue
@@ -116,6 +117,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [EMNLP 2020]: https://img.shields.io/static/v1?label=&message=EMNLP%202020&color=grey
 [EMNLP 2021]: https://img.shields.io/static/v1?label=&message=EMNLP%202021&color=grey
 [Frontiers in Computational Neuroscience 2017]: https://img.shields.io/static/v1?label=&message=Frontiers%20in%20Computational%20Neuroscience%202017&color=grey
+[HuggingFace]: https://img.shields.io/static/v1?label=&message=HuggingFace&color=grey
 [IBM Journal of Research and Development 2004]: https://img.shields.io/static/v1?label=&message=IBM%20Journal%20of%20Research%20and%20Development%202004&color=grey
 [ICCV 2017]: https://img.shields.io/static/v1?label=&message=ICCV%202017&color=grey
 [ICLR 2013]: https://img.shields.io/static/v1?label=&message=ICLR%202013&color=grey
@@ -152,6 +154,8 @@ This repository contains a list of the books, blogs, research papers and white p
 [Journal of Visual Communication and Image Representation 2016]: https://img.shields.io/static/v1?label=&message=Journal%20of%20Visual%20Communication%20and%20Image%20Representation%202016&color=grey
 [Journal of Visual Communication and Image Representation 2019]: https://img.shields.io/static/v1?label=&message=Journal%20of%20Visual%20Communication%20and%20Image%20Representation%202019&color=grey
 [MCSS 1989]: https://img.shields.io/static/v1?label=&message=MCSS%201989&color=grey
+[Meta]: https://img.shields.io/static/v1?label=&message=Meta&color=grey
+[Microsoft]: https://img.shields.io/static/v1?label=&message=Microsoft&color=grey
 [NAACL 2019]: https://img.shields.io/static/v1?label=&message=NAACL%202019&color=grey
 [NAACL 2021]: https://img.shields.io/static/v1?label=&message=NAACL%202021&color=grey
 [Nature 1982]: https://img.shields.io/static/v1?label=&message=Nature%201982&color=grey
@@ -178,7 +182,9 @@ This repository contains a list of the books, blogs, research papers and white p
 [SIGIR 2020]: https://img.shields.io/static/v1?label=&message=SIGIR%202020&color=grey
 [STOC 1996]: https://img.shields.io/static/v1?label=&message=STOC%201996&color=grey
 [The Bell System Technical Journal 1950]: https://img.shields.io/static/v1?label=&message=The%20Bell%20System%20Technical%20Journal%201950&color=grey
+[Tsinghua University]: https://img.shields.io/static/v1?label=&message=Tsinghua%20University&color=grey
 [USENIX Security Symposium 2007]: https://img.shields.io/static/v1?label=&message=USENIX%20Security%20Symposium%202007&color=grey
+[Yandex]: https://img.shields.io/static/v1?label=&message=Yandex&color=grey
 
 ### Table of contents
 - [AI, DL, NLP and RL](#ai-dl-nlp-and-rl)
@@ -235,44 +241,44 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Book]
 1. [A gentle introduction to 8-bit matrix multiplication for transformers at scale using Hugging Face transformers, accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)  
 *Younes Belkada, Tim Dettmers*  
-![image][Blog]
+![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Quantization] ![image][Transformers]
 1. [DeepSpeed compression: a composable library for extreme compression and zero-cost quantization](https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/)  
 *DeepSpeed Team, Andrey Proskurin*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Compression] ![image][Deep Learning] ![image][Quantization]
 1. [DeepSpeed powers 8x larger MoE model training with high performance](https://www.microsoft.com/en-us/research/blog/deepspeed-powers-8x-larger-moe-model-training-with-high-performance/)  
 *DeepSpeed Team, Z-code Team*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
 1. [DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/#:~:text=DeepSpeed%20Inference%20also%20supports%20fast,multiple%20GPUs%20for%20parallel%20execution.)  
 *DeepSpeed Team, Rangan Majumder, Andrey Proskurin*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
 1. [DeepSpeed: advancing MoE inference and training to power next-generation AI scale](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/)  
 *DeepSpeed Team, Andrey Proskurin*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
 1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/#fn:1)  
-![image][Blog]
+![image][Blog] ![image][Tsinghua University] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Image Super Resolution]
 1. [Supporting efficient large model training on AMD Instinct<sup>TM</sup> GPUs with DeepSpeed](https://cloudblogs.microsoft.com/opensource/2022/03/21/supporting-efficient-large-model-training-on-amd-instinct-gpus-with-deepspeed/)  
 *Olatunji Ruwase, Jeff Rasley*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
 1. [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)  
 *Corby Rosset*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Transformers]
 1. [Understanding the Open Pre-Trained Transformers (OPT) library](https://towardsdatascience.com/understanding-the-open-pre-trained-transformers-opt-library-193a29c14a15)  
 *Cameron Wolfe*  
-![image][Blog]
+![image][Blog] ![image][Meta] ![image][Deep Learning] ![image][Transformers]
 1. [Using DeepSpeed and Megatron to train Megatron-Turing NLG 530B, the world’s largest and most powerful generative language model](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)  
 *Ali Alvi, Paresh Kharya*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Distributed Training] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Yandex publishes YaLM 100B. It’s the largest GPT-like neural network in open source](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6)  
 *Mikhail Khrushchev*  
-![image][Blog]
+![image][Blog] ![image][Yandex] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters](https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/)  
 *DeepSpeed Team, Rangan Majumder, Junhua Wang*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
 1. [ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)  
 *DeepSpeed Team, Rangan Majumder, Junhua Wang*  
-![image][Blog]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
 1. [8-bit optimizers via block-wise quantization](https://arxiv.org/abs/2110.02861)  
 *Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer*  
 ![image][Paper] ![image][ICLR 2022] ![image][Compression] ![image][Deep Learning] ![image][Quantization]
