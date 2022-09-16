@@ -105,9 +105,12 @@ def main():
         f.write(METADATA + "\n\n")
         for shield in SHIELD_VARIABLES:
             f.write(SHIELD_VARIABLES[shield] + "\n")
+
         for keyword in keywords:
             f.write(
                 f"[{keyword}]: https://img.shields.io/static/v1?label=&message={keyword.replace(' ', '%20')}&color=blue\n")
+        f.write("\n")
+
         for venue in venues:
             f.write(
                 f"[{venue}]: https://img.shields.io/static/v1?label=&message={venue.replace(' ', '%20')}&color=grey\n")

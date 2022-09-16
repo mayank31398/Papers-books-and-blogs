@@ -590,6 +590,18 @@
         "venue": null
     },
     {
+        "name": "Compiling machine learning programs via high-level tracing",
+        "url": "https://research.google/pubs/pub47008/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Roy Frostig, Matthew Johnson, Chris Leary",
+        "keywords": [
+            "Deep Learning",
+            "Systems"
+        ],
+        "venue": "SysML 2018"
+    },
+    {
         "name": "Computer architecture: a quantitative approach",
         "url": null,
         "topic": "Computer architecture",

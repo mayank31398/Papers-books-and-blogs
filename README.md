@@ -88,6 +88,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Story Generation]: https://img.shields.io/static/v1?label=&message=Story%20Generation&color=blue
 [Style Transfer]: https://img.shields.io/static/v1?label=&message=Style%20Transfer&color=blue
 [Summarization]: https://img.shields.io/static/v1?label=&message=Summarization&color=blue
+[Systems]: https://img.shields.io/static/v1?label=&message=Systems&color=blue
 [Text Classification]: https://img.shields.io/static/v1?label=&message=Text%20Classification&color=blue
 [Theory of Computation]: https://img.shields.io/static/v1?label=&message=Theory%20of%20Computation&color=blue
 [Time Series]: https://img.shields.io/static/v1?label=&message=Time%20Series&color=blue
@@ -96,6 +97,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Unsupervised Learning]: https://img.shields.io/static/v1?label=&message=Unsupervised%20Learning&color=blue
 [Variational Inference]: https://img.shields.io/static/v1?label=&message=Variational%20Inference&color=blue
 [Zero Shot]: https://img.shields.io/static/v1?label=&message=Zero%20Shot&color=blue
+
 [AAAI 2020]: https://img.shields.io/static/v1?label=&message=AAAI%202020&color=grey
 [ACL 2017]: https://img.shields.io/static/v1?label=&message=ACL%202017&color=grey
 [ACL 2018]: https://img.shields.io/static/v1?label=&message=ACL%202018&color=grey
@@ -182,6 +184,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [SIGDIAL 2020]: https://img.shields.io/static/v1?label=&message=SIGDIAL%202020&color=grey
 [SIGIR 2020]: https://img.shields.io/static/v1?label=&message=SIGIR%202020&color=grey
 [STOC 1996]: https://img.shields.io/static/v1?label=&message=STOC%201996&color=grey
+[SysML 2018]: https://img.shields.io/static/v1?label=&message=SysML%202018&color=grey
 [The Bell System Technical Journal 1950]: https://img.shields.io/static/v1?label=&message=The%20Bell%20System%20Technical%20Journal%201950&color=grey
 [Tsinghua University]: https://img.shields.io/static/v1?label=&message=Tsinghua%20University&color=grey
 [USENIX Security Symposium 2007]: https://img.shields.io/static/v1?label=&message=USENIX%20Security%20Symposium%202007&color=grey
@@ -409,6 +412,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Colossal-AI: a unified deep learning system for large-scale parallel training](https://arxiv.org/abs/2110.14883)  
 *Zhengda Bian, Hongxin Liu, Boxiang Wang, Haichen Huang, Yongbin Li, Chuanrui Wang, Fan Cui, Yang You*  
 ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+1. [Compiling machine learning programs via high-level tracing](https://research.google/pubs/pub47008/)  
+*Roy Frostig, Matthew Johnson, Chris Leary*  
+![image][Paper] ![image][SysML 2018] ![image][Deep Learning] ![image][Systems]
 1. [Conceptual captions: a cleaned, hypernymed, image alt-text dataset for automatic image captioning](https://aclanthology.org/P18-1238/)  
 *Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut*  
 ![image][Paper] ![image][ACL 2018] ![image][Computer Vision] ![image][Dataset] ![image][NLP]
