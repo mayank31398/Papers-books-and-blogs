@@ -433,6 +433,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Curriculum learning](https://dl.acm.org/citation.cfm?id=1553380)  
 *Yoshua Bengio, Jérôme Louradour, Ronan Collobert, Jason Weston*  
 ![image][Paper] ![image][ICML 2009] ![image][Curriculum Learning] ![image][Deep Learning]
+1. [Cutting down on prompts and parameters: simple few-shot learning with language models](https://arxiv.org/abs/2106.13353)  
+*Robert L. Logan IV, Ivana Balažević, Eric Wallace, Fabio Petroni, Sameer Singh, Sebastian Riedel*  
+![image][Paper] ![image][ACL 2022] ![image][Few Shot] ![image][NLP]
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792)  
 *Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal*  
 ![image][Paper] ![image][ICLR 2018] ![image][Complex Numbers] ![image][Deep Learning]

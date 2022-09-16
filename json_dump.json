@@ -713,6 +713,18 @@
         "venue": "ICML 2009"
     },
     {
+        "name": "Cutting down on prompts and parameters: simple few-shot learning with language models",
+        "url": "https://arxiv.org/abs/2106.13353",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Robert L. Logan IV, Ivana Bala\u017eevi\u0107, Eric Wallace, Fabio Petroni, Sameer Singh, Sebastian Riedel",
+        "keywords": [
+            "NLP",
+            "Few Shot"
+        ],
+        "venue": "ACL 2022"
+    },
+    {
         "name": "Data structures and algorithms in Java",
         "url": null,
         "topic": "Data structures and algorithms",
