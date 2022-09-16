@@ -406,6 +406,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [ColBERT: efficient and effective passage search via contextualized late interaction over BERT](https://arxiv.org/abs/2004.12832)  
 *Omar Khattab, Matei Zaharia*  
 ![image][Paper] ![image][SIGIR 2020] ![image][Information Retrieval] ![image][NLP]
+1. [Colossal-AI: a unified deep learning system for large-scale parallel training](https://arxiv.org/abs/2110.14883)  
+*Zhengda Bian, Hongxin Liu, Boxiang Wang, Haichen Huang, Yongbin Li, Chuanrui Wang, Fan Cui, Yang You*  
+![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [Conceptual captions: a cleaned, hypernymed, image alt-text dataset for automatic image captioning](https://aclanthology.org/P18-1238/)  
 *Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut*  
 ![image][Paper] ![image][ACL 2018] ![image][Computer Vision] ![image][Dataset] ![image][NLP]
@@ -793,6 +796,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [The Pile: an 800GB dataset of diverse text for language modeling](https://arxiv.org/abs/2101.00027)  
 *Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy*  
 ![image][Paper] ![image][Dataset] ![image][NLP]
+1. [The power of scale for parameter-efficient prompt tuning](https://arxiv.org/abs/2104.08691)  
+*Brian Lester, Rami Al-Rfou, Noah Constant*  
+![image][Paper] ![image][EMNLP 2021] ![image][NLP] ![image][Prompting]
 1. [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW)  
 *Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow*  
 ![image][Paper] ![image][ICLR 2018] ![image][Adversarial Examples] ![image][Deep Learning] ![image][Robustness]

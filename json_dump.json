@@ -577,6 +577,19 @@
         "venue": "SIGIR 2020"
     },
     {
+        "name": "Colossal-AI: a unified deep learning system for large-scale parallel training",
+        "url": "https://arxiv.org/abs/2110.14883",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Zhengda Bian, Hongxin Liu, Boxiang Wang, Haichen Huang, Yongbin Li, Chuanrui Wang, Fan Cui, Yang You",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": null
+    },
+    {
         "name": "Computer architecture: a quantitative approach",
         "url": null,
         "topic": "Computer architecture",
@@ -2761,6 +2774,18 @@
         "authors": "Kaare Brandt Petersen, Michael Syskind Pedersen",
         "keywords": null,
         "venue": null
+    },
+    {
+        "name": "The power of scale for parameter-efficient prompt tuning",
+        "url": "https://arxiv.org/abs/2104.08691",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Brian Lester, Rami Al-Rfou, Noah Constant",
+        "keywords": [
+            "NLP",
+            "Prompting"
+        ],
+        "venue": "EMNLP 2021"
     },
     {
         "name": "Thermometer encoding: one hot way to resist adversarial examples",
