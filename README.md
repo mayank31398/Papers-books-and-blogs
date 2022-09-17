@@ -260,6 +260,9 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
 1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/#fn:1)  
 ![image][Blog] ![image][Tsinghua University] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [Incredibly fast BLOOM inference with DeepSpeed and Accelerate](https://huggingface.co/blog/bloom-inference-pytorch-scripts)  
+*Stas Bekman, Sylvain Gugger*  
+![image][Blog] ![image][HuggingFace] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Image Super Resolution]
 1. [Making DeepSpeed ZeRO run efficiently on more-affordable hardware](https://www.amazon.science/blog/making-deepspeed-zero-run-efficiently-on-more-affordable-hardware)  

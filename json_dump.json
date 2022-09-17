@@ -1452,6 +1452,19 @@
         "venue": "ICML 2022"
     },
     {
+        "name": "Incredibly fast BLOOM inference with DeepSpeed and Accelerate",
+        "url": "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Stas Bekman, Sylvain Gugger",
+        "keywords": [
+            "NLP",
+            "Large Models",
+            "Transformers"
+        ],
+        "venue": "HuggingFace"
+    },
+    {
         "name": "Inference suboptimality in variational autoencoders",
         "url": "https://arxiv.org/abs/1801.03558",
         "topic": "AI, DL, NLP and RL",
