@@ -454,6 +454,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Deep learning and the information bottleneck principle](https://arxiv.org/abs/1503.02406)  
 *Naftali Tishby, Noga Zaslavsky*  
 ![image][Paper] ![image][IEEE Information Theory Workshop 2015] ![image][Deep Learning] ![image][Information Theory]
+1. [Deep learning techniques for super-resolution in video games](https://arxiv.org/abs/2012.09810)  
+*Alexander Watson*  
+![image][Paper] ![image][Computer Graphics] ![image][Computer Vision] ![image][Deep Learning] ![image][Image Super Resolution]
 1. [Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385)  
 *Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*  
 ![image][Paper] ![image][CVPR 2016] ![image][Computer Vision] ![image][Image Classification]

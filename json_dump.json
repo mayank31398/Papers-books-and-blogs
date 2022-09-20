@@ -792,6 +792,20 @@
         "venue": "IEEE Information Theory Workshop 2015"
     },
     {
+        "name": "Deep learning techniques for super-resolution in video games",
+        "url": "https://arxiv.org/abs/2012.09810",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Alexander Watson",
+        "keywords": [
+            "Deep Learning",
+            "Computer Graphics",
+            "Computer Vision",
+            "Image Super Resolution"
+        ],
+        "venue": null
+    },
+    {
         "name": "Deep residual learning for image recognition",
         "url": "https://arxiv.org/abs/1512.03385",
         "topic": "AI, DL, NLP and RL",
