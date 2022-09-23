@@ -2,6 +2,7 @@ import argparse
 import json
 import re
 from typing import List
+
 from values import METADATA, SHIELD_VARIABLES
 
 
@@ -12,8 +13,8 @@ def NormalizeTopic(topic: str) -> str:
 def GetAllValuesByField(json_dump: List[dict], field: str) -> List[str]:
     x = set()
     for i in json_dump:
-        if (i[field]):
-            if (type(i[field]) == list):
+        if i[field]:
+            if type(i[field]) == list:
                 i[field].sort()
                 for j in i[field]:
                     x.add(j)
@@ -31,7 +32,7 @@ def PreprocessNames(json_file: List[dict]) -> List[dict]:
     for i in json_file:
         x = pattern.findall(i["name"])
         for j in x:
-            exponent = j[2: len(j) - 1]
+            exponent = j[2 : len(j) - 1]
             i["name"] = i["name"].replace(j, "<sup>{}</sup>".format(exponent))
 
     return json_file
@@ -42,7 +43,7 @@ def GroupByTopics(json_file: List[dict], topics: List[str]) -> List[dict]:
     for topic in topics:
         grouped_json[topic] = []
         for i in json_file:
-            if (i["topic"] == topic):
+            if i["topic"] == topic:
                 grouped_json[topic].append(i)
 
     for topic in grouped_json:
@@ -53,32 +54,28 @@ def GroupByTopics(json_file: List[dict], topics: List[str]) -> List[dict]:
 
 def ParseArgs():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--readme", type=str,
-                        required=True, help="Readme file")
-    parser.add_argument("--json_dump", type=str,
-                        required=True, help="JSON dump file")
-    parser.add_argument("--group_by_datatype",
-                        action="store_true", help="Group by data type")
-    parser.add_argument("--add_shields",
-                        action="store_true", help="Add shields")
+    parser.add_argument("--readme", type=str, required=True, help="Readme file")
+    parser.add_argument("--json_dump", type=str, required=True, help="JSON dump file")
+    parser.add_argument("--group_by_datatype", action="store_true", help="Group by data type")
+    parser.add_argument("--add_shields", action="store_true", help="Add shields")
     return parser.parse_args()
 
 
 def MakeElement(json_obj: json, add_shield: bool) -> str:
     element = "1. "
 
-    if (json_obj["url"]):
+    if json_obj["url"]:
         element += "[{}]({})".format(json_obj["name"], json_obj["url"])
     else:
         element += "{}".format(json_obj["name"])
 
-    if (json_obj["authors"]):
+    if json_obj["authors"]:
         element += "  \n*{}*".format(json_obj["authors"])
 
-    if (add_shield):
+    if add_shield:
         element += "  \n![image][{}]".format(json_obj["datatype"])
-        if (json_obj["keywords"]):
-            if (json_obj["venue"]):
+        if json_obj["keywords"]:
+            if json_obj["venue"]:
                 element += " ![image][{}]".format(json_obj["venue"])
             for k in json_obj["keywords"]:
                 element += " ![image][{}]".format(k)
@@ -108,12 +105,14 @@ def main():
 
         for keyword in keywords:
             f.write(
-                f"[{keyword}]: https://img.shields.io/static/v1?label=&message={keyword.replace(' ', '%20')}&color=blue\n")
+                f"[{keyword}]: https://img.shields.io/static/v1?label=&message={keyword.replace(' ', '%20')}&color=blue\n"
+            )
         f.write("\n")
 
         for venue in venues:
             f.write(
-                f"[{venue}]: https://img.shields.io/static/v1?label=&message={venue.replace(' ', '%20')}&color=grey\n")
+                f"[{venue}]: https://img.shields.io/static/v1?label=&message={venue.replace(' ', '%20')}&color=grey\n"
+            )
         f.write("\n")
 
         f.write("### Table of contents\n")
@@ -124,10 +123,10 @@ def main():
         for topic in topics:
             f.write("# {}\n".format(topic))
 
-            if (args.group_by_datatype):
+            if args.group_by_datatype:
                 for datatype in SHIELD_VARIABLES:
                     for i in grouped_json[topic]:
-                        if (i["datatype"] == datatype):
+                        if i["datatype"] == datatype:
                             f.write(MakeElement(i, args.add_shields))
             else:
                 for i in grouped_json[topic]:
@@ -135,5 +134,5 @@ def main():
             f.write("\n")
 
 
-if (__name__ == "__main__"):
+if __name__ == "__main__":
     main()

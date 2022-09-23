@@ -4,12 +4,7 @@ SHIELD_VARIABLES = {
     "Book": "[Book]: https://img.shields.io/static/v1?label=&message=Book&color=red",
     "Blog": "[Blog]: https://img.shields.io/static/v1?label=&message=Blog&color=brightgreen",
     "Paper": "[Paper]: https://img.shields.io/static/v1?label=&message=Paper&color=blueviolet",
-    "Whitepaper": "[Whitepaper]: https://img.shields.io/static/v1?label=&message=Whitepaper&color=yellow"
+    "Whitepaper": "[Whitepaper]: https://img.shields.io/static/v1?label=&message=Whitepaper&color=yellow",
 }
 
-URL_PROVIDED = {
-    "book": False,
-    "blog": True,
-    "paper": True,
-    "whitepaper": True
-}
+URL_PROVIDED = {"book": False, "blog": True, "paper": True, "whitepaper": True}

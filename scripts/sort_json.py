@@ -4,8 +4,7 @@ import json
 
 def ParseArgs():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--json_dump", type=str,
-                        required=True, help="JSON dump file")
+    parser.add_argument("--json_dump", type=str, required=True, help="JSON dump file")
     return parser.parse_args()
 
 
@@ -17,5 +16,5 @@ def main():
     json.dump(json_file, open(args.json_dump, "w"), indent=4)
 
 
-if (__name__ == "__main__"):
+if __name__ == "__main__":
     main()
