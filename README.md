@@ -46,6 +46,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Genetic Algorithms]: https://img.shields.io/static/v1?label=&message=Genetic%20Algorithms&color=blue
 [Gradient Estimation]: https://img.shields.io/static/v1?label=&message=Gradient%20Estimation&color=blue
 [Graph Neural Networks]: https://img.shields.io/static/v1?label=&message=Graph%20Neural%20Networks&color=blue
+[Green AI]: https://img.shields.io/static/v1?label=&message=Green%20AI&color=blue
 [Hallucination]: https://img.shields.io/static/v1?label=&message=Hallucination&color=blue
 [Image Classification]: https://img.shields.io/static/v1?label=&message=Image%20Classification&color=blue
 [Image Super Resolution]: https://img.shields.io/static/v1?label=&message=Image%20Super%20Resolution&color=blue
@@ -616,6 +617,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [LLM.int8(): 8-bit matrix multiplication for transformers at scale](https://arxiv.org/abs/2208.07339)  
 *Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer*  
 ![image][Paper] ![image][Deep Learning] ![image][Quantization]
+1. [M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining](https://arxiv.org/abs/2110.03888)  
+*Junyang Lin, An Yang, Jinze Bai, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Yong Li, Wei Lin, Jingren Zhou, Hongxia Yang*  
+![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Green AI] ![image][Large Models] ![image][Mixture of Experts] ![image][Multi-modal]
 1. [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976)  
 *Gaurav Pandey, Dinesh Raghu, Sachindra Joshi*  
 ![image][Paper] ![image][AAAI 2020] ![image][Dialog] ![image][NLP]
@@ -652,6 +656,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Mutual information neural estimation](https://arxiv.org/abs/1801.04062)  
 *Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm*  
 ![image][Paper] ![image][ICML 2018] ![image][Deep Learning] ![image][Information Theory]
+1. [NeMo: a toolkit for building AI applications using neural modules](https://arxiv.org/abs/1909.09577)  
+*Oleksii Kuchaiev, Jason Li, Huyen Nguyen, Oleksii Hrinchuk, Ryan Leary, Boris Ginsburg, Samuel Kriman, Stanislav Beliaev, Vitaly Lavrukhin, Jack Cook, Patrice Castonguay, Mariya Popova, Jocelyn Huang, Jonathan M. Cohen*  
+![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [Neural GPUs learn algorithms](https://arxiv.org/abs/1511.08228)  
 *Łukasz Kaiser, Ilya Sutskever*  
 ![image][Paper] ![image][Deep Learning] ![image][Theory of Computation]

@@ -1714,6 +1714,22 @@
         "venue": null
     },
     {
+        "name": "M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining",
+        "url": "https://arxiv.org/abs/2110.03888",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Junyang Lin, An Yang, Jinze Bai, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Yong Li, Wei Lin, Jingren Zhou, Hongxia Yang",
+        "keywords": [
+            "Deep Learning",
+            "Multi-modal",
+            "Large Models",
+            "Distributed Training",
+            "Mixture of Experts",
+            "Green AI"
+        ],
+        "venue": null
+    },
+    {
         "name": "MMCoQA: conversational question answering over text, tables and images",
         "url": "https://aclanthology.org/2022.acl-long.290/",
         "topic": "AI, DL, NLP and RL",
@@ -1937,6 +1953,19 @@
             "Information Theory"
         ],
         "venue": "ICML 2018"
+    },
+    {
+        "name": "NeMo: a toolkit for building AI applications using neural modules",
+        "url": "https://arxiv.org/abs/1909.09577",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Oleksii Kuchaiev, Jason Li, Huyen Nguyen, Oleksii Hrinchuk, Ryan Leary, Boris Ginsburg, Samuel Kriman, Stanislav Beliaev, Vitaly Lavrukhin, Jack Cook, Patrice Castonguay, Mariya Popova, Jocelyn Huang, Jonathan M. Cohen",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": null
     },
     {
         "name": "Neural GPUs learn algorithms",
