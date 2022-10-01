@@ -26,6 +26,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Curriculum Learning]: https://img.shields.io/static/v1?label=&message=Curriculum%20Learning&color=blue
 [Data Visualization]: https://img.shields.io/static/v1?label=&message=Data%20Visualization&color=blue
 [Dataset]: https://img.shields.io/static/v1?label=&message=Dataset&color=blue
+[Decentralized Training]: https://img.shields.io/static/v1?label=&message=Decentralized%20Training&color=blue
 [Deep Learning]: https://img.shields.io/static/v1?label=&message=Deep%20Learning&color=blue
 [Dialog]: https://img.shields.io/static/v1?label=&message=Dialog&color=blue
 [Differential Equations]: https://img.shields.io/static/v1?label=&message=Differential%20Equations&color=blue
@@ -824,6 +825,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [To regularize or not to regularize? The bias variance trade-off in regularized AEs](https://arxiv.org/abs/2006.05838)  
 *Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP*  
 ![image][Paper] ![image][Deep Learning] ![image][Regularization]
+1. [Towards crowdsourced training of large neural networks using decentralized mixture-of-experts](https://arxiv.org/abs/2002.04013)  
+*Max Ryabinin, Anton Gusev*  
+![image][Paper] ![image][NeurIPS 2020] ![image][Decentralized Training] ![image][Deep Learning] ![image][Large Models]
 1. [Towards deep learning models resilient to adversarial attacks](https://arxiv.org/abs/1706.06083)  
 *Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu*  
 ![image][Paper] ![image][ICLR 2018] ![image][Adversarial Examples] ![image][Deep Learning] ![image][Robustness]

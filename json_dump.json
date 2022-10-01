@@ -2890,6 +2890,19 @@
         "venue": null
     },
     {
+        "name": "Towards crowdsourced training of large neural networks using decentralized mixture-of-experts",
+        "url": "https://arxiv.org/abs/2002.04013",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Max Ryabinin, Anton Gusev",
+        "keywords": [
+            "Deep Learning",
+            "Decentralized Training",
+            "Large Models"
+        ],
+        "venue": "NeurIPS 2020"
+    },
+    {
         "name": "Towards deep learning models resilient to adversarial attacks",
         "url": "https://arxiv.org/abs/1706.06083",
         "topic": "AI, DL, NLP and RL",
