@@ -34,6 +34,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Disentanglement]: https://img.shields.io/static/v1?label=&message=Disentanglement&color=blue
 [Distillation]: https://img.shields.io/static/v1?label=&message=Distillation&color=blue
 [Distributed Training]: https://img.shields.io/static/v1?label=&message=Distributed%20Training&color=blue
+[Efficient Finetuning]: https://img.shields.io/static/v1?label=&message=Efficient%20Finetuning&color=blue
 [Embeddings]: https://img.shields.io/static/v1?label=&message=Embeddings&color=blue
 [Empirical Risk Minimization]: https://img.shields.io/static/v1?label=&message=Empirical%20Risk%20Minimization&color=blue
 [Energy-based Models]: https://img.shields.io/static/v1?label=&message=Energy-based%20Models&color=blue
@@ -339,6 +340,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [A3T: adversarially augmented adversarial training](https://arxiv.org/abs/1801.04055)  
 *Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien*  
 ![image][Paper] ![image][NeurIPS 2017] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+1. [AdapterHub: a framework for adapting transformers](https://arxiv.org/abs/2007.07779)  
+*Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych*  
+![image][Paper] ![image][EMNLP 2020] ![image][Efficient Finetuning] ![image][NLP] ![image][Transformers]
 1. [Adversarial approximate inference for speech to electroglottograph conversion](https://arxiv.org/abs/1903.12248)  
 *Prathosh A. P., Varun Srivastava, Mayank Mishra*  
 ![image][Paper] ![image][IEEE TASLP 2019] ![image][Adversarial Learning] ![image][Approximate Inference] ![image][Deep Learning] ![image][Generative Models] ![image][Speech]
@@ -449,7 +453,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][ICML 2009] ![image][Curriculum Learning] ![image][Deep Learning]
 1. [Cutting down on prompts and parameters: simple few-shot learning with language models](https://arxiv.org/abs/2106.13353)  
 *Robert L. Logan IV, Ivana Balažević, Eric Wallace, Fabio Petroni, Sameer Singh, Sebastian Riedel*  
-![image][Paper] ![image][ACL 2022] ![image][Few Shot] ![image][NLP]
+![image][Paper] ![image][ACL 2022] ![image][Efficient Finetuning] ![image][Few Shot] ![image][NLP]
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792)  
 *Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal*  
 ![image][Paper] ![image][ICLR 2018] ![image][Complex Numbers] ![image][Deep Learning]
@@ -713,10 +717,10 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Reinforcement Learning]
 1. [Pre-train, prompt, and predict: a systematic survey of prompting methods in natural language processing](https://arxiv.org/abs/2107.13586)  
 *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig*  
-![image][Paper] ![image][Few Shot] ![image][NLP] ![image][Prompting]
+![image][Paper] ![image][Efficient Finetuning] ![image][Few Shot] ![image][NLP] ![image][Prompting]
 1. [Prefix-tuning: optimizing continuous prompts for generation](https://arxiv.org/abs/2101.00190)  
 *Xiang Lisa Li, Percy Liang*  
-![image][Paper] ![image][ACL 2021] ![image][Few Shot] ![image][NLP] ![image][Prompting]
+![image][Paper] ![image][ACL 2021] ![image][Efficient Finetuning] ![image][Few Shot] ![image][NLP] ![image][Prompting]
 1. [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705)  
 *Thomas Hofmann*  
 ![image][Paper] ![image][Information Retrieval] ![image][NLP]
@@ -818,7 +822,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Dataset] ![image][NLP]
 1. [The power of scale for parameter-efficient prompt tuning](https://arxiv.org/abs/2104.08691)  
 *Brian Lester, Rami Al-Rfou, Noah Constant*  
-![image][Paper] ![image][EMNLP 2021] ![image][NLP] ![image][Prompting]
+![image][Paper] ![image][EMNLP 2021] ![image][Efficient Finetuning] ![image][NLP] ![image][Prompting]
 1. [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW)  
 *Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow*  
 ![image][Paper] ![image][ICLR 2018] ![image][Adversarial Examples] ![image][Deep Learning] ![image][Robustness]

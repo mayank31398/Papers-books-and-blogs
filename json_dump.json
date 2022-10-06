@@ -230,6 +230,19 @@
         "venue": "NeurIPS 2017"
     },
     {
+        "name": "AdapterHub: a framework for adapting transformers",
+        "url": "https://arxiv.org/abs/2007.07779",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jonas Pfeiffer, Andreas R\u00fcckl\u00e9, Clifton Poth, Aishwarya Kamath, Ivan Vuli\u0107, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych",
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Efficient Finetuning"
+        ],
+        "venue": "EMNLP 2020"
+    },
+    {
         "name": "Adversarial approximate inference for speech to electroglottograph conversion",
         "url": "https://arxiv.org/abs/1903.12248",
         "topic": "AI, DL, NLP and RL",
@@ -745,7 +758,8 @@
         "authors": "Robert L. Logan IV, Ivana Bala\u017eevi\u0107, Eric Wallace, Fabio Petroni, Sameer Singh, Sebastian Riedel",
         "keywords": [
             "NLP",
-            "Few Shot"
+            "Few Shot",
+            "Efficient Finetuning"
         ],
         "venue": "ACL 2022"
     },
@@ -2242,7 +2256,8 @@
         "keywords": [
             "Few Shot",
             "NLP",
-            "Prompting"
+            "Prompting",
+            "Efficient Finetuning"
         ],
         "venue": null
     },
@@ -2255,7 +2270,8 @@
         "keywords": [
             "Prompting",
             "NLP",
-            "Few Shot"
+            "Few Shot",
+            "Efficient Finetuning"
         ],
         "venue": "ACL 2021"
     },
@@ -2851,7 +2867,8 @@
         "authors": "Brian Lester, Rami Al-Rfou, Noah Constant",
         "keywords": [
             "NLP",
-            "Prompting"
+            "Prompting",
+            "Efficient Finetuning"
         ],
         "venue": "EMNLP 2021"
     },
