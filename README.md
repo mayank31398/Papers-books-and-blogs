@@ -889,6 +889,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Wasserstein GAN](https://arxiv.org/abs/1701.07875)  
 *Martin Arjovsky, Soumith Chintala, Léon Bottou*  
 ![image][Paper] ![image][ICML 2017] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+1. [wav2vec 2.0: a framework for self-supervised learning of speech representations](https://arxiv.org/abs/2006.11477)  
+*Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli*  
+![image][Paper] ![image][NeurIPS 2020] ![image][Deep Learning] ![image][Speech] ![image][Transformers]
 1. [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1609.03499)  
 *Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu*  
 ![image][Paper] ![image][Audio] ![image][Deep Learning] ![image][Generative Models]

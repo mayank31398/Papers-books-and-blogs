@@ -3366,6 +3366,19 @@
         "venue": "ICLR 2018"
     },
     {
+        "name": "wav2vec 2.0: a framework for self-supervised learning of speech representations",
+        "url": "https://arxiv.org/abs/2006.11477",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli",
+        "keywords": [
+            "Deep Learning",
+            "Speech",
+            "Transformers"
+        ],
+        "venue": "NeurIPS 2020"
+    },
+    {
         "name": "\u03b2-VAE: learning basic visual concepts with a constrained variational framework",
         "url": "https://openreview.net/forum?id=Sy2fzU9gl",
         "topic": "AI, DL, NLP and RL",
