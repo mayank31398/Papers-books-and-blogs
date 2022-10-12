@@ -50,6 +50,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Graph Neural Networks]: https://img.shields.io/static/v1?label=&message=Graph%20Neural%20Networks&color=blue
 [Green AI]: https://img.shields.io/static/v1?label=&message=Green%20AI&color=blue
 [Hallucination]: https://img.shields.io/static/v1?label=&message=Hallucination&color=blue
+[Hyperparameter Search]: https://img.shields.io/static/v1?label=&message=Hyperparameter%20Search&color=blue
 [Image Classification]: https://img.shields.io/static/v1?label=&message=Image%20Classification&color=blue
 [Image Super Resolution]: https://img.shields.io/static/v1?label=&message=Image%20Super%20Resolution&color=blue
 [Information Retrieval]: https://img.shields.io/static/v1?label=&message=Information%20Retrieval&color=blue
@@ -265,6 +266,8 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Blog] ![image][Tsinghua University] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)  
 ![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Transformers]
+1. [Hyperparameter Search with Transformers and Ray Tune](https://huggingface.co/blog/ray-tune)  
+![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Hyperparameter Search] ![image][Transformers]
 1. [Incredibly fast BLOOM inference with DeepSpeed and Accelerate](https://huggingface.co/blog/bloom-inference-pytorch-scripts)  
 *Stas Bekman, Sylvain Gugger*  
 ![image][Blog] ![image][HuggingFace] ![image][Large Models] ![image][NLP] ![image][Transformers]

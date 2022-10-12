@@ -1407,6 +1407,19 @@
         "venue": "ACL 2021"
     },
     {
+        "name": "Hyperparameter search with Transformers and Ray Tune",
+        "url": "https://huggingface.co/blog/ray-tune",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": null,
+        "keywords": [
+            "Deep Learning",
+            "Transformers",
+            "Hyperparameter Search"
+        ],
+        "venue": "HuggingFace"
+    },
+    {
         "name": "Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization",
         "url": "https://arxiv.org/abs/0804.4457",
         "topic": "Quantum computing",
