@@ -211,92 +211,6 @@ This repository contains a list of the books, blogs, research papers and white p
 - [Signal processing](#signal-processing)
 
 # AI, DL, NLP and RL
-1. Artificial Intelligence: a modern approach  
-*Stuart Russell, Peter Norvig*  
-![image][Book]
-1. Deep learning  
-*Ian Goodfellow, Yoshua Bengio, Aaron Courville*  
-![image][Book]
-1. Genetic algorithms in search, optimization and machine learning  
-*David E. Goldberg*  
-![image][Book]
-1. Machine learning  
-*Tom M. Mitchell*  
-![image][Book]
-1. Machine learning: a probabilistic perspective  
-*Kevin P. Murphy*  
-![image][Book]
-1. Neural network methods for natural language processing  
-*Yaov Goldberg*  
-![image][Book]
-1. Neural networks for pattern recognition  
-*Christopher M. Bishop*  
-![image][Book]
-1. Pattern classification  
-*Richard O. Duda, Peter E. Hart, David G. Stork*  
-![image][Book]
-1. Pattern recognition and machine learning  
-*Christopher M. Bishop*  
-![image][Book]
-1. Reinforcement Learning: An Introduction  
-*Richard S. Sutton, Andrew G. Barto*  
-![image][Book]
-1. Speech and language processing  
-*Daniel Jurafsky, James H. Martin*  
-![image][Book]
-1. The elements of statistical learning: data mining, inference and prediction  
-*Trevor Hastie, Robert Tibshirani, Jerome Friedman*  
-![image][Book]
-1. [A gentle introduction to 8-bit matrix multiplication for transformers at scale using Hugging Face transformers, accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)  
-*Younes Belkada, Tim Dettmers*  
-![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Quantization] ![image][Transformers]
-1. [DeepSpeed compression: a composable library for extreme compression and zero-cost quantization](https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/)  
-*DeepSpeed Team, Andrey Proskurin*  
-![image][Blog] ![image][Microsoft] ![image][Compression] ![image][Deep Learning] ![image][Quantization]
-1. [DeepSpeed powers 8x larger MoE model training with high performance](https://www.microsoft.com/en-us/research/blog/deepspeed-powers-8x-larger-moe-model-training-with-high-performance/)  
-*DeepSpeed Team, Z-code Team*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
-1. [DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/#:~:text=DeepSpeed%20Inference%20also%20supports%20fast,multiple%20GPUs%20for%20parallel%20execution.)  
-*DeepSpeed Team, Rangan Majumder, Andrey Proskurin*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
-1. [DeepSpeed: advancing MoE inference and training to power next-generation AI scale](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/)  
-*DeepSpeed Team, Andrey Proskurin*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
-1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/#fn:1)  
-![image][Blog] ![image][Tsinghua University] ![image][Large Models] ![image][NLP] ![image][Transformers]
-1. [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)  
-![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Transformers]
-1. [Hyperparameter Search with Transformers and Ray Tune](https://huggingface.co/blog/ray-tune)  
-![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Hyperparameter Search] ![image][Transformers]
-1. [Incredibly fast BLOOM inference with DeepSpeed and Accelerate](https://huggingface.co/blog/bloom-inference-pytorch-scripts)  
-*Stas Bekman, Sylvain Gugger*  
-![image][Blog] ![image][HuggingFace] ![image][Large Models] ![image][NLP] ![image][Transformers]
-1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Image Super Resolution]
-1. [Making DeepSpeed ZeRO run efficiently on more-affordable hardware](https://www.amazon.science/blog/making-deepspeed-zero-run-efficiently-on-more-affordable-hardware)  
-*Justin Chiu, Shuai Zheng*  
-![image][Blog] ![image][Amazon] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
-1. [Supporting efficient large model training on AMD Instinct<sup>TM</sup> GPUs with DeepSpeed](https://cloudblogs.microsoft.com/opensource/2022/03/21/supporting-efficient-large-model-training-on-amd-instinct-gpus-with-deepspeed/)  
-*Olatunji Ruwase, Jeff Rasley*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
-1. [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)  
-*Corby Rosset*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Transformers]
-1. [Understanding the Open Pre-Trained Transformers (OPT) library](https://towardsdatascience.com/understanding-the-open-pre-trained-transformers-opt-library-193a29c14a15)  
-*Cameron Wolfe*  
-![image][Blog] ![image][Meta] ![image][Deep Learning] ![image][Transformers]
-1. [Using DeepSpeed and Megatron to train Megatron-Turing NLG 530B, the world’s largest and most powerful generative language model](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)  
-*Ali Alvi, Paresh Kharya*  
-![image][Blog] ![image][Microsoft] ![image][Distributed Training] ![image][Large Models] ![image][NLP] ![image][Transformers]
-1. [Yandex publishes YaLM 100B. It’s the largest GPT-like neural network in open source](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6)  
-*Mikhail Khrushchev*  
-![image][Blog] ![image][Yandex] ![image][Large Models] ![image][NLP] ![image][Transformers]
-1. [ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters](https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/)  
-*DeepSpeed Team, Rangan Majumder, Junhua Wang*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
-1. [ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)  
-*DeepSpeed Team, Rangan Majumder, Junhua Wang*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [1-bit Adam: communication efficient large-scale training with Adam’s convergence speed](https://arxiv.org/abs/2102.02888)  
 *Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He*  
 ![image][Paper] ![image][Deep Learning] ![image][Distributed Training]
@@ -318,6 +232,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [A general and adaptive robust loss function](https://arxiv.org/abs/1701.03077)  
 *Jonathan T. Barron*  
 ![image][Paper] ![image][CVPR 2019] ![image][Deep Learning]
+1. [A gentle introduction to 8-bit matrix multiplication for transformers at scale using Hugging Face transformers, accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)  
+*Younes Belkada, Tim Dettmers*  
+![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Quantization] ![image][Transformers]
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844)  
 *Lucas Theis, Aäron van den Oord, Matthias Bethge*  
 ![image][Paper] ![image][ICLR 2016] ![image][Deep Learning] ![image][Generative Models]
@@ -387,6 +304,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Approximation by superpositions of sigmoidal function](https://link.springer.com/article/10.1007/BF02551274)  
 *George Cybenko*  
 ![image][Paper] ![image][MCSS 1989] ![image][Deep Learning]
+1. Artificial Intelligence: a modern approach  
+*Stuart Russell, Peter Norvig*  
+![image][Book]
 1. [Aspect based sentiment analysis with gated convolutional networks](https://arxiv.org/abs/1805.07043)  
 *Wei Xue, Tao Li*  
 ![image][Paper] ![image][ACL 2018] ![image][NLP] ![image][Text Classification]
@@ -462,6 +382,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792)  
 *Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal*  
 ![image][Paper] ![image][ICLR 2018] ![image][Complex Numbers] ![image][Deep Learning]
+1. Deep learning  
+*Ian Goodfellow, Yoshua Bengio, Aaron Courville*  
+![image][Book]
 1. [Deep learning and the information bottleneck principle](https://arxiv.org/abs/1503.02406)  
 *Naftali Tishby, Noga Zaslavsky*  
 ![image][Paper] ![image][IEEE Information Theory Workshop 2015] ![image][Deep Learning] ![image][Information Theory]
@@ -474,9 +397,21 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006)  
 *Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi*  
 ![image][Paper] ![image][IJCAI 2018] ![image][Adversarial Examples] ![image][NLP]
+1. [DeepSpeed compression: a composable library for extreme compression and zero-cost quantization](https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/)  
+*DeepSpeed Team, Andrey Proskurin*  
+![image][Blog] ![image][Microsoft] ![image][Compression] ![image][Deep Learning] ![image][Quantization]
 1. [DeepSpeed Inference: enabling efficient inference of transformer models at unprecedented scale](https://arxiv.org/abs/2207.00032)  
 *Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He*  
 ![image][Paper] ![image][Deep Learning] ![image][Large Models]
+1. [DeepSpeed powers 8x larger MoE model training with high performance](https://www.microsoft.com/en-us/research/blog/deepspeed-powers-8x-larger-moe-model-training-with-high-performance/)  
+*DeepSpeed Team, Z-code Team*  
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
+1. [DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/#:~:text=DeepSpeed%20Inference%20also%20supports%20fast,multiple%20GPUs%20for%20parallel%20execution.)  
+*DeepSpeed Team, Rangan Majumder, Andrey Proskurin*  
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
+1. [DeepSpeed: advancing MoE inference and training to power next-generation AI scale](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/)  
+*DeepSpeed Team, Andrey Proskurin*  
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.org/P18-1161/)  
 *Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun*  
 ![image][Paper] ![image][ACL 2018] ![image][NLP] ![image][Question Answering]
@@ -543,9 +478,14 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661)  
 *Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio*  
 ![image][Paper] ![image][NeurIPS 2014] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+1. Genetic algorithms in search, optimization and machine learning  
+*David E. Goldberg*  
+![image][Book]
 1. [GeoMAN: multi-level attention networks for geo-sensory time series prediction](https://www.ijcai.org/proceedings/2018/476)  
 *Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng*  
 ![image][Paper] ![image][IJCAI 2018] ![image][Deep Learning] ![image][Spatio-Temporal Reasoning] ![image][Time Series]
+1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/#fn:1)  
+![image][Blog] ![image][Tsinghua University] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
 *Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich*  
 ![image][Paper] ![image][CVPR 2015] ![image][Computer Vision] ![image][Image Classification]
@@ -567,9 +507,13 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [HotFlip: white-box adversarial examples for text classification](https://arxiv.org/abs/1712.06751)  
 *Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou*  
 ![image][Paper] ![image][ACL 2018] ![image][Adversarial Examples] ![image][NLP]
+1. [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)  
+![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Transformers]
 1. [HyKnow: end-to-end task-oriented dialog modeling with hybrid knowledge management](https://arxiv.org/abs/2105.06041)  
 *Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang*  
 ![image][Paper] ![image][ACL 2021] ![image][Dialog] ![image][NLP]
+1. [Hyperparameter search with Transformers and Ray Tune](https://huggingface.co/blog/ray-tune)  
+![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Hyperparameter Search] ![image][Transformers]
 1. [Image-to-image translation with conditional generative adversarial networks](https://arxiv.org/abs/1611.07004)  
 *Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros*  
 ![image][Paper]
@@ -585,6 +529,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Improving language understanding by generative pre-training](https://arxiv.org/abs/2112.04426)  
 *Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever*  
 ![image][Paper] ![image][ICML 2022] ![image][NLP] ![image][Retrieval-Augmented Generation]
+1. [Incredibly fast BLOOM inference with DeepSpeed and Accelerate](https://huggingface.co/blog/bloom-inference-pytorch-scripts)  
+*Stas Bekman, Sylvain Gugger*  
+![image][Blog] ![image][HuggingFace] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Inference suboptimality in variational autoencoders](https://arxiv.org/abs/1801.03558)  
 *Chris Cremer, Xuechen Li, David Duvenaud*  
 ![image][Paper] ![image][ICLR 2018] ![image][Approximate Inference] ![image][Deep Learning] ![image][Variational Inference]
@@ -594,6 +541,8 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786)  
 *C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen*  
 ![image][Paper] ![image][Journal of Visual Communication and Image Representation 2019] ![image][Computer Vision]
+1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Image Super Resolution]
 1. [Know what you don't know: unanswerable questions for SQuAD](https://arxiv.org/abs/1806.03822)  
 *Pranav Rajpurkar, Robin Jia, Percy Liang*  
 ![image][Paper] ![image][ACL 2018] ![image][NLP] ![image][Question Answering]
@@ -630,6 +579,15 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining](https://arxiv.org/abs/2110.03888)  
 *Junyang Lin, An Yang, Jinze Bai, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Yong Li, Wei Lin, Jingren Zhou, Hongxia Yang*  
 ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Green AI] ![image][Large Models] ![image][Mixture of Experts] ![image][Multi-modal]
+1. Machine learning  
+*Tom M. Mitchell*  
+![image][Book]
+1. Machine learning: a probabilistic perspective  
+*Kevin P. Murphy*  
+![image][Book]
+1. [Making DeepSpeed ZeRO run efficiently on more-affordable hardware](https://www.amazon.science/blog/making-deepspeed-zero-run-efficiently-on-more-affordable-hardware)  
+*Justin Chiu, Shuai Zheng*  
+![image][Blog] ![image][Amazon] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976)  
 *Gaurav Pandey, Dinesh Raghu, Sachindra Joshi*  
 ![image][Paper] ![image][AAAI 2020] ![image][Dialog] ![image][NLP]
@@ -672,9 +630,15 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Neural GPUs learn algorithms](https://arxiv.org/abs/1511.08228)  
 *Łukasz Kaiser, Ilya Sutskever*  
 ![image][Paper] ![image][Deep Learning] ![image][Theory of Computation]
+1. Neural network methods for natural language processing  
+*Yaov Goldberg*  
+![image][Book]
 1. [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/)  
 *J. J. Hopfield*  
 ![image][Paper] ![image][PNAS 1982] ![image][Biology] ![image][Deep Learning] ![image][Energy-based Models]
+1. Neural networks for pattern recognition  
+*Christopher M. Bishop*  
+![image][Book]
 1. [Neural ordinary differential equations](https://arxiv.org/abs/1806.07366)  
 *Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud*  
 ![image][Paper] ![image][NeurIPS 2018] ![image][Deep Learning] ![image][Differential Equations]
@@ -708,6 +672,12 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [PaLM: scaling language modeling with pathways](https://arxiv.org/abs/2204.02311)  
 *Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, Parker Schuh, Kensen Shi, Sasha Tsvyashchenko, Joshua Maynez, Abhishek Rao, Parker Barnes, Yi Tay, Noam Shazeer, Vinodkumar Prabhakaran, Emily Reif, Nan Du, Ben Hutchinson, Reiner Pope, James Bradbury, Jacob Austin, Michael Isard, Guy Gur-Ari, Pengcheng Yin, Toju Duke, Anselm Levskaya, Sanjay Ghemawat, Sunipa Dev, Henryk Michalewski, Xavier Garcia, Vedant Misra, Kevin Robinson, Liam Fedus, Denny Zhou, Daphne Ippolito, David Luan, Hyeontaek Lim, Barret Zoph, Alexander Spiridonov, Ryan Sepassi, David Dohan, Shivani Agrawal, Mark Omernick, Andrew M. Dai, Thanumalayan Sankaranarayana Pillai, Marie Pellat, Aitor Lewkowycz, Erica Moreira, Rewon Child, Oleksandr Polozov, Katherine Lee, Zongwei Zhou, Xuezhi Wang, Brennan Saeta, Mark Diaz, Orhan Firat, Michele Catasta, Jason Wei, Kathy Meier-Hellstern, Douglas Eck, Jeff Dean, Slav Petrov, Noah Fiedel*  
 ![image][Paper] ![image][Distributed Training] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. Pattern classification  
+*Richard O. Duda, Peter E. Hart, David G. Stork*  
+![image][Book]
+1. Pattern recognition and machine learning  
+*Christopher M. Bishop*  
+![image][Book]
 1. [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155)  
 *Justin Johnson, Alexandre Alahi, Li Fei-Fei*  
 ![image][Paper] ![image][ECCV 2016] ![image][Computer Vision] ![image][Image Super Resolution]
@@ -753,6 +723,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Regularizing and optimizing LSTM language models](https://arxiv.org/abs/1708.02182)  
 *Stephen Merity, Nitish Shirish Keskar, Richard Socher*  
 ![image][Paper] ![image][ICLR 2018] ![image][Deep Learning] ![image][Optimization] ![image][Regularization]
+1. Reinforcement Learning: An Introduction  
+*Richard S. Sutton, Andrew G. Barto*  
+![image][Book]
 1. [Restricted Boltzmann machines for collaborative filtering](https://dl.acm.org/citation.cfm?doid=1273496.1273596)  
 *Ruslan Salakhutdinov, Andriy Mnih, Geoffrey Hinton*  
 ![image][Paper] ![image][ICML 2007] ![image][Boltzmann Machines] ![image][Collaborative Filtering] ![image][Deep Learning] ![image][Energy-based Models] ![image][Recommender Systems]
@@ -792,6 +765,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Spectral normalization for generative adversarial networks](https://arxiv.org/abs/1802.05957)  
 *Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida*  
 ![image][Paper] ![image][ICLR 2018] ![image][Adversarial Learning] ![image][Deep Learning]
+1. Speech and language processing  
+*Daniel Jurafsky, James H. Martin*  
+![image][Book]
 1. [Sticking the landing: simple, lower-variance gradient estimators for variational inference](https://arxiv.org/abs/1703.09194)  
 *Geoffrey Roeder, Yuhuai Wu, David K. Duvenaud*  
 ![image][Paper] ![image][NeurIPS 2017] ![image][Deep Learning] ![image][Gradient Estimation] ![image][Variational Inference]
@@ -810,6 +786,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Supervised learning of probability distributions by neural networks](https://papers.nips.cc/paper/3-supervised-learning-of-probability-distributions-by-neural-networks)  
 *Eric B. Baum, Frank Wilczek*  
 ![image][Paper] ![image][NeurIPS 1987] ![image][Deep Learning]
+1. [Supporting efficient large model training on AMD Instinct<sup>TM</sup> GPUs with DeepSpeed](https://cloudblogs.microsoft.com/opensource/2022/03/21/supporting-efficient-large-model-training-on-amd-instinct-gpus-with-deepspeed/)  
+*Olatunji Ruwase, Jeff Rasley*  
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets)  
 *Jacques J. Vidal, John Haggerty*  
 ![image][Paper] ![image][NeurIPS 1987] ![image][Deep Learning]
@@ -819,6 +798,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [The best of both worlds: combining recent advances in neural machine translation](https://arxiv.org/abs/1804.09849)  
 *Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes*  
 ![image][Paper] ![image][ACL 2018] ![image][Machine Translation] ![image][NLP]
+1. The elements of statistical learning: data mining, inference and prediction  
+*Trevor Hastie, Robert Tibshirani, Jerome Friedman*  
+![image][Book]
 1. [The information bottleneck method](https://arxiv.org/abs/physics/0004057)  
 *Naftali Tishby, Fernando C. Pereira, William Bialek*  
 ![image][Paper] ![image][Information Theory]
@@ -849,12 +831,18 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Transformer memory as a differentiable search index](https://arxiv.org/abs/2202.06991)  
 *Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler*  
 ![image][Paper] ![image][Information Retrieval] ![image][NLP] ![image][Retrieval-Augmented Generation]
+1. [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)  
+*Corby Rosset*  
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Transformers]
 1. [Understanding convolutional neural networks with a mathematical model](https://arxiv.org/abs/1609.04112)  
 *C.-C. Jay Kuo*  
 ![image][Paper] ![image][Journal of Visual Communication and Image Representation 2016] ![image][Computer Vision]
 1. [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)  
 *Christopher P. Burgess, Irina Higgins, Arka Pal, Loic Matthey, Nick Watters, Guillaume Desjardins, Alexander Lerchner*  
 ![image][Paper] ![image][Deep Learning] ![image][Disentanglement] ![image][Variational Inference]
+1. [Understanding the Open Pre-Trained Transformers (OPT) library](https://towardsdatascience.com/understanding-the-open-pre-trained-transformers-opt-library-193a29c14a15)  
+*Cameron Wolfe*  
+![image][Blog] ![image][Meta] ![image][Deep Learning] ![image][Transformers]
 1. [Unit tests for stochastic optimization](https://arxiv.org/abs/1312.6055)  
 *Tom Schaul, Ioannis Antonoglou, David Silver*  
 ![image][Paper] ![image][ICLR 2014] ![image][Deep Learning] ![image][Optimization]
@@ -870,6 +858,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Unsupervised representation learning by predicting image rotations](https://arxiv.org/abs/1803.07728)  
 *Spyros Gidaris, Praveer Singh, Nikos Komodakis*  
 ![image][Paper] ![image][ICLR 2018] ![image][Computer Vision] ![image][Unsupervised Learning]
+1. [Using DeepSpeed and Megatron to train Megatron-Turing NLG 530B, the world’s largest and most powerful generative language model](https://www.microsoft.com/en-us/research/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)  
+*Ali Alvi, Paresh Kharya*  
+![image][Blog] ![image][Microsoft] ![image][Distributed Training] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Variational inference using implicit distributions](https://arxiv.org/abs/1702.08235)  
 *Ferenc Huszár*  
 ![image][Paper] ![image][Deep Learning] ![image][Variational Inference]
@@ -906,9 +897,18 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Word translation without parallel data](https://openreview.net/forum?id=H196sainb)  
 *Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou*  
 ![image][Paper] ![image][ICLR 2018] ![image][Machine Translation] ![image][NLP]
+1. [Yandex publishes YaLM 100B. It’s the largest GPT-like neural network in open source](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6)  
+*Mikhail Khrushchev*  
+![image][Blog] ![image][Yandex] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640)  
 *Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi*  
 ![image][Paper] ![image][CVPR 2016] ![image][Computer Vision] ![image][Object Detection]
+1. [ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters](https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/)  
+*DeepSpeed Team, Rangan Majumder, Junhua Wang*  
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+1. [ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)  
+*DeepSpeed Team, Rangan Majumder, Junhua Wang*  
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning](https://arxiv.org/abs/2104.07857)  
 *Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He*  
 ![image][Paper] ![image][SC 2021] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
@@ -1023,12 +1023,6 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Book]
 
 # Quantum computing
-1. Quantum computation and quantum information  
-*Michael A. Nielsen, Isaac L. Chuang*  
-![image][Book]
-1. Quantum computing: a gentle introduction  
-*Eleanor Rieffel, Wolfgang Polak*  
-![image][Book]
 1. [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043)  
 *Lov K. Grover*  
 ![image][Paper] ![image][STOC 1996] ![image][Quantum Algorithms] ![image][Quantum Computing]
@@ -1041,12 +1035,31 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization](https://arxiv.org/abs/0804.4457)  
 *Hartmut Neven, Geordie Rose, William G. Macready*  
 ![image][Paper] ![image][Image Classification] ![image][QUBO] ![image][Quantum Computing]
+1. [Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)](https://1qbit.com/whitepaper/integer-optimization-toolbox/)  
+*Pooya Ronagh*  
+![image][Whitepaper]
+1. [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/)  
+![image][Whitepaper]
+1. [Partitioning optimization problems for hybrid classical/quantum execution](https://docs.ocean.dwavesys.com/projects/qbsolv/en/latest/_downloads/bd15a2d8f32e587e9e5997ce9d5512cc/qbsolv_techReport.pdf)  
+*Michael Booth, Steven P. Reinhardt, Aidan Roy*  
+![image][Whitepaper]
 1. [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027)  
 *Peter W. Shor*  
 ![image][Paper] ![image][SIAM Journal on Computing 1997] ![image][Quantum Algorithms] ![image][Quantum Computing]
 1. [Probabilistic cloning and identification of linearly independent quantum states](https://arxiv.org/abs/quant-ph/9804064)  
 *Lu-Ming Duan, Guang-Can Guo*  
 ![image][Paper] ![image][Physical Review Letters 1998] ![image][Cloning] ![image][Quantum Computing]
+1. [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/white-paper/programming-with-d-wave-map-coloring-problem/)  
+*E. D. Dahl*  
+![image][Whitepaper]
+1. Quantum computation and quantum information  
+*Michael A. Nielsen, Isaac L. Chuang*  
+![image][Book]
+1. Quantum computing: a gentle introduction  
+*Eleanor Rieffel, Wolfgang Polak*  
+![image][Book]
+1. [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/white-paper/quantum-performance-evaluation-a-short-reading-list/)  
+![image][Whitepaper]
 1. [Quantum theory, the Church-Turing principle and the universal quantum computer](https://royalsocietypublishing.org/doi/10.1098/rspa.1985.0070)  
 *David Deutsch*  
 ![image][Paper] ![image][Proceedings of the Royal Society 1985] ![image][Quantum Computing] ![image][Theory of Computation]
@@ -1056,19 +1069,6 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895)  
 *Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters*  
 ![image][Paper] ![image][Physical Review Journals 1993] ![image][Quantum Computing] ![image][Quantum Teleportation]
-1. [Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)](https://1qbit.com/whitepaper/integer-optimization-toolbox/)  
-*Pooya Ronagh*  
-![image][Whitepaper]
-1. [Limits on parallel speedup for classical Ising model solvers](https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/)  
-![image][Whitepaper]
-1. [Partitioning optimization problems for hybrid classical/quantum execution](https://docs.ocean.dwavesys.com/projects/qbsolv/en/latest/_downloads/bd15a2d8f32e587e9e5997ce9d5512cc/qbsolv_techReport.pdf)  
-*Michael Booth, Steven P. Reinhardt, Aidan Roy*  
-![image][Whitepaper]
-1. [Programming with D-Wave: map coloring problem](https://www.dwavesys.com/resources/white-paper/programming-with-d-wave-map-coloring-problem/)  
-*E. D. Dahl*  
-![image][Whitepaper]
-1. [Quantum performance evaluation: a short reading list](https://www.dwavesys.com/resources/white-paper/quantum-performance-evaluation-a-short-reading-list/)  
-![image][Whitepaper]
 
 # Signal processing
 1. Discrete-time signal processing  
