@@ -1383,6 +1383,18 @@
         "venue": "ACL 2018"
     },
     {
+        "name": "How we sped up transformer inference 100x for \ud83e\udd17 API customers",
+        "url": "https://huggingface.co/blog/accelerated-inference",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": null,
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ],
+        "venue": "HuggingFace"
+    },
+    {
         "name": "HyKnow: end-to-end task-oriented dialog modeling with hybrid knowledge management",
         "url": "https://arxiv.org/abs/2105.06041",
         "topic": "AI, DL, NLP and RL",
