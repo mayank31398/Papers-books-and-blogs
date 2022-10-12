@@ -484,7 +484,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [GeoMAN: multi-level attention networks for geo-sensory time series prediction](https://www.ijcai.org/proceedings/2018/476)  
 *Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng*  
 ![image][Paper] ![image][IJCAI 2018] ![image][Deep Learning] ![image][Spatio-Temporal Reasoning] ![image][Time Series]
-1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/#fn:1)  
+1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/)  
 ![image][Blog] ![image][Tsinghua University] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
 *Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich*  
