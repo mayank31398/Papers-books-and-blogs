@@ -2160,6 +2160,19 @@
         "venue": "CVPR 1983"
     },
     {
+        "name": "Optimization story: Bloom inference",
+        "url": "https://huggingface.co/blog/bloom-inference-optimization",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Nicolas Patry",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Transformers"
+        ],
+        "venue": "HuggingFace"
+    },
+    {
         "name": "Outer product-based neural collaborative filtering",
         "url": "https://arxiv.org/abs/1808.03912",
         "topic": "AI, DL, NLP and RL",

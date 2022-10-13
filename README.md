@@ -666,6 +666,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Optimal perceptual inference](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.6007&rank=1&q=optimal%20perceptual%20inference&osm=&ossid=)  
 *Geoffrey E. Hinton, Terrence J. Sejnowski*  
 ![image][Paper] ![image][CVPR 1983] ![image][Deep Learning] ![image][Energy-based Models]
+1. [Optimization story: Bloom inference](https://huggingface.co/blog/bloom-inference-optimization)  
+*Nicolas Patry*  
+![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Large Models] ![image][Transformers]
 1. [Outer product-based neural collaborative filtering](https://arxiv.org/abs/1808.03912)  
 *Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua*  
 ![image][Paper] ![image][IJCAI 2018] ![image][Collaborative Filtering] ![image][Deep Learning] ![image][Recommender Systems]
