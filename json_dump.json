@@ -1617,6 +1617,18 @@
         "venue": null
     },
     {
+        "name": "Is the future of neural networks Sparse? An introduction (1/N)",
+        "url": "https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Fran\u00e7ois Lagunas",
+        "keywords": [
+            "Sparse Matrices",
+            "Deep Learning"
+        ],
+        "venue": "Medium"
+    },
+    {
         "name": "Know what you don't know: unanswerable questions for SQuAD",
         "url": "https://arxiv.org/abs/1806.03822",
         "topic": "AI, DL, NLP and RL",

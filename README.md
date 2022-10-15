@@ -88,6 +88,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Saliency Detection]: https://img.shields.io/static/v1?label=&message=Saliency%20Detection&color=blue
 [Scaling Laws]: https://img.shields.io/static/v1?label=&message=Scaling%20Laws&color=blue
 [Security]: https://img.shields.io/static/v1?label=&message=Security&color=blue
+[Sparse Matrices]: https://img.shields.io/static/v1?label=&message=Sparse%20Matrices&color=blue
 [Spatio-Temporal]: https://img.shields.io/static/v1?label=&message=Spatio-Temporal&color=blue
 [Speech]: https://img.shields.io/static/v1?label=&message=Speech&color=blue
 [Story Generation]: https://img.shields.io/static/v1?label=&message=Story%20Generation&color=blue
@@ -163,6 +164,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Journal of Visual Communication and Image Representation 2016]: https://img.shields.io/static/v1?label=&message=Journal%20of%20Visual%20Communication%20and%20Image%20Representation%202016&color=grey
 [Journal of Visual Communication and Image Representation 2019]: https://img.shields.io/static/v1?label=&message=Journal%20of%20Visual%20Communication%20and%20Image%20Representation%202019&color=grey
 [MCSS 1989]: https://img.shields.io/static/v1?label=&message=MCSS%201989&color=grey
+[Medium]: https://img.shields.io/static/v1?label=&message=Medium&color=grey
 [Meta]: https://img.shields.io/static/v1?label=&message=Meta&color=grey
 [Microsoft]: https://img.shields.io/static/v1?label=&message=Microsoft&color=grey
 [NAACL 2019]: https://img.shields.io/static/v1?label=&message=NAACL%202019&color=grey
@@ -548,6 +550,9 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Journal of Visual Communication and Image Representation 2019] ![image][Computer Vision]
 1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Image Super Resolution]
+1. [Is the future of neural networks Sparse? An introduction (1/N)](https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70)  
+*François Lagunas*  
+![image][Blog] ![image][Medium] ![image][Deep Learning] ![image][Sparse Matrices]
 1. [Know what you don't know: unanswerable questions for SQuAD](https://arxiv.org/abs/1806.03822)  
 *Pranav Rajpurkar, Robin Jia, Percy Liang*  
 ![image][Paper] ![image][ACL 2018] ![image][NLP] ![image][Question Answering]
