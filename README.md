@@ -87,7 +87,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Robustness]: https://img.shields.io/static/v1?label=&message=Robustness&color=blue
 [Saliency Detection]: https://img.shields.io/static/v1?label=&message=Saliency%20Detection&color=blue
 [Security]: https://img.shields.io/static/v1?label=&message=Security&color=blue
-[Spatio-Temporal Reasoning]: https://img.shields.io/static/v1?label=&message=Spatio-Temporal%20Reasoning&color=blue
+[Spatio-Temporal]: https://img.shields.io/static/v1?label=&message=Spatio-Temporal&color=blue
 [Speech]: https://img.shields.io/static/v1?label=&message=Speech&color=blue
 [Story Generation]: https://img.shields.io/static/v1?label=&message=Story%20Generation&color=blue
 [Style Transfer]: https://img.shields.io/static/v1?label=&message=Style%20Transfer&color=blue
@@ -102,6 +102,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Variational Inference]: https://img.shields.io/static/v1?label=&message=Variational%20Inference&color=blue
 [Zero Shot]: https://img.shields.io/static/v1?label=&message=Zero%20Shot&color=blue
 
+[AAAI 2018]: https://img.shields.io/static/v1?label=&message=AAAI%202018&color=grey
 [AAAI 2020]: https://img.shields.io/static/v1?label=&message=AAAI%202020&color=grey
 [ACL 2017]: https://img.shields.io/static/v1?label=&message=ACL%202017&color=grey
 [ACL 2018]: https://img.shields.io/static/v1?label=&message=ACL%202018&color=grey
@@ -417,7 +418,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][ACL 2018] ![image][NLP] ![image][Question Answering]
 1. [Diffusion convolutional recurrent neural network: data-driven traffic forecasting](https://arxiv.org/abs/1707.01926)  
 *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*  
-![image][Paper] ![image][ICLR 2018] ![image][Deep Learning] ![image][Graph Neural Networks] ![image][Spatio-Temporal Reasoning] ![image][Time Series]
+![image][Paper] ![image][ICLR 2018] ![image][Deep Learning] ![image][Graph Neural Networks] ![image][Spatio-Temporal] ![image][Time Series]
 1. [Discrete variational autoencoders](https://arxiv.org/abs/1609.02200)  
 *Jason Tyler Rolfe*  
 ![image][Paper] ![image][ICLR 2017] ![image][Deep Learning] ![image][Generative Models] ![image][Variational Inference]
@@ -483,7 +484,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Book]
 1. [GeoMAN: multi-level attention networks for geo-sensory time series prediction](https://www.ijcai.org/proceedings/2018/476)  
 *Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng*  
-![image][Paper] ![image][IJCAI 2018] ![image][Deep Learning] ![image][Spatio-Temporal Reasoning] ![image][Time Series]
+![image][Paper] ![image][IJCAI 2018] ![image][Deep Learning] ![image][Spatio-Temporal] ![image][Time Series]
 1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/)  
 ![image][Blog] ![image][Tsinghua University] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
@@ -762,9 +763,12 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Solving quantitative reasoning problems with language models](https://arxiv.org/abs/2206.14858)  
 *Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra*  
 ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [Spatial temporal graph convolutional networks for skeleton-based action recognition](https://arxiv.org/abs/1801.07455)  
+*Sijie Yan, Yuanjun Xiong, Dahua Lin*  
+![image][Paper] ![image][AAAI 2018] ![image][Deep Learning] ![image][Graph Neural Networks] ![image][Spatio-Temporal]
 1. [Spatio-temporal graph convolutional networks: a deep learning framework for traffic forecasting](https://arxiv.org/abs/1709.04875)  
 *Bing Yu, Haoteng Yin, Zhanxing Zhu*  
-![image][Paper] ![image][IJCAI 2018] ![image][Deep Learning] ![image][Graph Neural Networks] ![image][Spatio-Temporal Reasoning] ![image][Time Series]
+![image][Paper] ![image][IJCAI 2018] ![image][Deep Learning] ![image][Graph Neural Networks] ![image][Spatio-Temporal] ![image][Time Series]
 1. [Spectral normalization for generative adversarial networks](https://arxiv.org/abs/1802.05957)  
 *Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida*  
 ![image][Paper] ![image][ICLR 2018] ![image][Adversarial Learning] ![image][Deep Learning]

@@ -925,7 +925,7 @@
         "datatype": "Paper",
         "authors": "Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu",
         "keywords": [
-            "Spatio-Temporal Reasoning",
+            "Spatio-Temporal",
             "Time Series",
             "Deep Learning",
             "Graph Neural Networks"
@@ -1305,7 +1305,7 @@
         "keywords": [
             "Deep Learning",
             "Time Series",
-            "Spatio-Temporal Reasoning"
+            "Spatio-Temporal"
         ],
         "venue": "IJCAI 2018"
     },
@@ -2679,13 +2679,26 @@
         "venue": null
     },
     {
+        "name": "Spatial temporal graph convolutional networks for skeleton-based action recognition",
+        "url": "https://arxiv.org/abs/1801.07455",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Sijie Yan, Yuanjun Xiong, Dahua Lin",
+        "keywords": [
+            "Deep Learning",
+            "Spatio-Temporal",
+            "Graph Neural Networks"
+        ],
+        "venue": "AAAI 2018"
+    },
+    {
         "name": "Spatio-temporal graph convolutional networks: a deep learning framework for traffic forecasting",
         "url": "https://arxiv.org/abs/1709.04875",
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Bing Yu, Haoteng Yin, Zhanxing Zhu",
         "keywords": [
-            "Spatio-Temporal Reasoning",
+            "Spatio-Temporal",
             "Time Series",
             "Deep Learning",
             "Graph Neural Networks"
