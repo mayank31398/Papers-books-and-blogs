@@ -1383,6 +1383,19 @@
         "venue": "ACL 2018"
     },
     {
+        "name": "How big should my language model be?",
+        "url": "https://huggingface.co/calculator/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Teven Le Scao",
+        "keywords": [
+            "NLP",
+            "Large Models",
+            "Scaling Laws"
+        ],
+        "venue": "HuggingFace"
+    },
+    {
         "name": "How we sped up transformer inference 100x for \ud83e\udd17 API customers",
         "url": "https://huggingface.co/blog/accelerated-inference",
         "topic": "AI, DL, NLP and RL",

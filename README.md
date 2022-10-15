@@ -86,6 +86,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Robotics]: https://img.shields.io/static/v1?label=&message=Robotics&color=blue
 [Robustness]: https://img.shields.io/static/v1?label=&message=Robustness&color=blue
 [Saliency Detection]: https://img.shields.io/static/v1?label=&message=Saliency%20Detection&color=blue
+[Scaling Laws]: https://img.shields.io/static/v1?label=&message=Scaling%20Laws&color=blue
 [Security]: https://img.shields.io/static/v1?label=&message=Security&color=blue
 [Spatio-Temporal]: https://img.shields.io/static/v1?label=&message=Spatio-Temporal&color=blue
 [Speech]: https://img.shields.io/static/v1?label=&message=Speech&color=blue
@@ -508,6 +509,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [HotFlip: white-box adversarial examples for text classification](https://arxiv.org/abs/1712.06751)  
 *Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou*  
 ![image][Paper] ![image][ACL 2018] ![image][Adversarial Examples] ![image][NLP]
+1. [How big should my language model be?](https://huggingface.co/calculator/)  
+*Teven Le Scao*  
+![image][Blog] ![image][HuggingFace] ![image][Large Models] ![image][NLP] ![image][Scaling Laws]
 1. [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)  
 ![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Transformers]
 1. [HyKnow: end-to-end task-oriented dialog modeling with hybrid knowledge management](https://arxiv.org/abs/2105.06041)  
