@@ -550,6 +550,9 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Journal of Visual Communication and Image Representation 2019] ![image][Computer Vision]
 1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Image Super Resolution]
+1. [Introducing 🤗 accelerate](https://huggingface.co/blog/accelerate-library)  
+*Sylvain Gugger*  
+![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [Is the future of neural networks Sparse? An introduction (1/N)](https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70)  
 *François Lagunas*  
 ![image][Blog] ![image][Medium] ![image][Deep Learning] ![image][Sparse Matrices]

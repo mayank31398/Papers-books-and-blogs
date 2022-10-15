@@ -1590,6 +1590,19 @@
         "venue": "Microsoft"
     },
     {
+        "name": "Introducing \ud83e\udd17 accelerate",
+        "url": "https://huggingface.co/blog/accelerate-library",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Sylvain Gugger",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": "HuggingFace"
+    },
+    {
         "name": "Introduction to algorithms",
         "url": null,
         "topic": "Data structures and algorithms",
