@@ -773,6 +773,19 @@
         "venue": null
     },
     {
+        "name": "Deep Boltzmann machines",
+        "url": "https://proceedings.mlr.press/v5/salakhutdinov09a.html",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Ruslan Salakhutdinov, Geoffrey Hinton",
+        "keywords": [
+            "Deep Learning",
+            "Energy-based Models",
+            "Boltzmann Machines"
+        ],
+        "venue": "AISTATS 2009"
+    },
+    {
         "name": "Deep complex networks",
         "url": "https://arxiv.org/abs/1705.09792",
         "topic": "AI, DL, NLP and RL",

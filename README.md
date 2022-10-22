@@ -114,6 +114,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [ACL 2022]: https://img.shields.io/static/v1?label=&message=ACL%202022&color=grey
 [ACM SIGGRAPH Computer Graphics 1987]: https://img.shields.io/static/v1?label=&message=ACM%20SIGGRAPH%20Computer%20Graphics%201987&color=grey
 [ACM Transactions on Graphics]: https://img.shields.io/static/v1?label=&message=ACM%20Transactions%20on%20Graphics&color=grey
+[AISTATS 2009]: https://img.shields.io/static/v1?label=&message=AISTATS%202009&color=grey
 [Amazon]: https://img.shields.io/static/v1?label=&message=Amazon&color=grey
 [CVPR 1983]: https://img.shields.io/static/v1?label=&message=CVPR%201983&color=grey
 [CVPR 2015]: https://img.shields.io/static/v1?label=&message=CVPR%202015&color=grey
@@ -383,6 +384,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Cutting down on prompts and parameters: simple few-shot learning with language models](https://arxiv.org/abs/2106.13353)  
 *Robert L. Logan IV, Ivana Balažević, Eric Wallace, Fabio Petroni, Sameer Singh, Sebastian Riedel*  
 ![image][Paper] ![image][ACL 2022] ![image][Efficient Finetuning] ![image][Few Shot] ![image][NLP]
+1. [Deep Boltzmann machines](https://proceedings.mlr.press/v5/salakhutdinov09a.html)  
+*Ruslan Salakhutdinov, Geoffrey Hinton*  
+![image][Paper] ![image][AISTATS 2009] ![image][Boltzmann Machines] ![image][Deep Learning] ![image][Energy-based Models]
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792)  
 *Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal*  
 ![image][Paper] ![image][ICLR 2018] ![image][Complex Numbers] ![image][Deep Learning]
