@@ -1983,6 +1983,18 @@
         "venue": "EMNLP 2020"
     },
     {
+        "name": "Mix and match: learning-free controllable text generation using energy language models",
+        "url": "https://arxiv.org/abs/2203.13299",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Fatemehsadat Mireshghallah, Kartik Goyal, Taylor Berg-Kirkpatrick",
+        "keywords": [
+            "NLP",
+            "Energy-based Models"
+        ],
+        "venue": "ACL 2022"
+    },
+    {
         "name": "Mixed precision training",
         "url": "https://arxiv.org/abs/1710.03740",
         "topic": "AI, DL, NLP and RL",

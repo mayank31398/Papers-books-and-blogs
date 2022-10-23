@@ -620,6 +620,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [MinTL: minimalist transfer learning for task-oriented dialogue systems](https://arxiv.org/abs/2009.12005)  
 *Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung*  
 ![image][Paper] ![image][EMNLP 2020] ![image][Dialog] ![image][NLP]
+1. [Mix and match: learning-free controllable text generation using energy language models](https://arxiv.org/abs/2203.13299)  
+*Fatemehsadat Mireshghallah, Kartik Goyal, Taylor Berg-Kirkpatrick*  
+![image][Paper] ![image][ACL 2022] ![image][Energy-based Models] ![image][NLP]
 1. [Mixed precision training](https://arxiv.org/abs/1710.03740)  
 *Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu*  
 ![image][Paper] ![image][ICLR 2018] ![image][Deep Learning] ![image][Large Models]
