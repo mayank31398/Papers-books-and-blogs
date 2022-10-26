@@ -520,6 +520,9 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Blog] ![image][HuggingFace] ![image][Large Models] ![image][NLP] ![image][Scaling Laws]
 1. [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)  
 ![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Transformers]
+1. [How 🤗 Accelerate runs very large models thanks to PyTorch](https://huggingface.co/blog/accelerate-large-models)  
+*Sylvain Gugger*  
+![image][Blog] ![image][HuggingFace] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
 1. [HyKnow: end-to-end task-oriented dialog modeling with hybrid knowledge management](https://arxiv.org/abs/2105.06041)  
 *Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang*  
 ![image][Paper] ![image][ACL 2021] ![image][Dialog] ![image][NLP]

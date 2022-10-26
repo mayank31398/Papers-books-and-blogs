@@ -1421,6 +1421,20 @@
         "venue": "HuggingFace"
     },
     {
+        "name": "How \ud83e\udd17 Accelerate runs very large models thanks to PyTorch",
+        "url": "https://huggingface.co/blog/accelerate-large-models",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Sylvain Gugger",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Transformers",
+            "Distributed Training"
+        ],
+        "venue": "HuggingFace"
+    },
+    {
         "name": "HyKnow: end-to-end task-oriented dialog modeling with hybrid knowledge management",
         "url": "https://arxiv.org/abs/2105.06041",
         "topic": "AI, DL, NLP and RL",
