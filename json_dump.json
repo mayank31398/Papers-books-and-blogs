@@ -3113,6 +3113,19 @@
         "venue": "Microsoft"
     },
     {
+        "name": "UL2: unifying language learning paradigms",
+        "url": "https://arxiv.org/abs/2205.05131",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, Hyung Won Chung, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Denny Zhou, Neil Houlsby, Donald Metzler",
+        "keywords": [
+            "Transformers",
+            "Large Models",
+            "NLP"
+        ],
+        "venue": null
+    },
+    {
         "name": "Understanding convolutional neural networks with a mathematical model",
         "url": "https://arxiv.org/abs/1609.04112",
         "topic": "AI, DL, NLP and RL",

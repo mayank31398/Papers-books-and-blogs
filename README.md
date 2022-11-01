@@ -863,6 +863,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)  
 *Corby Rosset*  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Transformers]
+1. [UL2: unifying language learning paradigms](https://arxiv.org/abs/2205.05131)  
+*Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, Hyung Won Chung, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Denny Zhou, Neil Houlsby, Donald Metzler*  
+![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Understanding convolutional neural networks with a mathematical model](https://arxiv.org/abs/1609.04112)  
 *C.-C. Jay Kuo*  
 ![image][Paper] ![image][Journal of Visual Communication and Image Representation 2016] ![image][Computer Vision]
