@@ -195,6 +195,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [STOC 1996]: https://img.shields.io/static/v1?label=&message=STOC%201996&color=grey
 [SysML 2018]: https://img.shields.io/static/v1?label=&message=SysML%202018&color=grey
 [The Bell System Technical Journal 1950]: https://img.shields.io/static/v1?label=&message=The%20Bell%20System%20Technical%20Journal%201950&color=grey
+[Towards Data Science]: https://img.shields.io/static/v1?label=&message=Towards%20Data%20Science&color=grey
 [Tsinghua University]: https://img.shields.io/static/v1?label=&message=Tsinghua%20University&color=grey
 [USENIX Security Symposium 2007]: https://img.shields.io/static/v1?label=&message=USENIX%20Security%20Symposium%202007&color=grey
 [Yandex]: https://img.shields.io/static/v1?label=&message=Yandex&color=grey
@@ -860,6 +861,15 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Transformer memory as a differentiable search index](https://arxiv.org/abs/2202.06991)  
 *Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler*  
 ![image][Paper] ![image][Information Retrieval] ![image][NLP] ![image][Retrieval-Augmented Generation]
+1. [Transformers explained visually (part 1): overview of functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)  
+*Ketan Doshi*  
+![image][Blog] ![image][Towards Data Science] ![image][Deep Learning] ![image][Transformers]
+1. [Transformers explained visually (part 2): how it works, step-by-step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)  
+*Ketan Doshi*  
+![image][Blog] ![image][Towards Data Science] ![image][Deep Learning] ![image][Transformers]
+1. [Transformers explained visually (part 3): multi-head attention, deep dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)  
+*Ketan Doshi*  
+![image][Blog] ![image][Towards Data Science] ![image][Deep Learning] ![image][Transformers]
 1. [Turing-NLG: a 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)  
 *Corby Rosset*  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Transformers]

@@ -3100,6 +3100,42 @@
         "venue": null
     },
     {
+        "name": "Transformers explained visually (part 1): overview of functionality",
+        "url": "https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Ketan Doshi",
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ],
+        "venue": "Towards Data Science"
+    },
+    {
+        "name": "Transformers explained visually (part 2): how it works, step-by-step",
+        "url": "https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Ketan Doshi",
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ],
+        "venue": "Towards Data Science"
+    },
+    {
+        "name": "Transformers explained visually (part 3): multi-head attention, deep dive",
+        "url": "https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Ketan Doshi",
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ],
+        "venue": "Towards Data Science"
+    },
+    {
         "name": "Turing-NLG: a 17-billion-parameter language model by Microsoft",
         "url": "https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/",
         "topic": "AI, DL, NLP and RL",
