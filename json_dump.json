@@ -1203,6 +1203,19 @@
         "venue": "ICLR 2022"
     },
     {
+        "name": "FlashAttention: fast and memory-efficient exact attention with IO-awareness",
+        "url": "https://arxiv.org/abs/2205.14135",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher R\u00e9",
+        "keywords": [
+            "Deep Learning",
+            "Transformers",
+            "Speedup"
+        ],
+        "venue": null
+    },
+    {
         "name": "Flipping bits in memory without accessing them: an experimental study of DRAM disturbance errors",
         "url": "https://ieeexplore.ieee.org/document/6853210",
         "topic": "Computer architecture",
@@ -2226,7 +2239,7 @@
     },
     {
         "name": "Optimal perceptual inference",
-        "url": "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.6007&rank=1&q=optimal%20perceptual%20inference&osm=&ossid=",
+        "url": "https://www.researchgate.net/publication/260869405_Optimal_perceptual_inference",
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Geoffrey E. Hinton, Terrence J. Sejnowski",

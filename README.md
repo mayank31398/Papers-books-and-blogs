@@ -91,6 +91,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Sparse Matrices]: https://img.shields.io/static/v1?label=&message=Sparse%20Matrices&color=blue
 [Spatio-Temporal]: https://img.shields.io/static/v1?label=&message=Spatio-Temporal&color=blue
 [Speech]: https://img.shields.io/static/v1?label=&message=Speech&color=blue
+[Speedup]: https://img.shields.io/static/v1?label=&message=Speedup&color=blue
 [Story Generation]: https://img.shields.io/static/v1?label=&message=Story%20Generation&color=blue
 [Style Transfer]: https://img.shields.io/static/v1?label=&message=Style%20Transfer&color=blue
 [Summarization]: https://img.shields.io/static/v1?label=&message=Summarization&color=blue
@@ -475,6 +476,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652)  
 *Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le*  
 ![image][Paper] ![image][ICLR 2022] ![image][NLP] ![image][Transformers] ![image][Zero Shot]
+1. [FlashAttention: fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135)  
+*Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré*  
+![image][Paper] ![image][Deep Learning] ![image][Speedup] ![image][Transformers]
 1. [Generating adversarial examples with adversarial networks](https://www.ijcai.org/proceedings/2018/543)  
 *Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song*  
 ![image][Paper] ![image][IJCAI 2018] ![image][Adversarial Examples] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
@@ -687,7 +691,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [OPT: open pre-trained transformer language models](https://arxiv.org/abs/2205.01068)  
 *Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer*  
 ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
-1. [Optimal perceptual inference](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.6007&rank=1&q=optimal%20perceptual%20inference&osm=&ossid=)  
+1. [Optimal perceptual inference](https://www.researchgate.net/publication/260869405_Optimal_perceptual_inference)  
 *Geoffrey E. Hinton, Terrence J. Sejnowski*  
 ![image][Paper] ![image][CVPR 1983] ![image][Deep Learning] ![image][Energy-based Models]
 1. [Optimization story: Bloom inference](https://huggingface.co/blog/bloom-inference-optimization)  
