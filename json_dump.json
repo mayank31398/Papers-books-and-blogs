@@ -1831,6 +1831,19 @@
         "venue": null
     },
     {
+        "name": "Linformer: self-attention with linear complexity",
+        "url": "https://arxiv.org/abs/2006.04768",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma",
+        "keywords": [
+            "Deep Learning",
+            "Transformers",
+            "Speedup"
+        ],
+        "venue": null
+    },
+    {
         "name": "M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining",
         "url": "https://arxiv.org/abs/2110.03888",
         "topic": "AI, DL, NLP and RL",

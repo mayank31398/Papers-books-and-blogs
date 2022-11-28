@@ -598,6 +598,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation)  
 *Andriy Mnih, Koray Kavukcuoglu*  
 ![image][Paper] ![image][NeurIPS 2013] ![image][Embeddings] ![image][NLP]
+1. [Linformer: self-attention with linear complexity](https://arxiv.org/abs/2006.04768)  
+*Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma*  
+![image][Paper] ![image][Deep Learning] ![image][Speedup] ![image][Transformers]
 1. [LLM.int8(): 8-bit matrix multiplication for transformers at scale](https://arxiv.org/abs/2208.07339)  
 *Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer*  
 ![image][Paper] ![image][Deep Learning] ![image][Quantization]
