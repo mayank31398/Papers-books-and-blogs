@@ -3373,6 +3373,19 @@
         "venue": "ICLR 2017"
     },
     {
+        "name": "Vector-quantized input-contextualized soft prompts for natural language understanding",
+        "url": "https://arxiv.org/abs/2205.11024",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Rishabh Bhardwaj, Amrita Saha, Steven C.H. Hoi, Soujanya Poria",
+        "keywords": [
+            "Deep Learning",
+            "Prompting",
+            "Efficient Finetuning"
+        ],
+        "venue": "EMNLP 2022"
+    },
+    {
         "name": "Very deep convolutional networks for large-scale image recognition",
         "url": "https://arxiv.org/abs/1409.1556",
         "topic": "AI, DL, NLP and RL",

@@ -128,6 +128,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [EMNLP 2019]: https://img.shields.io/static/v1?label=&message=EMNLP%202019&color=grey
 [EMNLP 2020]: https://img.shields.io/static/v1?label=&message=EMNLP%202020&color=grey
 [EMNLP 2021]: https://img.shields.io/static/v1?label=&message=EMNLP%202021&color=grey
+[EMNLP 2022]: https://img.shields.io/static/v1?label=&message=EMNLP%202022&color=grey
 [Frontiers in Computational Neuroscience 2017]: https://img.shields.io/static/v1?label=&message=Frontiers%20in%20Computational%20Neuroscience%202017&color=grey
 [HuggingFace]: https://img.shields.io/static/v1?label=&message=HuggingFace&color=grey
 [IBM Journal of Research and Development 2004]: https://img.shields.io/static/v1?label=&message=IBM%20Journal%20of%20Research%20and%20Development%202004&color=grey
@@ -922,6 +923,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Variational lossy autoencoder](https://arxiv.org/abs/1611.02731)  
 *Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel*  
 ![image][Paper] ![image][ICLR 2017] ![image][Deep Learning] ![image][Variational Inference]
+1. [Vector-quantized input-contextualized soft prompts for natural language understanding](https://arxiv.org/abs/2205.11024)  
+*Rishabh Bhardwaj, Amrita Saha, Steven C.H. Hoi, Soujanya Poria*  
+![image][Paper] ![image][EMNLP 2022] ![image][Deep Learning] ![image][Efficient Finetuning] ![image][Prompting]
 1. [VEEGAN: reducing mode collapse in GANs using implicit variational learning](https://arxiv.org/abs/1705.07761)  
 *Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton*  
 ![image][Paper] ![image][NeurIPS 2017] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
