@@ -578,6 +578,18 @@
         "venue": "Physical Review Journals 1935"
     },
     {
+        "name": "ChatGPT: optimizing language models for dialogue",
+        "url": "https://openai.com/blog/chatgpt/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": null,
+        "keywords": [
+            "NLP",
+            "Dialog"
+        ],
+        "venue": "OpenAI"
+    },
+    {
         "name": "ColBERT: efficient and effective passage search via contextualized late interaction over BERT",
         "url": "https://arxiv.org/abs/2004.12832",
         "topic": "AI, DL, NLP and RL",

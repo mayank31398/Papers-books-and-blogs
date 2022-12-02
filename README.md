@@ -184,6 +184,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [NeurIPS 2017]: https://img.shields.io/static/v1?label=&message=NeurIPS%202017&color=grey
 [NeurIPS 2018]: https://img.shields.io/static/v1?label=&message=NeurIPS%202018&color=grey
 [NeurIPS 2020]: https://img.shields.io/static/v1?label=&message=NeurIPS%202020&color=grey
+[OpenAI]: https://img.shields.io/static/v1?label=&message=OpenAI&color=grey
 [PNAS 1982]: https://img.shields.io/static/v1?label=&message=PNAS%201982&color=grey
 [Physical Review Journals 1935]: https://img.shields.io/static/v1?label=&message=Physical%20Review%20Journals%201935&color=grey
 [Physical Review Journals 1993]: https://img.shields.io/static/v1?label=&message=Physical%20Review%20Journals%201993&color=grey
@@ -349,6 +350,8 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Bridging the gap between prior and posterior knowledge selection for knowledge-grounded dialogue generation](https://www.aclweb.org/anthology/2020.emnlp-main.275/)  
 *Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou*  
 ![image][Paper] ![image][EMNLP 2020] ![image][Dialog] ![image][NLP] ![image][Variational Inference]
+1. [ChatGPT: optimizing language models for dialogue](https://openai.com/blog/chatgpt/)  
+![image][Blog] ![image][OpenAI] ![image][Dialog] ![image][NLP]
 1. [ColBERT: efficient and effective passage search via contextualized late interaction over BERT](https://arxiv.org/abs/2004.12832)  
 *Omar Khattab, Matei Zaharia*  
 ![image][Paper] ![image][SIGIR 2020] ![image][Information Retrieval] ![image][NLP]
