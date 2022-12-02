@@ -1229,6 +1229,18 @@
         "venue": "IEEE ISCA 2014"
     },
     {
+        "name": "Foundations of NLP explained visually: beam search, how it works",
+        "url": "https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Ketan Doshi",
+        "keywords": [
+            "NLP",
+            "Algorithms"
+        ],
+        "venue": "Towards Data Science"
+    },
+    {
         "name": "Foundations of Signal Processing",
         "url": null,
         "topic": "Signal processing",

@@ -7,6 +7,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Activation Function]: https://img.shields.io/static/v1?label=&message=Activation%20Function&color=blue
 [Adversarial Examples]: https://img.shields.io/static/v1?label=&message=Adversarial%20Examples&color=blue
 [Adversarial Learning]: https://img.shields.io/static/v1?label=&message=Adversarial%20Learning&color=blue
+[Algorithms]: https://img.shields.io/static/v1?label=&message=Algorithms&color=blue
 [Animation]: https://img.shields.io/static/v1?label=&message=Animation&color=blue
 [Approximate Inference]: https://img.shields.io/static/v1?label=&message=Approximate%20Inference&color=blue
 [Audio]: https://img.shields.io/static/v1?label=&message=Audio&color=blue
@@ -480,6 +481,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [FlashAttention: fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135)  
 *Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré*  
 ![image][Paper] ![image][Deep Learning] ![image][Speedup] ![image][Transformers]
+1. [Foundations of NLP explained visually: beam search, how it works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)  
+*Ketan Doshi*  
+![image][Blog] ![image][Towards Data Science] ![image][Algorithms] ![image][NLP]
 1. [Generating adversarial examples with adversarial networks](https://www.ijcai.org/proceedings/2018/543)  
 *Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song*  
 ![image][Paper] ![image][IJCAI 2018] ![image][Adversarial Examples] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
