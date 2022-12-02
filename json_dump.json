@@ -1837,6 +1837,18 @@
         "venue": "NeurIPS 2013"
     },
     {
+        "name": "Lessons learned on language model safety and misuse",
+        "url": "https://openai.com/blog/language-model-safety-and-misuse/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": null,
+        "keywords": [
+            "NLP",
+            "Ethical Impacts of AI"
+        ],
+        "venue": "OpenAI"
+    },
+    {
         "name": "Limits on parallel speedup for classical Ising model solvers",
         "url": "https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/",
         "topic": "Quantum computing",

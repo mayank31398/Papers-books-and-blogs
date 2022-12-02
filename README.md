@@ -43,6 +43,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Entity Linking]: https://img.shields.io/static/v1?label=&message=Entity%20Linking&color=blue
 [Error Correction]: https://img.shields.io/static/v1?label=&message=Error%20Correction&color=blue
 [Error Detection]: https://img.shields.io/static/v1?label=&message=Error%20Detection&color=blue
+[Ethical Impacts of AI]: https://img.shields.io/static/v1?label=&message=Ethical%20Impacts%20of%20AI&color=blue
 [Fake Content Detection]: https://img.shields.io/static/v1?label=&message=Fake%20Content%20Detection&color=blue
 [Few Shot]: https://img.shields.io/static/v1?label=&message=Few%20Shot&color=blue
 [Generative Models]: https://img.shields.io/static/v1?label=&message=Generative%20Models&color=blue
@@ -606,6 +607,8 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation)  
 *Andriy Mnih, Koray Kavukcuoglu*  
 ![image][Paper] ![image][NeurIPS 2013] ![image][Embeddings] ![image][NLP]
+1. [Lessons learned on language model safety and misuse](https://openai.com/blog/language-model-safety-and-misuse/)  
+![image][Blog] ![image][OpenAI] ![image][Ethical Impacts of AI] ![image][NLP]
 1. [Linformer: self-attention with linear complexity](https://arxiv.org/abs/2006.04768)  
 *Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma*  
 ![image][Paper] ![image][Deep Learning] ![image][Speedup] ![image][Transformers]
