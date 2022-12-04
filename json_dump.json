@@ -2325,6 +2325,18 @@
         "venue": "IJCAI 2018"
     },
     {
+        "name": "PAL: Program-aided language models",
+        "url": "https://arxiv.org/abs/2211.10435",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig",
+        "keywords": [
+            "NLP",
+            "Mathematical Reasoning"
+        ],
+        "venue": null
+    },
+    {
         "name": "PaLM: scaling language modeling with pathways",
         "url": "https://arxiv.org/abs/2204.02311",
         "topic": "AI, DL, NLP and RL",
