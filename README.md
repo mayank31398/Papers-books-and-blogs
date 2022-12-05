@@ -587,6 +587,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Language modelling with pixels](https://arxiv.org/abs/2207.06991)  
 *Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott*  
 ![image][Paper] ![image][Computer Vision] ![image][NLP]
+1. [Language models (mostly) know what they know](https://arxiv.org/abs/2207.05221)  
+*Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli Tran-Johnson, Scott Johnston, Sheer El-Showk, Andy Jones, Nelson Elhage, Tristan Hume, Anna Chen, Yuntao Bai, Sam Bowman, Stanislav Fort, Deep Ganguli, Danny Hernandez, Josh Jacobson, Jackson Kernion, Shauna Kravec, Liane Lovitt, Kamal Ndousse, Catherine Olsson, Sam Ringer, Dario Amodei, Tom Brown, Jack Clark, Nicholas Joseph, Ben Mann, Sam McCandlish, Chris Olah, Jared Kaplan*  
+![image][Paper] ![image][Hallucination] ![image][NLP]
 1. [Language models are unsupervised multitask learners](https://openai.com/blog/better-language-models/)  
 *Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever*  
 ![image][Paper] ![image][NLP] ![image][Transformers]
