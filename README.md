@@ -303,7 +303,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Amazon SageMaker model parallelism: a general and flexible framework for large model training](https://arxiv.org/abs/2111.05972)  
 *Can Karakus, Rahul Huilgol, Fei Wu, Anirudh Subramanian, Cade Daniel, Derya Cavdar, Teng Xu, Haohan Chen, Arash Rahnama, Luis Quintela*  
-![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
 1. [An image is worth 16x16 words: transformers for image recognition at scale](https://arxiv.org/abs/2010.11929)  
 *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby*  
 ![image][Paper] ![image][ICLR 2021] ![image][Computer Vision]
@@ -359,7 +359,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][SIGIR 2020] ![image][Information Retrieval] ![image][NLP]
 1. [Colossal-AI: a unified deep learning system for large-scale parallel training](https://arxiv.org/abs/2110.14883)  
 *Zhengda Bian, Hongxin Liu, Boxiang Wang, Haichen Huang, Yongbin Li, Chuanrui Wang, Fan Cui, Yang You*  
-![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
 1. [Compiling machine learning programs via high-level tracing](https://research.google/pubs/pub47008/)  
 *Roy Frostig, Matthew Johnson, Chris Leary*  
 ![image][Paper] ![image][SysML 2018] ![image][Deep Learning] ![image][Systems]
@@ -419,13 +419,13 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Blog] ![image][Microsoft] ![image][Compression] ![image][Deep Learning] ![image][Quantization]
 1. [DeepSpeed Inference: enabling efficient inference of transformer models at unprecedented scale](https://arxiv.org/abs/2207.00032)  
 *Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He*  
-![image][Paper] ![image][Deep Learning] ![image][Large Models]
+![image][Paper] ![image][Deep Learning] ![image][Large Models] ![image][Systems]
 1. [DeepSpeed powers 8x larger MoE model training with high performance](https://www.microsoft.com/en-us/research/blog/deepspeed-powers-8x-larger-moe-model-training-with-high-performance/)  
 *DeepSpeed Team, Z-code Team*  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
 1. [DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/#:~:text=DeepSpeed%20Inference%20also%20supports%20fast,multiple%20GPUs%20for%20parallel%20execution.)  
 *DeepSpeed Team, Rangan Majumder, Andrey Proskurin*  
-![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models]
+![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Systems]
 1. [DeepSpeed: advancing MoE inference and training to power next-generation AI scale](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/)  
 *DeepSpeed Team, Andrey Proskurin*  
 ![image][Blog] ![image][Microsoft] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts]
@@ -628,6 +628,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. Machine learning: a probabilistic perspective  
 *Kevin P. Murphy*  
 ![image][Book]
+1. [Making deep learning go brrrr from first principles](https://horace.io/brrr_intro.html)  
+*Horace He*  
+![image][Blog] ![image][Deep Learning] ![image][Systems]
 1. [Making DeepSpeed ZeRO run efficiently on more-affordable hardware](https://www.amazon.science/blog/making-deepspeed-zero-run-efficiently-on-more-affordable-hardware)  
 *Justin Chiu, Shuai Zheng*  
 ![image][Blog] ![image][Amazon] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
@@ -639,10 +642,10 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][Deep Learning] ![image][Distributed Training]
 1. [Megatron-LM: training multi-billion parameter language models using model parallelism](https://arxiv.org/abs/1909.08053)  
 *Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro*  
-![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
+![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Systems] ![image][Transformers]
 1. [Memory-efficient pipeline-parallel DNN training](https://arxiv.org/abs/2006.09503)  
 *Deepak Narayanan, Amar Phanishayee, Kaiyu Shi, Xie Chen, Matei Zaharia*  
-![image][Paper] ![image][ICML 2021] ![image][Distributed Training] ![image][Large Models] ![image][NLP] ![image][Transformers]
+![image][Paper] ![image][ICML 2021] ![image][Distributed Training] ![image][Large Models] ![image][NLP] ![image][Systems] ![image][Transformers]
 1. [MinTL: minimalist transfer learning for task-oriented dialogue systems](https://arxiv.org/abs/2009.12005)  
 *Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung*  
 ![image][Paper] ![image][EMNLP 2020] ![image][Dialog] ![image][NLP]
@@ -1015,7 +1018,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ![image][Paper] ![image][IEEE ISCA 2014] ![image][Computer Architecture] ![image][Memory] ![image][Security]
 1. [Improving DRAM performance by parallelizing refreshes with accesses](https://ieeexplore.ieee.org/document/6835946)  
 *Kevin Kai-Wei Chang, Donghyuk Lee, Zeshan Chishti, Alaa R. Alameldeen, Chris Wilkerson, Yoongu Kim, Onur Mutlu*  
-![image][Paper] ![image][IEEE HPCA 2014] ![image][Computer Architecture] ![image][Memory] ![image][Security]
+![image][Paper] ![image][IEEE HPCA 2014] ![image][Computer Architecture] ![image][Memory] ![image][Security] ![image][Systems]
 1. [Memory performance attacks: denial of memory service in multi-core systems](https://www.usenix.org/conference/16th-usenix-security-symposium/memory-performance-attacks-denial-memory-service-multi)  
 *Thomas Moscibroda, Onur Mutlu*  
 ![image][Paper] ![image][USENIX Security Symposium 2007] ![image][Computer Architecture] ![image][Memory] ![image][Security]

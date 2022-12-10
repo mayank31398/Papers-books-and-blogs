@@ -356,7 +356,8 @@
         "keywords": [
             "Deep Learning",
             "Large Models",
-            "Distributed Training"
+            "Distributed Training",
+            "Systems"
         ],
         "venue": null
     },
@@ -610,7 +611,8 @@
         "keywords": [
             "Deep Learning",
             "Large Models",
-            "Distributed Training"
+            "Distributed Training",
+            "Systems"
         ],
         "venue": null
     },
@@ -876,7 +878,8 @@
         "authors": "Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He",
         "keywords": [
             "Deep Learning",
-            "Large Models"
+            "Large Models",
+            "Systems"
         ],
         "venue": null
     },
@@ -914,6 +917,7 @@
         "authors": "DeepSpeed Team, Rangan Majumder, Andrey Proskurin",
         "keywords": [
             "Deep Learning",
+            "Systems",
             "Large Models"
         ],
         "venue": "Microsoft"
@@ -1539,7 +1543,8 @@
         "keywords": [
             "Computer Architecture",
             "Security",
-            "Memory"
+            "Memory",
+            "Systems"
         ],
         "venue": "IEEE HPCA 2014"
     },
@@ -1865,7 +1870,7 @@
         "url": "https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/",
         "topic": "Quantum computing",
         "datatype": "Whitepaper",
-        "authors": "",
+        "authors": null,
         "keywords": null,
         "venue": null
     },
@@ -1953,6 +1958,18 @@
         "venue": "Amazon"
     },
     {
+        "name": "Making deep learning go brrrr from first principles",
+        "url": "https://horace.io/brrr_intro.html",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Horace He",
+        "keywords": [
+            "Deep Learning",
+            "Systems"
+        ],
+        "venue": null
+    },
+    {
         "name": "Mask & focus: conversation modelling by learning concepts",
         "url": "https://arxiv.org/abs/2003.04976",
         "topic": "AI, DL, NLP and RL",
@@ -2004,7 +2021,8 @@
             "Deep Learning",
             "Transformers",
             "Large Models",
-            "Distributed Training"
+            "Distributed Training",
+            "Systems"
         ],
         "venue": null
     },
@@ -2043,7 +2061,8 @@
             "NLP",
             "Transformers",
             "Large Models",
-            "Distributed Training"
+            "Distributed Training",
+            "Systems"
         ],
         "venue": "ICML 2021"
     },
