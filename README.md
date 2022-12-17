@@ -193,6 +193,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Physical Review Letters 1998]: https://img.shields.io/static/v1?label=&message=Physical%20Review%20Letters%201998&color=grey
 [Proceedings of the Royal Society 1985]: https://img.shields.io/static/v1?label=&message=Proceedings%20of%20the%20Royal%20Society%201985&color=grey
 [Proceedings of the Royal Society 1992]: https://img.shields.io/static/v1?label=&message=Proceedings%20of%20the%20Royal%20Society%201992&color=grey
+[PyTorch]: https://img.shields.io/static/v1?label=&message=PyTorch&color=grey
 [SC 2020]: https://img.shields.io/static/v1?label=&message=SC%202020&color=grey
 [SC 2021]: https://img.shields.io/static/v1?label=&message=SC%202021&color=grey
 [SIAM Journal on Computing 1997]: https://img.shields.io/static/v1?label=&message=SIAM%20Journal%20on%20Computing%201997&color=grey
@@ -793,6 +794,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545)  
 *David Lopez-Paz, Maxime Oquab*  
 ![image][Paper] ![image][ICLR 2017] ![image][Deep Learning] ![image][Unsupervised Learning]
+1. [Scaling PyTorch FSDP for training foundation Models on IBM cloud](https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/)  
+*Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan*  
+![image][Blog] ![image][PyTorch] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
 1. [Self-normalizing neural networks](https://arxiv.org/abs/1706.02515)  
 *Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter*  
 ![image][Paper] ![image][NeurIPS 2017] ![image][Activation Function] ![image][Deep Learning] ![image][Normalization]

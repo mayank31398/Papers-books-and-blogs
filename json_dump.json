@@ -2778,6 +2778,19 @@
         "venue": null
     },
     {
+        "name": "Scaling PyTorch FSDP for training foundation Models on IBM cloud",
+        "url": "https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan",
+        "keywords": [
+            "Systems",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": "PyTorch"
+    },
+    {
         "name": "Self-normalizing neural networks",
         "url": "https://arxiv.org/abs/1706.02515",
         "topic": "AI, DL, NLP and RL",
