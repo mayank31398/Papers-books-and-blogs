@@ -3697,5 +3697,17 @@
             "Variational Inference"
         ],
         "venue": "ICLR 2017"
+    },
+    {
+        "name": "\ud83c\udf85SantaCoder: don\u2019t reach for the stars!\u2b50",
+        "url": "https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Terry Yue Zhuo, Francesco De Toni, Bernardo Garc\u00eda del R\u00edo, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Michael Lappert, Ian Yu, Paulo Villegas, Jia Li, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Daniel Fried, Dzmitry Bahdanau, Yacine Yernite, Sean Hughes, Arjun Guha, Harm de Vries, Leandro von Werra",
+        "keywords": [
+            "AI for code",
+            "Large Models"
+        ],
+        "venue": null
     }
 ]

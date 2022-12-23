@@ -4,6 +4,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Blog]: https://img.shields.io/static/v1?label=&message=Blog&color=brightgreen
 [Paper]: https://img.shields.io/static/v1?label=&message=Paper&color=blueviolet
 [Whitepaper]: https://img.shields.io/static/v1?label=&message=Whitepaper&color=yellow
+[AI for code]: https://img.shields.io/static/v1?label=&message=AI%20for%20code&color=blue
 [Activation Function]: https://img.shields.io/static/v1?label=&message=Activation%20Function&color=blue
 [Adversarial Examples]: https://img.shields.io/static/v1?label=&message=Adversarial%20Examples&color=blue
 [Adversarial Learning]: https://img.shields.io/static/v1?label=&message=Adversarial%20Learning&color=blue
@@ -1001,6 +1002,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl)  
 *Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner*  
 ![image][Paper] ![image][ICLR 2017] ![image][Deep Learning] ![image][Variational Inference]
+1. [🎅SantaCoder: don’t reach for the stars!⭐](https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf)  
+*Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Terry Yue Zhuo, Francesco De Toni, Bernardo García del Río, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Michael Lappert, Ian Yu, Paulo Villegas, Jia Li, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Daniel Fried, Dzmitry Bahdanau, Yacine Yernite, Sean Hughes, Arjun Guha, Harm de Vries, Leandro von Werra*  
+![image][Paper] ![image][AI for code] ![image][Large Models]
 
 # Calculus
 1. Calculus of variations  
