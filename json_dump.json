@@ -5,10 +5,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He",
-        "keywords": [
-            "Deep Learning",
-            "Distributed Training"
-        ],
+        "keywords": ["Deep Learning", "Distributed Training"],
         "venue": null
     },
     {
@@ -17,11 +14,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer",
-        "keywords": [
-            "Compression",
-            "Deep Learning",
-            "Quantization"
-        ],
+        "keywords": ["Compression", "Deep Learning", "Quantization"],
         "venue": "ICLR 2022"
     },
     {
@@ -30,9 +23,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gerald Tesauro, Terrence J. Sejnowski",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "NeurIPS 1987"
     },
     {
@@ -41,11 +32,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Romain Paulus, Caiming Xiong, Richard Socher",
-        "keywords": [
-            "NLP",
-            "Reinforcement Learning",
-            "Summarization"
-        ],
+        "keywords": ["NLP", "Reinforcement Learning", "Summarization"],
         "venue": "ICLR 2018"
     },
     {
@@ -54,9 +41,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "NeurIPS 1987"
     },
     {
@@ -65,10 +50,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "Lov K. Grover",
-        "keywords": [
-            "Quantum Computing",
-            "Quantum Algorithms"
-        ],
+        "keywords": ["Quantum Computing", "Quantum Algorithms"],
         "venue": "STOC 1996"
     },
     {
@@ -77,10 +59,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy",
-        "keywords": [
-            "NLP",
-            "Few Shot"
-        ],
+        "keywords": ["NLP", "Few Shot"],
         "venue": null
     },
     {
@@ -89,9 +68,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonathan T. Barron",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "CVPR 2019"
     },
     {
@@ -100,11 +77,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Younes Belkada, Tim Dettmers",
-        "keywords": [
-            "Quantization",
-            "Transformers",
-            "Deep Learning"
-        ],
+        "keywords": ["Quantization", "Transformers", "Deep Learning"],
         "venue": "HuggingFace"
     },
     {
@@ -113,10 +86,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Lucas Theis, A\u00e4ron van den Oord, Matthias Bethge",
-        "keywords": [
-            "Generative Models",
-            "Deep Learning"
-        ],
+        "keywords": ["Generative Models", "Deep Learning"],
         "venue": "ICLR 2016"
     },
     {
@@ -125,10 +95,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mikel Artetxe, Gorka Labaka, Eneko Agirre",
-        "keywords": [
-            "NLP",
-            "Embeddings"
-        ],
+        "keywords": ["NLP", "Embeddings"],
         "venue": "ACL 2018"
     },
     {
@@ -137,10 +104,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sanjeev Arora, Yingyu Liang, Tengyu Ma",
-        "keywords": [
-            "NLP",
-            "Embeddings"
-        ],
+        "keywords": ["NLP", "Embeddings"],
         "venue": "ICLR 2017"
     },
     {
@@ -149,10 +113,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "NeurIPS 2020"
     },
     {
@@ -161,11 +122,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel",
-        "keywords": [
-            "Deep Learning",
-            "Meta Learning",
-            "Few Shot"
-        ],
+        "keywords": ["Deep Learning", "Meta Learning", "Few Shot"],
         "venue": "ICLR 2018"
     },
     {
@@ -174,10 +131,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap",
-        "keywords": [
-            "Relational Reasoning",
-            "Deep Learning"
-        ],
+        "keywords": ["Relational Reasoning", "Deep Learning"],
         "venue": "NeurIPS 2017"
     },
     {
@@ -186,9 +140,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "W. K. Wootters, W. H. Zurek",
-        "keywords": [
-            "Quantum Computing"
-        ],
+        "keywords": ["Quantum Computing"],
         "venue": "Nature 1982"
     },
     {
@@ -210,10 +162,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein",
-        "keywords": [
-            "NLP",
-            "Fake Content Detection"
-        ],
+        "keywords": ["NLP", "Fake Content Detection"],
         "venue": "ACL 2018"
     },
     {
@@ -235,11 +184,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonas Pfeiffer, Andreas R\u00fcckl\u00e9, Clifton Poth, Aishwarya Kamath, Ivan Vuli\u0107, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych",
-        "keywords": [
-            "NLP",
-            "Transformers",
-            "Efficient Finetuning"
-        ],
+        "keywords": ["NLP", "Transformers", "Efficient Finetuning"],
         "venue": "EMNLP 2020"
     },
     {
@@ -276,10 +221,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein",
-        "keywords": [
-            "Deep Learning",
-            "Adversarial Examples"
-        ],
+        "keywords": ["Deep Learning", "Adversarial Examples"],
         "venue": "NeurIPS 2018"
     },
     {
@@ -301,11 +243,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville",
-        "keywords": [
-            "NLP",
-            "Generative Models",
-            "Adversarial Learning"
-        ],
+        "keywords": ["NLP", "Generative Models", "Adversarial Learning"],
         "venue": "ACL 2017"
     },
     {
@@ -340,11 +278,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, Rahul Gupta, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan",
-        "keywords": [
-            "NLP",
-            "Large Models",
-            "Transformers"
-        ],
+        "keywords": ["NLP", "Large Models", "Transformers"],
         "venue": null
     },
     {
@@ -367,9 +301,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby",
-        "keywords": [
-            "Computer Vision"
-        ],
+        "keywords": ["Computer Vision"],
         "venue": "ICLR 2021"
     },
     {
@@ -378,10 +310,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sebastian Ruder",
-        "keywords": [
-            "Optimization",
-            "Deep Learning"
-        ],
+        "keywords": ["Optimization", "Deep Learning"],
         "venue": null
     },
     {
@@ -390,9 +319,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "ICLR 2019"
     },
     {
@@ -401,9 +328,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "George Cybenko",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "MCSS 1989"
     },
     {
@@ -421,10 +346,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Wei Xue, Tao Li",
-        "keywords": [
-            "NLP",
-            "Text Classification"
-        ],
+        "keywords": ["NLP", "Text Classification"],
         "venue": "ACL 2018"
     },
     {
@@ -433,10 +355,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, \u0141ukasz Kaiser, Illia Polosukhin",
-        "keywords": [
-            "Deep Learning",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Transformers"],
         "venue": "NeurIPS 2017"
     },
     {
@@ -458,10 +377,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer",
-        "keywords": [
-            "NLP",
-            "Transformers"
-        ],
+        "keywords": ["NLP", "Transformers"],
         "venue": "ACL 2020"
     },
     {
@@ -470,10 +386,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova",
-        "keywords": [
-            "NLP",
-            "Transformers"
-        ],
+        "keywords": ["NLP", "Transformers"],
         "venue": "NAACL 2019"
     },
     {
@@ -499,11 +412,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sergey Ioffe, Christian Szegedy",
-        "keywords": [
-            "Deep Learning",
-            "Optimization",
-            "Normalization"
-        ],
+        "keywords": ["Deep Learning", "Optimization", "Normalization"],
         "venue": "ICML 2015"
     },
     {
@@ -526,10 +435,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "SIGDIAL 2020"
     },
     {
@@ -538,11 +444,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu",
-        "keywords": [
-            "NLP",
-            "Embeddings",
-            "Knowledge Graphs"
-        ],
+        "keywords": ["NLP", "Embeddings", "Knowledge Graphs"],
         "venue": "IJCAI 2018"
     },
     {
@@ -551,11 +453,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou",
-        "keywords": [
-            "Variational Inference",
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["Variational Inference", "NLP", "Dialog"],
         "venue": "EMNLP 2020"
     },
     {
@@ -573,9 +471,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "Albert Einstein, Boris Podolsky, Nathan Rosen",
-        "keywords": [
-            "Quantum Computing"
-        ],
+        "keywords": ["Quantum Computing"],
         "venue": "Physical Review Journals 1935"
     },
     {
@@ -584,10 +480,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "OpenAI"
     },
     {
@@ -596,10 +489,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Omar Khattab, Matei Zaharia",
-        "keywords": [
-            "NLP",
-            "Information Retrieval"
-        ],
+        "keywords": ["NLP", "Information Retrieval"],
         "venue": "SIGIR 2020"
     },
     {
@@ -622,10 +512,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Roy Frostig, Matthew Johnson, Chris Leary",
-        "keywords": [
-            "Deep Learning",
-            "Systems"
-        ],
+        "keywords": ["Deep Learning", "Systems"],
         "venue": "SysML 2018"
     },
     {
@@ -652,11 +539,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut",
-        "keywords": [
-            "Dataset",
-            "NLP",
-            "Computer Vision"
-        ],
+        "keywords": ["Dataset", "NLP", "Computer Vision"],
         "venue": "ACL 2018"
     },
     {
@@ -678,9 +561,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yaser S. Abu-Mostafa",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "NeurIPS 1987"
     },
     {
@@ -689,10 +570,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Nikita Kitaev, Dan Klein",
-        "keywords": [
-            "NLP",
-            "Constituency Parsing"
-        ],
+        "keywords": ["NLP", "Constituency Parsing"],
         "venue": "ACL 2018"
     },
     {
@@ -701,10 +579,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dinesh Raghu, Atishya Jain, Mausam, Sachindra Joshi",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "ACL 2021"
     },
     {
@@ -722,10 +597,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams",
-        "keywords": [
-            "Deep Learning",
-            "Molecular Chemistry"
-        ],
+        "keywords": ["Deep Learning", "Molecular Chemistry"],
         "venue": "NeurIPS 2015"
     },
     {
@@ -734,9 +606,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ngoc-Quan Pham, Germ\u00e1n Kruszewski, Gemma Boleda",
-        "keywords": [
-            "NLP"
-        ],
+        "keywords": ["NLP"],
         "venue": "EMNLP 2016"
     },
     {
@@ -745,11 +615,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Chuan Guo, Mayank Rana, Moustapha Cisse, Laurens van der Maaten",
-        "keywords": [
-            "Deep Learning",
-            "Adversarial Examples",
-            "Robustness"
-        ],
+        "keywords": ["Deep Learning", "Adversarial Examples", "Robustness"],
         "venue": "ICLR 2018"
     },
     {
@@ -758,10 +624,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yoshua Bengio, J\u00e9r\u00f4me Louradour, Ronan Collobert, Jason Weston",
-        "keywords": [
-            "Deep Learning",
-            "Curriculum Learning"
-        ],
+        "keywords": ["Deep Learning", "Curriculum Learning"],
         "venue": "ICML 2009"
     },
     {
@@ -770,11 +633,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Robert L. Logan IV, Ivana Bala\u017eevi\u0107, Eric Wallace, Fabio Petroni, Sameer Singh, Sebastian Riedel",
-        "keywords": [
-            "NLP",
-            "Few Shot",
-            "Efficient Finetuning"
-        ],
+        "keywords": ["NLP", "Few Shot", "Efficient Finetuning"],
         "venue": "ACL 2022"
     },
     {
@@ -805,10 +664,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, Jo\u00e3o Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal",
-        "keywords": [
-            "Deep Learning",
-            "Complex Numbers"
-        ],
+        "keywords": ["Deep Learning", "Complex Numbers"],
         "venue": "ICLR 2018"
     },
     {
@@ -826,10 +682,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Naftali Tishby, Noga Zaslavsky",
-        "keywords": [
-            "Deep Learning",
-            "Information Theory"
-        ],
+        "keywords": ["Deep Learning", "Information Theory"],
         "venue": "IEEE Information Theory Workshop 2015"
     },
     {
@@ -852,10 +705,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
-        "keywords": [
-            "Computer Vision",
-            "Image Classification"
-        ],
+        "keywords": ["Computer Vision", "Image Classification"],
         "venue": "CVPR 2016"
     },
     {
@@ -864,10 +714,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi",
-        "keywords": [
-            "NLP",
-            "Adversarial Examples"
-        ],
+        "keywords": ["NLP", "Adversarial Examples"],
         "venue": "IJCAI 2018"
     },
     {
@@ -876,11 +723,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Systems"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Systems"],
         "venue": null
     },
     {
@@ -889,11 +732,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Andrey Proskurin",
-        "keywords": [
-            "Compression",
-            "Quantization",
-            "Deep Learning"
-        ],
+        "keywords": ["Compression", "Quantization", "Deep Learning"],
         "venue": "Microsoft"
     },
     {
@@ -902,11 +741,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Z-code Team",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Mixture of Experts"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Mixture of Experts"],
         "venue": "Microsoft"
     },
     {
@@ -915,11 +750,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Andrey Proskurin",
-        "keywords": [
-            "Deep Learning",
-            "Systems",
-            "Large Models"
-        ],
+        "keywords": ["Deep Learning", "Systems", "Large Models"],
         "venue": "Microsoft"
     },
     {
@@ -928,11 +759,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Andrey Proskurin",
-        "keywords": [
-            "Deep Learning",
-            "Mixture of Experts",
-            "Large Models"
-        ],
+        "keywords": ["Deep Learning", "Mixture of Experts", "Large Models"],
         "venue": "Microsoft"
     },
     {
@@ -941,10 +768,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun",
-        "keywords": [
-            "NLP",
-            "Question Answering"
-        ],
+        "keywords": ["NLP", "Question Answering"],
         "venue": "ACL 2018"
     },
     {
@@ -1012,11 +836,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dinesh Raghu, Nikhil Gupta, Mausam",
-        "keywords": [
-            "NLP",
-            "Disentanglement",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Disentanglement", "Dialog"],
         "venue": "NAACL 2019"
     },
     {
@@ -1034,10 +854,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean",
-        "keywords": [
-            "NLP",
-            "Embeddings"
-        ],
+        "keywords": ["NLP", "Embeddings"],
         "venue": "ICLR 2013"
     },
     {
@@ -1046,12 +863,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mikel Artetxe, Shruti Bhosale, Naman Goyal, Todor Mihaylov, Myle Ott, Sam Shleifer, Xi Victoria Lin, Jingfei Du, Srinivasan Iyer, Ramakanth Pasunuru, Giri Anantharaman, Xian Li, Shuohui Chen, Halil Akin, Mandeep Baines, Louis Martin, Xing Zhou, Punit Singh Koura, Brian O'Horo, Jeff Wang, Luke Zettlemoyer, Mona Diab, Zornitsa Kozareva, Ves Stoyanov",
-        "keywords": [
-            "Deep Learning",
-            "NLP",
-            "Transformers",
-            "Large Models"
-        ],
+        "keywords": ["Deep Learning", "NLP", "Transformers", "Large Models"],
         "venue": null
     },
     {
@@ -1083,10 +895,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shiyu Liang, Yixuan Li, R. Srikant",
-        "keywords": [
-            "Deep Learning",
-            "Out-of-Distribution Detection"
-        ],
+        "keywords": ["Deep Learning", "Out-of-Distribution Detection"],
         "venue": "ICLR 2018"
     },
     {
@@ -1095,10 +904,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "IEEE TASLP 2022"
     },
     {
@@ -1107,11 +913,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Florian Tram\u00e8r, Alexey Kurakin, Nicolas Papernot, Ian Goodfellow, Dan Boneh, Patrick McDaniel",
-        "keywords": [
-            "Deep Learning",
-            "Adversarial Examples",
-            "Robustness"
-        ],
+        "keywords": ["Deep Learning", "Adversarial Examples", "Robustness"],
         "venue": "ICLR 2018"
     },
     {
@@ -1120,11 +922,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Benjamin Scellier, Yoshua Bengio",
-        "keywords": [
-            "Deep Learning",
-            "Enery based Models",
-            "Backpropagation"
-        ],
+        "keywords": ["Deep Learning", "Enery based Models", "Backpropagation"],
         "venue": "Frontiers in Computational Neuroscience 2017"
     },
     {
@@ -1146,10 +944,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "ACL 2018"
     },
     {
@@ -1158,10 +953,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown",
-        "keywords": [
-            "Reinforcement Learning",
-            "Molecular Chemistry"
-        ],
+        "keywords": ["Reinforcement Learning", "Molecular Chemistry"],
         "venue": "ICLR 2018"
     },
     {
@@ -1186,10 +978,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud",
-        "keywords": [
-            "Deep Learning",
-            "Generative Models"
-        ],
+        "keywords": ["Deep Learning", "Generative Models"],
         "venue": "ICLR 2019"
     },
     {
@@ -1198,11 +987,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yen-Chun Chen, Mohit Bansal",
-        "keywords": [
-            "NLP",
-            "Summarization",
-            "Reinforcement Learning"
-        ],
+        "keywords": ["NLP", "Summarization", "Reinforcement Learning"],
         "venue": "ACL 2018"
     },
     {
@@ -1211,11 +996,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le",
-        "keywords": [
-            "Zero Shot",
-            "NLP",
-            "Transformers"
-        ],
+        "keywords": ["Zero Shot", "NLP", "Transformers"],
         "venue": "ICLR 2022"
     },
     {
@@ -1224,11 +1005,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher R\u00e9",
-        "keywords": [
-            "Deep Learning",
-            "Transformers",
-            "Speedup"
-        ],
+        "keywords": ["Deep Learning", "Transformers", "Speedup"],
         "venue": null
     },
     {
@@ -1237,11 +1014,7 @@
         "topic": "Computer architecture",
         "datatype": "Paper",
         "authors": "Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu",
-        "keywords": [
-            "Computer Architecture",
-            "Security",
-            "Memory"
-        ],
+        "keywords": ["Computer Architecture", "Security", "Memory"],
         "venue": "IEEE ISCA 2014"
     },
     {
@@ -1250,10 +1023,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ketan Doshi",
-        "keywords": [
-            "NLP",
-            "Algorithms"
-        ],
+        "keywords": ["NLP", "Algorithms"],
         "venue": "Towards Data Science"
     },
     {
@@ -1271,11 +1041,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "",
-        "keywords": [
-            "NLP",
-            "Transformers",
-            "Large Models"
-        ],
+        "keywords": ["NLP", "Transformers", "Large Models"],
         "venue": "Tsinghua University"
     },
     {
@@ -1284,11 +1050,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach",
-        "keywords": [
-            "NLP",
-            "Transformers",
-            "Large Models"
-        ],
+        "keywords": ["NLP", "Transformers", "Large Models"],
         "venue": "ACL 2022"
     },
     {
@@ -1311,9 +1073,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio",
-        "keywords": [
-            "NLP"
-        ],
+        "keywords": ["NLP"],
         "venue": "CoNLL 2016"
     },
     {
@@ -1322,10 +1082,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen",
-        "keywords": [
-            "NLP",
-            "Question Answering"
-        ],
+        "keywords": ["NLP", "Question Answering"],
         "venue": "ACL 2021"
     },
     {
@@ -1356,11 +1113,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng",
-        "keywords": [
-            "Deep Learning",
-            "Time Series",
-            "Spatio-Temporal"
-        ],
+        "keywords": ["Deep Learning", "Time Series", "Spatio-Temporal"],
         "venue": "IJCAI 2018"
     },
     {
@@ -1369,10 +1122,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich",
-        "keywords": [
-            "Computer Vision",
-            "Image Classification"
-        ],
+        "keywords": ["Computer Vision", "Image Classification"],
         "venue": "CVPR 2015"
     },
     {
@@ -1381,10 +1131,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dougal Maclaurin, David Duvenaud, Ryan P. Adams",
-        "keywords": [
-            "Meta Learning",
-            "Deep Learning"
-        ],
+        "keywords": ["Meta Learning", "Deep Learning"],
         "venue": "ICML 2015"
     },
     {
@@ -1393,10 +1140,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Petar Veli\u010dkovi\u0107, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li\u00f2, Yoshua Bengio",
-        "keywords": [
-            "Deep Learning",
-            "Graph Neural Networks"
-        ],
+        "keywords": ["Deep Learning", "Graph Neural Networks"],
         "venue": "ICLR 2018"
     },
     {
@@ -1405,10 +1149,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Angela Fan, Mike Lewis, Yann Dauphin",
-        "keywords": [
-            "NLP",
-            "Story Generation"
-        ],
+        "keywords": ["NLP", "Story Generation"],
         "venue": "ACL 2018"
     },
     {
@@ -1430,10 +1171,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou",
-        "keywords": [
-            "NLP",
-            "Adversarial Examples"
-        ],
+        "keywords": ["NLP", "Adversarial Examples"],
         "venue": "ACL 2018"
     },
     {
@@ -1442,11 +1180,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Teven Le Scao",
-        "keywords": [
-            "NLP",
-            "Large Models",
-            "Scaling Laws"
-        ],
+        "keywords": ["NLP", "Large Models", "Scaling Laws"],
         "venue": "HuggingFace"
     },
     {
@@ -1455,10 +1189,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": [
-            "Deep Learning",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Transformers"],
         "venue": "HuggingFace"
     },
     {
@@ -1481,10 +1212,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "ACL 2021"
     },
     {
@@ -1493,11 +1221,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": [
-            "Deep Learning",
-            "Transformers",
-            "Hyperparameter Search"
-        ],
+        "keywords": ["Deep Learning", "Transformers", "Hyperparameter Search"],
         "venue": "HuggingFace"
     },
     {
@@ -1506,11 +1230,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "Hartmut Neven, Geordie Rose, William G. Macready",
-        "keywords": [
-            "Image Classification",
-            "Quantum Computing",
-            "QUBO"
-        ],
+        "keywords": ["Image Classification", "Quantum Computing", "QUBO"],
         "venue": null
     },
     {
@@ -1528,10 +1248,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton",
-        "keywords": [
-            "Computer Vision",
-            "Image Classification"
-        ],
+        "keywords": ["Computer Vision", "Image Classification"],
         "venue": "NeurIPS 2012"
     },
     {
@@ -1540,12 +1257,7 @@
         "topic": "Computer architecture",
         "datatype": "Paper",
         "authors": "Kevin Kai-Wei Chang, Donghyuk Lee, Zeshan Chishti, Alaa R. Alameldeen, Chris Wilkerson, Yoongu Kim, Onur Mutlu",
-        "keywords": [
-            "Computer Architecture",
-            "Security",
-            "Memory",
-            "Systems"
-        ],
+        "keywords": ["Computer Architecture", "Security", "Memory", "Systems"],
         "venue": "IEEE HPCA 2014"
     },
     {
@@ -1554,10 +1266,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Phong Le, Ivan Titov",
-        "keywords": [
-            "NLP",
-            "Entity Linking"
-        ],
+        "keywords": ["NLP", "Entity Linking"],
         "venue": "ACL 2018"
     },
     {
@@ -1580,10 +1289,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever",
-        "keywords": [
-            "NLP",
-            "Retrieval-Augmented Generation"
-        ],
+        "keywords": ["NLP", "Retrieval-Augmented Generation"],
         "venue": "ICML 2022"
     },
     {
@@ -1592,11 +1298,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Stas Bekman, Sylvain Gugger",
-        "keywords": [
-            "NLP",
-            "Large Models",
-            "Transformers"
-        ],
+        "keywords": ["NLP", "Large Models", "Transformers"],
         "venue": "HuggingFace"
     },
     {
@@ -1641,9 +1343,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen",
-        "keywords": [
-            "Computer Vision"
-        ],
+        "keywords": ["Computer Vision"],
         "venue": "Journal of Visual Communication and Image Representation 2019"
     },
     {
@@ -1652,10 +1352,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": [
-            "Deep Learning",
-            "Image Super Resolution"
-        ],
+        "keywords": ["Deep Learning", "Image Super Resolution"],
         "venue": "Microsoft"
     },
     {
@@ -1664,11 +1361,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Sylvain Gugger",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Distributed Training"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Distributed Training"],
         "venue": "HuggingFace"
     },
     {
@@ -1704,10 +1397,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Fran\u00e7ois Lagunas",
-        "keywords": [
-            "Sparse Matrices",
-            "Deep Learning"
-        ],
+        "keywords": ["Sparse Matrices", "Deep Learning"],
         "venue": "Medium"
     },
     {
@@ -1716,10 +1406,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Pranav Rajpurkar, Robin Jia, Percy Liang",
-        "keywords": [
-            "NLP",
-            "Question Answering"
-        ],
+        "keywords": ["NLP", "Question Answering"],
         "venue": "ACL 2018"
     },
     {
@@ -1728,10 +1415,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "EMNLP 2020"
     },
     {
@@ -1740,10 +1424,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer",
-        "keywords": [
-            "Deep Learning",
-            "Quantization"
-        ],
+        "keywords": ["Deep Learning", "Quantization"],
         "venue": null
     },
     {
@@ -1752,10 +1433,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott",
-        "keywords": [
-            "NLP",
-            "Computer Vision"
-        ],
+        "keywords": ["NLP", "Computer Vision"],
         "venue": null
     },
     {
@@ -1764,10 +1442,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli Tran-Johnson, Scott Johnston, Sheer El-Showk, Andy Jones, Nelson Elhage, Tristan Hume, Anna Chen, Yuntao Bai, Sam Bowman, Stanislav Fort, Deep Ganguli, Danny Hernandez, Josh Jacobson, Jackson Kernion, Shauna Kravec, Liane Lovitt, Kamal Ndousse, Catherine Olsson, Sam Ringer, Dario Amodei, Tom Brown, Jack Clark, Nicholas Joseph, Ben Mann, Sam McCandlish, Chris Olah, Jared Kaplan",
-        "keywords": [
-            "NLP",
-            "Hallucination"
-        ],
+        "keywords": ["NLP", "Hallucination"],
         "venue": null
     },
     {
@@ -1776,10 +1451,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever",
-        "keywords": [
-            "NLP",
-            "Transformers"
-        ],
+        "keywords": ["NLP", "Transformers"],
         "venue": null
     },
     {
@@ -1788,9 +1460,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": null
     },
     {
@@ -1799,11 +1469,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tiancheng Zhao, Ran Zhao, Maxine Eskenazi",
-        "keywords": [
-            "NLP",
-            "Dialog",
-            "Variational Inference"
-        ],
+        "keywords": ["NLP", "Dialog", "Variational Inference"],
         "venue": "ACL 2017"
     },
     {
@@ -1812,10 +1478,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Amir F. Atiya",
-        "keywords": [
-            "Deep Learning",
-            "Backpropagation"
-        ],
+        "keywords": ["Deep Learning", "Backpropagation"],
         "venue": "NeurIPS 1987"
     },
     {
@@ -1824,10 +1487,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams",
-        "keywords": [
-            "Deep Learning",
-            "Backpropagation"
-        ],
+        "keywords": ["Deep Learning", "Backpropagation"],
         "venue": "Nature 1986"
     },
     {
@@ -1836,9 +1496,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever",
-        "keywords": [
-            "Computer Vision"
-        ],
+        "keywords": ["Computer Vision"],
         "venue": "ICML 2021"
     },
     {
@@ -1847,10 +1505,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Andriy Mnih, Koray Kavukcuoglu",
-        "keywords": [
-            "NLP",
-            "Embeddings"
-        ],
+        "keywords": ["NLP", "Embeddings"],
         "venue": "NeurIPS 2013"
     },
     {
@@ -1859,10 +1514,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": [
-            "NLP",
-            "Ethical Impacts of AI"
-        ],
+        "keywords": ["NLP", "Ethical Impacts of AI"],
         "venue": "OpenAI"
     },
     {
@@ -1889,11 +1541,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma",
-        "keywords": [
-            "Deep Learning",
-            "Transformers",
-            "Speedup"
-        ],
+        "keywords": ["Deep Learning", "Transformers", "Speedup"],
         "venue": null
     },
     {
@@ -1918,12 +1566,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yongqi Li, Wenjie Li, Liqiang Nie",
-        "keywords": [
-            "NLP",
-            "Question Answering",
-            "Dialog",
-            "Dataset"
-        ],
+        "keywords": ["NLP", "Question Answering", "Dialog", "Dataset"],
         "venue": "ACL 2022"
     },
     {
@@ -1950,11 +1593,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Justin Chiu, Shuai Zheng",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Distributed Training"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Distributed Training"],
         "venue": "Amazon"
     },
     {
@@ -1963,10 +1602,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Horace He",
-        "keywords": [
-            "Deep Learning",
-            "Systems"
-        ],
+        "keywords": ["Deep Learning", "Systems"],
         "venue": null
     },
     {
@@ -1975,10 +1611,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gaurav Pandey, Dinesh Raghu, Sachindra Joshi",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "AAAI 2020"
     },
     {
@@ -1996,10 +1629,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He",
-        "keywords": [
-            "Deep Learning",
-            "Distributed Training"
-        ],
+        "keywords": ["Deep Learning", "Distributed Training"],
         "venue": null
     },
     {
@@ -2032,11 +1662,7 @@
         "topic": "Computer architecture",
         "datatype": "Paper",
         "authors": "Thomas Moscibroda, Onur Mutlu",
-        "keywords": [
-            "Computer Architecture",
-            "Memory",
-            "Security"
-        ],
+        "keywords": ["Computer Architecture", "Memory", "Security"],
         "venue": "USENIX Security Symposium 2007"
     },
     {
@@ -2045,10 +1671,7 @@
         "topic": "Computer architecture",
         "datatype": "Paper",
         "authors": "Onur Mutlu",
-        "keywords": [
-            "Computer Architecture",
-            "Memory"
-        ],
+        "keywords": ["Computer Architecture", "Memory"],
         "venue": "IEEE International Memory Worksop 2013"
     },
     {
@@ -2072,9 +1695,7 @@
         "topic": "Computer architecture",
         "datatype": "Paper",
         "authors": "L. C. Heller, M. S. Farrell",
-        "keywords": [
-            "Computer Architecture"
-        ],
+        "keywords": ["Computer Architecture"],
         "venue": "IBM Journal of Research and Development 2004"
     },
     {
@@ -2083,10 +1704,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "EMNLP 2020"
     },
     {
@@ -2095,10 +1713,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Fatemehsadat Mireshghallah, Kartik Goyal, Taylor Berg-Kirkpatrick",
-        "keywords": [
-            "NLP",
-            "Energy-based Models"
-        ],
+        "keywords": ["NLP", "Energy-based Models"],
         "venue": "ACL 2022"
     },
     {
@@ -2107,10 +1722,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu",
-        "keywords": [
-            "Deep Learning",
-            "Large Models"
-        ],
+        "keywords": ["Deep Learning", "Large Models"],
         "venue": "ICLR 2018"
     },
     {
@@ -2132,10 +1744,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "NAACL 2019"
     },
     {
@@ -2144,11 +1753,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Pawe\u0142 Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, I\u00f1igo Casanueva, Stefan Ultes, Osman Ramadan, Milica Ga\u0161i\u0107",
-        "keywords": [
-            "NLP",
-            "Dialog",
-            "Dataset"
-        ],
+        "keywords": ["NLP", "Dialog", "Dataset"],
         "venue": "EMNLP 2018"
     },
     {
@@ -2157,10 +1762,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm",
-        "keywords": [
-            "Deep Learning",
-            "Information Theory"
-        ],
+        "keywords": ["Deep Learning", "Information Theory"],
         "venue": "ICML 2018"
     },
     {
@@ -2169,11 +1771,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Oleksii Kuchaiev, Jason Li, Huyen Nguyen, Oleksii Hrinchuk, Ryan Leary, Boris Ginsburg, Samuel Kriman, Stanislav Beliaev, Vitaly Lavrukhin, Jack Cook, Patrice Castonguay, Mariya Popova, Jocelyn Huang, Jonathan M. Cohen",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Distributed Training"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Distributed Training"],
         "venue": null
     },
     {
@@ -2182,10 +1780,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "\u0141ukasz Kaiser, Ilya Sutskever",
-        "keywords": [
-            "Theory of Computation",
-            "Deep Learning"
-        ],
+        "keywords": ["Theory of Computation", "Deep Learning"],
         "venue": null
     },
     {
@@ -2203,11 +1798,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "J. J. Hopfield",
-        "keywords": [
-            "Deep Learning",
-            "Biology",
-            "Energy-based Models"
-        ],
+        "keywords": ["Deep Learning", "Biology", "Energy-based Models"],
         "venue": "PNAS 1982"
     },
     {
@@ -2225,10 +1816,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud",
-        "keywords": [
-            "Differential Equations",
-            "Deep Learning"
-        ],
+        "keywords": ["Differential Equations", "Deep Learning"],
         "venue": "NeurIPS 2018"
     },
     {
@@ -2237,11 +1825,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer",
-        "keywords": [
-            "NLP",
-            "Transformers",
-            "Large Models"
-        ],
+        "keywords": ["NLP", "Transformers", "Large Models"],
         "venue": null
     },
     {
@@ -2250,10 +1834,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Anish Athalye, Nicholas Carlini, David Wagner",
-        "keywords": [
-            "Deep Learning",
-            "Adversarial Examples"
-        ],
+        "keywords": ["Deep Learning", "Adversarial Examples"],
         "venue": "ICML 2018"
     },
     {
@@ -2262,11 +1843,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sashank J. Reddi, Satyen Kale, Sanjiv Kumar",
-        "keywords": [
-            "Deep Learning",
-            "Optimization",
-            "Convergence"
-        ],
+        "keywords": ["Deep Learning", "Optimization", "Convergence"],
         "venue": "ICLR 2018"
     },
     {
@@ -2275,10 +1852,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jehoshua Bruck, Joseph W. Goodman",
-        "keywords": [
-            "Deep Learning",
-            "NP-Hard"
-        ],
+        "keywords": ["Deep Learning", "NP-Hard"],
         "venue": "NeurIPS 1987"
     },
     {
@@ -2287,10 +1861,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit",
-        "keywords": [
-            "Deep Learning",
-            "Multi-modal"
-        ],
+        "keywords": ["Deep Learning", "Multi-modal"],
         "venue": null
     },
     {
@@ -2299,10 +1870,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonathan Herzig, Thomas M\u00fcller, Syrine Krichene, Julian Eisenschlos",
-        "keywords": [
-            "NLP",
-            "Question Answering"
-        ],
+        "keywords": ["NLP", "Question Answering"],
         "venue": "NAACL 2021"
     },
     {
@@ -2311,10 +1879,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen",
-        "keywords": [
-            "NLP",
-            "Question Answering"
-        ],
+        "keywords": ["NLP", "Question Answering"],
         "venue": "ICLR 2021"
     },
     {
@@ -2323,10 +1888,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Geoffrey E. Hinton, Terrence J. Sejnowski",
-        "keywords": [
-            "Deep Learning",
-            "Energy-based Models"
-        ],
+        "keywords": ["Deep Learning", "Energy-based Models"],
         "venue": "CVPR 1983"
     },
     {
@@ -2335,11 +1897,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Nicolas Patry",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Transformers"],
         "venue": "HuggingFace"
     },
     {
@@ -2361,10 +1919,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig",
-        "keywords": [
-            "NLP",
-            "Mathematical Reasoning"
-        ],
+        "keywords": ["NLP", "Mathematical Reasoning"],
         "venue": null
     },
     {
@@ -2414,10 +1969,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Justin Johnson, Alexandre Alahi, Li Fei-Fei",
-        "keywords": [
-            "Computer Vision",
-            "Image Super Resolution"
-        ],
+        "keywords": ["Computer Vision", "Image Super Resolution"],
         "venue": "ECCV 2016"
     },
     {
@@ -2426,10 +1978,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston",
-        "keywords": [
-            "NLP",
-            "Dialog"
-        ],
+        "keywords": ["NLP", "Dialog"],
         "venue": "ACL 2018"
     },
     {
@@ -2438,10 +1987,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Daniel Holden, Taku Komura, Jun Saito",
-        "keywords": [
-            "Deep Learning",
-            "Computer Graphics"
-        ],
+        "keywords": ["Deep Learning", "Computer Graphics"],
         "venue": "ACM Transactions on Graphics"
     },
     {
@@ -2450,9 +1996,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller",
-        "keywords": [
-            "Reinforcement Learning"
-        ],
+        "keywords": ["Reinforcement Learning"],
         "venue": null
     },
     {
@@ -2461,10 +2005,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "Peter W. Shor",
-        "keywords": [
-            "Quantum Computing",
-            "Quantum Algorithms"
-        ],
+        "keywords": ["Quantum Computing", "Quantum Algorithms"],
         "venue": "SIAM Journal on Computing 1997"
     },
     {
@@ -2473,12 +2014,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig",
-        "keywords": [
-            "Few Shot",
-            "NLP",
-            "Prompting",
-            "Efficient Finetuning"
-        ],
+        "keywords": ["Few Shot", "NLP", "Prompting", "Efficient Finetuning"],
         "venue": null
     },
     {
@@ -2487,12 +2023,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xiang Lisa Li, Percy Liang",
-        "keywords": [
-            "Prompting",
-            "NLP",
-            "Few Shot",
-            "Efficient Finetuning"
-        ],
+        "keywords": ["Prompting", "NLP", "Few Shot", "Efficient Finetuning"],
         "venue": "ACL 2021"
     },
     {
@@ -2501,10 +2032,7 @@
         "topic": "Computer graphics",
         "datatype": "Paper",
         "authors": "John Lasseter",
-        "keywords": [
-            "Computer Graphics",
-            "Animation"
-        ],
+        "keywords": ["Computer Graphics", "Animation"],
         "venue": "ACM SIGGRAPH Computer Graphics 1987"
     },
     {
@@ -2513,10 +2041,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "Lu-Ming Duan, Guang-Can Guo",
-        "keywords": [
-            "Quantum Computing",
-            "Cloning"
-        ],
+        "keywords": ["Quantum Computing", "Cloning"],
         "venue": "Physical Review Letters 1998"
     },
     {
@@ -2525,10 +2050,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Thomas Hofmann",
-        "keywords": [
-            "NLP",
-            "Information Retrieval"
-        ],
+        "keywords": ["NLP", "Information Retrieval"],
         "venue": null
     },
     {
@@ -2559,10 +2081,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Haitian Sun, Tania Bedrax-Weiss, William Cohen",
-        "keywords": [
-            "NLP",
-            "Question Answering"
-        ],
+        "keywords": ["NLP", "Question Answering"],
         "venue": "EMNLP 2019"
     },
     {
@@ -2571,10 +2090,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer",
-        "keywords": [
-            "NLP",
-            "Quantization"
-        ],
+        "keywords": ["NLP", "Quantization"],
         "venue": "AAAI 2020"
     },
     {
@@ -2610,10 +2126,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "David Deutsch",
-        "keywords": [
-            "Quantum Computing",
-            "Theory of Computation"
-        ],
+        "keywords": ["Quantum Computing", "Theory of Computation"],
         "venue": "Proceedings of the Royal Society 1985"
     },
     {
@@ -2622,10 +2135,7 @@
         "topic": "Computer architecture",
         "datatype": "Paper",
         "authors": "Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu",
-        "keywords": [
-            "Computer Architecture",
-            "Memory"
-        ],
+        "keywords": ["Computer Architecture", "Memory"],
         "venue": "IEEE ISCA 2012"
     },
     {
@@ -2647,10 +2157,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, Pheng-Ann Heng",
-        "keywords": [
-            "Computer Vision",
-            "Saliency Detection"
-        ],
+        "keywords": ["Computer Vision", "Saliency Detection"],
         "venue": "IJCAI 2018"
     },
     {
@@ -2659,10 +2166,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "David Deutsche, Richard Jozsa",
-        "keywords": [
-            "Quantum Computing",
-            "Quantum Algorithms"
-        ],
+        "keywords": ["Quantum Computing", "Quantum Algorithms"],
         "venue": "Proceedings of the Royal Society 1992"
     },
     {
@@ -2671,10 +2175,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes",
-        "keywords": [
-            "NLP",
-            "Question Answering"
-        ],
+        "keywords": ["NLP", "Question Answering"],
         "venue": "ACL 2017"
     },
     {
@@ -2692,11 +2193,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Stephen Merity, Nitish Shirish Keskar, Richard Socher",
-        "keywords": [
-            "Deep Learning",
-            "Regularization",
-            "Optimization"
-        ],
+        "keywords": ["Deep Learning", "Regularization", "Optimization"],
         "venue": "ICLR 2018"
     },
     {
@@ -2757,10 +2254,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "David Lopez-Paz, Maxime Oquab",
-        "keywords": [
-            "Unsupervised Learning",
-            "Deep Learning"
-        ],
+        "keywords": ["Unsupervised Learning", "Deep Learning"],
         "venue": "ICLR 2017"
     },
     {
@@ -2769,12 +2263,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao",
-        "keywords": [
-            "NLP",
-            "Dialog",
-            "Few Shot",
-            "Transfer Learning"
-        ],
+        "keywords": ["NLP", "Dialog", "Few Shot", "Transfer Learning"],
         "venue": null
     },
     {
@@ -2783,11 +2272,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan",
-        "keywords": [
-            "Systems",
-            "Large Models",
-            "Distributed Training"
-        ],
+        "keywords": ["Systems", "Large Models", "Distributed Training"],
         "venue": "PyTorch"
     },
     {
@@ -2796,11 +2281,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "G\u00fcnter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter",
-        "keywords": [
-            "Deep Learning",
-            "Normalization",
-            "Activation Function"
-        ],
+        "keywords": ["Deep Learning", "Normalization", "Activation Function"],
         "venue": "NeurIPS 2017"
     },
     {
@@ -2809,9 +2290,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin",
-        "keywords": [
-            "NLP"
-        ],
+        "keywords": ["NLP"],
         "venue": "ACL 2018"
     },
     {
@@ -2820,11 +2299,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Byeongchang Kim, Jaewoo Ahn, Gunhee Kim",
-        "keywords": [
-            "NLP",
-            "Dialog",
-            "Variational Inference"
-        ],
+        "keywords": ["NLP", "Dialog", "Variational Inference"],
         "venue": "ICLR 2020"
     },
     {
@@ -2842,10 +2317,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Christopher Clark, Matt Gardner",
-        "keywords": [
-            "NLP",
-            "Reading Comprehension"
-        ],
+        "keywords": ["NLP", "Reading Comprehension"],
         "venue": "ACL 2018"
     },
     {
@@ -2854,10 +2326,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang",
-        "keywords": [
-            "Deep Learning",
-            "Pruning"
-        ],
+        "keywords": ["Deep Learning", "Pruning"],
         "venue": "IJCAI 2018"
     },
     {
@@ -2866,11 +2335,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra",
-        "keywords": [
-            "NLP",
-            "Large Models",
-            "Transformers"
-        ],
+        "keywords": ["NLP", "Large Models", "Transformers"],
         "venue": null
     },
     {
@@ -2906,10 +2371,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida",
-        "keywords": [
-            "Deep Learning",
-            "Adversarial Learning"
-        ],
+        "keywords": ["Deep Learning", "Adversarial Learning"],
         "venue": "ICLR 2018"
     },
     {
@@ -2927,10 +2389,7 @@
         "topic": "Computer architecture",
         "datatype": "Paper",
         "authors": "Onur Mutlu, Thomas Moscibroda",
-        "keywords": [
-            "Computer Architecture",
-            "Memory"
-        ],
+        "keywords": ["Computer Architecture", "Memory"],
         "venue": "IEEE MICRO 2007"
     },
     {
@@ -2952,10 +2411,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonathan Lorraine, David Duvenaud",
-        "keywords": [
-            "Meta Learning",
-            "Deep Learning"
-        ],
+        "keywords": ["Meta Learning", "Deep Learning"],
         "venue": "NeurIPS 2018"
     },
     {
@@ -2964,9 +2420,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ben S. Wittner, John S. Denker",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "NeurIPS 1987"
     },
     {
@@ -2975,10 +2429,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola",
-        "keywords": [
-            "Style Transfer",
-            "NLP"
-        ],
+        "keywords": ["Style Transfer", "NLP"],
         "venue": "NeurIPS 2017"
     },
     {
@@ -2987,11 +2438,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Taku Kudo",
-        "keywords": [
-            "NLP",
-            "Machine Translation",
-            "Regularization"
-        ],
+        "keywords": ["NLP", "Machine Translation", "Regularization"],
         "venue": "ACL 2018"
     },
     {
@@ -3000,9 +2447,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Eric B. Baum, Frank Wilczek",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "NeurIPS 1987"
     },
     {
@@ -3011,11 +2456,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Olatunji Ruwase, Jeff Rasley",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Distributed Training"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Distributed Training"],
         "venue": "Microsoft"
     },
     {
@@ -3024,9 +2465,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jacques J. Vidal, John Haggerty",
-        "keywords": [
-            "Deep Learning"
-        ],
+        "keywords": ["Deep Learning"],
         "venue": "NeurIPS 1987"
     },
     {
@@ -3035,9 +2474,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger",
-        "keywords": [
-            "NLP"
-        ],
+        "keywords": ["NLP"],
         "venue": "ICML 2003"
     },
     {
@@ -3046,10 +2483,7 @@
         "topic": "Quantum computing",
         "datatype": "Paper",
         "authors": "Charles H. Bennett, Gilles Brassard, Claude Cr\u00e9peau, Richard Jozsa, Asher Peres, William K. Wootters",
-        "keywords": [
-            "Quantum Computing",
-            "Quantum Teleportation"
-        ],
+        "keywords": ["Quantum Computing", "Quantum Teleportation"],
         "venue": "Physical Review Journals 1993"
     },
     {
@@ -3058,10 +2492,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy",
-        "keywords": [
-            "NLP",
-            "Dataset"
-        ],
+        "keywords": ["NLP", "Dataset"],
         "venue": null
     },
     {
@@ -3070,10 +2501,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes",
-        "keywords": [
-            "NLP",
-            "Machine Translation"
-        ],
+        "keywords": ["NLP", "Machine Translation"],
         "venue": "ACL 2018"
     },
     {
@@ -3091,9 +2519,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Naftali Tishby, Fernando C. Pereira, William Bialek",
-        "keywords": [
-            "Information Theory"
-        ],
+        "keywords": ["Information Theory"],
         "venue": null
     },
     {
@@ -3111,11 +2537,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Brian Lester, Rami Al-Rfou, Noah Constant",
-        "keywords": [
-            "NLP",
-            "Prompting",
-            "Efficient Finetuning"
-        ],
+        "keywords": ["NLP", "Prompting", "Efficient Finetuning"],
         "venue": "EMNLP 2021"
     },
     {
@@ -3124,11 +2546,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow",
-        "keywords": [
-            "Deep Learning",
-            "Adversarial Examples",
-            "Robustness"
-        ],
+        "keywords": ["Deep Learning", "Adversarial Examples", "Robustness"],
         "venue": "ICLR 2018"
     },
     {
@@ -3146,10 +2564,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP",
-        "keywords": [
-            "Deep Learning",
-            "Regularization"
-        ],
+        "keywords": ["Deep Learning", "Regularization"],
         "venue": null
     },
     {
@@ -3158,11 +2573,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Max Ryabinin, Anton Gusev",
-        "keywords": [
-            "Deep Learning",
-            "Decentralized Training",
-            "Large Models"
-        ],
+        "keywords": ["Deep Learning", "Decentralized Training", "Large Models"],
         "venue": "NeurIPS 2020"
     },
     {
@@ -3171,11 +2582,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu",
-        "keywords": [
-            "Deep Learning",
-            "Adversarial Examples",
-            "Robustness"
-        ],
+        "keywords": ["Deep Learning", "Adversarial Examples", "Robustness"],
         "venue": "ICLR 2018"
     },
     {
@@ -3184,11 +2591,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Nicholas Carlini, David Wagner",
-        "keywords": [
-            "Deep Learning",
-            "Adversarial Examples",
-            "Robustness"
-        ],
+        "keywords": ["Deep Learning", "Adversarial Examples", "Robustness"],
         "venue": "IEEE Symposium on Security and Privacy 2017"
     },
     {
@@ -3197,11 +2600,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ofir Press, Noah Smith, Mike Lewis",
-        "keywords": [
-            "NLP",
-            "Transformers",
-            "Embeddings"
-        ],
+        "keywords": ["NLP", "Transformers", "Embeddings"],
         "venue": "ICLR 2022"
     },
     {
@@ -3223,10 +2622,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ketan Doshi",
-        "keywords": [
-            "Deep Learning",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Transformers"],
         "venue": "Towards Data Science"
     },
     {
@@ -3235,10 +2631,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ketan Doshi",
-        "keywords": [
-            "Deep Learning",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Transformers"],
         "venue": "Towards Data Science"
     },
     {
@@ -3247,10 +2640,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ketan Doshi",
-        "keywords": [
-            "Deep Learning",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Transformers"],
         "venue": "Towards Data Science"
     },
     {
@@ -3259,11 +2649,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Corby Rosset",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Transformers"],
         "venue": "Microsoft"
     },
     {
@@ -3272,11 +2658,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, Hyung Won Chung, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Denny Zhou, Neil Houlsby, Donald Metzler",
-        "keywords": [
-            "Transformers",
-            "Large Models",
-            "NLP"
-        ],
+        "keywords": ["Transformers", "Large Models", "NLP"],
         "venue": null
     },
     {
@@ -3285,9 +2667,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "C.-C. Jay Kuo",
-        "keywords": [
-            "Computer Vision"
-        ],
+        "keywords": ["Computer Vision"],
         "venue": "Journal of Visual Communication and Image Representation 2016"
     },
     {
@@ -3318,10 +2698,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Cameron Wolfe",
-        "keywords": [
-            "Deep Learning",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Transformers"],
         "venue": "Meta"
     },
     {
@@ -3330,10 +2707,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tom Schaul, Ioannis Antonoglou, David Silver",
-        "keywords": [
-            "Deep Learning",
-            "Optimization"
-        ],
+        "keywords": ["Deep Learning", "Optimization"],
         "venue": "ICLR 2014"
     },
     {
@@ -3342,10 +2716,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jeremy Howard, Sebastian Ruder",
-        "keywords": [
-            "NLP",
-            "Text Classification"
-        ],
+        "keywords": ["NLP", "Text Classification"],
         "venue": "ACL 2018"
     },
     {
@@ -3367,11 +2738,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato",
-        "keywords": [
-            "NLP",
-            "Machine Translation",
-            "Unsupervised Learning"
-        ],
+        "keywords": ["NLP", "Machine Translation", "Unsupervised Learning"],
         "venue": "ACL 2019"
     },
     {
@@ -3380,10 +2747,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Spyros Gidaris, Praveer Singh, Nikos Komodakis",
-        "keywords": [
-            "Unsupervised Learning",
-            "Computer Vision"
-        ],
+        "keywords": ["Unsupervised Learning", "Computer Vision"],
         "venue": "ICLR 2018"
     },
     {
@@ -3419,10 +2783,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ferenc Husz\u00e1r",
-        "keywords": [
-            "Deep Learning",
-            "Variational Inference"
-        ],
+        "keywords": ["Deep Learning", "Variational Inference"],
         "venue": null
     },
     {
@@ -3445,11 +2806,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mayank Mishra, Dhiraj Madan, Gaurav Pandey, Danish Contractor",
-        "keywords": [
-            "NLP",
-            "Dialog",
-            "Variational Inference"
-        ],
+        "keywords": ["NLP", "Dialog", "Variational Inference"],
         "venue": "IJCAI 2022"
     },
     {
@@ -3458,10 +2815,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel",
-        "keywords": [
-            "Variational Inference",
-            "Deep Learning"
-        ],
+        "keywords": ["Variational Inference", "Deep Learning"],
         "venue": "ICLR 2017"
     },
     {
@@ -3470,11 +2824,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Rishabh Bhardwaj, Amrita Saha, Steven C.H. Hoi, Soujanya Poria",
-        "keywords": [
-            "Deep Learning",
-            "Prompting",
-            "Efficient Finetuning"
-        ],
+        "keywords": ["Deep Learning", "Prompting", "Efficient Finetuning"],
         "venue": "EMNLP 2022"
     },
     {
@@ -3483,10 +2833,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Karen Simonyan, Andrew Zisserman",
-        "keywords": [
-            "Computer Vision",
-            "Image Classification"
-        ],
+        "keywords": ["Computer Vision", "Image Classification"],
         "venue": "ICLR 2015"
     },
     {
@@ -3495,10 +2842,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Laurens van der Maaten, Geoffrey Hinton",
-        "keywords": [
-            "Data Visualization",
-            "Deep Learning"
-        ],
+        "keywords": ["Data Visualization", "Deep Learning"],
         "venue": "JMLR 2008"
     },
     {
@@ -3520,11 +2864,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu",
-        "keywords": [
-            "Audio",
-            "Generative Models",
-            "Deep Learning"
-        ],
+        "keywords": ["Audio", "Generative Models", "Deep Learning"],
         "venue": null
     },
     {
@@ -3547,10 +2887,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Herv\u00e9 J\u00e9gou",
-        "keywords": [
-            "NLP",
-            "Machine Translation"
-        ],
+        "keywords": ["NLP", "Machine Translation"],
         "venue": "ICLR 2018"
     },
     {
@@ -3559,11 +2896,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Mikhail Khrushchev",
-        "keywords": [
-            "NLP",
-            "Large Models",
-            "Transformers"
-        ],
+        "keywords": ["NLP", "Large Models", "Transformers"],
         "venue": "Yandex"
     },
     {
@@ -3572,10 +2905,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi",
-        "keywords": [
-            "Object Detection",
-            "Computer Vision"
-        ],
+        "keywords": ["Object Detection", "Computer Vision"],
         "venue": "CVPR 2016"
     },
     {
@@ -3584,11 +2914,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Distributed Training"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Distributed Training"],
         "venue": "Microsoft"
     },
     {
@@ -3597,11 +2923,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
-        "keywords": [
-            "Deep Learning",
-            "Large Models",
-            "Distributed Training"
-        ],
+        "keywords": ["Deep Learning", "Large Models", "Distributed Training"],
         "venue": "Microsoft"
     },
     {
@@ -3652,10 +2974,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He",
-        "keywords": [
-            "Deep Learning",
-            "Quantization"
-        ],
+        "keywords": ["Deep Learning", "Quantization"],
         "venue": null
     },
     {
@@ -3679,11 +2998,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli",
-        "keywords": [
-            "Deep Learning",
-            "Speech",
-            "Transformers"
-        ],
+        "keywords": ["Deep Learning", "Speech", "Transformers"],
         "venue": "NeurIPS 2020"
     },
     {
@@ -3692,10 +3007,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner",
-        "keywords": [
-            "Deep Learning",
-            "Variational Inference"
-        ],
+        "keywords": ["Deep Learning", "Variational Inference"],
         "venue": "ICLR 2017"
     },
     {
@@ -3704,10 +3016,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Terry Yue Zhuo, Francesco De Toni, Bernardo Garc\u00eda del R\u00edo, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Michael Lappert, Ian Yu, Paulo Villegas, Jia Li, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Daniel Fried, Dzmitry Bahdanau, Yacine Yernite, Sean Hughes, Arjun Guha, Harm de Vries, Leandro von Werra",
-        "keywords": [
-            "AI for code",
-            "Large Models"
-        ],
+        "keywords": ["AI for code", "Large Models"],
         "venue": null
     }
 ]
