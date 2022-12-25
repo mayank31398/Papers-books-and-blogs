@@ -58,6 +58,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [image super resolution]: https://img.shields.io/static/v1?label=&message=Image%20Super%20Resolution&color=blue
 [information retrieval]: https://img.shields.io/static/v1?label=&message=Information%20Retrieval&color=blue
 [information theory]: https://img.shields.io/static/v1?label=&message=Information%20Theory&color=blue
+[instuction finetuning]: https://img.shields.io/static/v1?label=&message=Instuction%20Finetuning&color=blue
 [knowledge graphs]: https://img.shields.io/static/v1?label=&message=Knowledge%20Graphs&color=blue
 [large models]: https://img.shields.io/static/v1?label=&message=Large%20Models&color=blue
 [machine translation]: https://img.shields.io/static/v1?label=&message=Machine%20Translation&color=blue
@@ -393,6 +394,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Countering adversarial images using input transformations](https://arxiv.org/abs/1711.00117)  
    _Chuan Guo, Mayank Rana, Moustapha Cisse, Laurens van der Maaten_  
    ![image][paper] ![image][iclr 2018] ![image][adversarial examples] ![image][deep learning] ![image][robustness]
+1. [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786)  
+   _Niklas Muennighoff, Thomas Wang, Lintang Sutawika, Adam Roberts, Stella Biderman, Teven Le Scao, M Saiful Bari, Sheng Shen, Zheng-Xin Yong, Hailey Schoelkopf, Xiangru Tang, Dragomir Radev, Alham Fikri Aji, Khalid Almubarak, Samuel Albanie, Zaid Alyafeai, Albert Webson, Edward Raff, Colin Raffel_  
+   ![image][paper] ![image][distributed training] ![image][instuction finetuning] ![image][large models] ![image][nlp] ![image][transformers]
 1. [Curriculum learning](https://dl.acm.org/citation.cfm?id=1553380)  
    _Yoshua Bengio, Jérôme Louradour, Ronan Collobert, Jason Weston_  
    ![image][paper] ![image][icml 2009] ![image][curriculum learning] ![image][deep learning]
@@ -1008,7 +1012,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][iclr 2017] ![image][deep learning] ![image][variational inference]
 1. [🎅SantaCoder: don’t reach for the stars!⭐](https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf)  
    _Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Terry Yue Zhuo, Francesco De Toni, Bernardo García del Río, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Michael Lappert, Ian Yu, Paulo Villegas, Jia Li, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Daniel Fried, Dzmitry Bahdanau, Yacine Yernite, Sean Hughes, Arjun Guha, Harm de Vries, Leandro von Werra_  
-   ![image][paper] ![image][ai for code] ![image][large models]
+   ![image][paper] ![image][ai for code] ![image][distributed training] ![image][large models] ![image][transformers]
 
 # Calculus
 
