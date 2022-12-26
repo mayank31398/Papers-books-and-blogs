@@ -803,6 +803,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545)  
    _David Lopez-Paz, Maxime Oquab_  
    ![image][paper] ![image][iclr 2017] ![image][deep learning] ![image][unsupervised learning]
+1. [RoBERTa: a robustly optimized BERT pretraining approach](https://arxiv.org/abs/1907.11692)  
+   _Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov_  
+   ![image][paper] ![image][nlp] ![image][transformers]
 1. [Scaling PyTorch FSDP for training foundation Models on IBM cloud](https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/)  
    _Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan_  
    ![image][blog] ![image][pytorch] ![image][distributed training] ![image][large models] ![image][systems]
