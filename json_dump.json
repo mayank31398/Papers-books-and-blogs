@@ -2314,6 +2314,15 @@
         "venue": "PyTorch"
     },
     {
+        "name": "Self-instruct: aligning language model with self generated instructions",
+        "url": "https://arxiv.org/abs/2212.10560",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi",
+        "keywords": ["NLP", "Instuction Finetuning"],
+        "venue": null
+    },
+    {
         "name": "Self-normalizing neural networks",
         "url": "https://arxiv.org/abs/1706.02515",
         "topic": "AI, DL, NLP and RL",

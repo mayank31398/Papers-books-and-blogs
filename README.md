@@ -809,6 +809,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Scaling PyTorch FSDP for training foundation Models on IBM cloud](https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/)  
    _Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan_  
    ![image][blog] ![image][pytorch] ![image][distributed training] ![image][large models] ![image][systems]
+1. [Self-instruct: aligning language model with self generated instructions](https://arxiv.org/abs/2212.10560)  
+   _Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi_  
+   ![image][paper] ![image][instuction finetuning] ![image][nlp]
 1. [Self-normalizing neural networks](https://arxiv.org/abs/1706.02515)  
    _Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter_  
    ![image][paper] ![image][neurips 2017] ![image][activation function] ![image][deep learning] ![image][normalization]
