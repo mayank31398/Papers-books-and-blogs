@@ -2915,6 +2915,19 @@
         "venue": null
     },
     {
+        "name": "WebGPT: browser-assisted question-answering with human feedback",
+        "url": "https://arxiv.org/abs/2112.09332",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman",
+        "keywords": [
+            "Reinforcement Learning",
+            "Human Feedback",
+            "Transformers"
+        ],
+        "venue": null
+    },
+    {
         "name": "What language model to train if you have one million GPU hours?",
         "url": "https://openreview.net/forum?id=rI7BL3fHIZq",
         "topic": "AI, DL, NLP and RL",

@@ -53,6 +53,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [graph neural networks]: https://img.shields.io/static/v1?label=&message=Graph%20Neural%20Networks&color=blue
 [green ai]: https://img.shields.io/static/v1?label=&message=Green%20AI&color=blue
 [hallucination]: https://img.shields.io/static/v1?label=&message=Hallucination&color=blue
+[human feedback]: https://img.shields.io/static/v1?label=&message=Human%20Feedback&color=blue
 [hyperparameter search]: https://img.shields.io/static/v1?label=&message=Hyperparameter%20Search&color=blue
 [image classification]: https://img.shields.io/static/v1?label=&message=Image%20Classification&color=blue
 [image super resolution]: https://img.shields.io/static/v1?label=&message=Image%20Super%20Resolution&color=blue
@@ -983,6 +984,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1609.03499)  
    _Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu_  
    ![image][paper] ![image][audio] ![image][deep learning] ![image][generative models]
+1. [WebGPT: browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)  
+   _Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman_  
+   ![image][paper] ![image][human feedback] ![image][reinforcement learning] ![image][transformers]
 1. [What language model to train if you have one million GPU hours?](https://openreview.net/forum?id=rI7BL3fHIZq)  
    _Teven Le Scao, Thomas Wang, Daniel Hesslow, Lucile Saulnier, Stas Bekman, M Saiful Bari, Stella Biderman, Hady Elsahar, Jason Phang, Ofir Press, Colin Raffel, Victor Sanh, Sheng Shen, Lintang Sutawika, Jaesung Tae, Zheng Xin Yong, Julien Launay, Iz Beltagy_  
    ![image][paper] ![image][acl 2022] ![image][distributed training] ![image][large models] ![image][nlp] ![image][transformers]
