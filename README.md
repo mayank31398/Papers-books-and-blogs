@@ -786,6 +786,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Recurrent models of visual attention](https://arxiv.org/abs/1406.6247)  
    _Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu_  
    ![image][paper]
+1. [Reducing activation recomputation in large transformer models](https://arxiv.org/abs/2205.05198)  
+   _Vijay Korthikanti, Jared Casper, Sangkug Lym, Lawrence McAfee, Michael Andersch, Mohammad Shoeybi, Bryan Catanzaro_  
+   ![image][paper] ![image][deep learning] ![image][distributed training] ![image][large models] ![image][transformers]
 1. [Regularizing and optimizing LSTM language models](https://arxiv.org/abs/1708.02182)  
    _Stephen Merity, Nitish Shirish Keskar, Richard Socher_  
    ![image][paper] ![image][iclr 2018] ![image][deep learning] ![image][optimization] ![image][regularization]

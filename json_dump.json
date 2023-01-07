@@ -2217,6 +2217,20 @@
         "venue": null
     },
     {
+        "name": "Reducing activation recomputation in large transformer models",
+        "url": "https://arxiv.org/abs/2205.05198",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Vijay Korthikanti, Jared Casper, Sangkug Lym, Lawrence McAfee, Michael Andersch, Mohammad Shoeybi, Bryan Catanzaro",
+        "keywords": [
+            "Deep Learning",
+            "Transformers",
+            "Large Models",
+            "Distributed Training"
+        ],
+        "venue": null
+    },
+    {
         "name": "Regularizing and optimizing LSTM language models",
         "url": "https://arxiv.org/abs/1708.02182",
         "topic": "AI, DL, NLP and RL",
