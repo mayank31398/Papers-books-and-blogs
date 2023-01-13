@@ -2678,6 +2678,15 @@
         "venue": null
     },
     {
+        "name": "Transformer quality in linear time",
+        "url": "https://arxiv.org/abs/2202.10447",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Weizhe Hua, Zihang Dai, Hanxiao Liu, Quoc Le",
+        "keywords": ["Transformers", "Deep Learning"],
+        "venue": "ICML 2022"
+    },
+    {
         "name": "Transformers explained visually (part 1): overview of functionality",
         "url": "https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452",
         "topic": "AI, DL, NLP and RL",
@@ -3030,7 +3039,7 @@
     },
     {
         "name": "Zero-shot text-to-image generation",
-        "url": "http://proceedings.mlr.press/v139/ramesh21a.html",
+        "url": "https://arxiv.org/abs/2102.12092",
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever",

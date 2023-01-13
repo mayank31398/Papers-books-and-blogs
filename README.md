@@ -912,6 +912,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Transformer memory as a differentiable search index](https://arxiv.org/abs/2202.06991)  
    _Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler_  
    ![image][paper] ![image][information retrieval] ![image][nlp] ![image][retrieval-augmented generation]
+1. [Transformer quality in linear time](https://arxiv.org/abs/2202.10447)  
+   _Weizhe Hua, Zihang Dai, Hanxiao Liu, Quoc Le_  
+   ![image][paper] ![image][icml 2022] ![image][deep learning] ![image][transformers]
 1. [Transformers explained visually (part 1): overview of functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)  
    _Ketan Doshi_  
    ![image][blog] ![image][towards data science] ![image][deep learning] ![image][transformers]
@@ -1011,7 +1014,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning](https://arxiv.org/abs/2104.07857)  
    _Samyam Rajbhandari, Olatunji Ruwase, Jeff Rasley, Shaden Smith, Yuxiong He_  
    ![image][paper] ![image][sc 2021] ![image][deep learning] ![image][distributed training] ![image][large models] ![image][transformers]
-1. [Zero-shot text-to-image generation](http://proceedings.mlr.press/v139/ramesh21a.html)  
+1. [Zero-shot text-to-image generation](https://arxiv.org/abs/2102.12092)  
    _Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever_  
    ![image][paper] ![image][icml 2021] ![image][deep learning] ![image][generative models] ![image][variational inference] ![image][zero shot]
 1. [ZeRO: memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054)  
