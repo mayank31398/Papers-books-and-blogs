@@ -188,6 +188,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [neurips 2017]: https://img.shields.io/static/v1?label=&message=NeurIPS%202017&color=grey
 [neurips 2018]: https://img.shields.io/static/v1?label=&message=NeurIPS%202018&color=grey
 [neurips 2020]: https://img.shields.io/static/v1?label=&message=NeurIPS%202020&color=grey
+[neurips 2022]: https://img.shields.io/static/v1?label=&message=NeurIPS%202022&color=grey
 [openai]: https://img.shields.io/static/v1?label=&message=OpenAI&color=grey
 [pnas 1982]: https://img.shields.io/static/v1?label=&message=PNAS%201982&color=grey
 [physical review journals 1935]: https://img.shields.io/static/v1?label=&message=Physical%20Review%20Journals%201935&color=grey
@@ -433,13 +434,13 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][deep learning] ![image][large models] ![image][systems]
 1. [DeepSpeed powers 8x larger MoE model training with high performance](https://www.microsoft.com/en-us/research/blog/deepspeed-powers-8x-larger-moe-model-training-with-high-performance/)  
    _DeepSpeed Team, Z-code Team_  
-   ![image][blog] ![image][microsoft] ![image][deep learning] ![image][large models] ![image][mixture of experts]
+   ![image][blog] ![image][microsoft] ![image][deep learning] ![image][large models] ![image][mixture of experts] ![image][transformers]
 1. [DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/#:~:text=DeepSpeed%20Inference%20also%20supports%20fast,multiple%20GPUs%20for%20parallel%20execution.)  
    _DeepSpeed Team, Rangan Majumder, Andrey Proskurin_  
    ![image][blog] ![image][microsoft] ![image][deep learning] ![image][large models] ![image][systems]
 1. [DeepSpeed: advancing MoE inference and training to power next-generation AI scale](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/)  
    _DeepSpeed Team, Andrey Proskurin_  
-   ![image][blog] ![image][microsoft] ![image][deep learning] ![image][large models] ![image][mixture of experts]
+   ![image][blog] ![image][microsoft] ![image][deep learning] ![image][large models] ![image][mixture of experts] ![image][transformers]
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.org/P18-1161/)  
    _Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun_  
    ![image][paper] ![image][acl 2018] ![image][nlp] ![image][question answering]
@@ -518,6 +519,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [GeoMAN: multi-level attention networks for geo-sensory time series prediction](https://www.ijcai.org/proceedings/2018/476)  
    _Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng_  
    ![image][paper] ![image][ijcai 2018] ![image][deep learning] ![image][spatio-temporal] ![image][time series]
+1. [GLaM: efficient scaling of language models with mixture-of-experts](https://arxiv.org/abs/2112.06905)  
+   _Nan Du, Yanping Huang, Andrew M. Dai, Simon Tong, Dmitry Lepikhin, Yuanzhong Xu, Maxim Krikun, Yanqi Zhou, Adams Wei Yu, Orhan Firat, Barret Zoph, Liam Fedus, Maarten Bosma, Zongwei Zhou, Tao Wang, Yu Emma Wang, Kellie Webster, Marie Pellat, Kevin Robinson, Kathleen Meier-Hellstern, Toju Duke, Lucas Dixon, Kun Zhang, Quoc V Le, Yonghui Wu, Zhifeng Chen, Claire Cui_  
+   ![image][paper] ![image][icml 2022] ![image][deep learning] ![image][large models] ![image][mixture of experts] ![image][transformers]
 1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/)  
    ![image][blog] ![image][tsinghua university] ![image][large models] ![image][nlp] ![image][transformers]
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
@@ -632,7 +636,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][deep learning] ![image][quantization]
 1. [M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining](https://arxiv.org/abs/2110.03888)  
    _Junyang Lin, An Yang, Jinze Bai, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Yong Li, Wei Lin, Jingren Zhou, Hongxia Yang_  
-   ![image][paper] ![image][deep learning] ![image][distributed training] ![image][green ai] ![image][large models] ![image][mixture of experts] ![image][multi-modal]
+   ![image][paper] ![image][deep learning] ![image][distributed training] ![image][green ai] ![image][large models] ![image][mixture of experts] ![image][multi-modal] ![image][transformers]
 1. Machine learning  
    _Tom M. Mitchell_  
    ![image][book]
@@ -909,6 +913,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/abs/2108.12409)  
    _Ofir Press, Noah Smith, Mike Lewis_  
    ![image][paper] ![image][iclr 2022] ![image][embeddings] ![image][nlp] ![image][transformers]
+1. [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556)  
+   _Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre_  
+   ![image][paper] ![image][neurips 2022] ![image][deep learning] ![image][large models] ![image][transformers]
 1. [Transformer memory as a differentiable search index](https://arxiv.org/abs/2202.06991)  
    _Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler_  
    ![image][paper] ![image][information retrieval] ![image][nlp] ![image][retrieval-augmented generation]

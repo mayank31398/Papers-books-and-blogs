@@ -13,6 +13,11 @@ def main():
 
     json_file = json.load(open(args.json_dump, "r"))
     json_file.sort(key=lambda x: x["name"])
+
+    for element in json_file:
+        if element["keywords"] is not None:
+            element["keywords"].sort()
+
     json.dump(json_file, open(args.json_dump, "w"), indent=4)
 
 
