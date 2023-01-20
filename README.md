@@ -234,7 +234,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][deep learning] ![image][distributed training]
 1. [8-bit optimizers via block-wise quantization](https://arxiv.org/abs/2110.02861)  
    _Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer_  
-   ![image][paper] ![image][iclr 2022] ![image][compression] ![image][deep learning] ![image][quantization]
+   ![image][paper] ![image][iclr 2022] ![image][deep learning] ![image][quantization]
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon)  
    _Gerald Tesauro, Terrence J. Sejnowski_  
    ![image][paper] ![image][neurips 1987] ![image][deep learning]
@@ -814,6 +814,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [RoBERTa: a robustly optimized BERT pretraining approach](https://arxiv.org/abs/1907.11692)  
    _Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov_  
    ![image][paper] ![image][nlp] ![image][transformers]
+1. [SantaCoder: don't reach for the stars!](https://arxiv.org/abs/2301.03988)  
+   _Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Michael Lappert, Francesco De Toni, Bernardo García del Río, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Terry Yue Zhuo, Ian Yu, Paulo Villegas, Marco Zocca, Sourab Mangrulkar, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Jia Li, Dzmitry Bahdanau, Yacine Jernite, Sean Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro von Werra_  
+   ![image][paper] ![image][ai for code] ![image][distributed training] ![image][large models] ![image][transformers]
 1. [Scaling PyTorch FSDP for training foundation Models on IBM cloud](https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/)  
    _Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan_  
    ![image][blog] ![image][pytorch] ![image][distributed training] ![image][large models] ![image][systems]
@@ -832,6 +835,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Simple and effective multi-paragraph reading comprehension](https://arxiv.org/abs/1710.10723)  
    _Christopher Clark, Matt Gardner_  
    ![image][paper] ![image][acl 2018] ![image][nlp] ![image][reading comprehension]
+1. [SmoothQuant: accurate and efficient post-training quantization for large language models](https://arxiv.org/abs/2211.10438)  
+   _Guangxuan Xiao, Ji Lin, Mickael Seznec, Julien Demouth, Song Han_  
+   ![image][paper] ![image][deep learning] ![image][large models] ![image][quantization] ![image][transformers]
 1. [Soft filter pruning for accelerating deep convolutional neural networks](https://arxiv.org/abs/1808.06866)  
    _Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang_  
    ![image][paper] ![image][ijcai 2018] ![image][deep learning] ![image][pruning]
@@ -1033,9 +1039,6 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl)  
    _Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner_  
    ![image][paper] ![image][iclr 2017] ![image][deep learning] ![image][variational inference]
-1. [🎅SantaCoder: don’t reach for the stars!⭐](https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf)  
-   _Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Terry Yue Zhuo, Francesco De Toni, Bernardo García del Río, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Michael Lappert, Ian Yu, Paulo Villegas, Jia Li, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Daniel Fried, Dzmitry Bahdanau, Yacine Yernite, Sean Hughes, Arjun Guha, Harm de Vries, Leandro von Werra_  
-   ![image][paper] ![image][ai for code] ![image][distributed training] ![image][large models] ![image][transformers]
 
 # Calculus
 

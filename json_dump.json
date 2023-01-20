@@ -14,7 +14,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer",
-        "keywords": ["Compression", "Deep Learning", "Quantization"],
+        "keywords": ["Deep Learning", "Quantization"],
         "venue": "ICLR 2022"
     },
     {
@@ -2344,6 +2344,20 @@
         "venue": null
     },
     {
+        "name": "SantaCoder: don't reach for the stars!",
+        "url": "https://arxiv.org/abs/2301.03988",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Michael Lappert, Francesco De Toni, Bernardo Garc\u00eda del R\u00edo, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Terry Yue Zhuo, Ian Yu, Paulo Villegas, Marco Zocca, Sourab Mangrulkar, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Jia Li, Dzmitry Bahdanau, Yacine Jernite, Sean Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro von Werra",
+        "keywords": [
+            "AI for code",
+            "Distributed Training",
+            "Large Models",
+            "Transformers"
+        ],
+        "venue": null
+    },
+    {
         "name": "Scaling PyTorch FSDP for training foundation Models on IBM cloud",
         "url": "https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/",
         "topic": "AI, DL, NLP and RL",
@@ -2405,6 +2419,20 @@
         "authors": "Christopher Clark, Matt Gardner",
         "keywords": ["NLP", "Reading Comprehension"],
         "venue": "ACL 2018"
+    },
+    {
+        "name": "SmoothQuant: accurate and efficient post-training quantization for large language models",
+        "url": "https://arxiv.org/abs/2211.10438",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Guangxuan Xiao, Ji Lin, Mickael Seznec, Julien Demouth, Song Han",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Quantization",
+            "Transformers"
+        ],
+        "venue": null
     },
     {
         "name": "Soft filter pruning for accelerating deep convolutional neural networks",
@@ -3126,19 +3154,5 @@
         "authors": "Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner",
         "keywords": ["Deep Learning", "Variational Inference"],
         "venue": "ICLR 2017"
-    },
-    {
-        "name": "\ud83c\udf85SantaCoder: don\u2019t reach for the stars!\u2b50",
-        "url": "https://hf.co/datasets/bigcode/admin/resolve/main/BigCode_SantaCoder.pdf",
-        "topic": "AI, DL, NLP and RL",
-        "datatype": "Paper",
-        "authors": "Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Terry Yue Zhuo, Francesco De Toni, Bernardo Garc\u00eda del R\u00edo, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Michael Lappert, Ian Yu, Paulo Villegas, Jia Li, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Daniel Fried, Dzmitry Bahdanau, Yacine Yernite, Sean Hughes, Arjun Guha, Harm de Vries, Leandro von Werra",
-        "keywords": [
-            "AI for code",
-            "Distributed Training",
-            "Large Models",
-            "Transformers"
-        ],
-        "venue": null
     }
 ]
