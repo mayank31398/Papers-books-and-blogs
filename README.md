@@ -238,6 +238,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [A 'neural' network that learns to play Backgammon](https://papers.nips.cc/paper/30-a-neural-network-that-learns-to-play-backgammon)  
    _Gerald Tesauro, Terrence J. Sejnowski_  
    ![image][paper] ![image][neurips 1987] ![image][deep learning]
+1. [A BetterTransformer for fast transformer inference](https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-inference/)  
+   _Michael Gschwind, Eric Han, Scott Wolchok, Rui Zhu, Christian Puhrsch_  
+   ![image][blog] ![image][pytorch] ![image][deep learning] ![image][speedup] ![image][systems] ![image][transformers]
 1. [A deep reinforced model for abstractive summarization](https://arxiv.org/abs/1705.04304)  
    _Romain Paulus, Caiming Xiong, Richard Socher_  
    ![image][paper] ![image][iclr 2018] ![image][nlp] ![image][reinforcement learning] ![image][summarization]

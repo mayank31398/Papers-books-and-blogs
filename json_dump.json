@@ -27,6 +27,15 @@
         "venue": "NeurIPS 1987"
     },
     {
+        "name": "A BetterTransformer for fast transformer inference",
+        "url": "https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-inference/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Michael Gschwind, Eric Han, Scott Wolchok, Rui Zhu, Christian Puhrsch",
+        "keywords": ["Deep Learning", "Speedup", "Systems", "Transformers"],
+        "venue": "PyTorch"
+    },
+    {
         "name": "A deep reinforced model for abstractive summarization",
         "url": "https://arxiv.org/abs/1705.04304",
         "topic": "AI, DL, NLP and RL",
