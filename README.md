@@ -29,6 +29,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [data visualization]: https://img.shields.io/static/v1?label=&message=Data%20Visualization&color=blue
 [dataset]: https://img.shields.io/static/v1?label=&message=Dataset&color=blue
 [decentralized training]: https://img.shields.io/static/v1?label=&message=Decentralized%20Training&color=blue
+[deep]: https://img.shields.io/static/v1?label=&message=Deep&color=blue
 [deep learning]: https://img.shields.io/static/v1?label=&message=Deep%20Learning&color=blue
 [dialog]: https://img.shields.io/static/v1?label=&message=Dialog&color=blue
 [differential equations]: https://img.shields.io/static/v1?label=&message=Differential%20Equations&color=blue
@@ -492,6 +493,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Fast abstractive summarization with reinforce-selected sentence rewriting](https://arxiv.org/abs/1805.11080)  
    _Yen-Chun Chen, Mohit Bansal_  
    ![image][paper] ![image][acl 2018] ![image][nlp] ![image][reinforcement learning] ![image][summarization]
+1. [Fast transformer decoding: one write-head is all you need](https://arxiv.org/abs/1911.02150)  
+   _Noam Shazeer_  
+   ![image][paper] ![image][deep] ![image][transformers]
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367)  
    _Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud_  
    ![image][paper] ![image][iclr 2019] ![image][deep learning] ![image][generative models]
