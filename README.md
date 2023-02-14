@@ -391,6 +391,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Constraint based knowledge base distillation in end-to-end task oriented dialogs](https://arxiv.org/abs/2109.07396)  
    _Dinesh Raghu, Atishya Jain, Mausam, Sachindra Joshi_  
    ![image][paper] ![image][acl 2021] ![image][dialog] ![image][nlp]
+1. [Context generation improves open domain question answering](https://arxiv.org/abs/2210.06349)  
+   _Dan Su, Mostofa Patwary, Shrimai Prabhumoye, Peng Xu, Ryan Prenger, Mohammad Shoeybi, Pascale Fung, Anima Anandkumar, Bryan Catanzaro_  
+   ![image][paper] ![image][few shot] ![image][nlp] ![image][question answering]
 1. [Convolutional networks for graphs for learning molecular fingerprints](https://arxiv.org/abs/1509.09292)  
    _David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams_  
    ![image][paper] ![image][neurips 2015] ![image][deep learning] ![image][molecular chemistry]

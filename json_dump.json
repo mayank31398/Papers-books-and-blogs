@@ -606,6 +606,15 @@
         "venue": "ACL 2021"
     },
     {
+        "name": "Context generation improves open domain question answering",
+        "url": "https://arxiv.org/abs/2210.06349",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Dan Su, Mostofa Patwary, Shrimai Prabhumoye, Peng Xu, Ryan Prenger, Mohammad Shoeybi, Pascale Fung, Anima Anandkumar, Bryan Catanzaro",
+        "keywords": ["Few Shot", "NLP", "Question Answering"],
+        "venue": null
+    },
+    {
         "name": "Convex Optimization",
         "url": null,
         "topic": "Optimization theory",
