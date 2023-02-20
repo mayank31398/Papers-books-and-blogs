@@ -204,6 +204,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [sigdial 2020]: https://img.shields.io/static/v1?label=&message=SIGDIAL%202020&color=grey
 [sigir 2020]: https://img.shields.io/static/v1?label=&message=SIGIR%202020&color=grey
 [stoc 1996]: https://img.shields.io/static/v1?label=&message=STOC%201996&color=grey
+[stanford crfm]: https://img.shields.io/static/v1?label=&message=Stanford%20CRFM&color=grey
 [sysml 2018]: https://img.shields.io/static/v1?label=&message=SysML%202018&color=grey
 [the bell system technical journal 1950]: https://img.shields.io/static/v1?label=&message=The%20Bell%20System%20Technical%20Journal%201950&color=grey
 [towards data science]: https://img.shields.io/static/v1?label=&message=Towards%20Data%20Science&color=grey
@@ -508,6 +509,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [FlashAttention: fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135)  
    _Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré_  
    ![image][paper] ![image][deep learning] ![image][speedup] ![image][transformers]
+1. [FlashAttention: fast transformer training with long sequences](https://crfm.stanford.edu/2023/01/13/flashattention.html)  
+   _Tri Dao_  
+   ![image][blog] ![image][stanford crfm] ![image][deep learning] ![image][systems] ![image][transformers]
 1. [Foundations of NLP explained visually: beam search, how it works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)  
    _Ketan Doshi_  
    ![image][blog] ![image][towards data science] ![image][algorithms] ![image][nlp]

@@ -1075,6 +1075,15 @@
         "venue": null
     },
     {
+        "name": "FlashAttention: fast transformer training with long sequences",
+        "url": "https://crfm.stanford.edu/2023/01/13/flashattention.html",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Tri Dao",
+        "keywords": ["Deep Learning", "Systems", "Transformers"],
+        "venue": "Stanford CRFM"
+    },
+    {
         "name": "Flipping bits in memory without accessing them: an experimental study of DRAM disturbance errors",
         "url": "https://ieeexplore.ieee.org/document/6853210",
         "topic": "Computer architecture",
