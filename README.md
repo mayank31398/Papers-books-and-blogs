@@ -68,6 +68,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [memory]: https://img.shields.io/static/v1?label=&message=Memory&color=blue
 [meta learning]: https://img.shields.io/static/v1?label=&message=Meta%20Learning&color=blue
 [mixture of experts]: https://img.shields.io/static/v1?label=&message=Mixture%20of%20Experts&color=blue
+[model saving]: https://img.shields.io/static/v1?label=&message=Model%20Saving&color=blue
 [molecular chemistry]: https://img.shields.io/static/v1?label=&message=Molecular%20Chemistry&color=blue
 [multi-modal]: https://img.shields.io/static/v1?label=&message=Multi-modal&color=blue
 [nlp]: https://img.shields.io/static/v1?label=&message=NLP&color=blue
@@ -395,6 +396,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Context generation improves open domain question answering](https://arxiv.org/abs/2210.06349)  
    _Dan Su, Mostofa Patwary, Shrimai Prabhumoye, Peng Xu, Ryan Prenger, Mohammad Shoeybi, Pascale Fung, Anima Anandkumar, Bryan Catanzaro_  
    ![image][paper] ![image][few shot] ![image][nlp] ![image][question answering]
+1. [Convert transformers to ONNX with hugging face optimum](https://huggingface.co/blog/convert-transformers-to-onnx#1-what-is-onnx)  
+   _Philipp Schmid_  
+   ![image][blog] ![image][huggingface] ![image][deep learning] ![image][model saving] ![image][systems]
 1. [Convolutional networks for graphs for learning molecular fingerprints](https://arxiv.org/abs/1509.09292)  
    _David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams_  
    ![image][paper] ![image][neurips 2015] ![image][deep learning] ![image][molecular chemistry]

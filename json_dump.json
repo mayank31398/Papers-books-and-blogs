@@ -615,6 +615,15 @@
         "venue": null
     },
     {
+        "name": "Convert transformers to ONNX with hugging face optimum",
+        "url": "https://huggingface.co/blog/convert-transformers-to-onnx",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Philipp Schmid",
+        "keywords": ["Deep Learning", "Model Saving", "Systems"],
+        "venue": "HuggingFace"
+    },
+    {
         "name": "Convex Optimization",
         "url": null,
         "topic": "Optimization theory",
