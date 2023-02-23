@@ -150,6 +150,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [iclr 2020]: https://img.shields.io/static/v1?label=&message=ICLR%202020&color=grey
 [iclr 2021]: https://img.shields.io/static/v1?label=&message=ICLR%202021&color=grey
 [iclr 2022]: https://img.shields.io/static/v1?label=&message=ICLR%202022&color=grey
+[iclr 2023]: https://img.shields.io/static/v1?label=&message=ICLR%202023&color=grey
 [icml 2003]: https://img.shields.io/static/v1?label=&message=ICML%202003&color=grey
 [icml 2007]: https://img.shields.io/static/v1?label=&message=ICML%202007&color=grey
 [icml 2009]: https://img.shields.io/static/v1?label=&message=ICML%202009&color=grey
@@ -396,7 +397,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Context generation improves open domain question answering](https://arxiv.org/abs/2210.06349)  
    _Dan Su, Mostofa Patwary, Shrimai Prabhumoye, Peng Xu, Ryan Prenger, Mohammad Shoeybi, Pascale Fung, Anima Anandkumar, Bryan Catanzaro_  
    ![image][paper] ![image][few shot] ![image][nlp] ![image][question answering]
-1. [Convert transformers to ONNX with hugging face optimum](https://huggingface.co/blog/convert-transformers-to-onnx#1-what-is-onnx)  
+1. [Convert transformers to ONNX with hugging face optimum](https://huggingface.co/blog/convert-transformers-to-onnx)  
    _Philipp Schmid_  
    ![image][blog] ![image][huggingface] ![image][deep learning] ![image][model saving] ![image][systems]
 1. [Convolutional networks for graphs for learning molecular fingerprints](https://arxiv.org/abs/1509.09292)  
@@ -700,6 +701,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Multi-level memory for task oriented dialogs](https://arxiv.org/abs/1810.10647)  
    _Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi_  
    ![image][paper] ![image][naacl 2019] ![image][dialog] ![image][nlp]
+1. [Multitask prompt tuning enables parameter-efficient transfer learning](https://openreview.net/forum?id=Nk2pDtuhTq)  
+   _Zhen Wang, Rameswar Panda, Leonid Karlinsky, Rogerio Feris, Huan Sun, Yoon Kim_  
+   ![image][paper] ![image][iclr 2023] ![image][efficient finetuning] ![image][nlp]
 1. [MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling](https://arxiv.org/abs/1810.00278)  
    _Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan, Milica Gašić_  
    ![image][paper] ![image][emnlp 2018] ![image][dataset] ![image][dialog] ![image][nlp]
@@ -783,7 +787,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][efficient finetuning] ![image][few shot] ![image][nlp] ![image][prompting]
 1. [Prefix-tuning: optimizing continuous prompts for generation](https://arxiv.org/abs/2101.00190)  
    _Xiang Lisa Li, Percy Liang_  
-   ![image][paper] ![image][acl 2021] ![image][efficient finetuning] ![image][few shot] ![image][nlp] ![image][prompting]
+   ![image][paper] ![image][acl 2021] ![image][efficient finetuning] ![image][few shot] ![image][nlp]
 1. [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705)  
    _Thomas Hofmann_  
    ![image][paper] ![image][information retrieval] ![image][nlp]
@@ -918,7 +922,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][dataset] ![image][nlp]
 1. [The power of scale for parameter-efficient prompt tuning](https://arxiv.org/abs/2104.08691)  
    _Brian Lester, Rami Al-Rfou, Noah Constant_  
-   ![image][paper] ![image][emnlp 2021] ![image][efficient finetuning] ![image][nlp] ![image][prompting]
+   ![image][paper] ![image][emnlp 2021] ![image][efficient finetuning] ![image][nlp]
 1. [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW)  
    _Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow_  
    ![image][paper] ![image][iclr 2018] ![image][adversarial examples] ![image][deep learning] ![image][robustness]
@@ -1002,7 +1006,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][iclr 2017] ![image][deep learning] ![image][variational inference]
 1. [Vector-quantized input-contextualized soft prompts for natural language understanding](https://arxiv.org/abs/2205.11024)  
    _Rishabh Bhardwaj, Amrita Saha, Steven C.H. Hoi, Soujanya Poria_  
-   ![image][paper] ![image][emnlp 2022] ![image][deep learning] ![image][efficient finetuning] ![image][prompting]
+   ![image][paper] ![image][emnlp 2022] ![image][efficient finetuning] ![image][nlp]
 1. [VEEGAN: reducing mode collapse in GANs using implicit variational learning](https://arxiv.org/abs/1705.07761)  
    _Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton_  
    ![image][paper] ![image][neurips 2017] ![image][adversarial learning] ![image][deep learning] ![image][generative models]

@@ -1856,6 +1856,15 @@
         "venue": "EMNLP 2018"
     },
     {
+        "name": "Multitask prompt tuning enables parameter-efficient transfer learning",
+        "url": "https://openreview.net/forum?id=Nk2pDtuhTq",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Zhen Wang, Rameswar Panda, Leonid Karlinsky, Rogerio Feris, Huan Sun, Yoon Kim",
+        "keywords": ["Efficient Finetuning", "NLP"],
+        "venue": "ICLR 2023"
+    },
+    {
         "name": "Mutual information neural estimation",
         "url": "https://arxiv.org/abs/1801.04062",
         "topic": "AI, DL, NLP and RL",
@@ -2122,7 +2131,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xiang Lisa Li, Percy Liang",
-        "keywords": ["Efficient Finetuning", "Few Shot", "NLP", "Prompting"],
+        "keywords": ["Efficient Finetuning", "Few Shot", "NLP"],
         "venue": "ACL 2021"
     },
     {
@@ -2696,7 +2705,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Brian Lester, Rami Al-Rfou, Noah Constant",
-        "keywords": ["Efficient Finetuning", "NLP", "Prompting"],
+        "keywords": ["Efficient Finetuning", "NLP"],
         "venue": "EMNLP 2021"
     },
     {
@@ -3001,7 +3010,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Rishabh Bhardwaj, Amrita Saha, Steven C.H. Hoi, Soujanya Poria",
-        "keywords": ["Deep Learning", "Efficient Finetuning", "Prompting"],
+        "keywords": ["Efficient Finetuning", "NLP"],
         "venue": "EMNLP 2022"
     },
     {
