@@ -1023,6 +1023,15 @@
         "venue": "ICLR 2018"
     },
     {
+        "name": "Exploring the limits of transfer learning with a unified text-to-text transformer",
+        "url": "https://arxiv.org/abs/1910.10683",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu",
+        "keywords": ["NLP", "Transformers"],
+        "venue": "JMLR 2020"
+    },
+    {
         "name": "Extreme compression for pre-trained transformers made simple and efficient",
         "url": "https://arxiv.org/abs/2206.01859",
         "topic": "AI, DL, NLP and RL",

@@ -172,6 +172,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [ijcai 2018]: https://img.shields.io/static/v1?label=&message=IJCAI%202018&color=grey
 [ijcai 2022]: https://img.shields.io/static/v1?label=&message=IJCAI%202022&color=grey
 [jmlr 2008]: https://img.shields.io/static/v1?label=&message=JMLR%202008&color=grey
+[jmlr 2020]: https://img.shields.io/static/v1?label=&message=JMLR%202020&color=grey
 [journal of visual communication and image representation 2016]: https://img.shields.io/static/v1?label=&message=Journal%20of%20Visual%20Communication%20and%20Image%20Representation%202016&color=grey
 [journal of visual communication and image representation 2019]: https://img.shields.io/static/v1?label=&message=Journal%20of%20Visual%20Communication%20and%20Image%20Representation%202019&color=grey
 [mcss 1989]: https://img.shields.io/static/v1?label=&message=MCSS%201989&color=grey
@@ -496,6 +497,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-)  
    _Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown_  
    ![image][paper] ![image][iclr 2018] ![image][molecular chemistry] ![image][reinforcement learning]
+1. [Exploring the limits of transfer learning with a unified text-to-text transformer](https://arxiv.org/abs/1910.10683)  
+   _Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu_  
+   ![image][paper] ![image][jmlr 2020] ![image][nlp] ![image][transformers]
 1. [Extreme compression for pre-trained transformers made simple and efficient](https://arxiv.org/abs/2206.01859)  
    _Xiaoxia Wu, Zhewei Yao, Minjia Zhang, Conglong Li, Yuxiong He_  
    ![image][paper] ![image][compression] ![image][deep learning] ![image][distillation] ![image][large models] ![image][pruning] ![image][transformers]
