@@ -2421,6 +2421,15 @@
         "venue": null
     },
     {
+        "name": "Scaling instruction-finetuned language models",
+        "url": "https://arxiv.org/abs/2210.11416",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei",
+        "keywords": ["Instuction Finetuning", "NLP"],
+        "venue": null
+    },
+    {
         "name": "Scaling PyTorch FSDP for training foundation Models on IBM cloud",
         "url": "https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/",
         "topic": "AI, DL, NLP and RL",
