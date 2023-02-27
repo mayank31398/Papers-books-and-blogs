@@ -843,7 +843,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [SantaCoder: don't reach for the stars!](https://arxiv.org/abs/2301.03988)  
    _Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Michael Lappert, Francesco De Toni, Bernardo García del Río, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Terry Yue Zhuo, Ian Yu, Paulo Villegas, Marco Zocca, Sourab Mangrulkar, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Jia Li, Dzmitry Bahdanau, Yacine Jernite, Sean Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro von Werra_  
    ![image][paper] ![image][ai for code] ![image][distributed training] ![image][large models] ![image][transformers]
-1. [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)  
+1. [Scaling instruction-finetuned language models](https://arxiv.org/abs/2210.11416)  
    _Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei_  
    ![image][paper] ![image][instuction finetuning] ![image][nlp]
 1. [Scaling PyTorch FSDP for training foundation Models on IBM cloud](https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/)  
@@ -921,6 +921,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. The elements of statistical learning: data mining, inference and prediction  
    _Trevor Hastie, Robert Tibshirani, Jerome Friedman_  
    ![image][book]
+1. [The Flan collection: designing data and methods for effective instruction tuning](https://arxiv.org/abs/2301.13688)  
+   _Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts_  
+   ![image][paper] ![image][instuction finetuning] ![image][nlp]
 1. [The information bottleneck method](https://arxiv.org/abs/physics/0004057)  
    _Naftali Tishby, Fernando C. Pereira, William Bialek_  
    ![image][paper] ![image][information theory]
