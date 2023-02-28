@@ -2808,6 +2808,15 @@
         "venue": "NeurIPS 2022"
     },
     {
+        "name": "Training language models to follow instructions with human feedback",
+        "url": "https://arxiv.org/abs/2203.02155",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe",
+        "keywords": ["Instuction Finetuning", "NLP", "Reinforcement Learning"],
+        "venue": "NeurIPS 2022"
+    },
+    {
         "name": "Transformer memory as a differentiable search index",
         "url": "https://arxiv.org/abs/2202.06991",
         "topic": "AI, DL, NLP and RL",

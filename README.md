@@ -954,6 +954,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556)  
    _Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre_  
    ![image][paper] ![image][neurips 2022] ![image][deep learning] ![image][large models] ![image][transformers]
+1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)  
+   _Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe_  
+   ![image][paper] ![image][neurips 2022] ![image][instuction finetuning] ![image][nlp] ![image][reinforcement learning]
 1. [Transformer memory as a differentiable search index](https://arxiv.org/abs/2202.06991)  
    _Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler_  
    ![image][paper] ![image][information retrieval] ![image][nlp] ![image][retrieval-augmented generation]
