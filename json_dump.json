@@ -667,7 +667,7 @@
         "authors": "Niklas Muennighoff, Thomas Wang, Lintang Sutawika, Adam Roberts, Stella Biderman, Teven Le Scao, M Saiful Bari, Sheng Shen, Zheng-Xin Yong, Hailey Schoelkopf, Xiangru Tang, Dragomir Radev, Alham Fikri Aji, Khalid Almubarak, Samuel Albanie, Zaid Alyafeai, Albert Webson, Edward Raff, Colin Raffel",
         "keywords": [
             "Distributed Training",
-            "Instuction Finetuning",
+            "Instruction Finetuning",
             "Large Models",
             "NLP",
             "Transformers"
@@ -2435,7 +2435,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei",
-        "keywords": ["Instuction Finetuning", "NLP"],
+        "keywords": ["Instruction Finetuning", "NLP"],
         "venue": null
     },
     {
@@ -2444,7 +2444,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi",
-        "keywords": ["Instuction Finetuning", "NLP"],
+        "keywords": ["Instruction Finetuning", "NLP"],
         "venue": null
     },
     {
@@ -2678,7 +2678,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts",
-        "keywords": ["Instuction Finetuning", "NLP"],
+        "keywords": ["Instruction Finetuning", "NLP"],
         "venue": null
     },
     {
@@ -2734,6 +2734,15 @@
         "authors": "Brian Lester, Rami Al-Rfou, Noah Constant",
         "keywords": ["Efficient Finetuning", "NLP"],
         "venue": "EMNLP 2021"
+    },
+    {
+        "name": "The wisdom of hindsight makes language models better instruction followers",
+        "url": "https://arxiv.org/abs/2302.05206",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez",
+        "keywords": ["Instruction Finetuning", "NLP"],
+        "venue": null
     },
     {
         "name": "Thermometer encoding: one hot way to resist adversarial examples",
@@ -2813,7 +2822,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe",
-        "keywords": ["Instuction Finetuning", "NLP", "Reinforcement Learning"],
+        "keywords": ["Instruction Finetuning", "NLP", "Reinforcement Learning"],
         "venue": "NeurIPS 2022"
     },
     {

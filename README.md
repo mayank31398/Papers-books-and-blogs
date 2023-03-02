@@ -60,7 +60,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [image super resolution]: https://img.shields.io/static/v1?label=&message=Image%20Super%20Resolution&color=blue
 [information retrieval]: https://img.shields.io/static/v1?label=&message=Information%20Retrieval&color=blue
 [information theory]: https://img.shields.io/static/v1?label=&message=Information%20Theory&color=blue
-[instuction finetuning]: https://img.shields.io/static/v1?label=&message=Instuction%20Finetuning&color=blue
+[instruction finetuning]: https://img.shields.io/static/v1?label=&message=Instruction%20Finetuning&color=blue
 [knowledge graphs]: https://img.shields.io/static/v1?label=&message=Knowledge%20Graphs&color=blue
 [large models]: https://img.shields.io/static/v1?label=&message=Large%20Models&color=blue
 [machine translation]: https://img.shields.io/static/v1?label=&message=Machine%20Translation&color=blue
@@ -412,7 +412,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][iclr 2018] ![image][adversarial examples] ![image][deep learning] ![image][robustness]
 1. [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786)  
    _Niklas Muennighoff, Thomas Wang, Lintang Sutawika, Adam Roberts, Stella Biderman, Teven Le Scao, M Saiful Bari, Sheng Shen, Zheng-Xin Yong, Hailey Schoelkopf, Xiangru Tang, Dragomir Radev, Alham Fikri Aji, Khalid Almubarak, Samuel Albanie, Zaid Alyafeai, Albert Webson, Edward Raff, Colin Raffel_  
-   ![image][paper] ![image][distributed training] ![image][instuction finetuning] ![image][large models] ![image][nlp] ![image][transformers]
+   ![image][paper] ![image][distributed training] ![image][instruction finetuning] ![image][large models] ![image][nlp] ![image][transformers]
 1. [Curriculum learning](https://dl.acm.org/citation.cfm?id=1553380)  
    _Yoshua Bengio, Jérôme Louradour, Ronan Collobert, Jason Weston_  
    ![image][paper] ![image][icml 2009] ![image][curriculum learning] ![image][deep learning]
@@ -845,13 +845,13 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][ai for code] ![image][distributed training] ![image][large models] ![image][transformers]
 1. [Scaling instruction-finetuned language models](https://arxiv.org/abs/2210.11416)  
    _Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei_  
-   ![image][paper] ![image][instuction finetuning] ![image][nlp]
+   ![image][paper] ![image][instruction finetuning] ![image][nlp]
 1. [Scaling PyTorch FSDP for training foundation Models on IBM cloud](https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/)  
    _Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan_  
    ![image][blog] ![image][pytorch] ![image][distributed training] ![image][large models] ![image][systems]
 1. [Self-instruct: aligning language model with self generated instructions](https://arxiv.org/abs/2212.10560)  
    _Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi_  
-   ![image][paper] ![image][instuction finetuning] ![image][nlp]
+   ![image][paper] ![image][instruction finetuning] ![image][nlp]
 1. [Self-normalizing neural networks](https://arxiv.org/abs/1706.02515)  
    _Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter_  
    ![image][paper] ![image][neurips 2017] ![image][activation function] ![image][deep learning] ![image][normalization]
@@ -923,7 +923,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][book]
 1. [The Flan collection: designing data and methods for effective instruction tuning](https://arxiv.org/abs/2301.13688)  
    _Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts_  
-   ![image][paper] ![image][instuction finetuning] ![image][nlp]
+   ![image][paper] ![image][instruction finetuning] ![image][nlp]
 1. [The information bottleneck method](https://arxiv.org/abs/physics/0004057)  
    _Naftali Tishby, Fernando C. Pereira, William Bialek_  
    ![image][paper] ![image][information theory]
@@ -933,6 +933,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [The power of scale for parameter-efficient prompt tuning](https://arxiv.org/abs/2104.08691)  
    _Brian Lester, Rami Al-Rfou, Noah Constant_  
    ![image][paper] ![image][emnlp 2021] ![image][efficient finetuning] ![image][nlp]
+1. [The wisdom of hindsight makes language models better instruction followers](https://arxiv.org/abs/2302.05206)  
+   _Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez_  
+   ![image][paper] ![image][instruction finetuning] ![image][nlp]
 1. [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW)  
    _Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow_  
    ![image][paper] ![image][iclr 2018] ![image][adversarial examples] ![image][deep learning] ![image][robustness]
@@ -956,7 +959,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][paper] ![image][neurips 2022] ![image][deep learning] ![image][large models] ![image][transformers]
 1. [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)  
    _Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe_  
-   ![image][paper] ![image][neurips 2022] ![image][instuction finetuning] ![image][nlp] ![image][reinforcement learning]
+   ![image][paper] ![image][neurips 2022] ![image][instruction finetuning] ![image][nlp] ![image][reinforcement learning]
 1. [Transformer memory as a differentiable search index](https://arxiv.org/abs/2202.06991)  
    _Yi Tay, Vinh Q. Tran, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler_  
    ![image][paper] ![image][information retrieval] ![image][nlp] ![image][retrieval-augmented generation]
