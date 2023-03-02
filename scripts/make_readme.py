@@ -75,8 +75,8 @@ def MakeElement(json_obj: json, add_shield: bool) -> str:
     if add_shield:
         element += "  \n![image][{}]".format(json_obj["datatype"])
         if json_obj["keywords"]:
-            if json_obj["venue"]:
-                element += " ![image][{}]".format(json_obj["venue"])
+            # if json_obj["venue"]:
+            #     element += " ![image][{}]".format(json_obj["venue"])
             for k in json_obj["keywords"]:
                 element += " ![image][{}]".format(k)
 
@@ -109,11 +109,11 @@ def main():
             )
         f.write("\n")
 
-        for venue in venues:
-            f.write(
-                f"[{venue}]: https://img.shields.io/static/v1?label=&message={venue.replace(' ', '%20')}&color=grey\n"
-            )
-        f.write("\n")
+        # for venue in venues:
+        #     f.write(
+        #         f"[{venue}]: https://img.shields.io/static/v1?label=&message={venue.replace(' ', '%20')}&color=grey\n"
+        #     )
+        # f.write("\n")
 
         f.write("### Table of contents\n")
         for topic in topics:
