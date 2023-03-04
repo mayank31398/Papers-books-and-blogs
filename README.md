@@ -699,6 +699,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [PullNet: open domain question answering with iterative retrieval on knowledge bases and text](https://arxiv.org/abs/1904.09537)  
    _Haitian Sun, Tania Bedrax-Weiss, William Cohen_  
    ![image][paper] ![image][nlp] ![image][question answering]
+1. [PyTorch trace analysis for the masses](https://pytorch.org/blog/trace-analysis-for-masses/)  
+   _Anupam Bhatnagar, Xizhou Feng, Brian Coutinho, Yifan Liu, Sung-Han Lin, Louis Feng, and Yuzhen Huang_  
+   ![image][blog] ![image][deep learning] ![image][speedup] ![image][systems]
 1. [Q-BERT: Hessian based ultra low precision quantization of BERT](https://arxiv.org/abs/1909.05840)  
    _Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer_  
    ![image][paper] ![image][nlp] ![image][quantization]

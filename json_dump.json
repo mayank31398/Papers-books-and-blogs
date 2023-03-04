@@ -2202,6 +2202,15 @@
         "venue": "EMNLP 2019"
     },
     {
+        "name": "PyTorch trace analysis for the masses",
+        "url": "https://pytorch.org/blog/trace-analysis-for-masses/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Anupam Bhatnagar, Xizhou Feng, Brian Coutinho, Yifan Liu, Sung-Han Lin, Louis Feng, and Yuzhen Huang",
+        "keywords": ["Deep Learning", "Speedup", "Systems"],
+        "venue": "PyTorch"
+    },
+    {
         "name": "Q-BERT: Hessian based ultra low precision quantization of BERT",
         "url": "https://arxiv.org/abs/1909.05840",
         "topic": "AI, DL, NLP and RL",
