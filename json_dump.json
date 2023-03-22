@@ -1291,6 +1291,15 @@
         "venue": "HuggingFace"
     },
     {
+        "name": "How should AI systems behave, and who should decide?",
+        "url": "https://openai.com/blog/how-should-ai-systems-behave",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": null,
+        "keywords": ["NLP", "Safety and Alignment"],
+        "venue": "OpenAI"
+    },
+    {
         "name": "How we sped up transformer inference 100x for \ud83e\udd17 API customers",
         "url": "https://huggingface.co/blog/accelerated-inference",
         "topic": "AI, DL, NLP and RL",

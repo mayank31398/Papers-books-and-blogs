@@ -93,6 +93,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [retrieval-augmented generation]: https://img.shields.io/static/v1?label=&message=Retrieval-Augmented%20Generation&color=blue
 [robotics]: https://img.shields.io/static/v1?label=&message=Robotics&color=blue
 [robustness]: https://img.shields.io/static/v1?label=&message=Robustness&color=blue
+[safety and alignment]: https://img.shields.io/static/v1?label=&message=Safety%20and%20Alignment&color=blue
 [saliency detection]: https://img.shields.io/static/v1?label=&message=Saliency%20Detection&color=blue
 [scaling laws]: https://img.shields.io/static/v1?label=&message=Scaling%20Laws&color=blue
 [security]: https://img.shields.io/static/v1?label=&message=Security&color=blue
@@ -469,6 +470,8 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [How big should my language model be?](https://huggingface.co/calculator/)  
    _Teven Le Scao_  
    ![image][blog] ![image][large models] ![image][nlp] ![image][scaling laws]
+1. [How should AI systems behave, and who should decide?](https://openai.com/blog/how-should-ai-systems-behave)  
+   ![image][blog] ![image][nlp] ![image][safety and alignment]
 1. [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)  
    ![image][blog] ![image][deep learning] ![image][transformers]
 1. [How 🤗 Accelerate runs very large models thanks to PyTorch](https://huggingface.co/blog/accelerate-large-models)  
