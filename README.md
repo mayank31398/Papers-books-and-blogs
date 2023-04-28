@@ -523,6 +523,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Introducing 🤗 accelerate](https://huggingface.co/blog/accelerate-library)  
    _Sylvain Gugger_  
    ![image][Blog] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+1. [Is ChatGPT 175 billion parameters? Technical analysis](https://orenleung.com/is-chatgpt-175-billion-parameters-technical-analysis)  
+   _Oren Leung_  
+   ![image][Paper] ![image][NLP] ![image][Systems]
 1. [Is the future of neural networks Sparse? An introduction (1/N)](https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70)  
    _François Lagunas_  
    ![image][Blog] ![image][Deep Learning] ![image][Sparse Matrices]

@@ -1535,6 +1535,15 @@
         "venue": null
     },
     {
+        "name": "Is ChatGPT 175 billion parameters? Technical analysis",
+        "url": "https://orenleung.com/is-chatgpt-175-billion-parameters-technical-analysis",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Oren Leung",
+        "keywords": ["NLP", "Systems"],
+        "venue": "Oren Leung"
+    },
+    {
         "name": "Is the future of neural networks Sparse? An introduction (1/N)",
         "url": "https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70",
         "topic": "AI, DL, NLP and RL",
