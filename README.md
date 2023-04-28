@@ -309,6 +309,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Countering adversarial images using input transformations](https://arxiv.org/abs/1711.00117)  
    _Chuan Guo, Mayank Rana, Moustapha Cisse, Laurens van der Maaten_  
    ![image][Paper] ![image][Adversarial Examples] ![image][Deep Learning] ![image][Robustness]
+1. [Cramming: training a language model on a single GPU in one day](https://arxiv.org/abs/2212.14034)  
+   _Jonas Geiping, Tom Goldstein_  
+   ![image][Paper] ![image][Green AI] ![image][NLP]
 1. [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786)  
    _Niklas Muennighoff, Thomas Wang, Lintang Sutawika, Adam Roberts, Stella Biderman, Teven Le Scao, M Saiful Bari, Sheng Shen, Zheng-Xin Yong, Hailey Schoelkopf, Xiangru Tang, Dragomir Radev, Alham Fikri Aji, Khalid Almubarak, Samuel Albanie, Zaid Alyafeai, Albert Webson, Edward Raff, Colin Raffel_  
    ![image][Paper] ![image][Distributed Training] ![image][Instruction Finetuning] ![image][Large Models] ![image][NLP] ![image][Transformers]
@@ -393,6 +396,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/)  
    _Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
+1. [Expert human-level driving in gran turismo sport using deep reinforcement learning with image-based representation](https://arxiv.org/abs/2111.06449)  
+   _Ryuji Imamura, Takuma Seno, Kenta Kawamoto, Michael Spranger_  
+   ![image][Paper] ![image][Reinforcement Learning]
 1. [Exploring deep recurrent models with reinforcement learning for molecule design](https://openreview.net/forum?id=HkcTe-bR-)  
    _Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown_  
    ![image][Paper] ![image][Molecular Chemistry] ![image][Reinforcement Learning]

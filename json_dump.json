@@ -660,6 +660,15 @@
         "venue": "ICLR 2018"
     },
     {
+        "name": "Cramming: training a language model on a single GPU in one day",
+        "url": "https://arxiv.org/abs/2212.14034",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jonas Geiping, Tom Goldstein",
+        "keywords": ["Green AI", "NLP"],
+        "venue": null
+    },
+    {
         "name": "Crosslingual generalization through multitask finetuning",
         "url": "https://arxiv.org/abs/2211.01786",
         "topic": "AI, DL, NLP and RL",
@@ -1012,6 +1021,15 @@
         "authors": "Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi",
         "keywords": ["Dialog", "NLP"],
         "venue": "ACL 2018"
+    },
+    {
+        "name": "Expert human-level driving in gran turismo sport using deep reinforcement learning with image-based representation",
+        "url": "https://arxiv.org/abs/2111.06449",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Ryuji Imamura, Takuma Seno, Kenta Kawamoto, Michael Spranger",
+        "keywords": ["Reinforcement Learning"],
+        "venue": "NeurIPS 2021"
     },
     {
         "name": "Exploring deep recurrent models with reinforcement learning for molecule design",
