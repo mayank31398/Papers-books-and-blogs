@@ -2036,6 +2036,15 @@
         "venue": "ICLR 2021"
     },
     {
+        "name": "Optimal brain compression: a framework for accurate post-training quantization and pruning",
+        "url": "https://arxiv.org/abs/2208.11580",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Elias Frantar, Sidak Pal Singh, Dan Alistarh",
+        "keywords": ["Deep Learning", "Pruning", "Quantization"],
+        "venue": "NeurIPS 2022"
+    },
+    {
         "name": "Optimal perceptual inference",
         "url": "https://www.researchgate.net/publication/260869405_Optimal_perceptual_inference",
         "topic": "AI, DL, NLP and RL",

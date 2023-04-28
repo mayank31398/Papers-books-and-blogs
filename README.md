@@ -663,6 +663,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [OPT: open pre-trained transformer language models](https://arxiv.org/abs/2205.01068)  
    _Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer_  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [Optimal brain compression: a framework for accurate post-training quantization and pruning](https://arxiv.org/abs/2208.11580)  
+   _Elias Frantar, Sidak Pal Singh, Dan Alistarh_  
+   ![image][Paper] ![image][Deep Learning] ![image][Pruning] ![image][Quantization]
 1. [Optimal perceptual inference](https://www.researchgate.net/publication/260869405_Optimal_perceptual_inference)  
    _Geoffrey E. Hinton, Terrence J. Sejnowski_  
    ![image][Paper] ![image][Deep Learning] ![image][Energy-based Models]
