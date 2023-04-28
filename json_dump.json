@@ -1224,6 +1224,15 @@
         "venue": "IJCAI 2018"
     },
     {
+        "name": "Getting the most out of the NVIDIA A100 GPU with Multi-Instance GPU",
+        "url": "https://developer.nvidia.com/blog/getting-the-most-out-of-the-a100-gpu-with-multi-instance-gpu/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Maggie Zhang, James Sohn, Chetan Tekur",
+        "keywords": ["Deep Learning", "Systems"],
+        "venue": "NVIDIA"
+    },
+    {
         "name": "Going deeper with convolutions",
         "url": "https://arxiv.org/abs/1409.4842",
         "topic": "AI, DL, NLP and RL",
