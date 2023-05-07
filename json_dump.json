@@ -2529,6 +2529,15 @@
         "venue": "ACL 2018"
     },
     {
+        "name": "Seq2seq model and the exposure bias problem",
+        "url": "https://medium.com/analytics-vidhya/seq2seq-model-and-the-exposure-bias-problem-962bb5607097",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Aditya Mohanty",
+        "keywords": ["Generative Models", "NLP"],
+        "venue": "Medium"
+    },
+    {
         "name": "Sequential latent knowledge selection for knowledge-grounded dialogue",
         "url": "https://arxiv.org/abs/2002.07510",
         "topic": "AI, DL, NLP and RL",

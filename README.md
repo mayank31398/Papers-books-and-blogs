@@ -777,6 +777,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Semantically equivalent adversarial rules for debugging NLP models](https://aclanthology.org/P18-1079/)  
    _Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin_  
    ![image][Paper] ![image][NLP]
+1. [Seq2seq model and the exposure bias problem](https://medium.com/analytics-vidhya/seq2seq-model-and-the-exposure-bias-problem-962bb5607097)  
+   _Aditya Mohanty_  
+   ![image][Blog] ![image][Generative Models] ![image][NLP]
 1. [Sequential latent knowledge selection for knowledge-grounded dialogue](https://arxiv.org/abs/2002.07510)  
    _Byeongchang Kim, Jaewoo Ahn, Gunhee Kim_  
    ![image][Paper] ![image][Dialog] ![image][NLP] ![image][Variational Inference]
