@@ -188,6 +188,15 @@
         "venue": "NeurIPS 2017"
     },
     {
+        "name": "Accelerated PyTorch 2 transformers",
+        "url": "https://pytorch.org/blog/accelerated-pytorch-2/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Michael Gschwind, Driss Guessous, Christian Puhrsch",
+        "keywords": ["Deep Learning", "Speedup", "Transformers"],
+        "venue": "PyTorch"
+    },
+    {
         "name": "AdapterHub: a framework for adapting transformers",
         "url": "https://arxiv.org/abs/2007.07779",
         "topic": "AI, DL, NLP and RL",

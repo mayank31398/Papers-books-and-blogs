@@ -187,6 +187,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [A3T: adversarially augmented adversarial training](https://arxiv.org/abs/1801.04055)  
    _Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien_  
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+1. [Accelerated PyTorch 2 transformers](https://pytorch.org/blog/accelerated-pytorch-2/)  
+   _Michael Gschwind, Driss Guessous, Christian Puhrsch_  
+   ![image][Paper] ![image][Deep Learning] ![image][Speedup] ![image][Transformers]
 1. [AdapterHub: a framework for adapting transformers](https://arxiv.org/abs/2007.07779)  
    _Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych_  
    ![image][Paper] ![image][Efficient Finetuning] ![image][NLP] ![image][Transformers]
