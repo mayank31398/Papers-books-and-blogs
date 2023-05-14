@@ -1499,6 +1499,15 @@
         "venue": "Journal of Visual Communication and Image Representation 2019"
     },
     {
+        "name": "Introducing MPT-7B: a new standard for open-source, commercially usable LLMs",
+        "url": "https://www.mosaicml.com/blog/mpt-7b",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "The MosaicML NLP Team",
+        "keywords": ["Large Models", "NLP", "Transformers"],
+        "venue": "MosaicML"
+    },
+    {
         "name": "Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps",
         "url": "https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution",
         "topic": "AI, DL, NLP and RL",

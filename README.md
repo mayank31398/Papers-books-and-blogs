@@ -521,6 +521,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786)  
    _C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen_  
    ![image][Paper] ![image][Computer Vision]
+1. [Introducing MPT-7B: a new standard for open-source, commercially usable LLMs](https://www.mosaicml.com/blog/mpt-7b)  
+   _The MosaicML NLP Team_  
+   ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
    ![image][Blog] ![image][Deep Learning] ![image][Image Super Resolution]
 1. [Introducing 🤗 accelerate](https://huggingface.co/blog/accelerate-library)  
