@@ -47,6 +47,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Error Detection]: https://img.shields.io/static/v1?label=&message=Error%20Detection&color=blue
 [Ethical Impacts of AI]: https://img.shields.io/static/v1?label=&message=Ethical%20Impacts%20of%20AI&color=blue
 [Fake Content Detection]: https://img.shields.io/static/v1?label=&message=Fake%20Content%20Detection&color=blue
+[Faster training]: https://img.shields.io/static/v1?label=&message=Faster%20training&color=blue
 [Few Shot]: https://img.shields.io/static/v1?label=&message=Few%20Shot&color=blue
 [Generative Models]: https://img.shields.io/static/v1?label=&message=Generative%20Models&color=blue
 [Genetic Algorithms]: https://img.shields.io/static/v1?label=&message=Genetic%20Algorithms&color=blue
@@ -136,6 +137,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [1-bit Adam: communication efficient large-scale training with Adam’s convergence speed](https://arxiv.org/abs/2102.02888)  
    _Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He_  
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training]
+1. [5 best practices for efficient model training](https://www.mosaicml.com/blog/5-best-practices-for-efficient-model-training)  
+   _Matthew Leavitt, Abhinav Venigalla_  
+   ![image][Blog] ![image][Deep Learning] ![image][Faster training] ![image][Systems]
 1. [8-bit optimizers via block-wise quantization](https://arxiv.org/abs/2110.02861)  
    _Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer_  
    ![image][Paper] ![image][Deep Learning] ![image][Quantization]

@@ -9,6 +9,15 @@
         "venue": null
     },
     {
+        "name": "5 best practices for efficient model training",
+        "url": "https://www.mosaicml.com/blog/5-best-practices-for-efficient-model-training",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Matthew Leavitt, Abhinav Venigalla",
+        "keywords": ["Deep Learning", "Faster Training", "Systems"],
+        "venue": "MosaicML"
+    },
+    {
         "name": "8-bit optimizers via block-wise quantization",
         "url": "https://arxiv.org/abs/2110.02861",
         "topic": "AI, DL, NLP and RL",
