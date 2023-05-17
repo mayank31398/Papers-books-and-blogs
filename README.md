@@ -47,7 +47,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Error Detection]: https://img.shields.io/static/v1?label=&message=Error%20Detection&color=blue
 [Ethical Impacts of AI]: https://img.shields.io/static/v1?label=&message=Ethical%20Impacts%20of%20AI&color=blue
 [Fake Content Detection]: https://img.shields.io/static/v1?label=&message=Fake%20Content%20Detection&color=blue
-[Faster training]: https://img.shields.io/static/v1?label=&message=Faster%20training&color=blue
+[Faster Training]: https://img.shields.io/static/v1?label=&message=Faster%20Training&color=blue
 [Few Shot]: https://img.shields.io/static/v1?label=&message=Few%20Shot&color=blue
 [Generative Models]: https://img.shields.io/static/v1?label=&message=Generative%20Models&color=blue
 [Genetic Algorithms]: https://img.shields.io/static/v1?label=&message=Genetic%20Algorithms&color=blue
@@ -139,7 +139,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training]
 1. [5 best practices for efficient model training](https://www.mosaicml.com/blog/5-best-practices-for-efficient-model-training)  
    _Matthew Leavitt, Abhinav Venigalla_  
-   ![image][Blog] ![image][Deep Learning] ![image][Faster training] ![image][Systems]
+   ![image][Blog] ![image][Deep Learning] ![image][Faster Training] ![image][Systems]
 1. [8-bit optimizers via block-wise quantization](https://arxiv.org/abs/2110.02861)  
    _Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer_  
    ![image][Paper] ![image][Deep Learning] ![image][Quantization]
@@ -820,6 +820,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. Speech and language processing  
    _Daniel Jurafsky, James H. Martin_  
    ![image][Book]
+1. [StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)  
+   _Raymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, Qian Liu, Evgenii Zheltonozhskii, Terry Yue Zhuo, Thomas Wang, Olivier Dehaene, Mishig Davaadorj, Joel Lamy-Poirier, João Monteiro, Oleh Shliazhko, Nicolas Gontier, Nicholas Meade, Armel Zebaze, Ming-Ho Yee, Logesh Kumar Umapathi, Jian Zhu, Benjamin Lipkin, Muhtasham Oblokulov, Zhiruo Wang, Rudra Murthy, Jason Stillerman, Siva Sankalp Patel, Dmitry Abulkhanov, Marco Zocca, Manan Dey, Zhihan Zhang, Nour Fahmy, Urvashi Bhattacharyya, Wenhao Yu, Swayam Singh, Sasha Luccioni, Paulo Villegas, Maxim Kunakov, Fedor Zhdanov, Manuel Romero, Tony Lee, Nadav Timor, Jennifer Ding, Claire Schlesinger, Hailey Schoelkopf, Jan Ebert, Tri Dao, Mayank Mishra, Alex Gu, Jennifer Robinson, Carolyn Jane Anderson, Brendan Dolan-Gavitt, Danish Contractor, Siva Reddy, Daniel Fried, Dzmitry Bahdanau, Yacine Jernite, Carlos Muñoz Ferrandis, Sean Hughes, Thomas Wolf, Arjun Guha, Leandro von Werra, Harm de Vries_  
+   ![image][Paper] ![image][AI for code] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Sticking the landing: simple, lower-variance gradient estimators for variational inference](https://arxiv.org/abs/1703.09194)  
    _Geoffrey Roeder, Yuhuai Wu, David K. Duvenaud_  
    ![image][Paper] ![image][Deep Learning] ![image][Gradient Estimation] ![image][Variational Inference]
