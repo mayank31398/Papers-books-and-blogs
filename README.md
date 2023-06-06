@@ -27,6 +27,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Convergence]: https://img.shields.io/static/v1?label=&message=Convergence&color=blue
 [Curriculum Learning]: https://img.shields.io/static/v1?label=&message=Curriculum%20Learning&color=blue
 [Data Visualization]: https://img.shields.io/static/v1?label=&message=Data%20Visualization&color=blue
+[Dataflow Architecture]: https://img.shields.io/static/v1?label=&message=Dataflow%20Architecture&color=blue
 [Dataset]: https://img.shields.io/static/v1?label=&message=Dataset&color=blue
 [Decentralized Training]: https://img.shields.io/static/v1?label=&message=Decentralized%20Training&color=blue
 [Deep]: https://img.shields.io/static/v1?label=&message=Deep&color=blue
@@ -1024,6 +1025,8 @@ This repository contains a list of the books, blogs, research papers and white p
 
 # Computer architecture
 
+1. [Accelerated computing with a reconfigurable dataflow architecture](https://sambanova.ai/wp-content/uploads/2021/04/SambaNova_Accelerated-Computing-with-a-Reconfigurable-Dataflow-Architecture_Whitepaper_English.pdf)  
+   ![image][Whitepaper] ![image][Dataflow Architecture] ![image][Deep Learning]
 1. Computer architecture: a quantitative approach  
    _John L. Hennessy, David A. Patterson_  
    ![image][Book]

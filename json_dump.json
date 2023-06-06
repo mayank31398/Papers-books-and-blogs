@@ -206,6 +206,15 @@
         "venue": "PyTorch"
     },
     {
+        "name": "Accelerated computing with a reconfigurable dataflow architecture",
+        "url": "https://sambanova.ai/wp-content/uploads/2021/04/SambaNova_Accelerated-Computing-with-a-Reconfigurable-Dataflow-Architecture_Whitepaper_English.pdf",
+        "topic": "Computer architecture",
+        "datatype": "Whitepaper",
+        "authors": null,
+        "keywords": ["Dataflow Architecture", "Deep Learning"],
+        "venue": "SambaNova Systems"
+    },
+    {
         "name": "AdapterHub: a framework for adapting transformers",
         "url": "https://arxiv.org/abs/2007.07779",
         "topic": "AI, DL, NLP and RL",
