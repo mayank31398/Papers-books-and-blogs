@@ -5,6 +5,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Paper]: https://img.shields.io/static/v1?label=&message=Paper&color=blueviolet
 [Whitepaper]: https://img.shields.io/static/v1?label=&message=Whitepaper&color=yellow
 [AI for code]: https://img.shields.io/static/v1?label=&message=AI%20for%20code&color=blue
+[ASIC]: https://img.shields.io/static/v1?label=&message=ASIC&color=blue
 [Activation Function]: https://img.shields.io/static/v1?label=&message=Activation%20Function&color=blue
 [Adversarial Examples]: https://img.shields.io/static/v1?label=&message=Adversarial%20Examples&color=blue
 [Adversarial Learning]: https://img.shields.io/static/v1?label=&message=Adversarial%20Learning&color=blue
@@ -1048,6 +1049,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Millicode in an IBM zSeries processor](https://ieeexplore.ieee.org/document/5388884)  
    _L. C. Heller, M. S. Farrell_  
    ![image][Paper] ![image][Computer Architecture]
+1. [MTIA v1: Meta's first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)  
+   _Amin Firoozshahian, Olivia Wu, Joel Coburn, Roman Levenstein_  
+   ![image][Blog] ![image][ASIC] ![image][Deep Learning]
 1. [RAIDR: Retention-Aware Intelligent DRAM Refresh](https://dl.acm.org/doi/10.5555/2337159.2337161)  
    _Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu_  
    ![image][Paper] ![image][Computer Architecture] ![image][Memory]

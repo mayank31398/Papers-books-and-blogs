@@ -1759,6 +1759,15 @@
         "venue": "ACL 2022"
     },
     {
+        "name": "MTIA v1: Meta's first-generation AI inference accelerator",
+        "url": "https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/",
+        "topic": "Computer architecture",
+        "datatype": "Blog",
+        "authors": "Amin Firoozshahian, Olivia Wu, Joel Coburn, Roman Levenstein",
+        "keywords": ["ASIC", "Deep Learning"],
+        "venue": "Meta"
+    },
+    {
         "name": "Machine learning",
         "url": null,
         "topic": "AI, DL, NLP and RL",
