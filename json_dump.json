@@ -1054,6 +1054,15 @@
         "venue": "The Bell System Technical Journal 1950"
     },
     {
+        "name": "Estimating or propagating gradients through stochastic neurons for conditional computation",
+        "url": "https://arxiv.org/abs/1308.3432",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yoshua Bengio, Nicholas L\u00e9onard, Aaron Courville",
+        "keywords": ["Backpropagation", "Deep Learning", "Gradient Estimation"],
+        "venue": null
+    },
+    {
         "name": "Exemplar encoder-decoder for neural conversation generation",
         "url": "https://www.aclweb.org/anthology/P18-1123/",
         "topic": "AI, DL, NLP and RL",

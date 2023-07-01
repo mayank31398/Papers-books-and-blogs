@@ -408,6 +408,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Equilibrium propagation: bridging the gap between energy-based models and backpropagation](https://arxiv.org/abs/1602.05179)  
    _Benjamin Scellier, Yoshua Bengio_  
    ![image][Paper] ![image][Backpropagation] ![image][Deep Learning] ![image][Enery based Models]
+1. [Estimating or propagating gradients through stochastic neurons for conditional computation](https://arxiv.org/abs/1308.3432)  
+   _Yoshua Bengio, Nicholas Léonard, Aaron Courville_  
+   ![image][Paper] ![image][Backpropagation] ![image][Deep Learning] ![image][Gradient Estimation]
 1. [Exemplar encoder-decoder for neural conversation generation](https://www.aclweb.org/anthology/P18-1123/)  
    _Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
