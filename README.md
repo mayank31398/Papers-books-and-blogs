@@ -33,6 +33,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Decentralized Training]: https://img.shields.io/static/v1?label=&message=Decentralized%20Training&color=blue
 [Deep]: https://img.shields.io/static/v1?label=&message=Deep&color=blue
 [Deep Learning]: https://img.shields.io/static/v1?label=&message=Deep%20Learning&color=blue
+[Deployment]: https://img.shields.io/static/v1?label=&message=Deployment&color=blue
 [Dialog]: https://img.shields.io/static/v1?label=&message=Dialog&color=blue
 [Differential Equations]: https://img.shields.io/static/v1?label=&message=Differential%20Equations&color=blue
 [Discrete Optimization]: https://img.shields.io/static/v1?label=&message=Discrete%20Optimization&color=blue
@@ -66,6 +67,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Instruction Finetuning]: https://img.shields.io/static/v1?label=&message=Instruction%20Finetuning&color=blue
 [Knowledge Graphs]: https://img.shields.io/static/v1?label=&message=Knowledge%20Graphs&color=blue
 [Large Models]: https://img.shields.io/static/v1?label=&message=Large%20Models&color=blue
+[Machine Learning Compilation]: https://img.shields.io/static/v1?label=&message=Machine%20Learning%20Compilation&color=blue
 [Machine Translation]: https://img.shields.io/static/v1?label=&message=Machine%20Translation&color=blue
 [Mathematical Reasoning]: https://img.shields.io/static/v1?label=&message=Mathematical%20Reasoning&color=blue
 [Memory]: https://img.shields.io/static/v1?label=&message=Memory&color=blue
@@ -277,6 +279,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Bridging the gap between prior and posterior knowledge selection for knowledge-grounded dialogue generation](https://www.aclweb.org/anthology/2020.emnlp-main.275/)  
    _Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou_  
    ![image][Paper] ![image][Dialog] ![image][NLP] ![image][Variational Inference]
+1. [Bringing open large language models to consumer devices](https://mlc.ai/blog/2023/05/22/bringing-open-large-language-models-to-consumer-devices)  
+   _MLC Community_  
+   ![image][Blog] ![image][Deep Learning] ![image][Deployment] ![image][Machine Learning Compilation]
 1. [ChatGPT: optimizing language models for dialogue](https://openai.com/blog/chatgpt/)  
    ![image][Blog] ![image][Dialog] ![image][NLP]
 1. [ColBERT: efficient and effective passage search via contextualized late interaction over BERT](https://arxiv.org/abs/2004.12832)  

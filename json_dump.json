@@ -507,6 +507,19 @@
         "venue": "EMNLP 2020"
     },
     {
+        "name": "Bringing open large language models to consumer devices",
+        "url": "https://mlc.ai/blog/2023/05/22/bringing-open-large-language-models-to-consumer-devices",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "MLC Community",
+        "keywords": [
+            "Deep Learning",
+            "Deployment",
+            "Machine Learning Compilation"
+        ],
+        "venue": "Machine Learning Compilation"
+    },
+    {
         "name": "Calculus of variations",
         "url": null,
         "topic": "Calculus",
