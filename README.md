@@ -67,6 +67,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Instruction Finetuning]: https://img.shields.io/static/v1?label=&message=Instruction%20Finetuning&color=blue
 [Knowledge Graphs]: https://img.shields.io/static/v1?label=&message=Knowledge%20Graphs&color=blue
 [Large Models]: https://img.shields.io/static/v1?label=&message=Large%20Models&color=blue
+[Long Context Length]: https://img.shields.io/static/v1?label=&message=Long%20Context%20Length&color=blue
 [Machine Learning Compilation]: https://img.shields.io/static/v1?label=&message=Machine%20Learning%20Compilation&color=blue
 [Machine Translation]: https://img.shields.io/static/v1?label=&message=Machine%20Translation&color=blue
 [Mathematical Reasoning]: https://img.shields.io/static/v1?label=&message=Mathematical%20Reasoning&color=blue
@@ -587,6 +588,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [LLM.int8(): 8-bit matrix multiplication for transformers at scale](https://arxiv.org/abs/2208.07339)  
    _Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer_  
    ![image][Paper] ![image][Deep Learning] ![image][Quantization]
+1. [Long sequence modeling with XGen: a 7B LLM trained on 8K input sequence length](https://blog.salesforceairesearch.com/xgen/)  
+   _Erik Nijkamp, Hiroaki Hayashi, Tian Xie, Congying Xia, Bo Pang, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Semih Yavuz, Chen Xing, Jesse Vig, Lidiya Murakhovs'ka, Chien-Sheng Wu, Yingbo Zhou, Shafiq Rayhan Joty, Caiming Xiong, Silvio Savarese_  
+   ![image][Blog] ![image][Long Context Length] ![image][NLP] ![image][Transformers]
 1. [M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining](https://arxiv.org/abs/2110.03888)  
    _Junyang Lin, An Yang, Jinze Bai, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Yong Li, Wei Lin, Jingren Zhou, Hongxia Yang_  
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Green AI] ![image][Large Models] ![image][Mixture of Experts] ![image][Multi-modal] ![image][Transformers]

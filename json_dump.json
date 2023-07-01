@@ -1746,6 +1746,15 @@
         "venue": null
     },
     {
+        "name": "Long sequence modeling with XGen: a 7B LLM trained on 8K input sequence length",
+        "url": "https://blog.salesforceairesearch.com/xgen/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Erik Nijkamp, Hiroaki Hayashi, Tian Xie, Congying Xia, Bo Pang, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Semih Yavuz, Chen Xing, Jesse Vig, Lidiya Murakhovs'ka, Chien-Sheng Wu, Yingbo Zhou, Shafiq Rayhan Joty, Caiming Xiong, Silvio Savarese",
+        "keywords": ["Long Context Length", "NLP", "Transformers"],
+        "venue": "Salesforce"
+    },
+    {
         "name": "M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining",
         "url": "https://arxiv.org/abs/2110.03888",
         "topic": "AI, DL, NLP and RL",
