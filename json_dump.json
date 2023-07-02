@@ -3319,6 +3319,20 @@
         "venue": "Microsoft"
     },
     {
+        "name": "ZeRO++: Extremely efficient collective communication for giant model training",
+        "url": "https://arxiv.org/abs/2306.10209",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Guanhua Wang, Heyang Qin, Sam Ade Jacobs, Connor Holmes, Samyam Rajbhandari, Olatunji Ruwase, Feng Yan, Lei Yang, Yuxiong He",
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Large Models",
+            "Systems"
+        ],
+        "venue": null
+    },
+    {
         "name": "ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale",
         "url": "https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/",
         "topic": "AI, DL, NLP and RL",

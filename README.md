@@ -1008,6 +1008,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters](https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/)  
    _DeepSpeed Team, Rangan Majumder, Junhua Wang_  
    ![image][Blog] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+1. [ZeRO++: Extremely efficient collective communication for giant model training](https://arxiv.org/abs/2306.10209)  
+   _Guanhua Wang, Heyang Qin, Sam Ade Jacobs, Connor Holmes, Samyam Rajbhandari, Olatunji Ruwase, Feng Yan, Lei Yang, Yuxiong He_  
+   ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
 1. [ZeRO-2 & DeepSpeed: shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)  
    _DeepSpeed Team, Rangan Majumder, Junhua Wang_  
    ![image][Blog] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
