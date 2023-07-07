@@ -1755,6 +1755,15 @@
         "venue": null
     },
     {
+        "name": "LoRA: Low-Rank Adaptation of large language models",
+        "url": "https://arxiv.org/abs/2106.09685",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen",
+        "keywords": ["Deep Learning", "Efficient Finetuning"],
+        "venue": "ICLR 2022"
+    },
+    {
         "name": "Long sequence modeling with XGen: a 7B LLM trained on 8K input sequence length",
         "url": "https://blog.salesforceairesearch.com/xgen/",
         "topic": "AI, DL, NLP and RL",
