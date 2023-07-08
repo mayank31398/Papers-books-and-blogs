@@ -432,6 +432,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Fast transformer decoding: one write-head is all you need](https://arxiv.org/abs/1911.02150)  
    _Noam Shazeer_  
    ![image][Paper] ![image][Deep] ![image][Transformers]
+1. [Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning](https://arxiv.org/abs/2205.05638)  
+   _Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel_  
+   ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning]
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367)  
    _Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud_  
    ![image][Paper] ![image][Deep Learning] ![image][Generative Models]

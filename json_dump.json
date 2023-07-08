@@ -1142,6 +1142,15 @@
         "venue": null
     },
     {
+        "name": "Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning",
+        "url": "https://arxiv.org/abs/2205.05638",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel",
+        "keywords": ["Deep Learning", "Efficient Finetuning"],
+        "venue": "NeurIPS 2022"
+    },
+    {
         "name": "Finetuned language models are zero-shot learners",
         "url": "https://arxiv.org/abs/2109.01652",
         "topic": "AI, DL, NLP and RL",
