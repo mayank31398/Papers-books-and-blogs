@@ -600,6 +600,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [LoRA: Low-Rank Adaptation of large language models](https://arxiv.org/abs/2106.09685)  
    _Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen_  
    ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning]
+1. [Lost in the middle: how language models use long contexts](https://arxiv.org/abs/2307.03172)  
+   _Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang_  
+   ![image][Paper] ![image][Long Context Length] ![image][Transformers]
 1. [M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining](https://arxiv.org/abs/2110.03888)  
    _Junyang Lin, An Yang, Jinze Bai, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Yong Li, Wei Lin, Jingren Zhou, Hongxia Yang_  
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Green AI] ![image][Large Models] ![image][Mixture of Experts] ![image][Multi-modal] ![image][Transformers]

@@ -95,7 +95,6 @@ def main():
     json_file = PreprocessNames(json_file)
     topics = GetAllValuesByField(json_file, "topic")
     keywords = GetAllValuesByField(json_file, "keywords")
-    venues = GetAllValuesByField(json_file, "venue")
     grouped_json = GroupByTopics(json_file, topics)
 
     with open(args.readme, "w") as f:
