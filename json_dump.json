@@ -2381,6 +2381,19 @@
         "keywords": ["Generative Models", "NLP"]
     },
     {
+        "name": "Sequence parallelism: long sequence training from system perspective",
+        "url": "https://arxiv.org/abs/2105.13120",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Shenggui Li, Fuzhao Xue, Chaitanya Baranwal, Yongbin Li, Yang You",
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Long Context Length",
+            "Systems"
+        ]
+    },
+    {
         "name": "Sequential latent knowledge selection for knowledge-grounded dialogue",
         "url": "https://arxiv.org/abs/2002.07510",
         "topic": "AI, DL, NLP and RL",

@@ -816,6 +816,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Seq2seq model and the exposure bias problem](https://medium.com/analytics-vidhya/seq2seq-model-and-the-exposure-bias-problem-962bb5607097)  
    _Aditya Mohanty_  
    ![image][Blog] ![image][Generative Models] ![image][NLP]
+1. [Sequence parallelism: long sequence training from system perspective](https://arxiv.org/abs/2105.13120)  
+   _Shenggui Li, Fuzhao Xue, Chaitanya Baranwal, Yongbin Li, Yang You_  
+   ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Long Context Length] ![image][Systems]
 1. [Sequential latent knowledge selection for knowledge-grounded dialogue](https://arxiv.org/abs/2002.07510)  
    _Byeongchang Kim, Jaewoo Ahn, Gunhee Kim_  
    ![image][Paper] ![image][Dialog] ![image][NLP] ![image][Variational Inference]
