@@ -352,7 +352,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, \u0141ukasz Kaiser, Illia Polosukhin",
-        "keywords": ["Deep Learning", "Transformers"]
+        "keywords": ["Attention Mechanism", "Deep Learning", "Transformers"]
     },
     {
         "name": "Auto-encoding variational Bayes",
@@ -1026,7 +1026,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Noam Shazeer",
-        "keywords": ["Deep", "Transformers"]
+        "keywords": ["Attention Mechanism", "NLP", "Transformers"]
     },
     {
         "name": "Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning",
@@ -1112,6 +1112,14 @@
         "datatype": "Paper",
         "authors": "Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach",
         "keywords": ["Large Models", "NLP", "Transformers"]
+    },
+    {
+        "name": "GQA: training generalized multi-query transformer models from multi-head checkpoints",
+        "url": "https://arxiv.org/abs/2305.13245",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Joshua Ainslie, James Lee-Thorp, Michiel de Jong, Yury Zemlyanskiy, Federico Lebr\u00f3n, Sumit Sanghai",
+        "keywords": ["Attention Mechanism", "NLP", "Transformers"]
     },
     {
         "name": "Generating adversarial examples with adversarial networks",

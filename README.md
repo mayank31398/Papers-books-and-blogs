@@ -12,6 +12,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Algorithms]: https://img.shields.io/static/v1?label=&message=Algorithms&color=blue
 [Animation]: https://img.shields.io/static/v1?label=&message=Animation&color=blue
 [Approximate Inference]: https://img.shields.io/static/v1?label=&message=Approximate%20Inference&color=blue
+[Attention Mechanism]: https://img.shields.io/static/v1?label=&message=Attention%20Mechanism&color=blue
 [Audio]: https://img.shields.io/static/v1?label=&message=Audio&color=blue
 [Backpropagation]: https://img.shields.io/static/v1?label=&message=Backpropagation&color=blue
 [Behavior and Control]: https://img.shields.io/static/v1?label=&message=Behavior%20and%20Control&color=blue
@@ -31,7 +32,6 @@ This repository contains a list of the books, blogs, research papers and white p
 [Dataflow Architecture]: https://img.shields.io/static/v1?label=&message=Dataflow%20Architecture&color=blue
 [Dataset]: https://img.shields.io/static/v1?label=&message=Dataset&color=blue
 [Decentralized Training]: https://img.shields.io/static/v1?label=&message=Decentralized%20Training&color=blue
-[Deep]: https://img.shields.io/static/v1?label=&message=Deep&color=blue
 [Deep Learning]: https://img.shields.io/static/v1?label=&message=Deep%20Learning&color=blue
 [Deployment]: https://img.shields.io/static/v1?label=&message=Deployment&color=blue
 [Dialog]: https://img.shields.io/static/v1?label=&message=Dialog&color=blue
@@ -249,7 +249,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][NLP] ![image][Text Classification]
 1. [Attention is all you need](https://arxiv.org/abs/1706.03762)  
    _Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin_  
-   ![image][Paper] ![image][Deep Learning] ![image][Transformers]
+   ![image][Paper] ![image][Attention Mechanism] ![image][Deep Learning] ![image][Transformers]
 1. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114)  
    _Diederik P. Kingma, Max Welling_  
    ![image][Paper] ![image][Deep Learning] ![image][Generative Models] ![image][Variational Inference]
@@ -431,7 +431,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][NLP] ![image][Reinforcement Learning] ![image][Summarization]
 1. [Fast transformer decoding: one write-head is all you need](https://arxiv.org/abs/1911.02150)  
    _Noam Shazeer_  
-   ![image][Paper] ![image][Deep] ![image][Transformers]
+   ![image][Paper] ![image][Attention Mechanism] ![image][NLP] ![image][Transformers]
 1. [Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning](https://arxiv.org/abs/2205.05638)  
    _Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel_  
    ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning]
@@ -482,6 +482,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [GPT-NeoX-20B: an open-source autoregressive language model](https://arxiv.org/abs/2204.06745)  
    _Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach_  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [GQA: training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245)  
+   _Joshua Ainslie, James Lee-Thorp, Michiel de Jong, Yury Zemlyanskiy, Federico Lebrón, Sumit Sanghai_  
+   ![image][Paper] ![image][Attention Mechanism] ![image][NLP] ![image][Transformers]
 1. [Gradient-based hyperparameter optimization through reversible learning](https://arxiv.org/abs/1502.03492)  
    _Dougal Maclaurin, David Duvenaud, Ryan P. Adams_  
    ![image][Paper] ![image][Deep Learning] ![image][Meta Learning]
