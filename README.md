@@ -476,6 +476,9 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts] ![image][Transformers]
 1. [GLM-130B: an open bilingual pre-trained model](https://keg.cs.tsinghua.edu.cn/glm-130b/)  
    ![image][Blog] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [GLU variants improve transformer](https://arxiv.org/abs/2002.05202)  
+   _Noam Shazeer_  
+   ![image][Paper] ![image][Activation Function] ![image][Deep Learning]
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
    _Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich_  
    ![image][Paper] ![image][Computer Vision] ![image][Image Classification]

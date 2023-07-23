@@ -1093,6 +1093,14 @@
         "keywords": ["Large Models", "NLP", "Transformers"]
     },
     {
+        "name": "GLU variants improve transformer",
+        "url": "https://arxiv.org/abs/2002.05202",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Noam Shazeer",
+        "keywords": ["Activation Function", "Deep Learning"]
+    },
+    {
         "name": "GLaM: efficient scaling of language models with mixture-of-experts",
         "url": "https://arxiv.org/abs/2112.06905",
         "topic": "AI, DL, NLP and RL",
