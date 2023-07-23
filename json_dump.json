@@ -1490,6 +1490,14 @@
         "keywords": ["Deep Learning", "Quantization"]
     },
     {
+        "name": "Language modeling with gated convolutional networks",
+        "url": "https://arxiv.org/abs/1612.08083",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yann N. Dauphin, Angela Fan, Michael Auli, David Grangier",
+        "keywords": ["Activation Function", "NLP"]
+    },
+    {
         "name": "Language modelling with pixels",
         "url": "https://arxiv.org/abs/2207.06991",
         "topic": "AI, DL, NLP and RL",

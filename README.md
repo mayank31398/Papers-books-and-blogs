@@ -562,6 +562,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Knowledge-grounded dialogue generation with pre-trained language models](https://arxiv.org/abs/2010.08824)  
    _Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
+1. [Language modeling with gated convolutional networks](https://arxiv.org/abs/1612.08083)  
+   _Yann N. Dauphin, Angela Fan, Michael Auli, David Grangier_  
+   ![image][Paper] ![image][Activation Function] ![image][NLP]
 1. [Language modelling with pixels](https://arxiv.org/abs/2207.06991)  
    _Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott_  
    ![image][Paper] ![image][Computer Vision] ![image][NLP]
