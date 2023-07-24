@@ -106,7 +106,6 @@ This repository contains a list of the books, blogs, research papers and white p
 [Sparse Matrices]: https://img.shields.io/static/v1?label=&message=Sparse%20Matrices&color=blue
 [Spatio-Temporal]: https://img.shields.io/static/v1?label=&message=Spatio-Temporal&color=blue
 [Speech]: https://img.shields.io/static/v1?label=&message=Speech&color=blue
-[Speedup]: https://img.shields.io/static/v1?label=&message=Speedup&color=blue
 [Story Generation]: https://img.shields.io/static/v1?label=&message=Story%20Generation&color=blue
 [Style Transfer]: https://img.shields.io/static/v1?label=&message=Style%20Transfer&color=blue
 [Summarization]: https://img.shields.io/static/v1?label=&message=Summarization&color=blue
@@ -153,7 +152,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning]
 1. [A BetterTransformer for fast transformer inference](https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-inference/)  
    _Michael Gschwind, Eric Han, Scott Wolchok, Rui Zhu, Christian Puhrsch_  
-   ![image][Blog] ![image][Deep Learning] ![image][Speedup] ![image][Systems] ![image][Transformers]
+   ![image][Blog] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
 1. [A deep reinforced model for abstractive summarization](https://arxiv.org/abs/1705.04304)  
    _Romain Paulus, Caiming Xiong, Richard Socher_  
    ![image][Paper] ![image][NLP] ![image][Reinforcement Learning] ![image][Summarization]
@@ -198,7 +197,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
 1. [Accelerated PyTorch 2 transformers](https://pytorch.org/blog/accelerated-pytorch-2/)  
    _Michael Gschwind, Driss Guessous, Christian Puhrsch_  
-   ![image][Paper] ![image][Deep Learning] ![image][Speedup] ![image][Transformers]
+   ![image][Blog] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
 1. [AdapterHub: a framework for adapting transformers](https://arxiv.org/abs/2007.07779)  
    _Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych_  
    ![image][Paper] ![image][Efficient Finetuning] ![image][NLP] ![image][Transformers]
@@ -443,7 +442,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][NLP] ![image][Transformers] ![image][Zero Shot]
 1. [FlashAttention: fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135)  
    _Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré_  
-   ![image][Paper] ![image][Deep Learning] ![image][Speedup] ![image][Transformers]
+   ![image][Paper] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
 1. [FlashAttention: fast transformer training with long sequences](https://crfm.stanford.edu/2023/01/13/flashattention.html)  
    _Tri Dao_  
    ![image][Blog] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
@@ -559,6 +558,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Is the future of neural networks Sparse? An introduction (1/N)](https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70)  
    _François Lagunas_  
    ![image][Blog] ![image][Deep Learning] ![image][Sparse Matrices]
+1. [Joint reasoning on hybrid-knowledge sources for task-oriented dialog](https://arxiv.org/abs/2210.07295)  
+   _Mayank Mishra, Danish Contractor, Dinesh Raghu_  
+   ![image][Paper] ![image][Dialog] ![image][NLP]
 1. [Know what you don't know: unanswerable questions for SQuAD](https://arxiv.org/abs/1806.03822)  
    _Pranav Rajpurkar, Robin Jia, Percy Liang_  
    ![image][Paper] ![image][NLP] ![image][Question Answering]
@@ -599,7 +601,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Blog] ![image][Ethical Impacts of AI] ![image][NLP]
 1. [Linformer: self-attention with linear complexity](https://arxiv.org/abs/2006.04768)  
    _Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma_  
-   ![image][Paper] ![image][Deep Learning] ![image][Speedup] ![image][Transformers]
+   ![image][Paper] ![image][Attention Mechanism] ![image][Deep Learning] ![image][Transformers]
 1. [LLM.int8(): 8-bit matrix multiplication for transformers at scale](https://arxiv.org/abs/2208.07339)  
    _Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer_  
    ![image][Paper] ![image][Deep Learning] ![image][Quantization]
@@ -756,12 +758,15 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Progressive growing of GANs from improved quality, stability and variation](https://arxiv.org/abs/1710.10196)  
    _Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen_  
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+1. [Prompting with pseudo-code instructions](https://arxiv.org/abs/2305.11790)  
+   _Mayank Mishra, Prince Kumar, Riyaz Bhat, Rudra Murthy V, Danish Contractor, Srikanth Tamilselvam_  
+   ![image][Paper] ![image][NLP] ![image][Prompting]
 1. [PullNet: open domain question answering with iterative retrieval on knowledge bases and text](https://arxiv.org/abs/1904.09537)  
    _Haitian Sun, Tania Bedrax-Weiss, William Cohen_  
    ![image][Paper] ![image][NLP] ![image][Question Answering]
 1. [PyTorch trace analysis for the masses](https://pytorch.org/blog/trace-analysis-for-masses/)  
    _Anupam Bhatnagar, Xizhou Feng, Brian Coutinho, Yifan Liu, Sung-Han Lin, Louis Feng, and Yuzhen Huang_  
-   ![image][Blog] ![image][Deep Learning] ![image][Speedup] ![image][Systems]
+   ![image][Blog] ![image][Deep Learning] ![image][Systems]
 1. [Q-BERT: Hessian based ultra low precision quantization of BERT](https://arxiv.org/abs/1909.05840)  
    _Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer_  
    ![image][Paper] ![image][NLP] ![image][Quantization]

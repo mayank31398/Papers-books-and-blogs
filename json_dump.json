@@ -37,7 +37,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Michael Gschwind, Eric Han, Scott Wolchok, Rui Zhu, Christian Puhrsch",
-        "keywords": ["Deep Learning", "Speedup", "Systems", "Transformers"]
+        "keywords": ["Deep Learning", "Systems", "Transformers"]
     },
     {
         "name": "A deep reinforced model for abstractive summarization",
@@ -179,9 +179,9 @@
         "name": "Accelerated PyTorch 2 transformers",
         "url": "https://pytorch.org/blog/accelerated-pytorch-2/",
         "topic": "AI, DL, NLP and RL",
-        "datatype": "Paper",
+        "datatype": "Blog",
         "authors": "Michael Gschwind, Driss Guessous, Christian Puhrsch",
-        "keywords": ["Deep Learning", "Speedup", "Transformers"]
+        "keywords": ["Deep Learning", "Systems", "Transformers"]
     },
     {
         "name": "Accelerated computing with a reconfigurable dataflow architecture",
@@ -1050,7 +1050,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher R\u00e9",
-        "keywords": ["Deep Learning", "Speedup", "Transformers"]
+        "keywords": ["Deep Learning", "Systems", "Transformers"]
     },
     {
         "name": "FlashAttention: fast transformer training with long sequences",
@@ -1474,6 +1474,14 @@
         "keywords": ["Deep Learning", "Sparse Matrices"]
     },
     {
+        "name": "Joint reasoning on hybrid-knowledge sources for task-oriented dialog",
+        "url": "https://arxiv.org/abs/2210.07295",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Mayank Mishra, Danish Contractor, Dinesh Raghu",
+        "keywords": ["Dialog", "NLP"]
+    },
+    {
         "name": "Know what you don't know: unanswerable questions for SQuAD",
         "url": "https://arxiv.org/abs/1806.03822",
         "topic": "AI, DL, NLP and RL",
@@ -1607,7 +1615,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma",
-        "keywords": ["Deep Learning", "Speedup", "Transformers"]
+        "keywords": ["Attention Mechanism", "Deep Learning", "Transformers"]
     },
     {
         "name": "LoRA: Low-Rank Adaptation of large language models",
@@ -2135,6 +2143,14 @@
         ]
     },
     {
+        "name": "Prompting with pseudo-code instructions",
+        "url": "https://arxiv.org/abs/2305.11790",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Mayank Mishra, Prince Kumar, Riyaz Bhat, Rudra Murthy V, Danish Contractor, Srikanth Tamilselvam",
+        "keywords": ["NLP", "Prompting"]
+    },
+    {
         "name": "PullNet: open domain question answering with iterative retrieval on knowledge bases and text",
         "url": "https://arxiv.org/abs/1904.09537",
         "topic": "AI, DL, NLP and RL",
@@ -2148,7 +2164,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Anupam Bhatnagar, Xizhou Feng, Brian Coutinho, Yifan Liu, Sung-Han Lin, Louis Feng, and Yuzhen Huang",
-        "keywords": ["Deep Learning", "Speedup", "Systems"]
+        "keywords": ["Deep Learning", "Systems"]
     },
     {
         "name": "Q-BERT: Hessian based ultra low precision quantization of BERT",
