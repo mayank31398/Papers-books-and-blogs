@@ -249,6 +249,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Attention is all you need](https://arxiv.org/abs/1706.03762)  
    _Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin_  
    ![image][Paper] ![image][Attention Mechanism] ![image][Deep Learning] ![image][Transformers]
+1. [Attention is off by one](https://www.evanmiller.org/attention-is-off-by-one.html)  
+   _Evan Miller_  
+   ![image][Blog] ![image][Attention Mechanism] ![image][NLP]
 1. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114)  
    _Diederik P. Kingma, Max Welling_  
    ![image][Paper] ![image][Deep Learning] ![image][Generative Models] ![image][Variational Inference]

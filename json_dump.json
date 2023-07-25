@@ -355,6 +355,14 @@
         "keywords": ["Attention Mechanism", "Deep Learning", "Transformers"]
     },
     {
+        "name": "Attention is off by one",
+        "url": "https://www.evanmiller.org/attention-is-off-by-one.html",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Evan Miller",
+        "keywords": ["Attention Mechanism", "NLP"]
+    },
+    {
         "name": "Auto-encoding variational Bayes",
         "url": "https://arxiv.org/abs/1312.6114",
         "topic": "AI, DL, NLP and RL",
