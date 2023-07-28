@@ -1626,6 +1626,19 @@
         "keywords": null
     },
     {
+        "name": "Linear scaling made possible with weight streaming",
+        "url": "https://www.cerebras.net/blog/linear-scaling-made-possible-with-weight-streaming",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Andrew Feldman",
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Large Models",
+            "Systems"
+        ]
+    },
+    {
         "name": "Linformer: self-attention with linear complexity",
         "url": "https://arxiv.org/abs/2006.04768",
         "topic": "AI, DL, NLP and RL",

@@ -605,6 +605,9 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Embeddings] ![image][NLP]
 1. [Lessons learned on language model safety and misuse](https://openai.com/blog/language-model-safety-and-misuse/)  
    ![image][Blog] ![image][Ethical Impacts of AI] ![image][NLP]
+1. [Linear scaling made possible with weight streaming](https://www.cerebras.net/blog/linear-scaling-made-possible-with-weight-streaming)  
+   _Andrew Feldman_  
+   ![image][Blog] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
 1. [Linformer: self-attention with linear complexity](https://arxiv.org/abs/2006.04768)  
    _Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma_  
    ![image][Paper] ![image][Attention Mechanism] ![image][Deep Learning] ![image][Transformers]
