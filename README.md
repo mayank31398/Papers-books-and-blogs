@@ -285,6 +285,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Bringing open large language models to consumer devices](https://mlc.ai/blog/2023/05/22/bringing-open-large-language-models-to-consumer-devices)  
    _MLC Community_  
    ![image][Blog] ![image][Deep Learning] ![image][Deployment] ![image][Machine Learning Compilation]
+1. [BTLM-3B-8K: 7B performance in a 3 billion parameter model](https://www.cerebras.net/machine-learning/btlm-3b-8k-7b-performance-in-a-3-billion-parameter-model/)  
+   _Nolan Dey, Daria Soboleva, Faisal Al-Khateeb, Ribhu Pathria, Hemant Khachane, Shaheer Muhammad, Zhiming (Charles) Chen, Bowen Yang, Siyun Li, Abhay Gupta, Shreyas Saxena, Robert Myers, Jacob Robert Steeves, Marvin Tom, Joel Hestness_  
+   ![image][Blog] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [ChatGPT: optimizing language models for dialogue](https://openai.com/blog/chatgpt/)  
    ![image][Blog] ![image][Dialog] ![image][NLP]
 1. [ColBERT: efficient and effective passage search via contextualized late interaction over BERT](https://arxiv.org/abs/2004.12832)  
