@@ -192,6 +192,14 @@
         "keywords": ["Dataflow Architecture", "Deep Learning"]
     },
     {
+        "name": "Accelerating large language model training with variable sparse pre-training and dense fine-tuning",
+        "url": "https://www.cerebras.net/blog/accelerating-llm-training-with-variable-sparse-pre-training-and-dense-fine-tuning/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Abhay Gupta, Mahmoud Salem, Vithursan Thangarasa, Kevin Leong, Sean Lie, Shreyas Saxena",
+        "keywords": ["Large Models", "Sparse Matrices"]
+    },
+    {
         "name": "AdapterHub: a framework for adapting transformers",
         "url": "https://arxiv.org/abs/2007.07779",
         "topic": "AI, DL, NLP and RL",

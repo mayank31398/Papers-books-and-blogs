@@ -198,6 +198,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Accelerated PyTorch 2 transformers](https://pytorch.org/blog/accelerated-pytorch-2/)  
    _Michael Gschwind, Driss Guessous, Christian Puhrsch_  
    ![image][Blog] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
+1. [Accelerating large language model training with variable sparse pre-training and dense fine-tuning](https://www.cerebras.net/blog/accelerating-llm-training-with-variable-sparse-pre-training-and-dense-fine-tuning/)  
+   _Abhay Gupta, Mahmoud Salem, Vithursan Thangarasa, Kevin Leong, Sean Lie, Shreyas Saxena_  
+   ![image][Blog] ![image][Large Models] ![image][Sparse Matrices]
 1. [AdapterHub: a framework for adapting transformers](https://arxiv.org/abs/2007.07779)  
    _Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych_  
    ![image][Paper] ![image][Efficient Finetuning] ![image][NLP] ![image][Transformers]
