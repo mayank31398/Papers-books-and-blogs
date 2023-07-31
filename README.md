@@ -490,6 +490,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Going deeper with convolutions](https://arxiv.org/abs/1409.4842)  
    _Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich_  
    ![image][Paper] ![image][Computer Vision] ![image][Image Classification]
+1. [GPT-4 architecture, infrastructure, training dataset, costs, vision, MoE](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)  
+   _Dylan Patel, Gerald Wong_  
+   ![image][Blog] ![image][Distributed Training] ![image][Large Models] ![image][Mixture of Experts] ![image][NLP] ![image][Systems] ![image][Transformers]
 1. [GPT-NeoX-20B: an open-source autoregressive language model](https://arxiv.org/abs/2204.06745)  
    _Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach_  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]

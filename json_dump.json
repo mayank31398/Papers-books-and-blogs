@@ -1138,6 +1138,21 @@
         ]
     },
     {
+        "name": "GPT-4 architecture, infrastructure, training dataset, costs, vision, MoE",
+        "url": "https://www.semianalysis.com/p/gpt-4-architecture-infrastructure",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Dylan Patel, Gerald Wong",
+        "keywords": [
+            "Distributed Training",
+            "Large Models",
+            "Mixture of Experts",
+            "NLP",
+            "Systems",
+            "Transformers"
+        ]
+    },
+    {
         "name": "GPT-NeoX-20B: an open-source autoregressive language model",
         "url": "https://arxiv.org/abs/2204.06745",
         "topic": "AI, DL, NLP and RL",
