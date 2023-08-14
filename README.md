@@ -201,6 +201,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Accelerating large language model training with variable sparse pre-training and dense fine-tuning](https://www.cerebras.net/blog/accelerating-llm-training-with-variable-sparse-pre-training-and-dense-fine-tuning/)  
    _Abhay Gupta, Mahmoud Salem, Vithursan Thangarasa, Kevin Leong, Sean Lie, Shreyas Saxena_  
    ![image][Blog] ![image][Large Models] ![image][Sparse Matrices]
+1. [Accelerating PyTorch with CUDA graphs](https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/)  
+   _Vinh Nguyen, Michael Carilli, Sukru Burc Eryilmaz, Vartika Singh, Michelle Lin, Natalia Gimelshein, Alban Desmaison, Edward Yang_  
+   ![image][Blog] ![image][Deep Learning] ![image][Large Models] ![image][Systems]
 1. [AdapterHub: a framework for adapting transformers](https://arxiv.org/abs/2007.07779)  
    _Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych_  
    ![image][Paper] ![image][Efficient Finetuning] ![image][NLP] ![image][Transformers]

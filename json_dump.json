@@ -192,6 +192,14 @@
         "keywords": ["Dataflow Architecture", "Deep Learning"]
     },
     {
+        "name": "Accelerating PyTorch with CUDA graphs",
+        "url": "https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Vinh Nguyen, Michael Carilli, Sukru Burc Eryilmaz, Vartika Singh, Michelle Lin, Natalia Gimelshein, Alban Desmaison, Edward Yang",
+        "keywords": ["Deep Learning", "Large Models", "Systems"]
+    },
+    {
         "name": "Accelerating large language model training with variable sparse pre-training and dense fine-tuning",
         "url": "https://www.cerebras.net/blog/accelerating-llm-training-with-variable-sparse-pre-training-and-dense-fine-tuning/",
         "topic": "AI, DL, NLP and RL",
