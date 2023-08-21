@@ -57,6 +57,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Gradient Estimation]: https://img.shields.io/static/v1?label=&message=Gradient%20Estimation&color=blue
 [Graph Neural Networks]: https://img.shields.io/static/v1?label=&message=Graph%20Neural%20Networks&color=blue
 [Green AI]: https://img.shields.io/static/v1?label=&message=Green%20AI&color=blue
+[HPC Compiler]: https://img.shields.io/static/v1?label=&message=HPC%20Compiler&color=blue
 [Hallucination]: https://img.shields.io/static/v1?label=&message=Hallucination&color=blue
 [Human Feedback]: https://img.shields.io/static/v1?label=&message=Human%20Feedback&color=blue
 [Hyperparameter Search]: https://img.shields.io/static/v1?label=&message=Hyperparameter%20Search&color=blue
@@ -123,18 +124,18 @@ This repository contains a list of the books, blogs, research papers and white p
 
 -   [AI, DL, NLP and RL](#ai-dl-nlp-and-rl)
 -   [Calculus](#calculus)
--   [Computer architecture](#computer-architecture)
--   [Computer graphics](#computer-graphics)
--   [Data structures and algorithms](#data-structures-and-algorithms)
--   [Digital electronics](#digital-electronics)
--   [Graph theory](#graph-theory)
--   [Information theory](#information-theory)
--   [Linear algebra](#linear-algebra)
--   [Measure theory](#measure-theory)
--   [Optimization theory](#optimization-theory)
--   [Probability and stochastic processes](#probability-and-stochastic-processes)
--   [Quantum computing](#quantum-computing)
--   [Signal processing](#signal-processing)
+-   [Computer Architecture](#computer-architecture)
+-   [Computer Graphics](#computer-graphics)
+-   [Data Structures and Algorithms](#data-structures-and-algorithms)
+-   [Digital Electronics](#digital-electronics)
+-   [Graph Theory](#graph-theory)
+-   [Information Theory](#information-theory)
+-   [Linear Algebra](#linear-algebra)
+-   [Measure Theory](#measure-theory)
+-   [Optimization Theory](#optimization-theory)
+-   [Probability and Stochastic Processes](#probability-and-stochastic-processes)
+-   [Quantum Computing](#quantum-computing)
+-   [Signal Processing](#signal-processing)
 
 # AI, DL, NLP and RL
 
@@ -1083,7 +1084,7 @@ This repository contains a list of the books, blogs, research papers and white p
    _George B. Thomas Jr., Maurice D. Weir_  
    ![image][Book]
 
-# Computer architecture
+# Computer Architecture
 
 1. [Accelerated computing with a reconfigurable dataflow architecture](https://sambanova.ai/wp-content/uploads/2021/04/SambaNova_Accelerated-Computing-with-a-Reconfigurable-Dataflow-Architecture_Whitepaper_English.pdf)  
    ![image][Whitepaper] ![image][Dataflow Architecture] ![image][Deep Learning]
@@ -1118,13 +1119,13 @@ This repository contains a list of the books, blogs, research papers and white p
    _Onur Mutlu, Thomas Moscibroda_  
    ![image][Paper] ![image][Computer Architecture] ![image][Memory]
 
-# Computer graphics
+# Computer Graphics
 
 1. [Principles of traditional animation applied to 3D computer animation](https://dl.acm.org/doi/10.1145/37402.37407)  
    _John Lasseter_  
    ![image][Paper] ![image][Animation] ![image][Computer Graphics]
 
-# Data structures and algorithms
+# Data Structures and Algorithms
 
 1. Data structures and algorithms in Java  
    _Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser_  
@@ -1133,19 +1134,19 @@ This repository contains a list of the books, blogs, research papers and white p
    _Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein_  
    ![image][Book]
 
-# Digital electronics
+# Digital Electronics
 
 1. Digital design: with an introduction to the Verilog HDL  
    _M. Morris Mano, Michael D. Ciletti_  
    ![image][Book]
 
-# Graph theory
+# Graph Theory
 
 1. Introduction to graph theory  
    _Robin Wilson_  
    ![image][Book]
 
-# Information theory
+# Information Theory
 
 1. Elements of information theory  
    _Thomas M. Cover, Joy A. Thomas_  
@@ -1154,7 +1155,7 @@ This repository contains a list of the books, blogs, research papers and white p
    _R. W. Hamming_  
    ![image][Paper] ![image][Error Correction] ![image][Error Detection] ![image][Information Theory]
 
-# Linear algebra
+# Linear Algebra
 
 1. Linear algebra and its applications  
    _Gilbert Strang_  
@@ -1166,13 +1167,13 @@ This repository contains a list of the books, blogs, research papers and white p
    _Kaare Brandt Petersen, Michael Syskind Pedersen_  
    ![image][Book]
 
-# Measure theory
+# Measure Theory
 
 1. Measure theory  
    _Donald L. Cohn_  
    ![image][Book]
 
-# Optimization theory
+# Optimization Theory
 
 1. Convex Optimization  
    _Stephen Boyd, Lieven Vandenberghe_  
@@ -1181,13 +1182,13 @@ This repository contains a list of the books, blogs, research papers and white p
    _Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, Jonathan Eckstein_  
    ![image][Book]
 
-# Probability and stochastic processes
+# Probability and Stochastic Processes
 
 1. Introduction to probability and stochastic processes with applications  
    _Liliana Blanco Castaneda, Viswanathan Arunachalam, Delvamuthu Dharmaraja_  
    ![image][Book]
 
-# Quantum computing
+# Quantum Computing
 
 1. [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043)  
    _Lov K. Grover_  
@@ -1236,7 +1237,7 @@ This repository contains a list of the books, blogs, research papers and white p
    _Charles H. Bennett, Gilles Brassard, Claude Crépeau, Richard Jozsa, Asher Peres, William K. Wootters_  
    ![image][Paper] ![image][Quantum Computing] ![image][Quantum Teleportation]
 
-# Signal processing
+# Signal Processing
 
 1. Discrete-time signal processing  
    _Alan V. Oppenheim, Ronald W. Schafer_  

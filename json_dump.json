@@ -58,7 +58,7 @@
     {
         "name": "A fast quantum mechanical algorithm for database search",
         "url": "https://arxiv.org/abs/quant-ph/9605043",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Lov K. Grover",
         "keywords": ["Quantum Algorithms", "Quantum Computing"]
@@ -138,7 +138,7 @@
     {
         "name": "A single quantum cannot be cloned",
         "url": "https://www.nature.com/articles/299802a0",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "W. K. Wootters, W. H. Zurek",
         "keywords": ["Quantum Computing"]
@@ -186,7 +186,7 @@
     {
         "name": "Accelerated computing with a reconfigurable dataflow architecture",
         "url": "https://sambanova.ai/wp-content/uploads/2021/04/SambaNova_Accelerated-Computing-with-a-Reconfigurable-Dataflow-Architecture_Whitepaper_English.pdf",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Whitepaper",
         "authors": null,
         "keywords": ["Dataflow Architecture", "Deep Learning"]
@@ -511,7 +511,7 @@
     {
         "name": "Can quantum-mechanical description of physical reality be considered complete",
         "url": "https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Albert Einstein, Boris Podolsky, Nathan Rosen",
         "keywords": ["Quantum Computing"]
@@ -556,7 +556,7 @@
     {
         "name": "Computer architecture: a quantitative approach",
         "url": null,
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Book",
         "authors": "John L. Hennessy, David A. Patterson",
         "keywords": null
@@ -564,7 +564,7 @@
     {
         "name": "Computer organization and design ARM edition: the hardware software interface",
         "url": null,
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Book",
         "authors": "David A. Patterson, John L. Hennessy",
         "keywords": null
@@ -632,7 +632,7 @@
     {
         "name": "Convex Optimization",
         "url": null,
-        "topic": "Optimization theory",
+        "topic": "Optimization Theory",
         "datatype": "Book",
         "authors": "Stephen Boyd, Lieven Vandenberghe",
         "keywords": null
@@ -702,7 +702,7 @@
     {
         "name": "Data structures and algorithms in Java",
         "url": null,
-        "topic": "Data structures and algorithms",
+        "topic": "Data Structures and Algorithms",
         "datatype": "Book",
         "authors": "Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser",
         "keywords": null
@@ -846,7 +846,7 @@
     {
         "name": "Digital design: with an introduction to the Verilog HDL",
         "url": null,
-        "topic": "Digital electronics",
+        "topic": "Digital Electronics",
         "datatype": "Book",
         "authors": "M. Morris Mano, Michael D. Ciletti",
         "keywords": null
@@ -866,7 +866,7 @@
     {
         "name": "Discrete-time signal processing",
         "url": null,
-        "topic": "Signal processing",
+        "topic": "Signal Processing",
         "datatype": "Book",
         "authors": "Alan V. Oppenheim, Ronald W. Schafer",
         "keywords": null
@@ -895,7 +895,7 @@
     {
         "name": "Distributed optimization and statistical learning via the alternating direction method of multipliers",
         "url": "https://ieeexplore.ieee.org/document/8186925",
-        "topic": "Optimization theory",
+        "topic": "Optimization Theory",
         "datatype": "Book",
         "authors": "Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, Jonathan Eckstein",
         "keywords": null
@@ -932,7 +932,7 @@
     {
         "name": "Elements of information theory",
         "url": null,
-        "topic": "Information theory",
+        "topic": "Information Theory",
         "datatype": "Book",
         "authors": "Thomas M. Cover, Joy A. Thomas",
         "keywords": null
@@ -972,7 +972,7 @@
     {
         "name": "Error detecting and error correcting codes",
         "url": "https://ieeexplore.ieee.org/document/6772729",
-        "topic": "Information theory",
+        "topic": "Information Theory",
         "datatype": "Paper",
         "authors": "R. W. Hamming",
         "keywords": [
@@ -1095,7 +1095,7 @@
     {
         "name": "Flipping bits in memory without accessing them: an experimental study of DRAM disturbance errors",
         "url": "https://ieeexplore.ieee.org/document/6853210",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu",
         "keywords": ["Computer Architecture", "Memory", "Security"]
@@ -1111,7 +1111,7 @@
     {
         "name": "Foundations of Signal Processing",
         "url": null,
-        "topic": "Signal processing",
+        "topic": "Signal Processing",
         "datatype": "Book",
         "authors": "Martin Vetterli, Jelena Kova\u010devi\u0107, Vivek K Goyal",
         "keywords": null
@@ -1349,7 +1349,7 @@
     {
         "name": "Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization",
         "url": "https://arxiv.org/abs/0804.4457",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Hartmut Neven, Geordie Rose, William G. Macready",
         "keywords": ["Image Classification", "QUBO", "Quantum Computing"]
@@ -1373,7 +1373,7 @@
     {
         "name": "Improving DRAM performance by parallelizing refreshes with accesses",
         "url": "https://ieeexplore.ieee.org/document/6835946",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Kevin Kai-Wei Chang, Donghyuk Lee, Zeshan Chishti, Alaa R. Alameldeen, Chris Wilkerson, Yoongu Kim, Onur Mutlu",
         "keywords": ["Computer Architecture", "Memory", "Security", "Systems"]
@@ -1443,7 +1443,7 @@
     {
         "name": "Integer optimization toolbox (minimizing polynomials over integer lattices using quantum annealing)",
         "url": "https://1qbit.com/whitepaper/integer-optimization-toolbox/",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Whitepaper",
         "authors": "Pooya Ronagh",
         "keywords": null
@@ -1483,7 +1483,7 @@
     {
         "name": "Introduction to algorithms",
         "url": null,
-        "topic": "Data structures and algorithms",
+        "topic": "Data Structures and Algorithms",
         "datatype": "Book",
         "authors": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
         "keywords": null
@@ -1491,7 +1491,7 @@
     {
         "name": "Introduction to graph theory",
         "url": null,
-        "topic": "Graph theory",
+        "topic": "Graph Theory",
         "datatype": "Book",
         "authors": "Robin Wilson",
         "keywords": null
@@ -1499,7 +1499,7 @@
     {
         "name": "Introduction to probability and stochastic processes with applications",
         "url": null,
-        "topic": "Probability and stochastic processes",
+        "topic": "Probability and Stochastic Processes",
         "datatype": "Book",
         "authors": "Liliana Blanco Castaneda, Viswanathan Arunachalam, Delvamuthu Dharmaraja",
         "keywords": null
@@ -1643,7 +1643,7 @@
     {
         "name": "Limits on parallel speedup for classical Ising model solvers",
         "url": "https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Whitepaper",
         "authors": null,
         "keywords": null
@@ -1651,7 +1651,7 @@
     {
         "name": "Linear algebra and its applications",
         "url": null,
-        "topic": "Linear algebra",
+        "topic": "Linear Algebra",
         "datatype": "Book",
         "authors": "Gilbert Strang",
         "keywords": null
@@ -1728,7 +1728,7 @@
     {
         "name": "MTIA v1: Meta's first-generation AI inference accelerator",
         "url": "https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Blog",
         "authors": "Amin Firoozshahian, Olivia Wu, Joel Coburn, Roman Levenstein",
         "keywords": ["ASIC", "Deep Learning"]
@@ -1776,7 +1776,7 @@
     {
         "name": "Matrix analysis and applied linear algebra",
         "url": null,
-        "topic": "Linear algebra",
+        "topic": "Linear Algebra",
         "datatype": "Book",
         "authors": "Carl D. Meyer",
         "keywords": null
@@ -1792,7 +1792,7 @@
     {
         "name": "Measure theory",
         "url": null,
-        "topic": "Measure theory",
+        "topic": "Measure Theory",
         "datatype": "Book",
         "authors": "Donald L. Cohn",
         "keywords": null
@@ -1814,7 +1814,7 @@
     {
         "name": "Memory performance attacks: denial of memory service in multi-core systems",
         "url": "https://www.usenix.org/conference/16th-usenix-security-symposium/memory-performance-attacks-denial-memory-service-multi",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Thomas Moscibroda, Onur Mutlu",
         "keywords": ["Computer Architecture", "Memory", "Security"]
@@ -1822,7 +1822,7 @@
     {
         "name": "Memory scaling: a systems architecture perspective",
         "url": "https://ieeexplore.ieee.org/document/6582088",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Onur Mutlu",
         "keywords": ["Computer Architecture", "Memory"]
@@ -1844,7 +1844,7 @@
     {
         "name": "Millicode in an IBM zSeries processor",
         "url": "https://ieeexplore.ieee.org/document/5388884",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "L. C. Heller, M. S. Farrell",
         "keywords": ["Computer Architecture"]
@@ -2081,7 +2081,7 @@
     {
         "name": "Partitioning optimization problems for hybrid classical/quantum execution",
         "url": "https://docs.ocean.dwavesys.com/projects/qbsolv/en/latest/_downloads/bd15a2d8f32e587e9e5997ce9d5512cc/qbsolv_techReport.pdf",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Whitepaper",
         "authors": "Michael Booth, Steven P. Reinhardt, Aidan Roy",
         "keywords": null
@@ -2137,7 +2137,7 @@
     {
         "name": "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer",
         "url": "https://arxiv.org/abs/quant-ph/9508027",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Peter W. Shor",
         "keywords": ["Quantum Algorithms", "Quantum Computing"]
@@ -2161,7 +2161,7 @@
     {
         "name": "Principles of traditional animation applied to 3D computer animation",
         "url": "https://dl.acm.org/doi/10.1145/37402.37407",
-        "topic": "Computer graphics",
+        "topic": "Computer Graphics",
         "datatype": "Paper",
         "authors": "John Lasseter",
         "keywords": ["Animation", "Computer Graphics"]
@@ -2169,7 +2169,7 @@
     {
         "name": "Probabilistic cloning and identification of linearly independent quantum states",
         "url": "https://arxiv.org/abs/quant-ph/9804064",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Lu-Ming Duan, Guang-Can Guo",
         "keywords": ["Cloning", "Quantum Computing"]
@@ -2185,7 +2185,7 @@
     {
         "name": "Programming with D-Wave: map coloring problem",
         "url": "https://www.dwavesys.com/resources/white-paper/programming-with-d-wave-map-coloring-problem/",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Whitepaper",
         "authors": "E. D. Dahl",
         "keywords": null
@@ -2237,7 +2237,7 @@
     {
         "name": "Quantum computation and quantum information",
         "url": null,
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Book",
         "authors": "Michael A. Nielsen, Isaac L. Chuang",
         "keywords": null
@@ -2245,7 +2245,7 @@
     {
         "name": "Quantum computing: a gentle introduction",
         "url": null,
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Book",
         "authors": "Eleanor Rieffel, Wolfgang Polak",
         "keywords": null
@@ -2253,7 +2253,7 @@
     {
         "name": "Quantum performance evaluation: a short reading list",
         "url": "https://www.dwavesys.com/resources/white-paper/quantum-performance-evaluation-a-short-reading-list/",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Whitepaper",
         "authors": "",
         "keywords": null
@@ -2261,7 +2261,7 @@
     {
         "name": "Quantum theory, the Church-Turing principle and the universal quantum computer",
         "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.1985.0070",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "David Deutsch",
         "keywords": ["Quantum Computing", "Theory of Computation"]
@@ -2269,7 +2269,7 @@
     {
         "name": "RAIDR: Retention-Aware Intelligent DRAM Refresh",
         "url": "https://dl.acm.org/doi/10.5555/2337159.2337161",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu",
         "keywords": ["Computer Architecture", "Memory"]
@@ -2297,7 +2297,7 @@
     {
         "name": "Rapid solution of problems by quantum computation",
         "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1992.0167",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "David Deutsche, Richard Jozsa",
         "keywords": ["Quantum Algorithms", "Quantum Computing"]
@@ -2496,7 +2496,7 @@
     {
         "name": "Signals and systems",
         "url": null,
-        "topic": "Signal processing",
+        "topic": "Signal Processing",
         "datatype": "Book",
         "authors": "Alan V. Oppenheim",
         "keywords": null
@@ -2582,7 +2582,7 @@
     {
         "name": "Stall-time fair memory access scheduling for chip multiprocessors",
         "url": "https://ieeexplore.ieee.org/document/4408252",
-        "topic": "Computer architecture",
+        "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Onur Mutlu, Thomas Moscibroda",
         "keywords": ["Computer Architecture", "Memory"]
@@ -2674,7 +2674,7 @@
     {
         "name": "Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels",
         "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.1895",
-        "topic": "Quantum computing",
+        "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Charles H. Bennett, Gilles Brassard, Claude Cr\u00e9peau, Richard Jozsa, Asher Peres, William K. Wootters",
         "keywords": ["Quantum Computing", "Quantum Teleportation"]
@@ -2722,7 +2722,7 @@
     {
         "name": "The matrix cookbook",
         "url": null,
-        "topic": "Linear algebra",
+        "topic": "Linear Algebra",
         "datatype": "Book",
         "authors": "Kaare Brandt Petersen, Michael Syskind Pedersen",
         "keywords": null
@@ -2860,6 +2860,14 @@
         "keywords": ["Deep Learning", "Transformers"]
     },
     {
+        "name": "Triton: an intermediate language and compiler for tiled neural network computations",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3315508.3329973",
+        "topic": ["AI, DL, NLP and RL", "Computer Architecture"],
+        "datatype": "Paper",
+        "authors": "Philippe Tillet, H. T. Kung, David Cox",
+        "keywords": ["Computer Architecture", "Deep Learning", "HPC Compiler"]
+    },
+    {
         "name": "Turing-NLG: a 17-billion-parameter language model by Microsoft",
         "url": "https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/",
         "topic": "AI, DL, NLP and RL",
@@ -2886,7 +2894,7 @@
     {
         "name": "Understanding digital signal processing",
         "url": null,
-        "topic": "Signal processing",
+        "topic": "Signal Processing",
         "datatype": "Book",
         "authors": "Richard G. Lyons",
         "keywords": null
