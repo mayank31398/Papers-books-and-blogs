@@ -187,6 +187,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)  
    _Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap_  
    ![image][Paper] ![image][Deep Learning] ![image][Relational Reasoning]
+1. [A study of BFLOAT16 for deep learning training](https://arxiv.org/abs/1905.12322)  
+   _Dhiraj Kalamkar, Dheevatsa Mudigere, Naveen Mellempudi, Dipankar Das, Kunal Banerjee, Sasikanth Avancha, Dharma Teja Vooturi, Nataraj Jammalamadaka, Jianyu Huang, Hector Yuen, Jiyan Yang, Jongsoo Park, Alexander Heinecke, Evangelos Georganas, Sudarshan Srinivasan, Abhisek Kundu, Misha Smelyanskiy, Bharat Kaul, Pradeep Dubey_  
+   ![image][Paper] ![image][Deep Learning] ![image][Large Models]
 1. [A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948)  
    _Tero Karras, Samuli Laine, Timo Aila_  
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]

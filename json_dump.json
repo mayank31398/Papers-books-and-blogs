@@ -144,6 +144,14 @@
         "keywords": ["Quantum Computing"]
     },
     {
+        "name": "A study of BFLOAT16 for deep learning training",
+        "url": "https://arxiv.org/abs/1905.12322",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Dhiraj Kalamkar, Dheevatsa Mudigere, Naveen Mellempudi, Dipankar Das, Kunal Banerjee, Sasikanth Avancha, Dharma Teja Vooturi, Nataraj Jammalamadaka, Jianyu Huang, Hector Yuen, Jiyan Yang, Jongsoo Park, Alexander Heinecke, Evangelos Georganas, Sudarshan Srinivasan, Abhisek Kundu, Misha Smelyanskiy, Bharat Kaul, Pradeep Dubey",
+        "keywords": ["Deep Learning", "Large Models"]
+    },
+    {
         "name": "A style-based generator architecture for generative adversarial networks",
         "url": "https://arxiv.org/abs/1812.04948",
         "topic": "AI, DL, NLP and RL",
