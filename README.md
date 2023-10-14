@@ -460,6 +460,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652)  
    _Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le_  
    ![image][Paper] ![image][NLP] ![image][Transformers] ![image][Zero Shot]
+1. [Flash-decoding for long-context inference](https://pytorch.org/blog/flash-decoding/)  
+   _Tri Dao, Daniel Haziza, Francisco Massa, Grigory Sizov_  
+   ![image][Blog] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
 1. [FlashAttention: fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135)  
    _Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré_  
    ![image][Paper] ![image][Deep Learning] ![image][Systems] ![image][Transformers]

@@ -1093,6 +1093,14 @@
         "keywords": ["NLP", "Transformers", "Zero Shot"]
     },
     {
+        "name": "Flash-decoding for long-context inference",
+        "url": "https://pytorch.org/blog/flash-decoding/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Tri Dao, Daniel Haziza, Francisco Massa, Grigory Sizov",
+        "keywords": ["Deep Learning", "Systems", "Transformers"]
+    },
+    {
         "name": "FlashAttention: fast and memory-efficient exact attention with IO-awareness",
         "url": "https://arxiv.org/abs/2205.14135",
         "topic": "AI, DL, NLP and RL",
