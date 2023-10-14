@@ -598,6 +598,14 @@
         ]
     },
     {
+        "name": "Conformal nucleus sampling",
+        "url": "https://arxiv.org/abs/2305.02633",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Shauli Ravfogel, Yoav Goldberg, Jacob Goldberger",
+        "keywords": ["NLP", "Transformers"]
+    },
+    {
         "name": "Connecting large language models with evolutionary algorithms yields powerful prompt optimizers",
         "url": "https://arxiv.org/abs/2309.08532",
         "topic": "AI, DL, NLP and RL",

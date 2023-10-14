@@ -316,6 +316,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585)  
    _Augustus Odena, Christopher Olah, Jonathon Shlens_  
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+1. [Conformal nucleus sampling](https://arxiv.org/abs/2305.02633)  
+   _Shauli Ravfogel, Yoav Goldberg, Jacob Goldberger_  
+   ![image][Paper] ![image][NLP] ![image][Transformers]
 1. [Connecting large language models with evolutionary algorithms yields powerful prompt optimizers](https://arxiv.org/abs/2309.08532)  
    _Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang_  
    ![image][Paper] ![image][Genetic Algorithms] ![image][NLP] ![image][Prompting]
