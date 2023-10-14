@@ -598,6 +598,14 @@
         ]
     },
     {
+        "name": "Connecting large language models with evolutionary algorithms yields powerful prompt optimizers",
+        "url": "https://arxiv.org/abs/2309.08532",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang",
+        "keywords": ["Genetic Algorithms", "NLP", "Prompting"]
+    },
+    {
         "name": "Connectivity versus entropy",
         "url": "https://papers.nips.cc/paper/63-connectivity-versus-entropy",
         "topic": "AI, DL, NLP and RL",
@@ -1593,6 +1601,14 @@
         "keywords": ["NLP", "Transformers"]
     },
     {
+        "name": "Layer normalization",
+        "url": "http://arxiv.org/abs/1607.06450",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton",
+        "keywords": ["Deep Learning", "Normalization", "Optimization"]
+    },
+    {
         "name": "Learning activation functions to improve deep neural networks",
         "url": "https://arxiv.org/abs/1412.6830",
         "topic": "AI, DL, NLP and RL",
@@ -2412,6 +2428,14 @@
         "keywords": ["NLP", "Transformers"]
     },
     {
+        "name": "RoFormer: enhanced transformer with rotary position embedding",
+        "url": "https://arxiv.org/abs/2104.09864",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu",
+        "keywords": ["NLP", "Position Embeddings", "Transformers"]
+    },
+    {
         "name": "SOLOIST: building task bots at scale with transfer learning and machine teaching",
         "url": "https://arxiv.org/abs/2005.05298",
         "topic": "AI, DL, NLP and RL",
@@ -2942,6 +2966,14 @@
         "datatype": "Paper",
         "authors": "Jeremy Howard, Sebastian Ruder",
         "keywords": ["NLP", "Text Classification"]
+    },
+    {
+        "name": "Unlimiformer: long-range transformers with unlimited length input",
+        "url": "https://arxiv.org/abs/2305.01625",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Amanda Bertsch, Uri Alon, Graham Neubig, Matthew R. Gormley",
+        "keywords": ["Long Context Length", "NLP", "Transformers"]
     },
     {
         "name": "Unpaired image-to-image translation using cycle-consistent adversarial networks",

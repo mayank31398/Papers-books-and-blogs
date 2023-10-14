@@ -84,6 +84,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Object Detection]: https://img.shields.io/static/v1?label=&message=Object%20Detection&color=blue
 [Optimization]: https://img.shields.io/static/v1?label=&message=Optimization&color=blue
 [Out-of-Distribution Detection]: https://img.shields.io/static/v1?label=&message=Out-of-Distribution%20Detection&color=blue
+[Position Embeddings]: https://img.shields.io/static/v1?label=&message=Position%20Embeddings&color=blue
 [Prompting]: https://img.shields.io/static/v1?label=&message=Prompting&color=blue
 [Pruning]: https://img.shields.io/static/v1?label=&message=Pruning&color=blue
 [QUBO]: https://img.shields.io/static/v1?label=&message=QUBO&color=blue
@@ -315,6 +316,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585)  
    _Augustus Odena, Christopher Olah, Jonathon Shlens_  
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+1. [Connecting large language models with evolutionary algorithms yields powerful prompt optimizers](https://arxiv.org/abs/2309.08532)  
+   _Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang_  
+   ![image][Paper] ![image][Genetic Algorithms] ![image][NLP] ![image][Prompting]
 1. [Connectivity versus entropy](https://papers.nips.cc/paper/63-connectivity-versus-entropy)  
    _Yaser S. Abu-Mostafa_  
    ![image][Paper] ![image][Deep Learning]
@@ -598,6 +602,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Language models are unsupervised multitask learners](https://openai.com/blog/better-language-models/)  
    _Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever_  
    ![image][Paper] ![image][NLP] ![image][Transformers]
+1. [Layer normalization](http://arxiv.org/abs/1607.06450)  
+   _Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton_  
+   ![image][Paper] ![image][Deep Learning] ![image][Normalization] ![image][Optimization]
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830)  
    _Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi_  
    ![image][Paper] ![image][Deep Learning]
@@ -828,6 +835,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [RoBERTa: a robustly optimized BERT pretraining approach](https://arxiv.org/abs/1907.11692)  
    _Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov_  
    ![image][Paper] ![image][NLP] ![image][Transformers]
+1. [RoFormer: enhanced transformer with rotary position embedding](https://arxiv.org/abs/2104.09864)  
+   _Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu_  
+   ![image][Paper] ![image][NLP] ![image][Position Embeddings] ![image][Transformers]
 1. [SantaCoder: don't reach for the stars!](https://arxiv.org/abs/2301.03988)  
    _Loubna Ben Allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Munoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Joel Lamy Poirier, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Manuel Romero, Michael Lappert, Francesco De Toni, Bernardo García del Río, Qian Liu, Shamik Bose, Urvashi Bhattacharyya, Terry Yue Zhuo, Ian Yu, Paulo Villegas, Marco Zocca, Sourab Mangrulkar, David Lansky, Huu Nguyen, Danish Contractor, Luis Villa, Jia Li, Dzmitry Bahdanau, Yacine Jernite, Sean Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro von Werra_  
    ![image][Paper] ![image][AI for code] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
@@ -993,6 +1003,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Universal language model fine-tuning for text classification](https://arxiv.org/abs/1801.06146)  
    _Jeremy Howard, Sebastian Ruder_  
    ![image][Paper] ![image][NLP] ![image][Text Classification]
+1. [Unlimiformer: long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625)  
+   _Amanda Bertsch, Uri Alon, Graham Neubig, Matthew R. Gormley_  
+   ![image][Paper] ![image][Long Context Length] ![image][NLP] ![image][Transformers]
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593)  
    _Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros_  
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
