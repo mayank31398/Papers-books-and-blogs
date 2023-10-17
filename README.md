@@ -670,6 +670,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Maximizing communication efficiency for large-scale training via 0/1 Adam](https://arxiv.org/abs/2202.06009)  
    _Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He_  
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training]
+1. [MCR-DL: mix-and-match communication runtime for deep learning](https://arxiv.org/abs/2303.08374)  
+   _Quentin Anthony, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He, Aamir Shafi, Mustafa Abduljabbar, Hari Subramoni, Dhabaleswar Panda_  
+   ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Systems]
 1. [Megatron-LM: training multi-billion parameter language models using model parallelism](https://arxiv.org/abs/1909.08053)  
    _Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro_  
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Systems] ![image][Transformers]

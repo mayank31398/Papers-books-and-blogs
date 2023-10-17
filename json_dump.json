@@ -1758,6 +1758,14 @@
         ]
     },
     {
+        "name": "MCR-DL: mix-and-match communication runtime for deep learning",
+        "url": "https://arxiv.org/abs/2303.08374",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Quentin Anthony, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He, Aamir Shafi, Mustafa Abduljabbar, Hari Subramoni, Dhabaleswar Panda",
+        "keywords": ["Deep Learning", "Distributed Training", "Systems"]
+    },
+    {
         "name": "MMCoQA: conversational question answering over text, tables and images",
         "url": "https://aclanthology.org/2022.acl-long.290/",
         "topic": "AI, DL, NLP and RL",
