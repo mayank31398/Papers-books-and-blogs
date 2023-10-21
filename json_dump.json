@@ -1505,6 +1505,14 @@
         "keywords": ["Deep Learning", "Image Super Resolution"]
     },
     {
+        "name": "Introducing nvFuser, a deep learning compiler for PyTorch",
+        "url": "https://pytorch.org/blog/introducing-nvfuser-a-deep-learning-compiler-for-pytorch/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Christian Sarofeen, Piotr Bialecki, Jie Jiang, Kevin Stephano, Masaki Kozuki, Neal Vaidya, Stas Bekman",
+        "keywords": ["Deep Learning", "Graph Fusion", "HPC Compiler", "Systems"]
+    },
+    {
         "name": "Introducing \ud83e\udd17 accelerate",
         "url": "https://huggingface.co/blog/accelerate-library",
         "topic": "AI, DL, NLP and RL",

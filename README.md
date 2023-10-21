@@ -55,6 +55,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Generative Models]: https://img.shields.io/static/v1?label=&message=Generative%20Models&color=blue
 [Genetic Algorithms]: https://img.shields.io/static/v1?label=&message=Genetic%20Algorithms&color=blue
 [Gradient Estimation]: https://img.shields.io/static/v1?label=&message=Gradient%20Estimation&color=blue
+[Graph Fusion]: https://img.shields.io/static/v1?label=&message=Graph%20Fusion&color=blue
 [Graph Neural Networks]: https://img.shields.io/static/v1?label=&message=Graph%20Neural%20Networks&color=blue
 [Green AI]: https://img.shields.io/static/v1?label=&message=Green%20AI&color=blue
 [HPC Compiler]: https://img.shields.io/static/v1?label=&message=HPC%20Compiler&color=blue
@@ -576,6 +577,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Introducing MPT-7B: a new standard for open-source, commercially usable LLMs](https://www.mosaicml.com/blog/mpt-7b)  
    _The MosaicML NLP Team_  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [Introducing nvFuser, a deep learning compiler for PyTorch](https://pytorch.org/blog/introducing-nvfuser-a-deep-learning-compiler-for-pytorch/)  
+   _Christian Sarofeen, Piotr Bialecki, Jie Jiang, Kevin Stephano, Masaki Kozuki, Neal Vaidya, Stas Bekman_  
+   ![image][Blog] ![image][Deep Learning] ![image][Graph Fusion] ![image][HPC Compiler] ![image][Systems]
 1. [Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps](https://blogs.bing.com/search-quality-insights/may-2022/Turing-Image-Super-Resolution)  
    ![image][Blog] ![image][Deep Learning] ![image][Image Super Resolution]
 1. [Introducing 🤗 accelerate](https://huggingface.co/blog/accelerate-library)  
