@@ -2038,6 +2038,14 @@
         "keywords": ["Adversarial Examples", "Deep Learning"]
     },
     {
+        "name": "OctoPack: instruction tuning code large language models",
+        "url": "https://arxiv.org/abs/2308.07124",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro von Werra, Shayne Longpre",
+        "keywords": ["AI for code", "Instruction Finetuning", "NLP"]
+    },
+    {
         "name": "On the convergence of Adam and beyond",
         "url": "https://arxiv.org/abs/1904.09237",
         "topic": "AI, DL, NLP and RL",

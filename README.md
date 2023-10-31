@@ -734,6 +734,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples](https://arxiv.org/abs/1802.00420)  
    _Anish Athalye, Nicholas Carlini, David Wagner_  
    ![image][Paper] ![image][Adversarial Examples] ![image][Deep Learning]
+1. [OctoPack: instruction tuning code large language models](https://arxiv.org/abs/2308.07124)  
+   _Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro von Werra, Shayne Longpre_  
+   ![image][Paper] ![image][AI for code] ![image][Instruction Finetuning] ![image][NLP]
 1. [On the convergence of Adam and beyond](https://arxiv.org/abs/1904.09237)  
    _Sashank J. Reddi, Satyen Kale, Sanjiv Kumar_  
    ![image][Paper] ![image][Convergence] ![image][Deep Learning] ![image][Optimization]
