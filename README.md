@@ -767,6 +767,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Outer product-based neural collaborative filtering](https://arxiv.org/abs/1808.03912)  
    _Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua_  
    ![image][Paper] ![image][Collaborative Filtering] ![image][Deep Learning] ![image][Recommender Systems]
+1. [Overcoming oscillations in quantization-aware training](https://arxiv.org/abs/2203.11086)  
+   _Markus Nagel, Marios Fournarakis, Yelysei Bondarenko, Tijmen Blankevoort_  
+   ![image][Paper] ![image][Deep Learning] ![image][Quantization]
 1. [PAL: Program-aided language models](https://arxiv.org/abs/2211.10435)  
    _Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig_  
    ![image][Paper] ![image][Mathematical Reasoning] ![image][NLP]
