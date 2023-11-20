@@ -2122,6 +2122,14 @@
         ]
     },
     {
+        "name": "Outrageously large neural networks: the sparsely-gated mixture-of-experts layer",
+        "url": "https://arxiv.org/abs/1701.06538",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean",
+        "keywords": ["Deep Learning", "Mixture of Experts"]
+    },
+    {
         "name": "Overcoming oscillations in quantization-aware training",
         "url": "https://arxiv.org/abs/2203.11086",
         "topic": "AI, DL, NLP and RL",

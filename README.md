@@ -767,6 +767,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Outer product-based neural collaborative filtering](https://arxiv.org/abs/1808.03912)  
    _Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua_  
    ![image][Paper] ![image][Collaborative Filtering] ![image][Deep Learning] ![image][Recommender Systems]
+1. [Outrageously large neural networks: the sparsely-gated mixture-of-experts layer](https://arxiv.org/abs/1701.06538)  
+   _Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_  
+   ![image][Paper] ![image][Deep Learning] ![image][Mixture of Experts]
 1. [Overcoming oscillations in quantization-aware training](https://arxiv.org/abs/2203.11086)  
    _Markus Nagel, Marios Fournarakis, Yelysei Bondarenko, Tijmen Blankevoort_  
    ![image][Paper] ![image][Deep Learning] ![image][Quantization]
