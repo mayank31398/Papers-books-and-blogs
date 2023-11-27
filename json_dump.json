@@ -2744,6 +2744,14 @@
         "keywords": ["Deep Learning", "Distributed Training", "Large Models"]
     },
     {
+        "name": "Switch transformers: scaling to trillion parameter models with simple and efficient sparsity",
+        "url": "https://arxiv.org/abs/2101.03961",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "William Fedus, Barret Zoph, Noam Shazeer",
+        "keywords": ["Deep Learning", "Mixture of Experts"]
+    },
+    {
         "name": "Synchronization in neural nets",
         "url": "https://papers.nips.cc/paper/32-synchronization-in-neural-nets",
         "topic": "AI, DL, NLP and RL",

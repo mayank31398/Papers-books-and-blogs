@@ -938,6 +938,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Supporting efficient large model training on AMD Instinct<sup>TM</sup> GPUs with DeepSpeed](https://cloudblogs.microsoft.com/opensource/2022/03/21/supporting-efficient-large-model-training-on-amd-instinct-gpus-with-deepspeed/)  
    _Olatunji Ruwase, Jeff Rasley_  
    ![image][Blog] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
+1. [Switch transformers: scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/abs/2101.03961)  
+   _William Fedus, Barret Zoph, Noam Shazeer_  
+   ![image][Paper] ![image][Deep Learning] ![image][Mixture of Experts]
 1. [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets)  
    _Jacques J. Vidal, John Haggerty_  
    ![image][Paper] ![image][Deep Learning]
