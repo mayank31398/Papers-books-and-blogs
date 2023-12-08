@@ -1689,6 +1689,18 @@
         "keywords": ["Ethical Impacts of AI", "NLP"]
     },
     {
+        "name": "Lifelong language pretraining with distribution-specialized experts",
+        "url": "https://arxiv.org/abs/2305.12281",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Wuyang Chen, Yanqi Zhou, Nan Du, Yanping Huang, James Laudon, Zhifeng Chen, Claire Cu",
+        "keywords": [
+            "Catastrophic Forgetting",
+            "Deep Learning",
+            "Mixture of Experts"
+        ]
+    },
+    {
         "name": "Limits on parallel speedup for classical Ising model solvers",
         "url": "https://www.dwavesys.com/resources/white-paper/limits-on-parallel-speedup-for-classical-ising-model-solvers/",
         "topic": "Quantum Computing",

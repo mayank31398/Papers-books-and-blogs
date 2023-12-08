@@ -18,6 +18,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Behavior and Control]: https://img.shields.io/static/v1?label=&message=Behavior%20and%20Control&color=blue
 [Biology]: https://img.shields.io/static/v1?label=&message=Biology&color=blue
 [Boltzmann Machines]: https://img.shields.io/static/v1?label=&message=Boltzmann%20Machines&color=blue
+[Catastrophic Forgetting]: https://img.shields.io/static/v1?label=&message=Catastrophic%20Forgetting&color=blue
 [Cloning]: https://img.shields.io/static/v1?label=&message=Cloning&color=blue
 [Collaborative Filtering]: https://img.shields.io/static/v1?label=&message=Collaborative%20Filtering&color=blue
 [Complex Numbers]: https://img.shields.io/static/v1?label=&message=Complex%20Numbers&color=blue
@@ -635,6 +636,9 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Embeddings] ![image][NLP]
 1. [Lessons learned on language model safety and misuse](https://openai.com/blog/language-model-safety-and-misuse/)  
    ![image][Blog] ![image][Ethical Impacts of AI] ![image][NLP]
+1. [Lifelong language pretraining with distribution-specialized experts](https://arxiv.org/abs/2305.12281)  
+   _Wuyang Chen, Yanqi Zhou, Nan Du, Yanping Huang, James Laudon, Zhifeng Chen, Claire Cu_  
+   ![image][Paper] ![image][Catastrophic Forgetting] ![image][Deep Learning] ![image][Mixture of Experts]
 1. [Linear scaling made possible with weight streaming](https://www.cerebras.net/blog/linear-scaling-made-possible-with-weight-streaming)  
    _Andrew Feldman_  
    ![image][Blog] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
