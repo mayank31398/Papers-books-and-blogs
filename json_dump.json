@@ -1625,6 +1625,14 @@
         "keywords": ["NLP", "Transformers"]
     },
     {
+        "name": "Large language models are not fair evaluators",
+        "url": "https://arxiv.org/abs/2305.17926",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui",
+        "keywords": ["Evaluation using LLMs", "NLP"]
+    },
+    {
         "name": "Layer normalization",
         "url": "http://arxiv.org/abs/1607.06450",
         "topic": "AI, DL, NLP and RL",

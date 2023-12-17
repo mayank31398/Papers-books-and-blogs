@@ -50,6 +50,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Error Correction]: https://img.shields.io/static/v1?label=&message=Error%20Correction&color=blue
 [Error Detection]: https://img.shields.io/static/v1?label=&message=Error%20Detection&color=blue
 [Ethical Impacts of AI]: https://img.shields.io/static/v1?label=&message=Ethical%20Impacts%20of%20AI&color=blue
+[Evaluation using LLMs]: https://img.shields.io/static/v1?label=&message=Evaluation%20using%20LLMs&color=blue
 [Fake Content Detection]: https://img.shields.io/static/v1?label=&message=Fake%20Content%20Detection&color=blue
 [Faster Training]: https://img.shields.io/static/v1?label=&message=Faster%20Training&color=blue
 [Few Shot]: https://img.shields.io/static/v1?label=&message=Few%20Shot&color=blue
@@ -613,6 +614,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Language models are unsupervised multitask learners](https://openai.com/blog/better-language-models/)  
    _Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever_  
    ![image][Paper] ![image][NLP] ![image][Transformers]
+1. [Large language models are not fair evaluators](https://arxiv.org/abs/2305.17926)  
+   _Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui_  
+   ![image][Paper] ![image][Evaluation using LLMs] ![image][NLP]
 1. [Layer normalization](http://arxiv.org/abs/1607.06450)  
    _Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton_  
    ![image][Paper] ![image][Deep Learning] ![image][Normalization] ![image][Optimization]
