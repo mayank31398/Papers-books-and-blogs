@@ -850,6 +850,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. Reinforcement Learning: An Introduction  
    _Richard S. Sutton, Andrew G. Barto_  
    ![image][Book]
+1. [ReLoRA: high-rank training through low-rank updates](https://arxiv.org/abs/2307.05695)  
+   _Vladislav Lialin, Namrata Shivagunde, Sherin Muckatira, Anna Rumshisky_  
+   ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning]
 1. [Restricted Boltzmann machines for collaborative filtering](https://dl.acm.org/citation.cfm?doid=1273496.1273596)  
    _Ruslan Salakhutdinov, Andriy Mnih, Geoffrey Hinton_  
    ![image][Paper] ![image][Boltzmann Machines] ![image][Collaborative Filtering] ![image][Deep Learning] ![image][Energy-based Models] ![image][Recommender Systems]

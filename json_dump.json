@@ -2403,6 +2403,14 @@
         "keywords": ["Quantum Algorithms", "Quantum Computing"]
     },
     {
+        "name": "ReLoRA: high-rank training through low-rank updates",
+        "url": "https://arxiv.org/abs/2307.05695",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Vladislav Lialin, Namrata Shivagunde, Sherin Muckatira, Anna Rumshisky",
+        "keywords": ["Deep Learning", "Efficient Finetuning"]
+    },
+    {
         "name": "Reading Wikipedia to answer open-domain questions",
         "url": "https://arxiv.org/abs/1704.00051",
         "topic": "AI, DL, NLP and RL",
