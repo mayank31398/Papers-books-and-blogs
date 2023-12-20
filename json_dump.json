@@ -1585,6 +1585,14 @@
         "keywords": ["Dialog", "NLP"]
     },
     {
+        "name": "LLM in a flash: efficient large language model inference with limited memory",
+        "url": "https://arxiv.org/abs/2312.11514",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar",
+        "keywords": ["Deep Learning", "Systems", "Transformers"]
+    },
+    {
         "name": "LLM.int8(): 8-bit matrix multiplication for transformers at scale",
         "url": "https://arxiv.org/abs/2208.07339",
         "topic": "AI, DL, NLP and RL",

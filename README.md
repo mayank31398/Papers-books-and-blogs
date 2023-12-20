@@ -649,6 +649,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Linformer: self-attention with linear complexity](https://arxiv.org/abs/2006.04768)  
    _Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma_  
    ![image][Paper] ![image][Attention Mechanism] ![image][Deep Learning] ![image][Transformers]
+1. [LLM in a flash: efficient large language model inference with limited memory](https://arxiv.org/abs/2312.11514)  
+   _Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar_  
+   ![image][Paper] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
 1. [LLM.int8(): 8-bit matrix multiplication for transformers at scale](https://arxiv.org/abs/2208.07339)  
    _Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer_  
    ![image][Paper] ![image][Deep Learning] ![image][Quantization]
