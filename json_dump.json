@@ -1874,6 +1874,14 @@
         "keywords": null
     },
     {
+        "name": "MegaBlocks: efficient sparse training with mixture-of-experts",
+        "url": "https://arxiv.org/abs/2211.15841",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Trevor Gale, Deepak Narayanan, Cliff Young, Matei Zaharia",
+        "keywords": ["Deep Learning", "Mixture of Experts", "Systems"]
+    },
+    {
         "name": "Megatron-LM: training multi-billion parameter language models using model parallelism",
         "url": "https://arxiv.org/abs/1909.08053",
         "topic": "AI, DL, NLP and RL",
