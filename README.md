@@ -86,7 +86,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Normalization]: https://img.shields.io/static/v1?label=&message=Normalization&color=blue
 [Object Detection]: https://img.shields.io/static/v1?label=&message=Object%20Detection&color=blue
 [Optimization]: https://img.shields.io/static/v1?label=&message=Optimization&color=blue
-[Out-of-Distribution Detection]: https://img.shields.io/static/v1?label=&message=Out-of-Distribution%20Detection&color=blue
+[Out-of-Distribution]: https://img.shields.io/static/v1?label=&message=Out-of-Distribution&color=blue
 [Position Embeddings]: https://img.shields.io/static/v1?label=&message=Position%20Embeddings&color=blue
 [Prompting]: https://img.shields.io/static/v1?label=&message=Prompting&color=blue
 [Pruning]: https://img.shields.io/static/v1?label=&message=Pruning&color=blue
@@ -412,6 +412,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Disentangling language and knowledge in task-oriented dialogs](https://arxiv.org/abs/1805.01216)  
    _Dinesh Raghu, Nikhil Gupta, Mausam_  
    ![image][Paper] ![image][Dialog] ![image][Disentanglement] ![image][NLP]
+1. [Distributionally robust language modeling](https://arxiv.org/abs/1909.02060)  
+   _Yonatan Oren, Shiori Sagawa, Tatsunori B. Hashimoto, Percy Liang_  
+   ![image][Paper] ![image][NLP] ![image][Out-of-Distribution] ![image][Robustness]
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781)  
    _Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean_  
    ![image][Paper] ![image][Embeddings] ![image][NLP]
@@ -423,7 +426,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
 1. [Enchancing the reliability of out-of-distribution image detection in neural networks](https://arxiv.org/abs/1706.02690)  
    _Shiyu Liang, Yixuan Li, R. Srikant_  
-   ![image][Paper] ![image][Deep Learning] ![image][Out-of-Distribution Detection]
+   ![image][Paper] ![image][Deep Learning] ![image][Out-of-Distribution]
 1. [End-to-end task-oriented dialog modeling with semi-structured knowledge management](https://arxiv.org/abs/2106.11796)  
    _Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang_  
    ![image][Paper] ![image][Dialog] ![image][NLP]

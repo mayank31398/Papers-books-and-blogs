@@ -925,6 +925,14 @@
         "keywords": null
     },
     {
+        "name": "Distributionally robust language modeling",
+        "url": "https://arxiv.org/abs/1909.02060",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yonatan Oren, Shiori Sagawa, Tatsunori B. Hashimoto, Percy Liang",
+        "keywords": ["NLP", "Out-of-Distribution", "Robustness"]
+    },
+    {
         "name": "Efficient estimation of word representations in vector space",
         "url": "https://arxiv.org/abs/1301.3781",
         "topic": "AI, DL, NLP and RL",
@@ -967,7 +975,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shiyu Liang, Yixuan Li, R. Srikant",
-        "keywords": ["Deep Learning", "Out-of-Distribution Detection"]
+        "keywords": ["Deep Learning", "Out-of-Distribution"]
     },
     {
         "name": "End-to-end task-oriented dialog modeling with semi-structured knowledge management",
