@@ -1609,6 +1609,14 @@
         "keywords": ["Deep Learning", "Quantization"]
     },
     {
+        "name": "Language is not all you need: aligning perception with language models",
+        "url": "https://arxiv.org/abs/2302.14045",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra, Qiang Liu, Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei",
+        "keywords": ["Deep Learning", "Multi-modal"]
+    },
+    {
         "name": "Language modeling with gated convolutional networks",
         "url": "https://arxiv.org/abs/1612.08083",
         "topic": "AI, DL, NLP and RL",

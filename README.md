@@ -605,6 +605,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Knowledge-grounded dialogue generation with pre-trained language models](https://arxiv.org/abs/2010.08824)  
    _Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
+1. [Language is not all you need: aligning perception with language models](https://arxiv.org/abs/2302.14045)  
+   _Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra, Qiang Liu, Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei_  
+   ![image][Paper] ![image][Deep Learning] ![image][Multi-modal]
 1. [Language modeling with gated convolutional networks](https://arxiv.org/abs/1612.08083)  
    _Yann N. Dauphin, Angela Fan, Michael Auli, David Grangier_  
    ![image][Paper] ![image][Activation Function] ![image][NLP]
