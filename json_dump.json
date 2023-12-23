@@ -2772,6 +2772,14 @@
         "keywords": ["Deep Learning"]
     },
     {
+        "name": "Structured prompting: scaling in-context learning to 1,000 examples",
+        "url": "https://arxiv.org/abs/2212.06713",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei",
+        "keywords": ["Deep Learning", "In Context Learning"]
+    },
+    {
         "name": "Style transfer from non-parallel text by cross-alignment",
         "url": "https://arxiv.org/abs/1705.09655",
         "topic": "AI, DL, NLP and RL",

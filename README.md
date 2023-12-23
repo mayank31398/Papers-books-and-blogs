@@ -66,6 +66,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Hyperparameter Search]: https://img.shields.io/static/v1?label=&message=Hyperparameter%20Search&color=blue
 [Image Classification]: https://img.shields.io/static/v1?label=&message=Image%20Classification&color=blue
 [Image Super Resolution]: https://img.shields.io/static/v1?label=&message=Image%20Super%20Resolution&color=blue
+[In Context Learning]: https://img.shields.io/static/v1?label=&message=In%20Context%20Learning&color=blue
 [Information Retrieval]: https://img.shields.io/static/v1?label=&message=Information%20Retrieval&color=blue
 [Information Theory]: https://img.shields.io/static/v1?label=&message=Information%20Theory&color=blue
 [Instruction Finetuning]: https://img.shields.io/static/v1?label=&message=Instruction%20Finetuning&color=blue
@@ -949,6 +950,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Strategies for teaching layered networks classification tasks](https://papers.nips.cc/paper/85-strategies-for-teaching-layered-networks-classification-tasks)  
    _Ben S. Wittner, John S. Denker_  
    ![image][Paper] ![image][Deep Learning]
+1. [Structured prompting: scaling in-context learning to 1,000 examples](https://arxiv.org/abs/2212.06713)  
+   _Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei_  
+   ![image][Paper] ![image][Deep Learning] ![image][In Context Learning]
 1. [Style transfer from non-parallel text by cross-alignment](https://arxiv.org/abs/1705.09655)  
    _Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola_  
    ![image][Paper] ![image][NLP] ![image][Style Transfer]
