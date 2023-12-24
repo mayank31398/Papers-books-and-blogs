@@ -2589,6 +2589,14 @@
         "keywords": ["Instruction Finetuning", "NLP"]
     },
     {
+        "name": "Scaling transformer to 1M tokens and beyond with RMT",
+        "url": "https://arxiv.org/abs/2304.11062",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Aydar Bulatov, Yuri Kuratov, Mikhail S. Burtsev",
+        "keywords": ["Long Context Length", "NLP"]
+    },
+    {
         "name": "Self-instruct: aligning language model with self generated instructions",
         "url": "https://arxiv.org/abs/2212.10560",
         "topic": "AI, DL, NLP and RL",

@@ -893,6 +893,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Scaling PyTorch FSDP for training foundation Models on IBM cloud](https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/)  
    _Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan_  
    ![image][Blog] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
+1. [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)  
+   _Aydar Bulatov, Yuri Kuratov, Mikhail S. Burtsev_  
+   ![image][Paper] ![image][Long Context Length] ![image][NLP]
 1. [Self-instruct: aligning language model with self generated instructions](https://arxiv.org/abs/2212.10560)  
    _Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi_  
    ![image][Paper] ![image][Instruction Finetuning] ![image][NLP]
