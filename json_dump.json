@@ -2211,6 +2211,14 @@
         ]
     },
     {
+        "name": "Parallel context windows improve in-context learning of large language models",
+        "url": "https://arxiv.org/abs/2212.10947",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Nir Ratner, Yoav Levine, Yonatan Belinkov, Ori Ram, Inbal Magar, Omri Abend, Ehud Karpas, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham",
+        "keywords": ["In Context Learning", "Long Context Length", "NLP"]
+    },
+    {
         "name": "Partitioning optimization problems for hybrid classical/quantum execution",
         "url": "https://docs.ocean.dwavesys.com/projects/qbsolv/en/latest/_downloads/bd15a2d8f32e587e9e5997ce9d5512cc/qbsolv_techReport.pdf",
         "topic": "Quantum Computing",
