@@ -2772,6 +2772,14 @@
         ]
     },
     {
+        "name": "StitchNet: composing neural networks from pre-trained fragments",
+        "url": "https://arxiv.org/abs/2301.01947",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Surat Teerapittayanon, Marcus Comiter, Brad McDanel, H.T. Kung",
+        "keywords": ["Deep Learning", "Growing Neural Networks"]
+    },
+    {
         "name": "Stochastic hyperparameter optimization through hypernetworks",
         "url": "https://arxiv.org/abs/1802.09419",
         "topic": "AI, DL, NLP and RL",

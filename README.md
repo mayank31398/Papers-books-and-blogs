@@ -60,6 +60,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Graph Fusion]: https://img.shields.io/static/v1?label=&message=Graph%20Fusion&color=blue
 [Graph Neural Networks]: https://img.shields.io/static/v1?label=&message=Graph%20Neural%20Networks&color=blue
 [Green AI]: https://img.shields.io/static/v1?label=&message=Green%20AI&color=blue
+[Growing Neural Networks]: https://img.shields.io/static/v1?label=&message=Growing%20Neural%20Networks&color=blue
 [HPC Compiler]: https://img.shields.io/static/v1?label=&message=HPC%20Compiler&color=blue
 [Hallucination]: https://img.shields.io/static/v1?label=&message=Hallucination&color=blue
 [Human Feedback]: https://img.shields.io/static/v1?label=&message=Human%20Feedback&color=blue
@@ -950,6 +951,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Sticking the landing: simple, lower-variance gradient estimators for variational inference](https://arxiv.org/abs/1703.09194)  
    _Geoffrey Roeder, Yuhuai Wu, David K. Duvenaud_  
    ![image][Paper] ![image][Deep Learning] ![image][Gradient Estimation] ![image][Variational Inference]
+1. [StitchNet: composing neural networks from pre-trained fragments](https://arxiv.org/abs/2301.01947)  
+   _Surat Teerapittayanon, Marcus Comiter, Brad McDanel, H.T. Kung_  
+   ![image][Paper] ![image][Deep Learning] ![image][Growing Neural Networks]
 1. [Stochastic hyperparameter optimization through hypernetworks](https://arxiv.org/abs/1802.09419)  
    _Jonathan Lorraine, David Duvenaud_  
    ![image][Paper] ![image][Deep Learning] ![image][Meta Learning]
