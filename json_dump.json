@@ -562,6 +562,14 @@
         "keywords": ["Deep Learning", "Systems"]
     },
     {
+        "name": "Complex transformer: a framework for modeling complex-valued sequence",
+        "url": "https://arxiv.org/abs/1910.10202",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Muqiao Yang, Martin Q. Ma, Dongyu Li, Yao-Hung Hubert Tsai, Ruslan Salakhutdinov",
+        "keywords": ["Complex Numbers", "Deep Learning", "Transformers"]
+    },
+    {
         "name": "Computer architecture: a quantitative approach",
         "url": null,
         "topic": "Computer Architecture",

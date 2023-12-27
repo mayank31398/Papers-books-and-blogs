@@ -316,6 +316,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Compiling machine learning programs via high-level tracing](https://research.google/pubs/pub47008/)  
    _Roy Frostig, Matthew Johnson, Chris Leary_  
    ![image][Paper] ![image][Deep Learning] ![image][Systems]
+1. [Complex transformer: a framework for modeling complex-valued sequence](https://arxiv.org/abs/1910.10202)  
+   _Muqiao Yang, Martin Q. Ma, Dongyu Li, Yao-Hung Hubert Tsai, Ruslan Salakhutdinov_  
+   ![image][Paper] ![image][Complex Numbers] ![image][Deep Learning] ![image][Transformers]
 1. [Conceptual captions: a cleaned, hypernymed, image alt-text dataset for automatic image captioning](https://aclanthology.org/P18-1238/)  
    _Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut_  
    ![image][Paper] ![image][Computer Vision] ![image][Dataset] ![image][NLP]
