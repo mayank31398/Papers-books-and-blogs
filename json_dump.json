@@ -2560,6 +2560,14 @@
         "keywords": ["NLP", "Position Embeddings", "Transformers"]
     },
     {
+        "name": "SOLAR 10.7B: scaling large language models with simple yet effective depth up-scaling",
+        "url": "https://arxiv.org/abs/2312.15166",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Dahyun Kim, Chanjun Park, Sanghoon Kim, Wonsung Lee, Wonho Song, Yunsu Kim, Hyeonwoo Kim, Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee, Sunghun Kim",
+        "keywords": ["Model Upcycling", "NLP", "Transformers"]
+    },
+    {
         "name": "SOLOIST: building task bots at scale with transfer learning and machine teaching",
         "url": "https://arxiv.org/abs/2005.05298",
         "topic": "AI, DL, NLP and RL",

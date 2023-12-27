@@ -81,6 +81,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Meta Learning]: https://img.shields.io/static/v1?label=&message=Meta%20Learning&color=blue
 [Mixture of Experts]: https://img.shields.io/static/v1?label=&message=Mixture%20of%20Experts&color=blue
 [Model Saving]: https://img.shields.io/static/v1?label=&message=Model%20Saving&color=blue
+[Model Upcycling]: https://img.shields.io/static/v1?label=&message=Model%20Upcycling&color=blue
 [Molecular Chemistry]: https://img.shields.io/static/v1?label=&message=Molecular%20Chemistry&color=blue
 [Multi-modal]: https://img.shields.io/static/v1?label=&message=Multi-modal&color=blue
 [NLP]: https://img.shields.io/static/v1?label=&message=NLP&color=blue
@@ -927,6 +928,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Soft filter pruning for accelerating deep convolutional neural networks](https://arxiv.org/abs/1808.06866)  
    _Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang_  
    ![image][Paper] ![image][Deep Learning] ![image][Pruning]
+1. [SOLAR 10.7B: scaling large language models with simple yet effective depth up-scaling](https://arxiv.org/abs/2312.15166)  
+   _Dahyun Kim, Chanjun Park, Sanghoon Kim, Wonsung Lee, Wonho Song, Yunsu Kim, Hyeonwoo Kim, Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee, Sunghun Kim_  
+   ![image][Paper] ![image][Model Upcycling] ![image][NLP] ![image][Transformers]
 1. [SOLOIST: building task bots at scale with transfer learning and machine teaching](https://arxiv.org/abs/2005.05298)  
    _Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao_  
    ![image][Paper] ![image][Dialog] ![image][Few Shot] ![image][NLP] ![image][Transfer Learning]
