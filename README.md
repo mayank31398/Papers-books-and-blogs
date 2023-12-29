@@ -718,6 +718,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Mixed precision training](https://arxiv.org/abs/1710.03740)  
    _Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu_  
    ![image][Paper] ![image][Deep Learning] ![image][Large Models]
+1. [Mixture-of-Experts meets instruction tuning: a winning combination for large language models](https://arxiv.org/abs/2305.14705)  
+   _Sheng Shen, Le Hou, Yanqi Zhou, Nan Du, Shayne Longpre, Jason Wei, Hyung Won Chung, Barret Zoph, William Fedus, Xinyun Chen, Tu Vu, Yuexin Wu, Wuyang Chen, Albert Webson, Yunxuan Li, Vincent Zhao, Hongkun Yu, Kurt Keutzer, Trevor Darrell, Denny Zhou_  
+   ![image][Paper] ![image][Instruction Finetuning] ![image][Mixture of Experts] ![image][NLP]
 1. [mixup: beyond empirical risk minimization](https://arxiv.org/abs/1710.09412v1)  
    _Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz_  
    ![image][Paper] ![image][Adversarial Examples] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Empirical Risk Minimization] ![image][Generative Models]
