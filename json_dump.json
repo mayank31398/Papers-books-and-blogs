@@ -509,6 +509,14 @@
         ]
     },
     {
+        "name": "Building blocks for a complex-valued transformer architecture",
+        "url": "https://arxiv.org/abs/2306.09827",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Florian Eilers, Xiaoyi Jiang",
+        "keywords": ["Complex Numbers", "Deep Learning", "Transformers"]
+    },
+    {
         "name": "Calculus of variations",
         "url": null,
         "topic": "Calculus",
