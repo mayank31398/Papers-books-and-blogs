@@ -80,6 +80,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Memory]: https://img.shields.io/static/v1?label=&message=Memory&color=blue
 [Meta Learning]: https://img.shields.io/static/v1?label=&message=Meta%20Learning&color=blue
 [Mixture of Experts]: https://img.shields.io/static/v1?label=&message=Mixture%20of%20Experts&color=blue
+[Model Editing]: https://img.shields.io/static/v1?label=&message=Model%20Editing&color=blue
 [Model Saving]: https://img.shields.io/static/v1?label=&message=Model%20Saving&color=blue
 [Model Upcycling]: https://img.shields.io/static/v1?label=&message=Model%20Upcycling&color=blue
 [Molecular Chemistry]: https://img.shields.io/static/v1?label=&message=Molecular%20Chemistry&color=blue
@@ -424,6 +425,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Distributionally robust language modeling](https://arxiv.org/abs/1909.02060)  
    _Yonatan Oren, Shiori Sagawa, Tatsunori B. Hashimoto, Percy Liang_  
    ![image][Paper] ![image][NLP] ![image][Out-of-Distribution] ![image][Robustness]
+1. [Editing models with task arithmetic](https://arxiv.org/abs/2212.04089)  
+   _Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi_  
+   ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning] ![image][Model Editing]
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781)  
    _Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean_  
    ![image][Paper] ![image][Embeddings] ![image][NLP]

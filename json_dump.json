@@ -949,6 +949,14 @@
         "keywords": ["NLP", "Out-of-Distribution", "Robustness"]
     },
     {
+        "name": "Editing models with task arithmetic",
+        "url": "https://arxiv.org/abs/2212.04089",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi",
+        "keywords": ["Deep Learning", "Efficient Finetuning", "Model Editing"]
+    },
+    {
         "name": "Efficient estimation of word representations in vector space",
         "url": "https://arxiv.org/abs/1301.3781",
         "topic": "AI, DL, NLP and RL",
