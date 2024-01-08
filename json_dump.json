@@ -2106,6 +2106,14 @@
         "keywords": ["Deep Learning", "Differential Equations"]
     },
     {
+        "name": "No train no gain: revisiting efficient training algorithms for transformer-based language models",
+        "url": "https://arxiv.org/abs/2307.06440",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jean Kaddour, Oscar Key, Piotr Nawrot, Pasquale Minervini, Matt J. Kusner",
+        "keywords": ["Deep Learning", "Miscellaneous"]
+    },
+    {
         "name": "OPT: open pre-trained transformer language models",
         "url": "https://arxiv.org/abs/2205.01068",
         "topic": "AI, DL, NLP and RL",

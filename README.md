@@ -79,6 +79,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Mathematical Reasoning]: https://img.shields.io/static/v1?label=&message=Mathematical%20Reasoning&color=blue
 [Memory]: https://img.shields.io/static/v1?label=&message=Memory&color=blue
 [Meta Learning]: https://img.shields.io/static/v1?label=&message=Meta%20Learning&color=blue
+[Miscellaneous]: https://img.shields.io/static/v1?label=&message=Miscellaneous&color=blue
 [Mixture of Experts]: https://img.shields.io/static/v1?label=&message=Mixture%20of%20Experts&color=blue
 [Model Editing]: https://img.shields.io/static/v1?label=&message=Model%20Editing&color=blue
 [Model Saving]: https://img.shields.io/static/v1?label=&message=Model%20Saving&color=blue
@@ -767,6 +768,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Neural ordinary differential equations](https://arxiv.org/abs/1806.07366)  
    _Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud_  
    ![image][Paper] ![image][Deep Learning] ![image][Differential Equations]
+1. [No train no gain: revisiting efficient training algorithms for transformer-based language models](https://arxiv.org/abs/2307.06440)  
+   _Jean Kaddour, Oscar Key, Piotr Nawrot, Pasquale Minervini, Matt J. Kusner_  
+   ![image][Paper] ![image][Deep Learning] ![image][Miscellaneous]
 1. [Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples](https://arxiv.org/abs/1802.00420)  
    _Anish Athalye, Nicholas Carlini, David Wagner_  
    ![image][Paper] ![image][Adversarial Examples] ![image][Deep Learning]
