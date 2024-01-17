@@ -481,6 +481,14 @@
         "keywords": ["Dialog", "NLP"]
     },
     {
+        "name": "Blockwise parallel transformer for large context models",
+        "url": "https://arxiv.org/abs/2305.19370",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Hao Liu, Pieter Abbeel",
+        "keywords": ["Deep Learning", "Systems", "Transformers"]
+    },
+    {
         "name": "Bootstrapping entity alignment with knowledge graph embedding",
         "url": "https://www.ijcai.org/proceedings/2018/611",
         "topic": "AI, DL, NLP and RL",
