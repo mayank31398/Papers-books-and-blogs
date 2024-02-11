@@ -1480,6 +1480,14 @@
         "keywords": ["NLP", "Retrieval-Augmented Generation"]
     },
     {
+        "name": "Improving reinforcement learning from human feedback with efficient reward model ensemble",
+        "url": "https://arxiv.org/abs/2401.16635",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Shun Zhang, Zhenfang Chen, Sunli Chen, Yikang Shen, Zhiqing Sun, Chuang Gan",
+        "keywords": ["Ensemble", "NLP", "Reinforcement Learning"]
+    },
+    {
         "name": "Incredibly fast BLOOM inference with DeepSpeed and Accelerate",
         "url": "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
         "topic": "AI, DL, NLP and RL",
@@ -2210,6 +2218,22 @@
         "keywords": ["Deep Learning", "Large Models", "Transformers"]
     },
     {
+        "name": "Orca 2: teaching small language models how to reason",
+        "url": "https://arxiv.org/abs/2311.11045",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Arindam Mitra, Luciano Del Corro, Shweti Mahajan, Andres Codas, Clarisse Simoes, Sahaj Agarwal, Xuxi Chen, Anastasia Razdaibiedina, Erik Jones, Kriti Aggarwal, Hamid Palangi, Guoqing Zheng, Corby Rosset, Hamed Khanpour, Ahmed Awadallah",
+        "keywords": ["Instruction Finetuning", "NLP"]
+    },
+    {
+        "name": "Orca: progressive learning from complex explanation traces of GPT-4",
+        "url": "https://arxiv.org/abs/2306.02707",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, Ahmed Awadallah",
+        "keywords": ["Instruction Finetuning", "NLP"]
+    },
+    {
         "name": "Outer product-based neural collaborative filtering",
         "url": "https://arxiv.org/abs/1808.03912",
         "topic": "AI, DL, NLP and RL",
@@ -2728,6 +2752,14 @@
         "datatype": "Paper",
         "authors": "Christopher Clark, Matt Gardner",
         "keywords": ["NLP", "Reading Comprehension"]
+    },
+    {
+        "name": "Simplifying transformer blocks",
+        "url": "https://arxiv.org/abs/2311.01906",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Bobby He, Thomas Hofmann",
+        "keywords": ["Deep Learning", "Transformers"]
     },
     {
         "name": "SmoothQuant: accurate and efficient post-training quantization for large language models",

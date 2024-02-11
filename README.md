@@ -46,6 +46,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Empirical Risk Minimization]: https://img.shields.io/static/v1?label=&message=Empirical%20Risk%20Minimization&color=blue
 [Energy-based Models]: https://img.shields.io/static/v1?label=&message=Energy-based%20Models&color=blue
 [Enery based Models]: https://img.shields.io/static/v1?label=&message=Enery%20based%20Models&color=blue
+[Ensemble]: https://img.shields.io/static/v1?label=&message=Ensemble&color=blue
 [Entity Linking]: https://img.shields.io/static/v1?label=&message=Entity%20Linking&color=blue
 [Error Correction]: https://img.shields.io/static/v1?label=&message=Error%20Correction&color=blue
 [Error Detection]: https://img.shields.io/static/v1?label=&message=Error%20Detection&color=blue
@@ -584,6 +585,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Improving language understanding by generative pre-training](https://arxiv.org/abs/2112.04426)  
    _Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever_  
    ![image][Paper] ![image][NLP] ![image][Retrieval-Augmented Generation]
+1. [Improving reinforcement learning from human feedback with efficient reward model ensemble](https://arxiv.org/abs/2401.16635)  
+   _Shun Zhang, Zhenfang Chen, Sunli Chen, Yikang Shen, Zhiqing Sun, Chuang Gan_  
+   ![image][Paper] ![image][Ensemble] ![image][NLP] ![image][Reinforcement Learning]
 1. [Incredibly fast BLOOM inference with DeepSpeed and Accelerate](https://huggingface.co/blog/bloom-inference-pytorch-scripts)  
    _Stas Bekman, Sylvain Gugger_  
    ![image][Blog] ![image][Large Models] ![image][NLP] ![image][Transformers]
@@ -807,6 +811,12 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Optimization story: Bloom inference](https://huggingface.co/blog/bloom-inference-optimization)  
    _Nicolas Patry_  
    ![image][Blog] ![image][Deep Learning] ![image][Large Models] ![image][Transformers]
+1. [Orca 2: teaching small language models how to reason](https://arxiv.org/abs/2311.11045)  
+   _Arindam Mitra, Luciano Del Corro, Shweti Mahajan, Andres Codas, Clarisse Simoes, Sahaj Agarwal, Xuxi Chen, Anastasia Razdaibiedina, Erik Jones, Kriti Aggarwal, Hamid Palangi, Guoqing Zheng, Corby Rosset, Hamed Khanpour, Ahmed Awadallah_  
+   ![image][Paper] ![image][Instruction Finetuning] ![image][NLP]
+1. [Orca: progressive learning from complex explanation traces of GPT-4](https://arxiv.org/abs/2306.02707)  
+   _Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, Ahmed Awadallah_  
+   ![image][Paper] ![image][Instruction Finetuning] ![image][NLP]
 1. [Outer product-based neural collaborative filtering](https://arxiv.org/abs/1808.03912)  
    _Xiangnan He, Xiaoyu Du, Xiang Wang, Feng Tian, Jinhui Tang, Tat-Seng Chua_  
    ![image][Paper] ![image][Collaborative Filtering] ![image][Deep Learning] ![image][Recommender Systems]
@@ -942,6 +952,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Simple and effective multi-paragraph reading comprehension](https://arxiv.org/abs/1710.10723)  
    _Christopher Clark, Matt Gardner_  
    ![image][Paper] ![image][NLP] ![image][Reading Comprehension]
+1. [Simplifying transformer blocks](https://arxiv.org/abs/2311.01906)  
+   _Bobby He, Thomas Hofmann_  
+   ![image][Paper] ![image][Deep Learning] ![image][Transformers]
 1. [SmoothQuant: accurate and efficient post-training quantization for large language models](https://arxiv.org/abs/2211.10438)  
    _Guangxuan Xiao, Ji Lin, Mickael Seznec, Julien Demouth, Song Han_  
    ![image][Paper] ![image][Deep Learning] ![image][Large Models] ![image][Quantization] ![image][Transformers]
