@@ -2022,6 +2022,19 @@
         "keywords": ["Deep Learning", "Large Models"]
     },
     {
+        "name": "Mixture of attention heads: selecting attention heads per token",
+        "url": "https://arxiv.org/abs/2210.05144",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Xiaofeng Zhang, Yikang Shen, Zeyu Huang, Jie Zhou, Wenge Rong, Zhang Xiong",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Mixture of Experts",
+            "Transformers"
+        ]
+    },
+    {
         "name": "Mixture-of-Experts meets instruction tuning: a winning combination for large language models",
         "url": "https://arxiv.org/abs/2305.14705",
         "topic": "AI, DL, NLP and RL",
