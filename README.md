@@ -712,6 +712,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Mask & focus: conversation modelling by learning concepts](https://arxiv.org/abs/2003.04976)  
    _Gaurav Pandey, Dinesh Raghu, Sachindra Joshi_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
+1. [Matryoshka representation learning](https://arxiv.org/abs/2205.13147)  
+   _Aditya Kusupati, Gantavya Bhatt, Aniket Rege, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, Ali Farhadi_  
+   ![image][Paper] ![image][Deep Learning] ![image][Embeddings]
 1. [Maximizing communication efficiency for large-scale training via 0/1 Adam](https://arxiv.org/abs/2202.06009)  
    _Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He_  
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training]

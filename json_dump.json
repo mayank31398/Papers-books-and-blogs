@@ -1930,6 +1930,14 @@
         "keywords": null
     },
     {
+        "name": "Matryoshka representation learning",
+        "url": "https://arxiv.org/abs/2205.13147",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Aditya Kusupati, Gantavya Bhatt, Aniket Rege, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, Ali Farhadi",
+        "keywords": ["Deep Learning", "Embeddings"]
+    },
+    {
         "name": "Maximizing communication efficiency for large-scale training via 0/1 Adam",
         "url": "https://arxiv.org/abs/2202.06009",
         "topic": "AI, DL, NLP and RL",
