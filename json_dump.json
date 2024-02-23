@@ -16,6 +16,14 @@
         "keywords": ["Deep Learning", "Faster Training", "Systems"]
     },
     {
+        "name": "8-bit approximations for parallelism in deep learning",
+        "url": "https://arxiv.org/abs/1511.04561",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Tim Dettmers",
+        "keywords": ["Deep Learning", "Large Models", "Quantization", "Systems"]
+    },
+    {
         "name": "8-bit optimizers via block-wise quantization",
         "url": "https://arxiv.org/abs/2110.02861",
         "topic": "AI, DL, NLP and RL",

@@ -155,6 +155,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [5 best practices for efficient model training](https://www.mosaicml.com/blog/5-best-practices-for-efficient-model-training)  
    _Matthew Leavitt, Abhinav Venigalla_  
    ![image][Blog] ![image][Deep Learning] ![image][Faster Training] ![image][Systems]
+1. [8-bit approximations for parallelism in deep learning](https://arxiv.org/abs/1511.04561)  
+   _Tim Dettmers_  
+   ![image][Paper] ![image][Deep Learning] ![image][Large Models] ![image][Quantization] ![image][Systems]
 1. [8-bit optimizers via block-wise quantization](https://arxiv.org/abs/2110.02861)  
    _Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer_  
    ![image][Paper] ![image][Deep Learning] ![image][Quantization]
