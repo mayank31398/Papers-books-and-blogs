@@ -502,6 +502,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Foundations of NLP explained visually: beam search, how it works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)  
    _Ketan Doshi_  
    ![image][Blog] ![image][Algorithms] ![image][NLP]
+1. [Gemma: open models based on Gemini research and technology](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)  
+   _Gemma Team_  
+   ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Generating adversarial examples with adversarial networks](https://www.ijcai.org/proceedings/2018/543)  
    _Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song_  
    ![image][Paper] ![image][Adversarial Examples] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]

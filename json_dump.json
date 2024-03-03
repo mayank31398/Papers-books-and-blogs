@@ -1257,6 +1257,14 @@
         "keywords": ["Attention Mechanism", "NLP", "Transformers"]
     },
     {
+        "name": "Gemma: open models based on Gemini research and technology",
+        "url": "https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Gemma Team",
+        "keywords": ["Large Models", "NLP", "Transformers"]
+    },
+    {
         "name": "Generating adversarial examples with adversarial networks",
         "url": "https://www.ijcai.org/proceedings/2018/543",
         "topic": "AI, DL, NLP and RL",
