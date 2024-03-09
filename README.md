@@ -29,6 +29,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Constituency Parsing]: https://img.shields.io/static/v1?label=&message=Constituency%20Parsing&color=blue
 [Convergence]: https://img.shields.io/static/v1?label=&message=Convergence&color=blue
 [Curriculum Learning]: https://img.shields.io/static/v1?label=&message=Curriculum%20Learning&color=blue
+[Data Mixtures]: https://img.shields.io/static/v1?label=&message=Data%20Mixtures&color=blue
 [Data Visualization]: https://img.shields.io/static/v1?label=&message=Data%20Visualization&color=blue
 [Dataflow Architecture]: https://img.shields.io/static/v1?label=&message=Dataflow%20Architecture&color=blue
 [Dataset]: https://img.shields.io/static/v1?label=&message=Dataset&color=blue
@@ -967,6 +968,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Simplifying transformer blocks](https://arxiv.org/abs/2311.01906)  
    _Bobby He, Thomas Hofmann_  
    ![image][Paper] ![image][Deep Learning] ![image][Transformers]
+1. [SlimPajama-DC: understanding data combinations for LLM training](https://arxiv.org/abs/2309.10818)  
+   _Zhiqiang Shen, Tianhua Tao, Liqun Ma, Willie Neiswanger, Zhengzhong Liu, Hongyi Wang, Bowen Tan, Joel Hestness, Natalia Vassilieva, Daria Soboleva, Eric Xing_  
+   ![image][Paper] ![image][Data Mixtures] ![image][NLP]
 1. [SmoothQuant: accurate and efficient post-training quantization for large language models](https://arxiv.org/abs/2211.10438)  
    _Guangxuan Xiao, Ji Lin, Mickael Seznec, Julien Demouth, Song Han_  
    ![image][Paper] ![image][Deep Learning] ![image][Large Models] ![image][Quantization] ![image][Transformers]

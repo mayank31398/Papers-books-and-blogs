@@ -2799,6 +2799,14 @@
         "keywords": ["Deep Learning", "Transformers"]
     },
     {
+        "name": "SlimPajama-DC: understanding data combinations for LLM training",
+        "url": "https://arxiv.org/abs/2309.10818",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Zhiqiang Shen, Tianhua Tao, Liqun Ma, Willie Neiswanger, Zhengzhong Liu, Hongyi Wang, Bowen Tan, Joel Hestness, Natalia Vassilieva, Daria Soboleva, Eric Xing",
+        "keywords": ["Data Mixtures", "NLP"]
+    },
+    {
         "name": "SmoothQuant: accurate and efficient post-training quantization for large language models",
         "url": "https://arxiv.org/abs/2211.10438",
         "topic": "AI, DL, NLP and RL",
