@@ -121,6 +121,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Story Generation]: https://img.shields.io/static/v1?label=&message=Story%20Generation&color=blue
 [Style Transfer]: https://img.shields.io/static/v1?label=&message=Style%20Transfer&color=blue
 [Summarization]: https://img.shields.io/static/v1?label=&message=Summarization&color=blue
+[Synthetic Data Generation]: https://img.shields.io/static/v1?label=&message=Synthetic%20Data%20Generation&color=blue
 [Systems]: https://img.shields.io/static/v1?label=&message=Systems&color=blue
 [Text Classification]: https://img.shields.io/static/v1?label=&message=Text%20Classification&color=blue
 [Theory of Computation]: https://img.shields.io/static/v1?label=&message=Theory%20of%20Computation&color=blue
@@ -1034,6 +1035,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Synchronization in neural nets](https://papers.nips.cc/paper/32-synchronization-in-neural-nets)  
    _Jacques J. Vidal, John Haggerty_  
    ![image][Paper] ![image][Deep Learning]
+1. [Synthetic data (almost) from scratch: generalized instruction tuning for language models](https://arxiv.org/abs/2402.13064)  
+   _Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei_  
+   ![image][Paper] ![image][Instruction Finetuning] ![image][NLP] ![image][Synthetic Data Generation]
 1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916)  
    _Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger_  
    ![image][Paper] ![image][NLP]

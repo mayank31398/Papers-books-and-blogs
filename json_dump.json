@@ -2985,6 +2985,18 @@
         "keywords": ["Deep Learning"]
     },
     {
+        "name": "Synthetic data (almost) from scratch: generalized instruction tuning for language models",
+        "url": "https://arxiv.org/abs/2402.13064",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei",
+        "keywords": [
+            "Instruction Finetuning",
+            "NLP",
+            "Synthetic Data Generation"
+        ]
+    },
+    {
         "name": "Tackling the poor assumptions of Naive Bayes text classifiers",
         "url": "https://dl.acm.org/citation.cfm?id=3041916",
         "topic": "AI, DL, NLP and RL",
