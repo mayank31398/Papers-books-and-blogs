@@ -628,6 +628,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Joint reasoning on hybrid-knowledge sources for task-oriented dialog](https://arxiv.org/abs/2210.07295)  
    _Mayank Mishra, Danish Contractor, Dinesh Raghu_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
+1. [Judging LLM-as-a-judge with MT-bench and chatbot arena](https://arxiv.org/abs/2306.05685)  
+   _Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica_  
+   ![image][Paper] ![image][Deep Learning] ![image][Evaluation using LLMs]
 1. [Know what you don't know: unanswerable questions for SQuAD](https://arxiv.org/abs/1806.03822)  
    _Pranav Rajpurkar, Robin Jia, Percy Liang_  
    ![image][Paper] ![image][NLP] ![image][Question Answering]

@@ -1633,6 +1633,14 @@
         "keywords": ["Dialog", "NLP"]
     },
     {
+        "name": "Judging LLM-as-a-judge with MT-bench and chatbot arena",
+        "url": "https://arxiv.org/abs/2306.05685",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica",
+        "keywords": ["Deep Learning", "Evaluation using LLMs"]
+    },
+    {
         "name": "Know what you don't know: unanswerable questions for SQuAD",
         "url": "https://arxiv.org/abs/1806.03822",
         "topic": "AI, DL, NLP and RL",
