@@ -411,6 +411,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [DeepSpeed powers 8x larger MoE model training with high performance](https://www.microsoft.com/en-us/research/blog/deepspeed-powers-8x-larger-moe-model-training-with-high-performance/)  
    _DeepSpeed Team, Z-code Team_  
    ![image][Blog] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts] ![image][Transformers]
+1. [DeepSpeed Ulysses: system optimizations for enabling training of extreme long sequence transformer models](https://arxiv.org/abs/2309.14509)  
+   _Sam Ade Jacobs, Masahiro Tanaka, Chengming Zhang, Minjia Zhang, Shuaiwen Leon Song, Samyam Rajbhandari, Yuxiong He_  
+   ![image][Paper] ![image][Deep Learning] ![image][Long Context Length] ![image][Systems]
 1. [DeepSpeed: accelerating large-scale model inference and training via system optimizations and compression](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/#:~:text=DeepSpeed%20Inference%20also%20supports%20fast,multiple%20GPUs%20for%20parallel%20execution.)  
    _DeepSpeed Team, Rangan Majumder, Andrey Proskurin_  
    ![image][Blog] ![image][Deep Learning] ![image][Large Models] ![image][Systems]

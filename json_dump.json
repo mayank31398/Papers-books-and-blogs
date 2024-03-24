@@ -837,6 +837,14 @@
         "keywords": ["Deep Learning", "Large Models", "Systems"]
     },
     {
+        "name": "DeepSpeed Ulysses: system optimizations for enabling training of extreme long sequence transformer models",
+        "url": "https://arxiv.org/abs/2309.14509",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Sam Ade Jacobs, Masahiro Tanaka, Chengming Zhang, Minjia Zhang, Shuaiwen Leon Song, Samyam Rajbhandari, Yuxiong He",
+        "keywords": ["Deep Learning", "Long Context Length", "Systems"]
+    },
+    {
         "name": "DeepSpeed compression: a composable library for extreme compression and zero-cost quantization",
         "url": "https://www.microsoft.com/en-us/research/blog/deepspeed-compression-a-composable-library-for-extreme-compression-and-zero-cost-quantization/",
         "topic": "AI, DL, NLP and RL",
