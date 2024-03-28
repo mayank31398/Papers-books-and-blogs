@@ -336,7 +336,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby",
-        "keywords": ["Computer Vision"]
+        "keywords": ["Computer Vision", "Deep Learning", "Embeddings"]
     },
     {
         "name": "An overview of gradient descent optimization algorithms",

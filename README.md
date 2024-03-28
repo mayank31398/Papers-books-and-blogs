@@ -255,7 +255,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
 1. [An image is worth 16x16 words: transformers for image recognition at scale](https://arxiv.org/abs/2010.11929)  
    _Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby_  
-   ![image][Paper] ![image][Computer Vision]
+   ![image][Paper] ![image][Computer Vision] ![image][Deep Learning] ![image][Embeddings]
 1. [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)  
    _Sebastian Ruder_  
    ![image][Paper] ![image][Deep Learning] ![image][Optimization]
