@@ -1133,6 +1133,14 @@
         "keywords": ["NLP", "Reinforcement Learning", "Summarization"]
     },
     {
+        "name": "Fast benchmarking of accuracy vs. training time with cyclic learning rates",
+        "url": "https://arxiv.org/abs/2206.00832",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jacob Portes, Davis Blalock, Cory Stephenson, Jonathan Frankle",
+        "keywords": ["Deep Learning", "Hyperparameter Search"]
+    },
+    {
         "name": "Fast transformer decoding: one write-head is all you need",
         "url": "https://arxiv.org/abs/1911.02150",
         "topic": "AI, DL, NLP and RL",

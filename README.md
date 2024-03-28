@@ -483,6 +483,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Fast abstractive summarization with reinforce-selected sentence rewriting](https://arxiv.org/abs/1805.11080)  
    _Yen-Chun Chen, Mohit Bansal_  
    ![image][Paper] ![image][NLP] ![image][Reinforcement Learning] ![image][Summarization]
+1. [Fast benchmarking of accuracy vs. training time with cyclic learning rates](https://arxiv.org/abs/2206.00832)  
+   _Jacob Portes, Davis Blalock, Cory Stephenson, Jonathan Frankle_  
+   ![image][Paper] ![image][Deep Learning] ![image][Hyperparameter Search]
 1. [Fast transformer decoding: one write-head is all you need](https://arxiv.org/abs/1911.02150)  
    _Noam Shazeer_  
    ![image][Paper] ![image][Attention Mechanism] ![image][NLP] ![image][Transformers]
