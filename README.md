@@ -56,6 +56,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Fake Content Detection]: https://img.shields.io/static/v1?label=&message=Fake%20Content%20Detection&color=blue
 [Faster Training]: https://img.shields.io/static/v1?label=&message=Faster%20Training&color=blue
 [Few Shot]: https://img.shields.io/static/v1?label=&message=Few%20Shot&color=blue
+[GAN]: https://img.shields.io/static/v1?label=&message=GAN&color=blue
 [Generative Models]: https://img.shields.io/static/v1?label=&message=Generative%20Models&color=blue
 [Genetic Algorithms]: https://img.shields.io/static/v1?label=&message=Genetic%20Algorithms&color=blue
 [Gradient Estimation]: https://img.shields.io/static/v1?label=&message=Gradient%20Estimation&color=blue
@@ -207,13 +208,13 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Large Models]
 1. [A style-based generator architecture for generative adversarial networks](https://arxiv.org/abs/1812.04948)  
    _Tero Karras, Samuli Laine, Timo Aila_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [A stylometric inquiry into hyperpartisan and fake news](https://arxiv.org/abs/1702.05638)  
    _Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein_  
    ![image][Paper] ![image][Fake Content Detection] ![image][NLP]
 1. [A3T: adversarially augmented adversarial training](https://arxiv.org/abs/1801.04055)  
    _Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Accelerated PyTorch 2 transformers](https://pytorch.org/blog/accelerated-pytorch-2/)  
    _Michael Gschwind, Driss Guessous, Christian Puhrsch_  
    ![image][Blog] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
@@ -228,25 +229,25 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Efficient Finetuning] ![image][NLP] ![image][Transformers]
 1. [Adversarial approximate inference for speech to electroglottograph conversion](https://arxiv.org/abs/1903.12248)  
    _Prathosh A. P., Varun Srivastava, Mayank Mishra_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Approximate Inference] ![image][Deep Learning] ![image][Generative Models] ![image][Speech]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Approximate Inference] ![image][Deep Learning] ![image][GAN] ![image][Speech]
 1. [Adversarial autoencoders](https://arxiv.org/abs/1511.05644)  
    _Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Adversarial examples that fool both computer vision and time-limited humans](https://arxiv.org/abs/1802.08195)  
    _Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein_  
    ![image][Paper] ![image][Adversarial Examples] ![image][Deep Learning]
 1. [Adversarial feature learning](https://arxiv.org/abs/1605.09782)  
    _Jeff Donahue, Philipp Krähenbühl, Trevor Darrell_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Adversarial generation of natural language](https://arxiv.org/abs/1705.10929)  
    _Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville_  
    ![image][Paper] ![image][Adversarial Learning] ![image][Generative Models] ![image][NLP]
 1. [Adversarial information factorization](https://arxiv.org/abs/1711.05175)  
    _Antonia Creswell, Yumnah Mohamied, Biswa Sengupta, Anil A Bharath_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Adversarially learned inference](https://arxiv.org/abs/1606.00704)  
    _Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [AlexaTM 20B: few-shot learning using a large-scale multilingual seq2seq model](https://arxiv.org/abs/2208.01448)  
    _Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, Rahul Gupta, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan_  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
@@ -279,7 +280,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Blog] ![image][Attention Mechanism] ![image][NLP]
 1. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114)  
    _Diederik P. Kingma, Max Welling_  
-   ![image][Paper] ![image][Deep Learning] ![image][Generative Models] ![image][Variational Inference]
+   ![image][Paper] ![image][Deep Learning] ![image][Variational Inference]
 1. [Backpropagation through the void: optimizing control variates for black-box gradient estimation](https://arxiv.org/abs/1711.00123)  
    _Will Grathwohl, Dami Choi, Yuhuai Wu, Geoffrey Roeder, David Duvenaud_  
    ![image][Paper] ![image][Backpropagation] ![image][Deep Learning] ![image][Discrete Optimization] ![image][Gradient Estimation] ![image][Optimization] ![image][Reinforcement Learning] ![image][Variational Inference]
@@ -338,7 +339,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Computer Vision] ![image][Dataset] ![image][NLP]
 1. [Conditional image synthesis with auxilliary classifier GANs](https://arxiv.org/abs/1610.09585)  
    _Augustus Odena, Christopher Olah, Jonathon Shlens_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Conformal nucleus sampling](https://arxiv.org/abs/2305.02633)  
    _Shauli Ravfogel, Yoav Goldberg, Jacob Goldberger_  
    ![image][Paper] ![image][NLP] ![image][Transformers]
@@ -428,10 +429,10 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Graph Neural Networks] ![image][Spatio-Temporal] ![image][Time Series]
 1. [Discrete variational autoencoders](https://arxiv.org/abs/1609.02200)  
    _Jason Tyler Rolfe_  
-   ![image][Paper] ![image][Deep Learning] ![image][Generative Models] ![image][Variational Inference]
+   ![image][Paper] ![image][Deep Learning] ![image][Variational Inference]
 1. [Disentangling by factorising](https://arxiv.org/abs/1802.05983)  
    _Hyunjik Kim, Andriy Mnih_  
-   ![image][Paper] ![image][Deep Learning] ![image][Disentanglement] ![image][Generative Models] ![image][Variational Inference]
+   ![image][Paper] ![image][Deep Learning] ![image][Disentanglement] ![image][Variational Inference]
 1. [Disentangling language and knowledge in task-oriented dialogs](https://arxiv.org/abs/1805.01216)  
    _Dinesh Raghu, Nikhil Gupta, Mausam_  
    ![image][Paper] ![image][Dialog] ![image][Disentanglement] ![image][NLP]
@@ -515,7 +516,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Generating adversarial examples with adversarial networks](https://www.ijcai.org/proceedings/2018/543)  
    _Chaowei Xiao, Bo Li, Jun-yan Zhu, Warren He, Mingyan Liu, Dawn Song_  
-   ![image][Paper] ![image][Adversarial Examples] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Examples] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Generating sentences from a continuous space](https://arxiv.org/abs/1511.06349)  
    _Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio_  
    ![image][Paper] ![image][NLP]
@@ -524,7 +525,10 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][NLP] ![image][Question Answering]
 1. [Generative adversarial nets](https://arxiv.org/abs/1406.2661)  
    _Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
+1. [Generative pretraining from pixels](https://proceedings.mlr.press/v119/chen20s.html)  
+   _Mark Chen, Alec Radford, Rewon Child, Jeffrey Wu, Heewoo Jun, David Luan, Ilya Sutskever_  
+   ![image][Paper] ![image][Computer Vision] ![image][Deep Learning]
 1. Genetic algorithms in search, optimization and machine learning  
    _David E. Goldberg_  
    ![image][Book]
@@ -610,7 +614,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Approximate Inference] ![image][Deep Learning] ![image][Variational Inference]
 1. [InfoGAN: interpretable representation learning by information maximizing generative adversarial nets](https://arxiv.org/abs/1606.03657)  
    _Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models] ![image][Information Theory]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN] ![image][Information Theory]
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786)  
    _C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen_  
    ![image][Paper] ![image][Computer Vision]
@@ -767,7 +771,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Dataset] ![image][Dialog] ![image][NLP] ![image][Question Answering]
 1. [Mode matching in GANs through latent space learning and inversion](https://arxiv.org/abs/1811.03692)  
    _Deepak Mishra, Prathosh A. P., Aravind Jayendran, Varun Srivastava, Santanu Chaudhury_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Multi-level memory for task oriented dialogs](https://arxiv.org/abs/1810.10647)  
    _Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
@@ -887,7 +891,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Information Retrieval] ![image][NLP]
 1. [Progressive growing of GANs from improved quality, stability and variation](https://arxiv.org/abs/1710.10196)  
    _Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Prompting with pseudo-code instructions](https://arxiv.org/abs/2305.11790)  
    _Mayank Mishra, Prince Kumar, Riyaz Bhat, Rudra Murthy V, Danish Contractor, Srikanth Tamilselvam_  
    ![image][Paper] ![image][NLP] ![image][Prompting]
@@ -1136,7 +1140,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Long Context Length] ![image][NLP] ![image][Transformers]
 1. [Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593)  
    _Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Unsupervised machine translation using monolingual corpora only](https://arxiv.org/abs/1711.00043)  
    _Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato_  
    ![image][Paper] ![image][Machine Translation] ![image][NLP] ![image][Unsupervised Learning]
@@ -1163,7 +1167,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Efficient Finetuning] ![image][NLP]
 1. [VEEGAN: reducing mode collapse in GANs using implicit variational learning](https://arxiv.org/abs/1705.07761)  
    _Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556)  
    _Karen Simonyan, Andrew Zisserman_  
    ![image][Paper] ![image][Computer Vision] ![image][Image Classification]
@@ -1172,13 +1176,13 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Data Visualization] ![image][Deep Learning]
 1. [Wasserstein GAN](https://arxiv.org/abs/1701.07875)  
    _Martin Arjovsky, Soumith Chintala, Léon Bottou_  
-   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [wav2vec 2.0: a framework for self-supervised learning of speech representations](https://arxiv.org/abs/2006.11477)  
    _Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli_  
    ![image][Paper] ![image][Deep Learning] ![image][Speech] ![image][Transformers]
 1. [Wavenet: a generative model for raw audio](https://arxiv.org/abs/1609.03499)  
    _Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu_  
-   ![image][Paper] ![image][Audio] ![image][Deep Learning] ![image][Generative Models]
+   ![image][Paper] ![image][Audio] ![image][Deep Learning]
 1. [WebGPT: browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)  
    _Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman_  
    ![image][Paper] ![image][Human Feedback] ![image][Reinforcement Learning] ![image][Transformers]
@@ -1208,7 +1212,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
 1. [Zero-shot text-to-image generation](https://arxiv.org/abs/2102.12092)  
    _Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever_  
-   ![image][Paper] ![image][Deep Learning] ![image][Generative Models] ![image][Variational Inference] ![image][Zero Shot]
+   ![image][Paper] ![image][Deep Learning] ![image][Variational Inference] ![image][Zero Shot]
 1. [ZeRO: memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054)  
    _Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He_  
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]

@@ -165,11 +165,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tero Karras, Samuli Laine, Timo Aila",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "A stylometric inquiry into hyperpartisan and fake news",
@@ -185,11 +181,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Accelerated PyTorch 2 transformers",
@@ -241,7 +233,7 @@
             "Adversarial Learning",
             "Approximate Inference",
             "Deep Learning",
-            "Generative Models",
+            "GAN",
             "Speech"
         ]
     },
@@ -251,11 +243,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Adversarial examples that fool both computer vision and time-limited humans",
@@ -271,11 +259,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jeff Donahue, Philipp Kr\u00e4henb\u00fchl, Trevor Darrell",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Adversarial generation of natural language",
@@ -291,11 +275,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Antonia Creswell, Yumnah Mohamied, Biswa Sengupta, Anil A Bharath",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Adversarially learned inference",
@@ -303,11 +283,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "AlexaTM 20B: few-shot learning using a large-scale multilingual seq2seq model",
@@ -400,11 +376,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Diederik P. Kingma, Max Welling",
-        "keywords": [
-            "Deep Learning",
-            "Generative Models",
-            "Variational Inference"
-        ]
+        "keywords": ["Deep Learning", "Variational Inference"]
     },
     {
         "name": "BART: denoising sequence-to-sequence pre-training for natural language generation, translation and comprehension",
@@ -623,11 +595,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Augustus Odena, Christopher Olah, Jonathon Shlens",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Conformal nucleus sampling",
@@ -921,11 +889,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jason Tyler Rolfe",
-        "keywords": [
-            "Deep Learning",
-            "Generative Models",
-            "Variational Inference"
-        ]
+        "keywords": ["Deep Learning", "Variational Inference"]
     },
     {
         "name": "Discrete-time signal processing",
@@ -944,7 +908,6 @@
         "keywords": [
             "Deep Learning",
             "Disentanglement",
-            "Generative Models",
             "Variational Inference"
         ]
     },
@@ -1290,7 +1253,7 @@
             "Adversarial Examples",
             "Adversarial Learning",
             "Deep Learning",
-            "Generative Models"
+            "GAN"
         ]
     },
     {
@@ -1315,11 +1278,15 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+    },
+    {
+        "name": "Generative pretraining from pixels",
+        "url": "https://proceedings.mlr.press/v119/chen20s.html",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Mark Chen, Alec Radford, Rewon Child, Jeffrey Wu, Heewoo Jun, David Luan, Ilya Sutskever",
+        "keywords": ["Computer Vision", "Deep Learning"]
     },
     {
         "name": "Genetic algorithms in search, optimization and machine learning",
@@ -1548,7 +1515,7 @@
         "keywords": [
             "Adversarial Learning",
             "Deep Learning",
-            "Generative Models",
+            "GAN",
             "Information Theory"
         ]
     },
@@ -2096,11 +2063,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Deepak Mishra, Prathosh A. P., Aravind Jayendran, Varun Srivastava, Santanu Chaudhury",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Multi-level memory for task oriented dialogs",
@@ -2469,11 +2432,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Prompting with pseudo-code instructions",
@@ -3306,11 +3265,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Unsupervised machine translation using monolingual corpora only",
@@ -3347,11 +3302,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Variational inference using implicit distributions",
@@ -3420,11 +3371,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Martin Arjovsky, Soumith Chintala, L\u00e9on Bottou",
-        "keywords": [
-            "Adversarial Learning",
-            "Deep Learning",
-            "Generative Models"
-        ]
+        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
     },
     {
         "name": "Wavenet: a generative model for raw audio",
@@ -3432,7 +3379,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu",
-        "keywords": ["Audio", "Deep Learning", "Generative Models"]
+        "keywords": ["Audio", "Deep Learning"]
     },
     {
         "name": "WebGPT: browser-assisted question-answering with human feedback",
@@ -3540,12 +3487,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever",
-        "keywords": [
-            "Deep Learning",
-            "Generative Models",
-            "Variational Inference",
-            "Zero Shot"
-        ]
+        "keywords": ["Deep Learning", "Variational Inference", "Zero Shot"]
     },
     {
         "name": "ZeroQuant: efficient and affordable post-training quantization for large-scale transformers",
