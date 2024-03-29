@@ -683,6 +683,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Learning transferable visual models from natural language supervision](https://arxiv.org/abs/2103.00020)  
    _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_  
    ![image][Paper] ![image][Computer Vision]
+1. [Learning transferable visual models from natural language supervision](https://arxiv.org/abs/2103.00020)  
+   _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_  
+   ![image][Paper] ![image][Computer Vision] ![image][Deep Learning] ![image][Embeddings]
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation)  
    _Andriy Mnih, Koray Kavukcuoglu_  
    ![image][Paper] ![image][Embeddings] ![image][NLP]

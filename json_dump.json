@@ -1752,6 +1752,14 @@
         "keywords": ["Computer Vision"]
     },
     {
+        "name": "Learning transferable visual models from natural language supervision",
+        "url": "https://arxiv.org/abs/2103.00020",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever",
+        "keywords": ["Computer Vision", "Deep Learning", "Embeddings"]
+    },
+    {
         "name": "Learning word embeddings efficiently with noise-contrastive estimation",
         "url": "https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation",
         "topic": "AI, DL, NLP and RL",
