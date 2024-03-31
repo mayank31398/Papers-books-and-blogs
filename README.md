@@ -299,6 +299,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533)  
    _Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
+1. [BLIP: bootstrapping language-image pre-training for unified vision-language understanding and generation](https://arxiv.org/abs/2201.12086)  
+   _Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi_  
+   ![image][Paper] ![image][Computer Vision] ![image][Embeddings]
 1. [Blockwise parallel transformer for large context models](https://arxiv.org/abs/2305.19370)  
    _Hao Liu, Pieter Abbeel_  
    ![image][Paper] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
@@ -682,7 +685,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Backpropagation] ![image][Deep Learning]
 1. [Learning transferable visual models from natural language supervision](https://arxiv.org/abs/2103.00020)  
    _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_  
-   ![image][Paper] ![image][Computer Vision]
+   ![image][Paper] ![image][Computer Vision] ![image][Embeddings]
 1. [Learning transferable visual models from natural language supervision](https://arxiv.org/abs/2103.00020)  
    _Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever_  
    ![image][Paper] ![image][Computer Vision] ![image][Deep Learning] ![image][Embeddings]

@@ -395,6 +395,14 @@
         "keywords": ["NLP", "Transformers"]
     },
     {
+        "name": "BLIP: bootstrapping language-image pre-training for unified vision-language understanding and generation",
+        "url": "https://arxiv.org/abs/2201.12086",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi",
+        "keywords": ["Computer Vision", "Embeddings"]
+    },
+    {
         "name": "BLOOM: A 176B-parameter open-access multilingual language model",
         "url": "https://arxiv.org/abs/2211.05100",
         "topic": "AI, DL, NLP and RL",
@@ -1749,7 +1757,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever",
-        "keywords": ["Computer Vision"]
+        "keywords": ["Computer Vision", "Embeddings"]
     },
     {
         "name": "Learning transferable visual models from natural language supervision",
