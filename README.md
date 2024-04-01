@@ -1177,6 +1177,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556)  
    _Karen Simonyan, Andrew Zisserman_  
    ![image][Paper] ![image][Computer Vision] ![image][Image Classification]
+1. [Visual instruction tuning](https://arxiv.org/abs/2304.08485)  
+   _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee_  
+   ![image][Paper] ![image][Computer Vision] ![image][Instruction Finetuning] ![image][Multi-modal]
 1. [Visualizing data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html)  
    _Laurens van der Maaten, Geoffrey Hinton_  
    ![image][Paper] ![image][Data Visualization] ![image][Deep Learning]

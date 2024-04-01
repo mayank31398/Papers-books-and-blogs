@@ -3374,6 +3374,14 @@
         "keywords": ["Computer Vision", "Image Classification"]
     },
     {
+        "name": "Visual instruction tuning",
+        "url": "https://arxiv.org/abs/2304.08485",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee",
+        "keywords": ["Computer Vision", "Instruction Finetuning", "Multi-modal"]
+    },
+    {
         "name": "Visualizing data using t-SNE",
         "url": "http://www.jmlr.org/papers/v9/vandermaaten08a.html",
         "topic": "AI, DL, NLP and RL",
