@@ -667,6 +667,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Language models are unsupervised multitask learners](https://openai.com/blog/better-language-models/)  
    _Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever_  
    ![image][Paper] ![image][NLP] ![image][Transformers]
+1. [Language models as compilers: simulating pseudocode execution improves algorithmic reasoning in language models](https://arxiv.org/abs/2404.02575)  
+   _Hyungjoo Chae, Yeonghyeon Kim, Seungone Kim, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo_  
+   ![image][Paper] ![image][NLP] ![image][Prompting]
 1. [Large language models are not fair evaluators](https://arxiv.org/abs/2305.17926)  
    _Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui_  
    ![image][Paper] ![image][Evaluation using LLMs] ![image][NLP]

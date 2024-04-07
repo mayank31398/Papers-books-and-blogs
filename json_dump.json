@@ -1704,6 +1704,14 @@
         "keywords": ["NLP", "Transformers"]
     },
     {
+        "name": "Language models as compilers: simulating pseudocode execution improves algorithmic reasoning in language models",
+        "url": "https://arxiv.org/abs/2404.02575",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Hyungjoo Chae, Yeonghyeon Kim, Seungone Kim, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo",
+        "keywords": ["NLP", "Prompting"]
+    },
+    {
         "name": "Large language models are not fair evaluators",
         "url": "https://arxiv.org/abs/2305.17926",
         "topic": "AI, DL, NLP and RL",
