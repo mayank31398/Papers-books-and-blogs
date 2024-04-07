@@ -57,6 +57,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Faster Training]: https://img.shields.io/static/v1?label=&message=Faster%20Training&color=blue
 [Few Shot]: https://img.shields.io/static/v1?label=&message=Few%20Shot&color=blue
 [GAN]: https://img.shields.io/static/v1?label=&message=GAN&color=blue
+[Gaming]: https://img.shields.io/static/v1?label=&message=Gaming&color=blue
 [Generative Models]: https://img.shields.io/static/v1?label=&message=Generative%20Models&color=blue
 [Genetic Algorithms]: https://img.shields.io/static/v1?label=&message=Genetic%20Algorithms&color=blue
 [Gradient Estimation]: https://img.shields.io/static/v1?label=&message=Gradient%20Estimation&color=blue
@@ -95,6 +96,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Object Detection]: https://img.shields.io/static/v1?label=&message=Object%20Detection&color=blue
 [Optimization]: https://img.shields.io/static/v1?label=&message=Optimization&color=blue
 [Out-of-Distribution]: https://img.shields.io/static/v1?label=&message=Out-of-Distribution&color=blue
+[Planning]: https://img.shields.io/static/v1?label=&message=Planning&color=blue
 [Position Embeddings]: https://img.shields.io/static/v1?label=&message=Position%20Embeddings&color=blue
 [Prompting]: https://img.shields.io/static/v1?label=&message=Prompting&color=blue
 [Pruning]: https://img.shields.io/static/v1?label=&message=Pruning&color=blue
@@ -1198,6 +1200,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [What language model to train if you have one million GPU hours?](https://openreview.net/forum?id=rI7BL3fHIZq)  
    _Teven Le Scao, Thomas Wang, Daniel Hesslow, Lucile Saulnier, Stas Bekman, M Saiful Bari, Stella Biderman, Hady Elsahar, Jason Phang, Ofir Press, Colin Raffel, Victor Sanh, Sheng Shen, Lintang Sutawika, Jaesung Tae, Zheng Xin Yong, Julien Launay, Iz Beltagy_  
    ![image][Paper] ![image][Distributed Training] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [Will GPT-4 run DOOM?](https://arxiv.org/abs/2403.05468)  
+   _Adrian de Wynter_  
+   ![image][Paper] ![image][Gaming] ![image][Planning]
 1. [Word translation without parallel data](https://openreview.net/forum?id=H196sainb)  
    _Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou_  
    ![image][Paper] ![image][Machine Translation] ![image][NLP]

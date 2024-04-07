@@ -3427,6 +3427,14 @@
         ]
     },
     {
+        "name": "Will GPT-4 run DOOM?",
+        "url": "https://arxiv.org/abs/2403.05468",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Adrian de Wynter",
+        "keywords": ["Gaming", "Planning"]
+    },
+    {
         "name": "Word translation without parallel data",
         "url": "https://openreview.net/forum?id=H196sainb",
         "topic": "AI, DL, NLP and RL",
