@@ -107,6 +107,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Quantum Teleportation]: https://img.shields.io/static/v1?label=&message=Quantum%20Teleportation&color=blue
 [Question Answering]: https://img.shields.io/static/v1?label=&message=Question%20Answering&color=blue
 [Reading Comprehension]: https://img.shields.io/static/v1?label=&message=Reading%20Comprehension&color=blue
+[Reasoning]: https://img.shields.io/static/v1?label=&message=Reasoning&color=blue
 [Recommender Systems]: https://img.shields.io/static/v1?label=&message=Recommender%20Systems&color=blue
 [Regularization]: https://img.shields.io/static/v1?label=&message=Regularization&color=blue
 [Reinforcement Learning]: https://img.shields.io/static/v1?label=&message=Reinforcement%20Learning&color=blue
@@ -462,6 +463,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [End-to-end task-oriented dialog modeling with semi-structured knowledge management](https://arxiv.org/abs/2106.11796)  
    _Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
+1. [Enhance reasoning for large language models in the game Werewolf](https://arxiv.org/abs/2402.02330)  
+   _Shuang Wu, Liwen Zhu, Tao Yang, Shiwei Xu, Qiang Fu, Yang Wei, Haobo Fu_  
+   ![image][Paper] ![image][Gaming] ![image][Reasoning] ![image][Reinforcement Learning]
 1. [Ensemble adversarial training: attacks and defenses](https://arxiv.org/abs/1705.07204)  
    _Florian Tramèr, Alexey Kurakin, Nicolas Papernot, Ian Goodfellow, Dan Boneh, Patrick McDaniel_  
    ![image][Paper] ![image][Adversarial Examples] ![image][Deep Learning] ![image][Robustness]

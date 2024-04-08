@@ -1005,6 +1005,14 @@
         "keywords": ["Dialog", "NLP"]
     },
     {
+        "name": "Enhance reasoning for large language models in the game Werewolf",
+        "url": "https://arxiv.org/abs/2402.02330",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Shuang Wu, Liwen Zhu, Tao Yang, Shiwei Xu, Qiang Fu, Yang Wei, Haobo Fu",
+        "keywords": ["Gaming", "Reasoning", "Reinforcement Learning"]
+    },
+    {
         "name": "Ensemble adversarial training: attacks and defenses",
         "url": "https://arxiv.org/abs/1705.07204",
         "topic": "AI, DL, NLP and RL",
