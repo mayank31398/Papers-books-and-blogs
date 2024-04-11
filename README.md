@@ -1069,6 +1069,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Tackling the poor assumptions of Naive Bayes text classifiers](https://dl.acm.org/citation.cfm?id=3041916)  
    _Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger_  
    ![image][Paper] ![image][NLP]
+1. [Tensor programs V: tuning large neural networks via zero-shot hyperparameter transfer](https://arxiv.org/abs/2203.03466)  
+   _Greg Yang, Edward J. Hu, Igor Babuschkin, Szymon Sidor, Xiaodong Liu, David Farhi, Nick Ryder, Jakub Pachocki, Weizhu Chen, Jianfeng Gao_  
+   ![image][Paper] ![image][Deep Learning] ![image][Hyperparameter Search]
 1. [The best of both worlds: combining recent advances in neural machine translation](https://arxiv.org/abs/1804.09849)  
    _Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes_  
    ![image][Paper] ![image][Machine Translation] ![image][NLP]

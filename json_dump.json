@@ -3028,6 +3028,14 @@
         "keywords": ["Quantum Computing", "Quantum Teleportation"]
     },
     {
+        "name": "Tensor programs V: tuning large neural networks via zero-shot hyperparameter transfer",
+        "url": "https://arxiv.org/abs/2203.03466",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Greg Yang, Edward J. Hu, Igor Babuschkin, Szymon Sidor, Xiaodong Liu, David Farhi, Nick Ryder, Jakub Pachocki, Weizhu Chen, Jianfeng Gao",
+        "keywords": ["Deep Learning", "Hyperparameter Search"]
+    },
+    {
         "name": "The Flan collection: designing data and methods for effective instruction tuning",
         "url": "https://arxiv.org/abs/2301.13688",
         "topic": "AI, DL, NLP and RL",
