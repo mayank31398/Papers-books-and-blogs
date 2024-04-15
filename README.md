@@ -520,6 +520,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Foundations of NLP explained visually: beam search, how it works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)  
    _Ketan Doshi_  
    ![image][Blog] ![image][Algorithms] ![image][NLP]
+1. [FP8 formats for deep learning](https://arxiv.org/abs/2209.05433)  
+   _Paulius Micikevicius, Dusan Stosic, Neil Burgess, Marius Cornea, Pradeep Dubey, Richard Grisenthwaite, Sangwon Ha, Alexander Heinecke, Patrick Judd, John Kamalu, Naveen Mellempudi, Stuart Oberman, Mohammad Shoeybi, Michael Siu, Hao Wu_  
+   ![image][Paper] ![image][Deep Learning] ![image][Quantization] ![image][Systems]
 1. [Gemma: open models based on Gemini research and technology](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)  
    _Gemma Team_  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
@@ -771,7 +774,7 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Energy-based Models] ![image][NLP]
 1. [Mixed precision training](https://arxiv.org/abs/1710.03740)  
    _Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu_  
-   ![image][Paper] ![image][Deep Learning] ![image][Large Models]
+   ![image][Paper] ![image][Deep Learning] ![image][Quantization]
 1. [Mixture of attention heads: selecting attention heads per token](https://arxiv.org/abs/2210.05144)  
    _Xiaofeng Zhang, Yikang Shen, Zeyu Huang, Jie Zhou, Wenge Rong, Zhang Xiong_  
    ![image][Paper] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts] ![image][Transformers]
