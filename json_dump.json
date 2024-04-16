@@ -1112,6 +1112,14 @@
         "keywords": ["Deep Learning", "Quantization", "Systems"]
     },
     {
+        "name": "FP8-LM: training FP8 large language models",
+        "url": "https://arxiv.org/abs/2310.18313",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Houwen Peng, Kan Wu, Yixuan Wei, Guoshuai Zhao, Yuxiang Yang, Ze Liu, Yifan Xiong, Ziyue Yang, Bolin Ni, Jingcheng Hu, Ruihang Li, Miaosen Zhang, Chen Li, Jia Ning, Ruizhe Wang, Zheng Zhang, Shuguang Liu, Joe Chau, Han Hu, Peng Cheng",
+        "keywords": ["Deep Learning", "Quantization", "Systems"]
+    },
+    {
         "name": "Fast abstractive summarization with reinforce-selected sentence rewriting",
         "url": "https://arxiv.org/abs/1805.11080",
         "topic": "AI, DL, NLP and RL",

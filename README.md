@@ -523,6 +523,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [FP8 formats for deep learning](https://arxiv.org/abs/2209.05433)  
    _Paulius Micikevicius, Dusan Stosic, Neil Burgess, Marius Cornea, Pradeep Dubey, Richard Grisenthwaite, Sangwon Ha, Alexander Heinecke, Patrick Judd, John Kamalu, Naveen Mellempudi, Stuart Oberman, Mohammad Shoeybi, Michael Siu, Hao Wu_  
    ![image][Paper] ![image][Deep Learning] ![image][Quantization] ![image][Systems]
+1. [FP8-LM: training FP8 large language models](https://arxiv.org/abs/2310.18313)  
+   _Houwen Peng, Kan Wu, Yixuan Wei, Guoshuai Zhao, Yuxiang Yang, Ze Liu, Yifan Xiong, Ziyue Yang, Bolin Ni, Jingcheng Hu, Ruihang Li, Miaosen Zhang, Chen Li, Jia Ning, Ruizhe Wang, Zheng Zhang, Shuguang Liu, Joe Chau, Han Hu, Peng Cheng_  
+   ![image][Paper] ![image][Deep Learning] ![image][Quantization] ![image][Systems]
 1. [Gemma: open models based on Gemini research and technology](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)  
    _Gemma Team_  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
