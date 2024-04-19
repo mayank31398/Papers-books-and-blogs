@@ -35,6 +35,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Dataset]: https://img.shields.io/static/v1?label=&message=Dataset&color=blue
 [Decentralized Training]: https://img.shields.io/static/v1?label=&message=Decentralized%20Training&color=blue
 [Deep Learning]: https://img.shields.io/static/v1?label=&message=Deep%20Learning&color=blue
+[Deep Learning Compiler]: https://img.shields.io/static/v1?label=&message=Deep%20Learning%20Compiler&color=blue
 [Deployment]: https://img.shields.io/static/v1?label=&message=Deployment&color=blue
 [Dialog]: https://img.shields.io/static/v1?label=&message=Dialog&color=blue
 [Differential Equations]: https://img.shields.io/static/v1?label=&message=Differential%20Equations&color=blue
@@ -591,6 +592,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [How big should my language model be?](https://huggingface.co/calculator/)  
    _Teven Le Scao_  
    ![image][Blog] ![image][Large Models] ![image][NLP] ![image][Scaling Laws]
+1. [How Pytorch 2.0 accelerates deep learning with operator fusion and CPU/GPU code-generation](https://towardsdatascience.com/how-pytorch-2-0-accelerates-deep-learning-with-operator-fusion-and-cpu-gpu-code-generation-35132a85bd26)  
+   _Shashank Prasanna_  
+   ![image][Blog] ![image][Deep Learning Compiler] ![image][Systems]
 1. [How should AI systems behave, and who should decide?](https://openai.com/blog/how-should-ai-systems-behave)  
    ![image][Blog] ![image][NLP] ![image][Safety and Alignment]
 1. [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)  

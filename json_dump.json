@@ -1397,6 +1397,14 @@
         "keywords": ["Adversarial Examples", "NLP"]
     },
     {
+        "name": "How Pytorch 2.0 accelerates deep learning with operator fusion and CPU/GPU code-generation",
+        "url": "https://towardsdatascience.com/how-pytorch-2-0-accelerates-deep-learning-with-operator-fusion-and-cpu-gpu-code-generation-35132a85bd26",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Shashank Prasanna",
+        "keywords": ["Deep Learning Compiler", "Systems"]
+    },
+    {
         "name": "How big should my language model be?",
         "url": "https://huggingface.co/calculator/",
         "topic": "AI, DL, NLP and RL",
