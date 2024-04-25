@@ -2499,6 +2499,14 @@
         "keywords": ["NLP", "Prompting"]
     },
     {
+        "name": "Proximal policy optimization algorithms",
+        "url": "https://arxiv.org/abs/1707.06347",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov",
+        "keywords": ["Reinforcement Learning"]
+    },
+    {
         "name": "PullNet: open domain question answering with iterative retrieval on knowledge bases and text",
         "url": "https://arxiv.org/abs/1904.09537",
         "topic": "AI, DL, NLP and RL",

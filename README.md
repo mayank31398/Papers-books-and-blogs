@@ -920,6 +920,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Prompting with pseudo-code instructions](https://arxiv.org/abs/2305.11790)  
    _Mayank Mishra, Prince Kumar, Riyaz Bhat, Rudra Murthy V, Danish Contractor, Srikanth Tamilselvam_  
    ![image][Paper] ![image][NLP] ![image][Prompting]
+1. [Proximal policy optimization algorithms](https://arxiv.org/abs/1707.06347)  
+   _John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov_  
+   ![image][Paper] ![image][Reinforcement Learning]
 1. [PullNet: open domain question answering with iterative retrieval on knowledge bases and text](https://arxiv.org/abs/1904.09537)  
    _Haitian Sun, Tania Bedrax-Weiss, William Cohen_  
    ![image][Paper] ![image][NLP] ![image][Question Answering]
