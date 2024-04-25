@@ -1648,6 +1648,14 @@
         "keywords": ["Deep Learning", "Sparse Matrices"]
     },
     {
+        "name": "Jack of all trades, master of some, a multi-purpose transformer agent",
+        "url": "https://huggingface.co/blog/jat",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Quentin Gallou\u00e9dec, Edward Beeching, Cl\u00e9ment Romac, Thomas Wolf",
+        "keywords": ["Reinforcement Learning"]
+    },
+    {
         "name": "Joint reasoning on hybrid-knowledge sources for task-oriented dialog",
         "url": "https://arxiv.org/abs/2210.07295",
         "topic": "AI, DL, NLP and RL",

@@ -654,6 +654,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Is the future of neural networks Sparse? An introduction (1/N)](https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70)  
    _François Lagunas_  
    ![image][Blog] ![image][Deep Learning] ![image][Sparse Matrices]
+1. [Jack of all trades, master of some, a multi-purpose transformer agent](https://huggingface.co/blog/jat)  
+   _Quentin Gallouédec, Edward Beeching, Clément Romac, Thomas Wolf_  
+   ![image][Blog] ![image][Reinforcement Learning]
 1. [Joint reasoning on hybrid-knowledge sources for task-oriented dialog](https://arxiv.org/abs/2210.07295)  
    _Mayank Mishra, Danish Contractor, Dinesh Raghu_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
