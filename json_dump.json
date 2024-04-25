@@ -1656,6 +1656,14 @@
         "keywords": ["Reinforcement Learning"]
     },
     {
+        "name": "Jack of all trades, master of some, a multi-purpose transformer agent",
+        "url": "https://arxiv.org/abs/2402.09844",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Quentin Gallou\u00e9dec, Edward Beeching, Cl\u00e9ment Romac, Emmanuel Dellandr\u00e9a",
+        "keywords": ["Reinforcement Learning"]
+    },
+    {
         "name": "Joint reasoning on hybrid-knowledge sources for task-oriented dialog",
         "url": "https://arxiv.org/abs/2210.07295",
         "topic": "AI, DL, NLP and RL",

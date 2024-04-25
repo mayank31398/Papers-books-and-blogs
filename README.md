@@ -657,6 +657,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Jack of all trades, master of some, a multi-purpose transformer agent](https://huggingface.co/blog/jat)  
    _Quentin Gallouédec, Edward Beeching, Clément Romac, Thomas Wolf_  
    ![image][Blog] ![image][Reinforcement Learning]
+1. [Jack of all trades, master of some, a multi-purpose transformer agent](https://arxiv.org/abs/2402.09844)  
+   _Quentin Gallouédec, Edward Beeching, Clément Romac, Emmanuel Dellandréa_  
+   ![image][Paper] ![image][Reinforcement Learning]
 1. [Joint reasoning on hybrid-knowledge sources for task-oriented dialog](https://arxiv.org/abs/2210.07295)  
    _Mayank Mishra, Danish Contractor, Dinesh Raghu_  
    ![image][Paper] ![image][Dialog] ![image][NLP]
