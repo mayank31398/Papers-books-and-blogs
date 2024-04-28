@@ -3084,6 +3084,14 @@
         "keywords": ["Deep Learning", "Hyperparameter Search"]
     },
     {
+        "name": "TextWorld: a learning environment for text-based games",
+        "url": "https://arxiv.org/abs/1806.11532",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Marc-Alexandre C\u00f4t\u00e9, \u00c1kos K\u00e1d\u00e1r, Xingdi Yuan, Ben Kybartas, Tavian Barnes, Emery Fine, James Moore, Ruo Yu Tao, Matthew Hausknecht, Layla El Asri, Mahmoud Adada, Wendy Tay, Adam Trischler",
+        "keywords": ["RL environments", "Reinforcement Learning"]
+    },
+    {
         "name": "The Flan collection: designing data and methods for effective instruction tuning",
         "url": "https://arxiv.org/abs/2301.13688",
         "topic": "AI, DL, NLP and RL",

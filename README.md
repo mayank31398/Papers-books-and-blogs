@@ -107,6 +107,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Quantum Computing]: https://img.shields.io/static/v1?label=&message=Quantum%20Computing&color=blue
 [Quantum Teleportation]: https://img.shields.io/static/v1?label=&message=Quantum%20Teleportation&color=blue
 [Question Answering]: https://img.shields.io/static/v1?label=&message=Question%20Answering&color=blue
+[RL environments]: https://img.shields.io/static/v1?label=&message=RL%20environments&color=blue
 [Reading Comprehension]: https://img.shields.io/static/v1?label=&message=Reading%20Comprehension&color=blue
 [Reasoning]: https://img.shields.io/static/v1?label=&message=Reasoning&color=blue
 [Recommender Systems]: https://img.shields.io/static/v1?label=&message=Recommender%20Systems&color=blue
@@ -1091,6 +1092,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Tensor programs V: tuning large neural networks via zero-shot hyperparameter transfer](https://arxiv.org/abs/2203.03466)  
    _Greg Yang, Edward J. Hu, Igor Babuschkin, Szymon Sidor, Xiaodong Liu, David Farhi, Nick Ryder, Jakub Pachocki, Weizhu Chen, Jianfeng Gao_  
    ![image][Paper] ![image][Deep Learning] ![image][Hyperparameter Search]
+1. [TextWorld: a learning environment for text-based games](https://arxiv.org/abs/1806.11532)  
+   _Marc-Alexandre Côté, Ákos Kádár, Xingdi Yuan, Ben Kybartas, Tavian Barnes, Emery Fine, James Moore, Ruo Yu Tao, Matthew Hausknecht, Layla El Asri, Mahmoud Adada, Wendy Tay, Adam Trischler_  
+   ![image][Paper] ![image][RL environments] ![image][Reinforcement Learning]
 1. [The best of both worlds: combining recent advances in neural machine translation](https://arxiv.org/abs/1804.09849)  
    _Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes_  
    ![image][Paper] ![image][Machine Translation] ![image][NLP]
