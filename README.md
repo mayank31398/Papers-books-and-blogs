@@ -581,6 +581,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Graph attention networks](https://arxiv.org/abs/1710.10903)  
    _Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio_  
    ![image][Paper] ![image][Deep Learning] ![image][Graph Neural Networks]
+1. [Grounding large language models in interactive environments with online reinforcement learning](https://arxiv.org/abs/2302.02662)  
+   _Thomas Carta, Clément Romac, Thomas Wolf, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer_  
+   ![image][Paper] ![image][RL environments] ![image][Reinforcement Learning]
 1. [Hierarchical neural story generation](https://arxiv.org/abs/1805.04833)  
    _Angela Fan, Mike Lewis, Yann Dauphin_  
    ![image][Paper] ![image][NLP] ![image][Story Generation]

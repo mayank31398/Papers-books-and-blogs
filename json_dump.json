@@ -1369,6 +1369,14 @@
         "keywords": ["Deep Learning", "Graph Neural Networks"]
     },
     {
+        "name": "Grounding large language models in interactive environments with online reinforcement learning",
+        "url": "https://arxiv.org/abs/2302.02662",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Thomas Carta, Cl\u00e9ment Romac, Thomas Wolf, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer",
+        "keywords": ["RL environments", "Reinforcement Learning"]
+    },
+    {
         "name": "Hierarchical neural story generation",
         "url": "https://arxiv.org/abs/1805.04833",
         "topic": "AI, DL, NLP and RL",
