@@ -69,8 +69,8 @@ def MakeElement(json_obj: json, add_shield: bool) -> str:
     else:
         element += "{}".format(json_obj["name"])
 
-    if json_obj["authors"]:
-        element += "  \n*{}*".format(json_obj["authors"])
+    # if json_obj["authors"]:
+    #     element += "  \n*{}*".format(json_obj["authors"])
 
     if add_shield:
         element += "  \n![image][{}]".format(json_obj["datatype"])
