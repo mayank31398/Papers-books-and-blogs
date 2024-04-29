@@ -1268,6 +1268,14 @@
         "keywords": ["Attention Mechanism", "NLP", "Transformers"]
     },
     {
+        "name": "Gemini: a family of highly capable multimodal models",
+        "url": "https://arxiv.org/abs/2312.11805",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Gemini Team",
+        "keywords": ["Large Models", "NLP"]
+    },
+    {
         "name": "Gemma: open models based on Gemini research and technology",
         "url": "https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf",
         "topic": "AI, DL, NLP and RL",
