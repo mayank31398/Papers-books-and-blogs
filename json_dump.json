@@ -88,6 +88,14 @@
         "keywords": ["Deep Learning"]
     },
     {
+        "name": "A generalist agent",
+        "url": "https://arxiv.org/abs/2205.06175",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas",
+        "keywords": ["Reinforcement Learning"]
+    },
+    {
         "name": "A gentle introduction to 8-bit matrix multiplication for transformers at scale using Hugging Face transformers, accelerate and bitsandbytes",
         "url": "https://huggingface.co/blog/hf-bitsandbytes-integration",
         "topic": "AI, DL, NLP and RL",

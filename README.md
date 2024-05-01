@@ -177,6 +177,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Few Shot] ![image][NLP]
 1. [A general and adaptive robust loss function](https://arxiv.org/abs/1701.03077)  
    ![image][Paper] ![image][Deep Learning]
+1. [A generalist agent](https://arxiv.org/abs/2205.06175)  
+   ![image][Paper] ![image][Reinforcement Learning]
 1. [A gentle introduction to 8-bit matrix multiplication for transformers at scale using Hugging Face transformers, accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)  
    ![image][Blog] ![image][Deep Learning] ![image][Quantization] ![image][Transformers]
 1. [A note on the evaluation of generative models](https://arxiv.org/abs/1511.01844)  
