@@ -73,6 +73,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Image Classification]: https://img.shields.io/static/v1?label=&message=Image%20Classification&color=blue
 [Image Super Resolution]: https://img.shields.io/static/v1?label=&message=Image%20Super%20Resolution&color=blue
 [In Context Learning]: https://img.shields.io/static/v1?label=&message=In%20Context%20Learning&color=blue
+[Inference Optimization]: https://img.shields.io/static/v1?label=&message=Inference%20Optimization&color=blue
 [Information Retrieval]: https://img.shields.io/static/v1?label=&message=Information%20Retrieval&color=blue
 [Information Theory]: https://img.shields.io/static/v1?label=&message=Information%20Theory&color=blue
 [Instruction Finetuning]: https://img.shields.io/static/v1?label=&message=Instruction%20Finetuning&color=blue
@@ -273,6 +274,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Blog] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Building blocks for a complex-valued transformer architecture](https://arxiv.org/abs/2306.09827)  
    ![image][Paper] ![image][Complex Numbers] ![image][Deep Learning] ![image][Transformers]
+1. [CATS: contextually-aware thresholding for sparsity in large language models](https://arxiv.org/abs/2404.08763)  
+   ![image][Paper] ![image][Deep Learning] ![image][Inference Optimization] ![image][Sparse Matrices] ![image][Systems]
 1. [ChatGPT: optimizing language models for dialogue](https://openai.com/blog/chatgpt/)  
    ![image][Blog] ![image][Dialog] ![image][NLP]
 1. [ColBERT: efficient and effective passage search via contextualized late interaction over BERT](https://arxiv.org/abs/2004.12832)  

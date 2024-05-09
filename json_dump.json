@@ -521,6 +521,19 @@
         "keywords": ["Complex Numbers", "Deep Learning", "Transformers"]
     },
     {
+        "name": "CATS: contextually-aware thresholding for sparsity in large language models",
+        "url": "https://arxiv.org/abs/2404.08763",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Je-Yong Lee, Donghyun Lee, Genghan Zhang, Mo Tiwari, Azalia Mirhoseini",
+        "keywords": [
+            "Deep Learning",
+            "Inference Optimization",
+            "Sparse Matrices",
+            "Systems"
+        ]
+    },
+    {
         "name": "Calculus of variations",
         "url": null,
         "topic": "Calculus",
