@@ -526,12 +526,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Je-Yong Lee, Donghyun Lee, Genghan Zhang, Mo Tiwari, Azalia Mirhoseini",
-        "keywords": [
-            "Deep Learning",
-            "Inference Optimization",
-            "Sparse Matrices",
-            "Systems"
-        ]
+        "keywords": ["Efficient Inference", "Sparse Matrices", "Systems"]
     },
     {
         "name": "Calculus of variations",
@@ -1485,6 +1480,14 @@
         "datatype": "Paper",
         "authors": "Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang",
         "keywords": ["Dialog", "NLP"]
+    },
+    {
+        "name": "Hydragen: high-throughput LLM inference with shared prefixes",
+        "url": "https://arxiv.org/abs/2402.05099",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jordan Juravsky, Bradley Brown, Ryan Ehrlich, Daniel Y. Fu, Christopher R\u00e9, Azalia Mirhoseini",
+        "keywords": ["Efficient Inference", "Systems"]
     },
     {
         "name": "Hyperparameter search with Transformers and Ray Tune",
