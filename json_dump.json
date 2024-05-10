@@ -1872,6 +1872,14 @@
         "keywords": ["Embeddings", "NLP"]
     },
     {
+        "name": "Leave no context behind: efficient infinite context transformers with infini-attention",
+        "url": "https://arxiv.org/abs/2404.07143",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Tsendsuren Munkhdalai, Manaal Faruqui, Siddharth Gopal",
+        "keywords": ["Long Context Length", "NLP"]
+    },
+    {
         "name": "Lessons learned on language model safety and misuse",
         "url": "https://openai.com/blog/language-model-safety-and-misuse/",
         "topic": "AI, DL, NLP and RL",

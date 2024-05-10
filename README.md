@@ -546,6 +546,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Computer Vision] ![image][Deep Learning] ![image][Embeddings]
 1. [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation)  
    ![image][Paper] ![image][Embeddings] ![image][NLP]
+1. [Leave no context behind: efficient infinite context transformers with infini-attention](https://arxiv.org/abs/2404.07143)  
+   ![image][Paper] ![image][Long Context Length] ![image][NLP]
 1. [Lessons learned on language model safety and misuse](https://openai.com/blog/language-model-safety-and-misuse/)  
    ![image][Blog] ![image][Ethical Impacts of AI] ![image][NLP]
 1. [Lifelong language pretraining with distribution-specialized experts](https://arxiv.org/abs/2305.12281)  
