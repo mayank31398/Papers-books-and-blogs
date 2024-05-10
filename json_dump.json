@@ -3571,6 +3571,14 @@
         "keywords": ["Large Models", "NLP", "Transformers"]
     },
     {
+        "name": "You only cache once: decoder-decoder architectures for language models",
+        "url": "https://arxiv.org/abs/2405.05254",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei",
+        "keywords": ["Efficient Inference"]
+    },
+    {
         "name": "You only look once: unified, real-time object detection",
         "url": "https://arxiv.org/abs/1506.02640",
         "topic": "AI, DL, NLP and RL",

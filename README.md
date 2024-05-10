@@ -896,6 +896,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Machine Translation] ![image][NLP]
 1. [Yandex publishes YaLM 100B. It’s the largest GPT-like neural network in open source](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6)  
    ![image][Blog] ![image][Large Models] ![image][NLP] ![image][Transformers]
+1. [You only cache once: decoder-decoder architectures for language models](https://arxiv.org/abs/2405.05254)  
+   ![image][Paper] ![image][Efficient Inference]
 1. [You only look once: unified, real-time object detection](https://arxiv.org/abs/1506.02640)  
    ![image][Paper] ![image][Computer Vision] ![image][Object Detection]
 1. [ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters](https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/)  
