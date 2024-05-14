@@ -3312,6 +3312,14 @@
         "keywords": ["Deep Learning", "Transformers"]
     },
     {
+        "name": "Transformer-XL: attentive language models beyond a fixed-length context",
+        "url": "https://arxiv.org/abs/1901.02860",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov",
+        "keywords": ["Long Context Length", "NLP", "Transformers"]
+    },
+    {
         "name": "Transformers explained visually (part 1): overview of functionality",
         "url": "https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452",
         "topic": "AI, DL, NLP and RL",

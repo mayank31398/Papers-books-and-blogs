@@ -838,6 +838,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Information Retrieval] ![image][NLP] ![image][Retrieval-Augmented Generation]
 1. [Transformer quality in linear time](https://arxiv.org/abs/2202.10447)  
    ![image][Paper] ![image][Deep Learning] ![image][Transformers]
+1. [Transformer-XL: attentive language models beyond a fixed-length context](https://arxiv.org/abs/1901.02860)  
+   ![image][Paper] ![image][Long Context Length] ![image][NLP] ![image][Transformers]
 1. [Transformers explained visually (part 1): overview of functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)  
    ![image][Blog] ![image][Deep Learning] ![image][Transformers]
 1. [Transformers explained visually (part 2): how it works, step-by-step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)  
