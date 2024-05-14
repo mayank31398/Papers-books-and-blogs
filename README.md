@@ -318,6 +318,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Curriculum Learning] ![image][Deep Learning]
 1. [Cutting down on prompts and parameters: simple few-shot learning with language models](https://arxiv.org/abs/2106.13353)  
    ![image][Paper] ![image][Efficient Finetuning] ![image][Few Shot] ![image][NLP]
+1. [Data engineering for scaling language models to 128K context](https://arxiv.org/abs/2402.10171)  
+   ![image][Paper] ![image][Data Mixtures] ![image][Long Context Length] ![image][NLP]
 1. [Deep Boltzmann machines](https://proceedings.mlr.press/v5/salakhutdinov09a.html)  
    ![image][Paper] ![image][Boltzmann Machines] ![image][Deep Learning] ![image][Energy-based Models]
 1. [Deep complex networks](https://arxiv.org/abs/1705.09792)  

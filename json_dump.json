@@ -748,6 +748,14 @@
         "keywords": ["Efficient Finetuning", "Few Shot", "NLP"]
     },
     {
+        "name": "Data engineering for scaling language models to 128K context",
+        "url": "https://arxiv.org/abs/2402.10171",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Yao Fu, Rameswar Panda, Xinyao Niu, Xiang Yue, Hannaneh Hajishirzi, Yoon Kim, Hao Peng",
+        "keywords": ["Data Mixtures", "Long Context Length", "NLP"]
+    },
+    {
         "name": "Data structures and algorithms in Java",
         "url": null,
         "topic": "Data Structures and Algorithms",
