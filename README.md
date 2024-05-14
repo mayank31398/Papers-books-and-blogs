@@ -534,6 +534,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Normalization] ![image][Optimization]
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830)  
    ![image][Paper] ![image][Deep Learning]
+1. [Learning associative inference using fast weight memory](https://arxiv.org/abs/2011.07831)  
+   ![image][Paper] ![image][Long Context Length] ![image][NLP]
 1. [Learning discourse-level diversity for neural dialog models using conditional variational autoencoders](https://arxiv.org/abs/1703.10960)  
    ![image][Paper] ![image][Dialog] ![image][NLP] ![image][Variational Inference]
 1. [Learning on a general network](https://papers.nips.cc/paper/9-learning-on-a-general-network)  

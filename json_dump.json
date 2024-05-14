@@ -1824,6 +1824,14 @@
         "keywords": ["Deep Learning"]
     },
     {
+        "name": "Learning associative inference using fast weight memory",
+        "url": "https://arxiv.org/abs/2011.07831",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Imanol Schlag, Tsendsuren Munkhdalai, J\u00fcrgen Schmidhuber",
+        "keywords": ["Long Context Length", "NLP"]
+    },
+    {
         "name": "Learning discourse-level diversity for neural dialog models using conditional variational autoencoders",
         "url": "https://arxiv.org/abs/1703.10960",
         "topic": "AI, DL, NLP and RL",
