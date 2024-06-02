@@ -3718,5 +3718,13 @@
         "datatype": "Paper",
         "authors": "Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner",
         "keywords": ["Deep Learning", "Variational Inference"]
+    },
+    {
+        "name": "\ud83c\udf77 FineWeb: decanting the web for the finest text data at scale",
+        "url": "https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Guilherme Penedo, Hynek Kydl\u00ed\u010dek, Loubna Ben Allal, Anton Lozhkov, Colin Raffel, Leandro Werra, Thomas Wolf",
+        "keywords": ["Data Curation", "NLP"]
     }
 ]

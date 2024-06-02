@@ -29,6 +29,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Constituency Parsing]: https://img.shields.io/static/v1?label=&message=Constituency%20Parsing&color=blue
 [Convergence]: https://img.shields.io/static/v1?label=&message=Convergence&color=blue
 [Curriculum Learning]: https://img.shields.io/static/v1?label=&message=Curriculum%20Learning&color=blue
+[Data Curation]: https://img.shields.io/static/v1?label=&message=Data%20Curation&color=blue
 [Data Mixtures]: https://img.shields.io/static/v1?label=&message=Data%20Mixtures&color=blue
 [Data Visualization]: https://img.shields.io/static/v1?label=&message=Data%20Visualization&color=blue
 [Dataflow Architecture]: https://img.shields.io/static/v1?label=&message=Dataflow%20Architecture&color=blue
@@ -924,6 +925,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Quantization]
 1. [β-VAE: learning basic visual concepts with a constrained variational framework](https://openreview.net/forum?id=Sy2fzU9gl)  
    ![image][Paper] ![image][Deep Learning] ![image][Variational Inference]
+1. [🍷 FineWeb: decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)  
+   ![image][Blog] ![image][Data Curation] ![image][NLP]
 
 # Calculus
 
