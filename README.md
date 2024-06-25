@@ -903,6 +903,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Gaming] ![image][Planning]
 1. [Word translation without parallel data](https://openreview.net/forum?id=H196sainb)  
    ![image][Paper] ![image][Machine Translation] ![image][NLP]
+1. [Writing CUDA kernels for PyTorch](https://tinkerd.net/blog/machine-learning/cuda-basics/)  
+   ![image][Blog] ![image][Systems]
 1. [Yandex publishes YaLM 100B. It’s the largest GPT-like neural network in open source](https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6)  
    ![image][Blog] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [You only cache once: decoder-decoder architectures for language models](https://arxiv.org/abs/2405.05254)  

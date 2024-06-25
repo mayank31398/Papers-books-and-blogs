@@ -3595,6 +3595,13 @@
         "keywords": ["Machine Translation", "NLP"]
     },
     {
+        "name": "Writing CUDA kernels for PyTorch",
+        "url": "https://tinkerd.net/blog/machine-learning/cuda-basics/",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "keywords": ["Systems"]
+    },
+    {
         "name": "Yandex publishes YaLM 100B. It\u2019s the largest GPT-like neural network in open source",
         "url": "https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6",
         "topic": "AI, DL, NLP and RL",
