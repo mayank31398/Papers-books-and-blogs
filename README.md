@@ -85,6 +85,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Machine Translation]: https://img.shields.io/static/v1?label=&message=Machine%20Translation&color=blue
 [Mathematical Reasoning]: https://img.shields.io/static/v1?label=&message=Mathematical%20Reasoning&color=blue
 [Memory]: https://img.shields.io/static/v1?label=&message=Memory&color=blue
+[Memory Reduction]: https://img.shields.io/static/v1?label=&message=Memory%20Reduction&color=blue
 [Meta Learning]: https://img.shields.io/static/v1?label=&message=Meta%20Learning&color=blue
 [Miscellaneous]: https://img.shields.io/static/v1?label=&message=Miscellaneous&color=blue
 [Mixture of Experts]: https://img.shields.io/static/v1?label=&message=Mixture%20of%20Experts&color=blue
@@ -535,6 +536,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Evaluation using LLMs] ![image][NLP]
 1. [Layer normalization](http://arxiv.org/abs/1607.06450)  
    ![image][Paper] ![image][Deep Learning] ![image][Normalization] ![image][Optimization]
+1. [Layer-condensed KV cache for efficient inference of large language models](https://arxiv.org/abs/2405.10637)  
+   ![image][Blog] ![image][Memory Reduction] ![image][NLP] ![image][Transformers]
 1. [Learning activation functions to improve deep neural networks](https://arxiv.org/abs/1412.6830)  
    ![image][Paper] ![image][Deep Learning]
 1. [Learning associative inference using fast weight memory](https://arxiv.org/abs/2011.07831)  

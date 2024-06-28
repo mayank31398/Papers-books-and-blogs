@@ -1824,6 +1824,14 @@
         "keywords": ["Deep Learning", "Normalization", "Optimization"]
     },
     {
+        "name": "Layer-condensed KV cache for efficient inference of large language models",
+        "url": "https://arxiv.org/abs/2405.10637",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Haoyi Wu, Kewei Tu",
+        "keywords": ["Memory Reduction", "NLP", "Transformers"]
+    },
+    {
         "name": "Learning activation functions to improve deep neural networks",
         "url": "https://arxiv.org/abs/1412.6830",
         "topic": "AI, DL, NLP and RL",
