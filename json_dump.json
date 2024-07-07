@@ -469,6 +469,14 @@
         ]
     },
     {
+        "name": "Better & faster large language models via multi-token prediction",
+        "url": "https://arxiv.org/abs/2404.19737",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozi\u00e8re, David Lopez-Paz, Gabriel Synnaeve",
+        "keywords": ["Faster Inference", "NLP"]
+    },
+    {
         "name": "Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access",
         "url": "https://arxiv.org/abs/2006.03533",
         "topic": "AI, DL, NLP and RL",

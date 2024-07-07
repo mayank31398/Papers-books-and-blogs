@@ -57,6 +57,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Ethical Impacts of AI]: https://img.shields.io/static/v1?label=&message=Ethical%20Impacts%20of%20AI&color=blue
 [Evaluation using LLMs]: https://img.shields.io/static/v1?label=&message=Evaluation%20using%20LLMs&color=blue
 [Fake Content Detection]: https://img.shields.io/static/v1?label=&message=Fake%20Content%20Detection&color=blue
+[Faster Inference]: https://img.shields.io/static/v1?label=&message=Faster%20Inference&color=blue
 [Faster Training]: https://img.shields.io/static/v1?label=&message=Faster%20Training&color=blue
 [Few Shot]: https://img.shields.io/static/v1?label=&message=Few%20Shot&color=blue
 [GAN]: https://img.shields.io/static/v1?label=&message=GAN&color=blue
@@ -258,6 +259,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Behavior and Control] ![image][Deep Learning] ![image][Genetic Algorithms] ![image][Robotics]
 1. [BERT: pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805)  
    ![image][Paper] ![image][NLP] ![image][Transformers]
+1. [Better & faster large language models via multi-token prediction](https://arxiv.org/abs/2404.19737)  
+   ![image][Paper] ![image][Faster Inference] ![image][NLP]
 1. [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533)  
    ![image][Paper] ![image][Dialog] ![image][NLP]
 1. [BLIP: bootstrapping language-image pre-training for unified vision-language understanding and generation](https://arxiv.org/abs/2201.12086)  
