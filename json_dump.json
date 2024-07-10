@@ -1417,6 +1417,14 @@
         "keywords": ["RL environments", "Reinforcement Learning"]
     },
     {
+        "name": "HiPPO: recurrent memory with optimal polynomial projections",
+        "url": "https://hazyresearch.stanford.edu/blog/2020-12-05-hippo",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Albert Gu, Tri Dao, Stefano Ermon, Atri Rudra, Chris R\u00e9",
+        "keywords": ["Deep Learning", "State Space Models"]
+    },
+    {
         "name": "Hierarchical neural story generation",
         "url": "https://arxiv.org/abs/1805.04833",
         "topic": "AI, DL, NLP and RL",

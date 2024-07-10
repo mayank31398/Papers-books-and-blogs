@@ -128,6 +128,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Sparse Matrices]: https://img.shields.io/static/v1?label=&message=Sparse%20Matrices&color=blue
 [Spatio-Temporal]: https://img.shields.io/static/v1?label=&message=Spatio-Temporal&color=blue
 [Speech]: https://img.shields.io/static/v1?label=&message=Speech&color=blue
+[State Space Models]: https://img.shields.io/static/v1?label=&message=State%20Space%20Models&color=blue
 [Story Generation]: https://img.shields.io/static/v1?label=&message=Story%20Generation&color=blue
 [Style Transfer]: https://img.shields.io/static/v1?label=&message=Style%20Transfer&color=blue
 [Summarization]: https://img.shields.io/static/v1?label=&message=Summarization&color=blue
@@ -461,6 +462,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][NLP] ![image][Story Generation]
 1. [Hindsight: posterior-guided training of retrievers for improved open-ended generation](https://arxiv.org/abs/2110.07752)  
    ![image][Paper] ![image][NLP] ![image][Retrieval-Augmented Generation] ![image][Variational Inference]
+1. [HiPPO: recurrent memory with optimal polynomial projections](https://hazyresearch.stanford.edu/blog/2020-12-05-hippo)  
+   ![image][Blog] ![image][Deep Learning] ![image][State Space Models]
 1. [HotFlip: white-box adversarial examples for text classification](https://arxiv.org/abs/1712.06751)  
    ![image][Paper] ![image][Adversarial Examples] ![image][NLP]
 1. [How big should my language model be?](https://huggingface.co/calculator/)  
