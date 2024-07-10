@@ -746,6 +746,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Blog] ![image][Distributed Training] ![image][Large Models] ![image][Systems]
 1. [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)  
    ![image][Paper] ![image][Long Context Length] ![image][NLP]
+1. [Scattered mixture-of-experts implementation](https://arxiv.org/abs/2403.08245)  
+   ![image][Paper] ![image][Deep Learning] ![image][Mixture of Experts] ![image][Systems]
 1. [Self-instruct: aligning language model with self generated instructions](https://arxiv.org/abs/2212.10560)  
    ![image][Paper] ![image][Instruction Finetuning] ![image][NLP]
 1. [Self-normalizing neural networks](https://arxiv.org/abs/1706.02515)  

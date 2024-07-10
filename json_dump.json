@@ -2873,6 +2873,14 @@
         "keywords": ["Long Context Length", "NLP"]
     },
     {
+        "name": "Scattered mixture-of-experts implementation",
+        "url": "https://arxiv.org/abs/2403.08245",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Shawn Tan, Yikang Shen, Rameswar Panda, Aaron Courville",
+        "keywords": ["Deep Learning", "Mixture of Experts", "Systems"]
+    },
+    {
         "name": "Self-instruct: aligning language model with self generated instructions",
         "url": "https://arxiv.org/abs/2212.10560",
         "topic": "AI, DL, NLP and RL",
