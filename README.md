@@ -512,6 +512,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Blog] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models]
 1. [Is ChatGPT 175 billion parameters? Technical analysis](https://orenleung.com/is-chatgpt-175-billion-parameters-technical-analysis)  
    ![image][Paper] ![image][NLP] ![image][Systems]
+1. [Is Flash Attention stable](https://arxiv.org/abs/2405.02803)  
+   ![image][Paper] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
 1. [Is the future of neural networks Sparse? An introduction (1/N)](https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70)  
    ![image][Blog] ![image][Deep Learning] ![image][Sparse Matrices]
 1. [Jack of all trades, master of some, a multi-purpose transformer agent](https://huggingface.co/blog/jat)  

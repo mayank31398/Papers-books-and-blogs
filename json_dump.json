@@ -1704,6 +1704,14 @@
         "keywords": ["NLP", "Systems"]
     },
     {
+        "name": "Is Flash Attention stable",
+        "url": "https://arxiv.org/abs/2405.02803",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Alicia Golden, Samuel Hsia, Fei Sun, Bilge Acun, Basil Hosmer, Yejin Lee, Zachary DeVito, Jeff Johnson, Gu-Yeon Wei, David Brooks, Carole-Jean Wu",
+        "keywords": ["Deep Learning", "Systems", "Transformers"]
+    },
+    {
         "name": "Is the future of neural networks Sparse? An introduction (1/N)",
         "url": "https://medium.com/huggingface/is-the-future-of-neural-networks-sparse-an-introduction-1-n-d03923ecbd70",
         "topic": "AI, DL, NLP and RL",
