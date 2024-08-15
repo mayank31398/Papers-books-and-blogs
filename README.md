@@ -264,6 +264,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Faster Inference] ![image][NLP]
 1. [Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access](https://arxiv.org/abs/2006.03533)  
    ![image][Paper] ![image][Dialog] ![image][NLP]
+1. [Beyond KV caching: shared attention for efficient LLMs](https://arxiv.org/abs/2407.12866)  
+   ![image][Paper] ![image][Attention Mechanism] ![image][Efficient Inference] ![image][NLP] ![image][Transformers]
 1. [BLIP: bootstrapping language-image pre-training for unified vision-language understanding and generation](https://arxiv.org/abs/2201.12086)  
    ![image][Paper] ![image][Computer Vision] ![image][Embeddings]
 1. [Blockwise parallel transformer for large context models](https://arxiv.org/abs/2305.19370)  

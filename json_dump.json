@@ -477,6 +477,19 @@
         "keywords": ["Faster Inference", "NLP"]
     },
     {
+        "name": "Beyond KV caching: shared attention for efficient LLMs",
+        "url": "https://arxiv.org/abs/2407.12866",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Bingli Liao, Danilo Vasconcellos Vargas",
+        "keywords": [
+            "Attention Mechanism",
+            "Efficient Inference",
+            "NLP",
+            "Transformers"
+        ]
+    },
+    {
         "name": "Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access",
         "url": "https://arxiv.org/abs/2006.03533",
         "topic": "AI, DL, NLP and RL",
