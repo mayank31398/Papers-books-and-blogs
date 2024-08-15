@@ -399,7 +399,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Fast benchmarking of accuracy vs. training time with cyclic learning rates](https://arxiv.org/abs/2206.00832)  
    ![image][Paper] ![image][Deep Learning] ![image][Hyperparameter Search]
 1. [Fast transformer decoding: one write-head is all you need](https://arxiv.org/abs/1911.02150)  
-   ![image][Paper] ![image][Attention Mechanism] ![image][NLP] ![image][Transformers]
+   ![image][Paper] ![image][Attention Mechanism] ![image][Efficient Inference] ![image][NLP] ![image][Transformers]
 1. [Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning](https://arxiv.org/abs/2205.05638)  
    ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning]
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367)  
@@ -451,7 +451,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [GPT-NeoX-20B: an open-source autoregressive language model](https://arxiv.org/abs/2204.06745)  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [GQA: training generalized multi-query transformer models from multi-head checkpoints](https://arxiv.org/abs/2305.13245)  
-   ![image][Paper] ![image][Attention Mechanism] ![image][NLP] ![image][Transformers]
+   ![image][Paper] ![image][Attention Mechanism] ![image][Efficient Inference] ![image][NLP] ![image][Transformers]
 1. [Gradient-based hyperparameter optimization through reversible learning](https://arxiv.org/abs/1502.03492)  
    ![image][Paper] ![image][Deep Learning] ![image][Meta Learning]
 1. [Graph attention networks](https://arxiv.org/abs/1710.10903)  
@@ -722,6 +722,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper]
 1. [Reducing activation recomputation in large transformer models](https://arxiv.org/abs/2205.05198)  
    ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
+1. [Reducing transformer key-value cache size with cross-layer attention](https://arxiv.org/abs/2405.12981)  
+   ![image][Paper] ![image][Attention Mechanism] ![image][Efficient Inference] ![image][NLP] ![image][Transformers]
 1. [Regularizing and optimizing LSTM language models](https://arxiv.org/abs/1708.02182)  
    ![image][Paper] ![image][Deep Learning] ![image][Optimization] ![image][Regularization]
 1. Reinforcement Learning: An Introduction  

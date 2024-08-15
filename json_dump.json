@@ -1173,7 +1173,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Noam Shazeer",
-        "keywords": ["Attention Mechanism", "NLP", "Transformers"]
+        "keywords": [
+            "Attention Mechanism",
+            "Efficient Inference",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning",
@@ -1297,7 +1302,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Joshua Ainslie, James Lee-Thorp, Michiel de Jong, Yury Zemlyanskiy, Federico Lebr\u00f3n, Sumit Sanghai",
-        "keywords": ["Attention Mechanism", "NLP", "Transformers"]
+        "keywords": [
+            "Attention Mechanism",
+            "Efficient Inference",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Gemini: a family of highly capable multimodal models",
@@ -2744,6 +2754,19 @@
             "Deep Learning",
             "Distributed Training",
             "Large Models",
+            "Transformers"
+        ]
+    },
+    {
+        "name": "Reducing transformer key-value cache size with cross-layer attention",
+        "url": "https://arxiv.org/abs/2405.12981",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "William Brandon, Mayank Mishra, Aniruddha Nrusimha, Rameswar Panda, Jonathan Ragan Kelly",
+        "keywords": [
+            "Attention Mechanism",
+            "Efficient Inference",
+            "NLP",
             "Transformers"
         ]
     },
