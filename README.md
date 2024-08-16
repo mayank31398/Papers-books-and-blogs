@@ -146,6 +146,7 @@ This repository contains a list of the books, blogs, research papers and white p
 ### Table of contents
 
 -   [AI, DL, NLP and RL](#ai-dl-nlp-and-rl)
+-   [AI, DL, NLP asnd RL](#ai-dl-nlp-asnd-rl)
 -   [Calculus](#calculus)
 -   [Computer Architecture](#computer-architecture)
 -   [Computer Graphics](#computer-graphics)
@@ -946,6 +947,11 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Variational Inference]
 1. [🍷 FineWeb: decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)  
    ![image][Blog] ![image][Data Curation] ![image][NLP]
+
+# AI, DL, NLP asnd RL
+
+1. [Implementing block-sparse matrix multiplication kernels using triton](https://openreview.net/forum?id=doa11nN5vG)  
+   ![image][Paper] ![image][Deep Learning] ![image][Mixture of Experts] ![image][Systems]
 
 # Calculus
 

@@ -1569,6 +1569,14 @@
         "keywords": ["Computer Vision", "Image Classification"]
     },
     {
+        "name": "Implementing block-sparse matrix multiplication kernels using triton",
+        "url": "https://openreview.net/forum?id=doa11nN5vG",
+        "topic": "AI, DL, NLP asnd RL",
+        "datatype": "Paper",
+        "authors": "Priya Mishra, Trevor Gale, Matei Zaharia, Cliff Young, Deepak Narayanan",
+        "keywords": ["Deep Learning", "Mixture of Experts", "Systems"]
+    },
+    {
         "name": "Improving DRAM performance by parallelizing refreshes with accesses",
         "url": "https://ieeexplore.ieee.org/document/6835946",
         "topic": "Computer Architecture",
