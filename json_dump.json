@@ -2888,6 +2888,14 @@
         "keywords": ["Dialog", "Few Shot", "NLP", "Transfer Learning"]
     },
     {
+        "name": "ST-MoE: designing stable and transferable sparse expert models",
+        "url": "https://arxiv.org/abs/2202.08906",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus",
+        "keywords": ["Mixture of Experts", "Transformers"]
+    },
+    {
         "name": "SantaCoder: don't reach for the stars!",
         "url": "https://arxiv.org/abs/2301.03988",
         "topic": "AI, DL, NLP and RL",

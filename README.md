@@ -791,6 +791,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning]
 1. Speech and language processing  
    ![image][Book]
+1. [ST-MoE: designing stable and transferable sparse expert models](https://arxiv.org/abs/2202.08906)  
+   ![image][Paper] ![image][Mixture of Experts] ![image][Transformers]
 1. [StarCoder: may the source be with you!](https://arxiv.org/abs/2305.06161)  
    ![image][Paper] ![image][AI for code] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Sticking the landing: simple, lower-variance gradient estimators for variational inference](https://arxiv.org/abs/1703.09194)  
