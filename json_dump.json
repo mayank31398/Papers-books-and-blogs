@@ -229,7 +229,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonas Pfeiffer, Andreas R\u00fcckl\u00e9, Clifton Poth, Aishwarya Kamath, Ivan Vuli\u0107, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych",
-        "keywords": ["Efficient Finetuning", "NLP", "Transformers"]
+        "keywords": ["Efficient Training", "NLP", "Transformers"]
     },
     {
         "name": "Adversarial approximate inference for speech to electroglottograph conversion",
@@ -766,7 +766,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Robert L. Logan IV, Ivana Bala\u017eevi\u0107, Eric Wallace, Fabio Petroni, Sameer Singh, Sebastian Riedel",
-        "keywords": ["Efficient Finetuning", "Few Shot", "NLP"]
+        "keywords": ["Efficient Training", "Few Shot", "NLP"]
     },
     {
         "name": "Data engineering for scaling language models to 128K context",
@@ -994,7 +994,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi",
-        "keywords": ["Deep Learning", "Efficient Finetuning", "Model Editing"]
+        "keywords": ["Deep Learning", "Efficient Training", "Model Editing"]
     },
     {
         "name": "Efficient estimation of word representations in vector space",
@@ -1199,7 +1199,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel",
-        "keywords": ["Deep Learning", "Efficient Finetuning"]
+        "keywords": ["Deep Learning", "Efficient Training"]
     },
     {
         "name": "Finetuned language models are zero-shot learners",
@@ -1687,6 +1687,14 @@
         "keywords": ["Deep Learning", "Image Super Resolution"]
     },
     {
+        "name": "Introducing async tensor parallelism in PyTorch",
+        "url": "https://discuss.pytorch.org/t/distributed-w-torchtitan-introducing-async-tensor-parallelism-in-pytorch/209487",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Blog",
+        "authors": "Horace He, Less Wright, Luca Wehrstedt, Tianyu Liu, Wanchao Liang",
+        "keywords": ["Efficient Training", "Systems"]
+    },
+    {
         "name": "Introducing nvFuser, a deep learning compiler for PyTorch",
         "url": "https://pytorch.org/blog/introducing-nvfuser-a-deep-learning-compiler-for-pytorch/",
         "topic": "AI, DL, NLP and RL",
@@ -2021,7 +2029,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen",
-        "keywords": ["Deep Learning", "Efficient Finetuning"]
+        "keywords": ["Deep Learning", "Efficient Training"]
     },
     {
         "name": "Long sequence modeling with XGen: a 7B LLM trained on 8K input sequence length",
@@ -2286,7 +2294,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zhen Wang, Rameswar Panda, Leonid Karlinsky, Rogerio Feris, Huan Sun, Yoon Kim",
-        "keywords": ["Efficient Finetuning", "NLP"]
+        "keywords": ["Efficient Training", "NLP"]
     },
     {
         "name": "Mutual information neural estimation",
@@ -2583,7 +2591,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig",
-        "keywords": ["Efficient Finetuning", "Few Shot", "NLP", "Prompting"]
+        "keywords": ["Efficient Training", "Few Shot", "NLP", "Prompting"]
     },
     {
         "name": "Prefix-tuning: optimizing continuous prompts for generation",
@@ -2591,7 +2599,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xiang Lisa Li, Percy Liang",
-        "keywords": ["Efficient Finetuning", "Few Shot", "NLP"]
+        "keywords": ["Efficient Training", "Few Shot", "NLP"]
     },
     {
         "name": "Principles of traditional animation applied to 3D computer animation",
@@ -2747,7 +2755,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Vladislav Lialin, Namrata Shivagunde, Sherin Muckatira, Anna Rumshisky",
-        "keywords": ["Deep Learning", "Efficient Finetuning"]
+        "keywords": ["Deep Learning", "Efficient Training"]
     },
     {
         "name": "Reading Wikipedia to answer open-domain questions",
@@ -3301,7 +3309,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Brian Lester, Rami Al-Rfou, Noah Constant",
-        "keywords": ["Efficient Finetuning", "NLP"]
+        "keywords": ["Efficient Training", "NLP"]
     },
     {
         "name": "The wisdom of hindsight makes language models better instruction followers",
@@ -3607,7 +3615,7 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Rishabh Bhardwaj, Amrita Saha, Steven C.H. Hoi, Soujanya Poria",
-        "keywords": ["Efficient Finetuning", "NLP"]
+        "keywords": ["Efficient Training", "NLP"]
     },
     {
         "name": "Very deep convolutional networks for large-scale image recognition",

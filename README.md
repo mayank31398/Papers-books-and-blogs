@@ -44,8 +44,8 @@ This repository contains a list of the books, blogs, research papers and white p
 [Disentanglement]: https://img.shields.io/static/v1?label=&message=Disentanglement&color=blue
 [Distillation]: https://img.shields.io/static/v1?label=&message=Distillation&color=blue
 [Distributed Training]: https://img.shields.io/static/v1?label=&message=Distributed%20Training&color=blue
-[Efficient Finetuning]: https://img.shields.io/static/v1?label=&message=Efficient%20Finetuning&color=blue
 [Efficient Inference]: https://img.shields.io/static/v1?label=&message=Efficient%20Inference&color=blue
+[Efficient Training]: https://img.shields.io/static/v1?label=&message=Efficient%20Training&color=blue
 [Embeddings]: https://img.shields.io/static/v1?label=&message=Embeddings&color=blue
 [Empirical Risk Minimization]: https://img.shields.io/static/v1?label=&message=Empirical%20Risk%20Minimization&color=blue
 [Energy-based Models]: https://img.shields.io/static/v1?label=&message=Energy-based%20Models&color=blue
@@ -214,7 +214,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Accelerating PyTorch with CUDA graphs](https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/)  
    ![image][Blog] ![image][Deep Learning] ![image][Large Models] ![image][Systems]
 1. [AdapterHub: a framework for adapting transformers](https://arxiv.org/abs/2007.07779)  
-   ![image][Paper] ![image][Efficient Finetuning] ![image][NLP] ![image][Transformers]
+   ![image][Paper] ![image][Efficient Training] ![image][NLP] ![image][Transformers]
 1. [Adversarial approximate inference for speech to electroglottograph conversion](https://arxiv.org/abs/1903.12248)  
    ![image][Paper] ![image][Adversarial Learning] ![image][Approximate Inference] ![image][Deep Learning] ![image][GAN] ![image][Speech]
 1. [Adversarial autoencoders](https://arxiv.org/abs/1511.05644)  
@@ -326,7 +326,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Curriculum learning](https://dl.acm.org/citation.cfm?id=1553380)  
    ![image][Paper] ![image][Curriculum Learning] ![image][Deep Learning]
 1. [Cutting down on prompts and parameters: simple few-shot learning with language models](https://arxiv.org/abs/2106.13353)  
-   ![image][Paper] ![image][Efficient Finetuning] ![image][Few Shot] ![image][NLP]
+   ![image][Paper] ![image][Efficient Training] ![image][Few Shot] ![image][NLP]
 1. [Data engineering for scaling language models to 128K context](https://arxiv.org/abs/2402.10171)  
    ![image][Paper] ![image][Data Mixtures] ![image][Long Context Length] ![image][NLP]
 1. [Deep Boltzmann machines](https://proceedings.mlr.press/v5/salakhutdinov09a.html)  
@@ -368,7 +368,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Distributionally robust language modeling](https://arxiv.org/abs/1909.02060)  
    ![image][Paper] ![image][NLP] ![image][Out-of-Distribution] ![image][Robustness]
 1. [Editing models with task arithmetic](https://arxiv.org/abs/2212.04089)  
-   ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning] ![image][Model Editing]
+   ![image][Paper] ![image][Deep Learning] ![image][Efficient Training] ![image][Model Editing]
 1. [Efficient estimation of word representations in vector space](https://arxiv.org/abs/1301.3781)  
    ![image][Paper] ![image][Embeddings] ![image][NLP]
 1. [Efficient large scale language modeling with mixtures of experts](https://arxiv.org/abs/2112.10684)  
@@ -404,7 +404,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Fast transformer decoding: one write-head is all you need](https://arxiv.org/abs/1911.02150)  
    ![image][Paper] ![image][Attention Mechanism] ![image][Efficient Inference] ![image][NLP] ![image][Transformers]
 1. [Few-shot parameter-efficient fine-tuning is better and cheaper than in-context learning](https://arxiv.org/abs/2205.05638)  
-   ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning]
+   ![image][Paper] ![image][Deep Learning] ![image][Efficient Training]
 1. [FFJORD: Free-form continuous dynamics for scalable reversible generative models](https://arxiv.org/abs/1810.01367)  
    ![image][Paper] ![image][Deep Learning] ![image][Generative Models]
 1. [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652)  
@@ -505,6 +505,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN] ![image][Information Theory]
 1. [Interpretable convolutional neural networks via feedforward design](https://arxiv.org/abs/1810.02786)  
    ![image][Paper] ![image][Computer Vision]
+1. [Introducing async tensor parallelism in PyTorch](https://discuss.pytorch.org/t/distributed-w-torchtitan-introducing-async-tensor-parallelism-in-pytorch/209487)  
+   ![image][Blog] ![image][Efficient Training] ![image][Systems]
 1. [Introducing MPT-7B: a new standard for open-source, commercially usable LLMs](https://www.mosaicml.com/blog/mpt-7b)  
    ![image][Paper] ![image][Large Models] ![image][NLP] ![image][Transformers]
 1. [Introducing nvFuser, a deep learning compiler for PyTorch](https://pytorch.org/blog/introducing-nvfuser-a-deep-learning-compiler-for-pytorch/)  
@@ -582,7 +584,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Long sequence modeling with XGen: a 7B LLM trained on 8K input sequence length](https://blog.salesforceairesearch.com/xgen/)  
    ![image][Blog] ![image][Long Context Length] ![image][NLP] ![image][Transformers]
 1. [LoRA: Low-Rank Adaptation of large language models](https://arxiv.org/abs/2106.09685)  
-   ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning]
+   ![image][Paper] ![image][Deep Learning] ![image][Efficient Training]
 1. [Lost in the middle: how language models use long contexts](https://arxiv.org/abs/2307.03172)  
    ![image][Paper] ![image][Long Context Length] ![image][Transformers]
 1. [M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining](https://arxiv.org/abs/2110.03888)  
@@ -628,7 +630,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Multi-level memory for task oriented dialogs](https://arxiv.org/abs/1810.10647)  
    ![image][Paper] ![image][Dialog] ![image][NLP]
 1. [Multitask prompt tuning enables parameter-efficient transfer learning](https://openreview.net/forum?id=Nk2pDtuhTq)  
-   ![image][Paper] ![image][Efficient Finetuning] ![image][NLP]
+   ![image][Paper] ![image][Efficient Training] ![image][NLP]
 1. [MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling](https://arxiv.org/abs/1810.00278)  
    ![image][Paper] ![image][Dataset] ![image][Dialog] ![image][NLP]
 1. [Mutual information neural estimation](https://arxiv.org/abs/1801.04062)  
@@ -698,9 +700,9 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Playing Atari with deep reinforcement learning](https://arxiv.org/abs/1312.5602)  
    ![image][Paper] ![image][Reinforcement Learning]
 1. [Pre-train, prompt, and predict: a systematic survey of prompting methods in natural language processing](https://arxiv.org/abs/2107.13586)  
-   ![image][Paper] ![image][Efficient Finetuning] ![image][Few Shot] ![image][NLP] ![image][Prompting]
+   ![image][Paper] ![image][Efficient Training] ![image][Few Shot] ![image][NLP] ![image][Prompting]
 1. [Prefix-tuning: optimizing continuous prompts for generation](https://arxiv.org/abs/2101.00190)  
-   ![image][Paper] ![image][Efficient Finetuning] ![image][Few Shot] ![image][NLP]
+   ![image][Paper] ![image][Efficient Training] ![image][Few Shot] ![image][NLP]
 1. [Probabilistic latent semantic analysis](https://arxiv.org/abs/1301.6705)  
    ![image][Paper] ![image][Information Retrieval] ![image][NLP]
 1. [Progressive growing of GANs from improved quality, stability and variation](https://arxiv.org/abs/1710.10196)  
@@ -732,7 +734,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. Reinforcement Learning: An Introduction  
    ![image][Book]
 1. [ReLoRA: high-rank training through low-rank updates](https://arxiv.org/abs/2307.05695)  
-   ![image][Paper] ![image][Deep Learning] ![image][Efficient Finetuning]
+   ![image][Paper] ![image][Deep Learning] ![image][Efficient Training]
 1. [Restricted Boltzmann machines for collaborative filtering](https://dl.acm.org/citation.cfm?doid=1273496.1273596)  
    ![image][Paper] ![image][Boltzmann Machines] ![image][Collaborative Filtering] ![image][Deep Learning] ![image][Energy-based Models] ![image][Recommender Systems]
 1. [Retrieval augmentation reduces hallucination in conversation](https://arxiv.org/abs/2104.07567)  
@@ -836,7 +838,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [The Pile: an 800GB dataset of diverse text for language modeling](https://arxiv.org/abs/2101.00027)  
    ![image][Paper] ![image][Dataset] ![image][NLP]
 1. [The power of scale for parameter-efficient prompt tuning](https://arxiv.org/abs/2104.08691)  
-   ![image][Paper] ![image][Efficient Finetuning] ![image][NLP]
+   ![image][Paper] ![image][Efficient Training] ![image][NLP]
 1. [The wisdom of hindsight makes language models better instruction followers](https://arxiv.org/abs/2302.05206)  
    ![image][Paper] ![image][Instruction Finetuning] ![image][NLP]
 1. [Thermometer encoding: one hot way to resist adversarial examples](https://openreview.net/forum?id=S18Su--CW)  
@@ -900,7 +902,7 @@ This repository contains a list of the books, blogs, research papers and white p
 1. [Variational lossy autoencoder](https://arxiv.org/abs/1611.02731)  
    ![image][Paper] ![image][Deep Learning] ![image][Variational Inference]
 1. [Vector-quantized input-contextualized soft prompts for natural language understanding](https://arxiv.org/abs/2205.11024)  
-   ![image][Paper] ![image][Efficient Finetuning] ![image][NLP]
+   ![image][Paper] ![image][Efficient Training] ![image][NLP]
 1. [VEEGAN: reducing mode collapse in GANs using implicit variational learning](https://arxiv.org/abs/1705.07761)  
    ![image][Paper] ![image][Adversarial Learning] ![image][Deep Learning] ![image][GAN]
 1. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/abs/1409.1556)  
