@@ -5,7 +5,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Hanlin Tang, Shaoduo Gan, Ammar Ahmad Awan, Samyam Rajbhandari, Conglong Li, Xiangru Lian, Ji Liu, Ce Zhang, Yuxiong He",
-        "keywords": ["Deep Learning", "Distributed Training"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training"
+        ]
     },
     {
         "name": "5 best practices for efficient model training",
@@ -13,7 +16,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Matthew Leavitt, Abhinav Venigalla",
-        "keywords": ["Deep Learning", "Faster Training", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Faster Training",
+            "Systems"
+        ]
     },
     {
         "name": "8-bit approximations for parallelism in deep learning",
@@ -21,7 +28,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tim Dettmers",
-        "keywords": ["Deep Learning", "Large Models", "Quantization", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Quantization",
+            "Systems"
+        ]
     },
     {
         "name": "8-bit optimizers via block-wise quantization",
@@ -29,7 +41,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer",
-        "keywords": ["Deep Learning", "Quantization"]
+        "keywords": [
+            "Deep Learning",
+            "Quantization"
+        ]
     },
     {
         "name": "A 'neural' network that learns to play Backgammon",
@@ -37,7 +52,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gerald Tesauro, Terrence J. Sejnowski",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "A BetterTransformer for fast transformer inference",
@@ -45,7 +62,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Michael Gschwind, Eric Han, Scott Wolchok, Rui Zhu, Christian Puhrsch",
-        "keywords": ["Deep Learning", "Systems", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Systems",
+            "Transformers"
+        ]
     },
     {
         "name": "A deep reinforced model for abstractive summarization",
@@ -53,7 +74,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Romain Paulus, Caiming Xiong, Richard Socher",
-        "keywords": ["NLP", "Reinforcement Learning", "Summarization"]
+        "keywords": [
+            "NLP",
+            "Reinforcement Learning",
+            "Summarization"
+        ]
     },
     {
         "name": "A dynamical approach to temporal pattern processing",
@@ -61,7 +86,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "W. Scott Stornetta, Tad Hogg, Bernardo A. Huberman",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "A fast quantum mechanical algorithm for database search",
@@ -69,7 +96,10 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Lov K. Grover",
-        "keywords": ["Quantum Algorithms", "Quantum Computing"]
+        "keywords": [
+            "Quantum Algorithms",
+            "Quantum Computing"
+        ]
     },
     {
         "name": "A few more examples may be worth billions of parameters",
@@ -77,7 +107,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yuval Kirstain, Patrick Lewis, Sebastian Riedel, Omer Levy",
-        "keywords": ["Few Shot", "NLP"]
+        "keywords": [
+            "Few Shot",
+            "NLP"
+        ]
     },
     {
         "name": "A general and adaptive robust loss function",
@@ -85,7 +118,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonathan T. Barron",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "A generalist agent",
@@ -93,7 +128,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Scott Reed, Konrad Zolna, Emilio Parisotto, Sergio Gomez Colmenarejo, Alexander Novikov, Gabriel Barth-Maron, Mai Gimenez, Yury Sulsky, Jackie Kay, Jost Tobias Springenberg, Tom Eccles, Jake Bruce, Ali Razavi, Ashley Edwards, Nicolas Heess, Yutian Chen, Raia Hadsell, Oriol Vinyals, Mahyar Bordbar, Nando de Freitas",
-        "keywords": ["Reinforcement Learning"]
+        "keywords": [
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "A gentle introduction to 8-bit matrix multiplication for transformers at scale using Hugging Face transformers, accelerate and bitsandbytes",
@@ -101,7 +138,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Younes Belkada, Tim Dettmers",
-        "keywords": ["Deep Learning", "Quantization", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Quantization",
+            "Transformers"
+        ]
     },
     {
         "name": "A note on the evaluation of generative models",
@@ -109,7 +150,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Lucas Theis, A\u00e4ron van den Oord, Matthias Bethge",
-        "keywords": ["Deep Learning", "Generative Models"]
+        "keywords": [
+            "Deep Learning",
+            "Generative Models"
+        ]
     },
     {
         "name": "A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings",
@@ -117,7 +161,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mikel Artetxe, Gorka Labaka, Eneko Agirre",
-        "keywords": ["Embeddings", "NLP"]
+        "keywords": [
+            "Embeddings",
+            "NLP"
+        ]
     },
     {
         "name": "A simple but tough-to-beat baseline for sentence embeddings",
@@ -125,7 +172,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sanjeev Arora, Yingyu Liang, Tengyu Ma",
-        "keywords": ["Embeddings", "NLP"]
+        "keywords": [
+            "Embeddings",
+            "NLP"
+        ]
     },
     {
         "name": "A simple language model for task-oriented dialogue",
@@ -133,7 +183,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "A simple neural attentive meta-learner",
@@ -141,7 +194,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel",
-        "keywords": ["Deep Learning", "Few Shot", "Meta Learning"]
+        "keywords": [
+            "Deep Learning",
+            "Few Shot",
+            "Meta Learning"
+        ]
     },
     {
         "name": "A simple neural network module for relational reasoning",
@@ -149,7 +206,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap",
-        "keywords": ["Deep Learning", "Relational Reasoning"]
+        "keywords": [
+            "Deep Learning",
+            "Relational Reasoning"
+        ]
     },
     {
         "name": "A single quantum cannot be cloned",
@@ -157,7 +217,9 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "W. K. Wootters, W. H. Zurek",
-        "keywords": ["Quantum Computing"]
+        "keywords": [
+            "Quantum Computing"
+        ]
     },
     {
         "name": "A study of BFLOAT16 for deep learning training",
@@ -165,7 +227,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dhiraj Kalamkar, Dheevatsa Mudigere, Naveen Mellempudi, Dipankar Das, Kunal Banerjee, Sasikanth Avancha, Dharma Teja Vooturi, Nataraj Jammalamadaka, Jianyu Huang, Hector Yuen, Jiyan Yang, Jongsoo Park, Alexander Heinecke, Evangelos Georganas, Sudarshan Srinivasan, Abhisek Kundu, Misha Smelyanskiy, Bharat Kaul, Pradeep Dubey",
-        "keywords": ["Deep Learning", "Large Models"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models"
+        ]
     },
     {
         "name": "A style-based generator architecture for generative adversarial networks",
@@ -173,7 +238,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tero Karras, Samuli Laine, Timo Aila",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "A stylometric inquiry into hyperpartisan and fake news",
@@ -181,7 +250,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein",
-        "keywords": ["Fake Content Detection", "NLP"]
+        "keywords": [
+            "Fake Content Detection",
+            "NLP"
+        ]
     },
     {
         "name": "A3T: adversarially augmented adversarial training",
@@ -189,7 +261,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Akram Erraqabi, Aristide Baratin, Yoshua Bengio, Simon Lacoste-Julien",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Accelerated PyTorch 2 transformers",
@@ -197,7 +273,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Michael Gschwind, Driss Guessous, Christian Puhrsch",
-        "keywords": ["Deep Learning", "Systems", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Systems",
+            "Transformers"
+        ]
     },
     {
         "name": "Accelerated computing with a reconfigurable dataflow architecture",
@@ -205,7 +285,10 @@
         "topic": "Computer Architecture",
         "datatype": "Whitepaper",
         "authors": null,
-        "keywords": ["Dataflow Architecture", "Deep Learning"]
+        "keywords": [
+            "Dataflow Architecture",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Accelerating PyTorch with CUDA graphs",
@@ -213,7 +296,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Vinh Nguyen, Michael Carilli, Sukru Burc Eryilmaz, Vartika Singh, Michelle Lin, Natalia Gimelshein, Alban Desmaison, Edward Yang",
-        "keywords": ["Deep Learning", "Large Models", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Systems"
+        ]
     },
     {
         "name": "Accelerating large language model training with variable sparse pre-training and dense fine-tuning",
@@ -221,7 +308,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Abhay Gupta, Mahmoud Salem, Vithursan Thangarasa, Kevin Leong, Sean Lie, Shreyas Saxena",
-        "keywords": ["Large Models", "Sparse Matrices"]
+        "keywords": [
+            "Large Models",
+            "Sparse Matrices"
+        ]
     },
     {
         "name": "AdapterHub: a framework for adapting transformers",
@@ -229,7 +319,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonas Pfeiffer, Andreas R\u00fcckl\u00e9, Clifton Poth, Aishwarya Kamath, Ivan Vuli\u0107, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych",
-        "keywords": ["Efficient Training", "NLP", "Transformers"]
+        "keywords": [
+            "Efficient Training",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Adversarial approximate inference for speech to electroglottograph conversion",
@@ -251,7 +345,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Adversarial examples that fool both computer vision and time-limited humans",
@@ -259,7 +357,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein",
-        "keywords": ["Adversarial Examples", "Deep Learning"]
+        "keywords": [
+            "Adversarial Examples",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Adversarial feature learning",
@@ -267,7 +368,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jeff Donahue, Philipp Kr\u00e4henb\u00fchl, Trevor Darrell",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Adversarial generation of natural language",
@@ -275,7 +380,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sai Rajeswar, Sandeep Subramanian, Francis Dutil, Christopher Pal, Aaron Courville",
-        "keywords": ["Adversarial Learning", "Generative Models", "NLP"]
+        "keywords": [
+            "Adversarial Learning",
+            "Generative Models",
+            "NLP"
+        ]
     },
     {
         "name": "Adversarial information factorization",
@@ -283,7 +392,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Antonia Creswell, Yumnah Mohamied, Biswa Sengupta, Anil A Bharath",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Adversarially learned inference",
@@ -291,7 +404,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Olivier Mastropietro, Alex Lamb, Martin Arjovsky, Aaron Courville",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "AlexaTM 20B: few-shot learning using a large-scale multilingual seq2seq model",
@@ -299,7 +416,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, Rahul Gupta, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Amazon SageMaker model parallelism: a general and flexible framework for large model training",
@@ -320,7 +441,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby",
-        "keywords": ["Computer Vision", "Deep Learning", "Embeddings"]
+        "keywords": [
+            "Computer Vision",
+            "Deep Learning",
+            "Embeddings"
+        ]
     },
     {
         "name": "An overview of gradient descent optimization algorithms",
@@ -328,7 +453,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sebastian Ruder",
-        "keywords": ["Deep Learning", "Optimization"]
+        "keywords": [
+            "Deep Learning",
+            "Optimization"
+        ]
     },
     {
         "name": "Analysing mathematical reasoning abilities of neural models",
@@ -336,7 +464,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "David Saxton, Edward Grefenstette, Felix Hill, Pushmeet Kohli",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "Approximation by superpositions of sigmoidal function",
@@ -344,7 +474,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "George Cybenko",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "Artificial Intelligence: a modern approach",
@@ -360,7 +492,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Wei Xue, Tao Li",
-        "keywords": ["NLP", "Text Classification"]
+        "keywords": [
+            "NLP",
+            "Text Classification"
+        ]
     },
     {
         "name": "Attention is all you need",
@@ -368,7 +503,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, \u0141ukasz Kaiser, Illia Polosukhin",
-        "keywords": ["Attention Mechanism", "Deep Learning", "Transformers"]
+        "keywords": [
+            "Attention Mechanism",
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "Attention is off by one",
@@ -376,7 +515,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Evan Miller",
-        "keywords": ["Attention Mechanism", "NLP"]
+        "keywords": [
+            "Attention Mechanism",
+            "NLP"
+        ]
     },
     {
         "name": "Auto-encoding variational Bayes",
@@ -384,7 +526,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Diederik P. Kingma, Max Welling",
-        "keywords": ["Deep Learning", "Variational Inference"]
+        "keywords": [
+            "Deep Learning",
+            "Variational Inference"
+        ]
     },
     {
         "name": "BART: denoising sequence-to-sequence pre-training for natural language generation, translation and comprehension",
@@ -392,7 +537,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer",
-        "keywords": ["NLP", "Transformers"]
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "BERT: pre-training of deep bidirectional transformers for language understanding",
@@ -400,7 +548,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova",
-        "keywords": ["NLP", "Transformers"]
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "BLIP: bootstrapping language-image pre-training for unified vision-language understanding and generation",
@@ -408,7 +559,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi",
-        "keywords": ["Computer Vision", "Embeddings"]
+        "keywords": [
+            "Computer Vision",
+            "Embeddings"
+        ]
     },
     {
         "name": "BLOOM: A 176B-parameter open-access multilingual language model",
@@ -429,7 +583,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Nolan Dey, Daria Soboleva, Faisal Al-Khateeb, Ribhu Pathria, Hemant Khachane, Shaheer Muhammad, Zhiming (Charles) Chen, Bowen Yang, Siyun Li, Abhay Gupta, Shreyas Saxena, Robert Myers, Jacob Robert Steeves, Marvin Tom, Joel Hestness",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Backpropagation through the void: optimizing control variates for black-box gradient estimation",
@@ -453,7 +611,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sergey Ioffe, Christian Szegedy",
-        "keywords": ["Deep Learning", "Normalization", "Optimization"]
+        "keywords": [
+            "Deep Learning",
+            "Normalization",
+            "Optimization"
+        ]
     },
     {
         "name": "Behavioral cloning from observation",
@@ -474,7 +636,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozi\u00e8re, David Lopez-Paz, Gabriel Synnaeve",
-        "keywords": ["Faster Inference", "NLP"]
+        "keywords": [
+            "Faster Inference",
+            "NLP"
+        ]
     },
     {
         "name": "Beyond KV caching: shared attention for efficient LLMs",
@@ -495,7 +660,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Seokhwan Kim, Mihail Eric, Karthik Gopalakrishnan, Behnam Hedayatnia, Yang Liu, Dilek Hakkani-Tur",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Blockwise parallel transformer for large context models",
@@ -503,7 +671,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Hao Liu, Pieter Abbeel",
-        "keywords": ["Deep Learning", "Systems", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Systems",
+            "Transformers"
+        ]
     },
     {
         "name": "Bootstrapping entity alignment with knowledge graph embedding",
@@ -511,7 +683,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zequn Sun, Wei Hu, Qingheng Zhang, Yuzhong Qu",
-        "keywords": ["Embeddings", "Knowledge Graphs", "NLP"]
+        "keywords": [
+            "Embeddings",
+            "Knowledge Graphs",
+            "NLP"
+        ]
     },
     {
         "name": "Bridging the gap between prior and posterior knowledge selection for knowledge-grounded dialogue generation",
@@ -519,7 +695,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu, Jie Zhou",
-        "keywords": ["Dialog", "NLP", "Variational Inference"]
+        "keywords": [
+            "Dialog",
+            "NLP",
+            "Variational Inference"
+        ]
     },
     {
         "name": "Bringing open large language models to consumer devices",
@@ -539,7 +719,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Florian Eilers, Xiaoyi Jiang",
-        "keywords": ["Complex Numbers", "Deep Learning", "Transformers"]
+        "keywords": [
+            "Complex Numbers",
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "CATS: contextually-aware thresholding for sparsity in large language models",
@@ -547,7 +731,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Je-Yong Lee, Donghyun Lee, Genghan Zhang, Mo Tiwari, Azalia Mirhoseini",
-        "keywords": ["Efficient Inference", "Sparse Matrices", "Systems"]
+        "keywords": [
+            "Efficient Inference",
+            "Sparse Matrices",
+            "Systems"
+        ]
     },
     {
         "name": "Calculus of variations",
@@ -563,7 +751,9 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Albert Einstein, Boris Podolsky, Nathan Rosen",
-        "keywords": ["Quantum Computing"]
+        "keywords": [
+            "Quantum Computing"
+        ]
     },
     {
         "name": "ChatGPT: optimizing language models for dialogue",
@@ -571,7 +761,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "ColBERT: efficient and effective passage search via contextualized late interaction over BERT",
@@ -579,7 +772,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Omar Khattab, Matei Zaharia",
-        "keywords": ["Information Retrieval", "NLP"]
+        "keywords": [
+            "Information Retrieval",
+            "NLP"
+        ]
     },
     {
         "name": "Colossal-AI: a unified deep learning system for large-scale parallel training",
@@ -600,7 +796,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Roy Frostig, Matthew Johnson, Chris Leary",
-        "keywords": ["Deep Learning", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Systems"
+        ]
     },
     {
         "name": "Complex transformer: a framework for modeling complex-valued sequence",
@@ -608,7 +807,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Muqiao Yang, Martin Q. Ma, Dongyu Li, Yao-Hung Hubert Tsai, Ruslan Salakhutdinov",
-        "keywords": ["Complex Numbers", "Deep Learning", "Transformers"]
+        "keywords": [
+            "Complex Numbers",
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "Computer architecture: a quantitative approach",
@@ -632,7 +835,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut",
-        "keywords": ["Computer Vision", "Dataset", "NLP"]
+        "keywords": [
+            "Computer Vision",
+            "Dataset",
+            "NLP"
+        ]
     },
     {
         "name": "Conditional image synthesis with auxilliary classifier GANs",
@@ -640,7 +847,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Augustus Odena, Christopher Olah, Jonathon Shlens",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Conformal nucleus sampling",
@@ -648,7 +859,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shauli Ravfogel, Yoav Goldberg, Jacob Goldberger",
-        "keywords": ["NLP", "Transformers"]
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Connecting large language models with evolutionary algorithms yields powerful prompt optimizers",
@@ -656,7 +870,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang",
-        "keywords": ["Genetic Algorithms", "NLP", "Prompting"]
+        "keywords": [
+            "Genetic Algorithms",
+            "NLP",
+            "Prompting"
+        ]
     },
     {
         "name": "Connectivity versus entropy",
@@ -664,7 +882,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yaser S. Abu-Mostafa",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "Constituency parsing with a self-attentive encoder",
@@ -672,7 +892,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Nikita Kitaev, Dan Klein",
-        "keywords": ["Constituency Parsing", "NLP"]
+        "keywords": [
+            "Constituency Parsing",
+            "NLP"
+        ]
     },
     {
         "name": "Constraint based knowledge base distillation in end-to-end task oriented dialogs",
@@ -680,7 +903,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dinesh Raghu, Atishya Jain, Mausam, Sachindra Joshi",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Context generation improves open domain question answering",
@@ -688,7 +914,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dan Su, Mostofa Patwary, Shrimai Prabhumoye, Peng Xu, Ryan Prenger, Mohammad Shoeybi, Pascale Fung, Anima Anandkumar, Bryan Catanzaro",
-        "keywords": ["Few Shot", "NLP", "Question Answering"]
+        "keywords": [
+            "Few Shot",
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "Convert transformers to ONNX with hugging face optimum",
@@ -696,7 +926,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Philipp Schmid",
-        "keywords": ["Deep Learning", "Model Saving", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Model Saving",
+            "Systems"
+        ]
     },
     {
         "name": "Convex Optimization",
@@ -712,7 +946,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "David K. Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan P. Adams",
-        "keywords": ["Deep Learning", "Molecular Chemistry"]
+        "keywords": [
+            "Deep Learning",
+            "Molecular Chemistry"
+        ]
     },
     {
         "name": "Convolutional neural network language models",
@@ -720,7 +957,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ngoc-Quan Pham, Germ\u00e1n Kruszewski, Gemma Boleda",
-        "keywords": ["NLP"]
+        "keywords": [
+            "NLP"
+        ]
     },
     {
         "name": "Countering adversarial images using input transformations",
@@ -728,7 +967,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Chuan Guo, Mayank Rana, Moustapha Cisse, Laurens van der Maaten",
-        "keywords": ["Adversarial Examples", "Deep Learning", "Robustness"]
+        "keywords": [
+            "Adversarial Examples",
+            "Deep Learning",
+            "Robustness"
+        ]
     },
     {
         "name": "Cramming: training a language model on a single GPU in one day",
@@ -736,7 +979,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonas Geiping, Tom Goldstein",
-        "keywords": ["Green AI", "NLP"]
+        "keywords": [
+            "Green AI",
+            "NLP"
+        ]
     },
     {
         "name": "Crosslingual generalization through multitask finetuning",
@@ -758,7 +1004,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yoshua Bengio, J\u00e9r\u00f4me Louradour, Ronan Collobert, Jason Weston",
-        "keywords": ["Curriculum Learning", "Deep Learning"]
+        "keywords": [
+            "Curriculum Learning",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Cutting down on prompts and parameters: simple few-shot learning with language models",
@@ -766,7 +1015,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Robert L. Logan IV, Ivana Bala\u017eevi\u0107, Eric Wallace, Fabio Petroni, Sameer Singh, Sebastian Riedel",
-        "keywords": ["Efficient Training", "Few Shot", "NLP"]
+        "keywords": [
+            "Efficient Training",
+            "Few Shot",
+            "NLP"
+        ]
     },
     {
         "name": "Data engineering for scaling language models to 128K context",
@@ -774,7 +1027,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yao Fu, Rameswar Panda, Xinyao Niu, Xiang Yue, Hannaneh Hajishirzi, Yoon Kim, Hao Peng",
-        "keywords": ["Data Mixtures", "Long Context Length", "NLP"]
+        "keywords": [
+            "Data Mixtures",
+            "Long Context Length",
+            "NLP"
+        ]
     },
     {
         "name": "Data structures and algorithms in Java",
@@ -802,7 +1059,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, Jo\u00e3o Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal",
-        "keywords": ["Complex Numbers", "Deep Learning"]
+        "keywords": [
+            "Complex Numbers",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Deep learning",
@@ -818,7 +1078,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Naftali Tishby, Noga Zaslavsky",
-        "keywords": ["Deep Learning", "Information Theory"]
+        "keywords": [
+            "Deep Learning",
+            "Information Theory"
+        ]
     },
     {
         "name": "Deep learning techniques for super-resolution in video games",
@@ -839,7 +1102,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
-        "keywords": ["Computer Vision", "Image Classification"]
+        "keywords": [
+            "Computer Vision",
+            "Image Classification"
+        ]
     },
     {
         "name": "Deep text classification can be fooled",
@@ -847,7 +1113,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi",
-        "keywords": ["Adversarial Examples", "NLP"]
+        "keywords": [
+            "Adversarial Examples",
+            "NLP"
+        ]
     },
     {
         "name": "DeepSpeed Inference: enabling efficient inference of transformer models at unprecedented scale",
@@ -855,7 +1124,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, Ammar Ahmad Awan, Cheng Li, Du Li, Elton Zheng, Jeff Rasley, Shaden Smith, Olatunji Ruwase, Yuxiong He",
-        "keywords": ["Deep Learning", "Large Models", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Systems"
+        ]
     },
     {
         "name": "DeepSpeed Ulysses: system optimizations for enabling training of extreme long sequence transformer models",
@@ -863,7 +1136,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sam Ade Jacobs, Masahiro Tanaka, Chengming Zhang, Minjia Zhang, Shuaiwen Leon Song, Samyam Rajbhandari, Yuxiong He",
-        "keywords": ["Deep Learning", "Long Context Length", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Long Context Length",
+            "Systems"
+        ]
     },
     {
         "name": "DeepSpeed compression: a composable library for extreme compression and zero-cost quantization",
@@ -871,7 +1148,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Andrey Proskurin",
-        "keywords": ["Compression", "Deep Learning", "Quantization"]
+        "keywords": [
+            "Compression",
+            "Deep Learning",
+            "Quantization"
+        ]
     },
     {
         "name": "DeepSpeed powers 8x larger MoE model training with high performance",
@@ -892,7 +1173,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Andrey Proskurin",
-        "keywords": ["Deep Learning", "Large Models", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Systems"
+        ]
     },
     {
         "name": "DeepSpeed: advancing MoE inference and training to power next-generation AI scale",
@@ -913,7 +1198,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yankai Lin, Haozhe Ji, Zhiyuan Liu, Maosong Sun",
-        "keywords": ["NLP", "Question Answering"]
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "Diffusion convolutional recurrent neural network: data-driven traffic forecasting",
@@ -942,7 +1230,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jason Tyler Rolfe",
-        "keywords": ["Deep Learning", "Variational Inference"]
+        "keywords": [
+            "Deep Learning",
+            "Variational Inference"
+        ]
     },
     {
         "name": "Discrete-time signal processing",
@@ -970,7 +1261,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dinesh Raghu, Nikhil Gupta, Mausam",
-        "keywords": ["Dialog", "Disentanglement", "NLP"]
+        "keywords": [
+            "Dialog",
+            "Disentanglement",
+            "NLP"
+        ]
     },
     {
         "name": "Distributed optimization and statistical learning via the alternating direction method of multipliers",
@@ -986,7 +1281,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yonatan Oren, Shiori Sagawa, Tatsunori B. Hashimoto, Percy Liang",
-        "keywords": ["NLP", "Out-of-Distribution", "Robustness"]
+        "keywords": [
+            "NLP",
+            "Out-of-Distribution",
+            "Robustness"
+        ]
     },
     {
         "name": "Editing models with task arithmetic",
@@ -994,7 +1293,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi",
-        "keywords": ["Deep Learning", "Efficient Training", "Model Editing"]
+        "keywords": [
+            "Deep Learning",
+            "Efficient Training",
+            "Model Editing"
+        ]
     },
     {
         "name": "Efficient estimation of word representations in vector space",
@@ -1002,7 +1305,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean",
-        "keywords": ["Embeddings", "NLP"]
+        "keywords": [
+            "Embeddings",
+            "NLP"
+        ]
     },
     {
         "name": "Efficient large scale language modeling with mixtures of experts",
@@ -1010,7 +1316,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mikel Artetxe, Shruti Bhosale, Naman Goyal, Todor Mihaylov, Myle Ott, Sam Shleifer, Xi Victoria Lin, Jingfei Du, Srinivasan Iyer, Ramakanth Pasunuru, Giri Anantharaman, Xian Li, Shuohui Chen, Halil Akin, Mandeep Baines, Louis Martin, Xing Zhou, Punit Singh Koura, Brian O'Horo, Jeff Wang, Luke Zettlemoyer, Mona Diab, Zornitsa Kozareva, Ves Stoyanov",
-        "keywords": ["Deep Learning", "Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Efficient large-scale language model training on GPU clusters using Megatron-LM",
@@ -1039,7 +1350,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shiyu Liang, Yixuan Li, R. Srikant",
-        "keywords": ["Deep Learning", "Out-of-Distribution"]
+        "keywords": [
+            "Deep Learning",
+            "Out-of-Distribution"
+        ]
     },
     {
         "name": "End-to-end task-oriented dialog modeling with semi-structured knowledge management",
@@ -1047,7 +1361,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Enhance reasoning for large language models in the game Werewolf",
@@ -1055,7 +1372,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shuang Wu, Liwen Zhu, Tao Yang, Shiwei Xu, Qiang Fu, Yang Wei, Haobo Fu",
-        "keywords": ["Gaming", "Reasoning", "Reinforcement Learning"]
+        "keywords": [
+            "Gaming",
+            "Reasoning",
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "Ensemble adversarial training: attacks and defenses",
@@ -1063,7 +1384,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Florian Tram\u00e8r, Alexey Kurakin, Nicolas Papernot, Ian Goodfellow, Dan Boneh, Patrick McDaniel",
-        "keywords": ["Adversarial Examples", "Deep Learning", "Robustness"]
+        "keywords": [
+            "Adversarial Examples",
+            "Deep Learning",
+            "Robustness"
+        ]
     },
     {
         "name": "Equilibrium propagation: bridging the gap between energy-based models and backpropagation",
@@ -1071,7 +1396,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Benjamin Scellier, Yoshua Bengio",
-        "keywords": ["Backpropagation", "Deep Learning", "Enery based Models"]
+        "keywords": [
+            "Backpropagation",
+            "Deep Learning",
+            "Enery based Models"
+        ]
     },
     {
         "name": "Error detecting and error correcting codes",
@@ -1091,7 +1420,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yoshua Bengio, Nicholas L\u00e9onard, Aaron Courville",
-        "keywords": ["Backpropagation", "Deep Learning", "Gradient Estimation"]
+        "keywords": [
+            "Backpropagation",
+            "Deep Learning",
+            "Gradient Estimation"
+        ]
     },
     {
         "name": "Exemplar encoder-decoder for neural conversation generation",
@@ -1099,7 +1432,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gaurav Pandey, Danish Contractor, Vineet Kumar, Sachindra Joshi",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Expert human-level driving in gran turismo sport using deep reinforcement learning with image-based representation",
@@ -1107,7 +1443,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ryuji Imamura, Takuma Seno, Kenta Kawamoto, Michael Spranger",
-        "keywords": ["Reinforcement Learning"]
+        "keywords": [
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "Exploring deep recurrent models with reinforcement learning for molecule design",
@@ -1115,7 +1453,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Daniel Neil, Marwin Segler, Laura Guasch, Mohamed Ahmed, Dean Plumbley, Matthew Sellwood, Nathan Brown",
-        "keywords": ["Molecular Chemistry", "Reinforcement Learning"]
+        "keywords": [
+            "Molecular Chemistry",
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "Exploring the limits of transfer learning with a unified text-to-text transformer",
@@ -1123,7 +1464,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu",
-        "keywords": ["NLP", "Transformers"]
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Extreme compression for pre-trained transformers made simple and efficient",
@@ -1146,7 +1490,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud",
-        "keywords": ["Deep Learning", "Generative Models"]
+        "keywords": [
+            "Deep Learning",
+            "Generative Models"
+        ]
     },
     {
         "name": "FP8 formats for deep learning",
@@ -1154,7 +1501,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Paulius Micikevicius, Dusan Stosic, Neil Burgess, Marius Cornea, Pradeep Dubey, Richard Grisenthwaite, Sangwon Ha, Alexander Heinecke, Patrick Judd, John Kamalu, Naveen Mellempudi, Stuart Oberman, Mohammad Shoeybi, Michael Siu, Hao Wu",
-        "keywords": ["Deep Learning", "Quantization", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Quantization",
+            "Systems"
+        ]
     },
     {
         "name": "FP8-LM: training FP8 large language models",
@@ -1162,7 +1513,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Houwen Peng, Kan Wu, Yixuan Wei, Guoshuai Zhao, Yuxiang Yang, Ze Liu, Yifan Xiong, Ziyue Yang, Bolin Ni, Jingcheng Hu, Ruihang Li, Miaosen Zhang, Chen Li, Jia Ning, Ruizhe Wang, Zheng Zhang, Shuguang Liu, Joe Chau, Han Hu, Peng Cheng",
-        "keywords": ["Deep Learning", "Quantization", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Quantization",
+            "Systems"
+        ]
     },
     {
         "name": "Fast abstractive summarization with reinforce-selected sentence rewriting",
@@ -1170,7 +1525,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yen-Chun Chen, Mohit Bansal",
-        "keywords": ["NLP", "Reinforcement Learning", "Summarization"]
+        "keywords": [
+            "NLP",
+            "Reinforcement Learning",
+            "Summarization"
+        ]
     },
     {
         "name": "Fast benchmarking of accuracy vs. training time with cyclic learning rates",
@@ -1178,7 +1537,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jacob Portes, Davis Blalock, Cory Stephenson, Jonathan Frankle",
-        "keywords": ["Deep Learning", "Hyperparameter Search"]
+        "keywords": [
+            "Deep Learning",
+            "Hyperparameter Search"
+        ]
     },
     {
         "name": "Fast transformer decoding: one write-head is all you need",
@@ -1199,7 +1561,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel",
-        "keywords": ["Deep Learning", "Efficient Training"]
+        "keywords": [
+            "Deep Learning",
+            "Efficient Training"
+        ]
     },
     {
         "name": "Finetuned language models are zero-shot learners",
@@ -1207,7 +1572,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le",
-        "keywords": ["NLP", "Transformers", "Zero Shot"]
+        "keywords": [
+            "NLP",
+            "Transformers",
+            "Zero Shot"
+        ]
     },
     {
         "name": "Flash-decoding for long-context inference",
@@ -1215,7 +1584,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Tri Dao, Daniel Haziza, Francisco Massa, Grigory Sizov",
-        "keywords": ["Deep Learning", "Systems", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Systems",
+            "Transformers"
+        ]
     },
     {
         "name": "FlashAttention: fast and memory-efficient exact attention with IO-awareness",
@@ -1223,7 +1596,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher R\u00e9",
-        "keywords": ["Deep Learning", "Systems", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Systems",
+            "Transformers"
+        ]
     },
     {
         "name": "FlashAttention: fast transformer training with long sequences",
@@ -1231,7 +1608,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Tri Dao",
-        "keywords": ["Deep Learning", "Systems", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Systems",
+            "Transformers"
+        ]
     },
     {
         "name": "Flipping bits in memory without accessing them: an experimental study of DRAM disturbance errors",
@@ -1239,7 +1620,11 @@
         "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Yoongu Kim, Ross Daly, Jeremie Kim, Chris Fallin, Ji Hye Lee, Donghyuk Lee, Chris Wilkerson, Konrad Lai, Onur Mutlu",
-        "keywords": ["Computer Architecture", "Memory", "Security"]
+        "keywords": [
+            "Computer Architecture",
+            "Memory",
+            "Security"
+        ]
     },
     {
         "name": "Foundations of NLP explained visually: beam search, how it works",
@@ -1247,7 +1632,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ketan Doshi",
-        "keywords": ["Algorithms", "NLP"]
+        "keywords": [
+            "Algorithms",
+            "NLP"
+        ]
     },
     {
         "name": "Foundations of Signal Processing",
@@ -1263,7 +1651,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "GLU variants improve transformer",
@@ -1271,7 +1663,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Noam Shazeer",
-        "keywords": ["Activation Function", "Deep Learning"]
+        "keywords": [
+            "Activation Function",
+            "Deep Learning"
+        ]
     },
     {
         "name": "GLaM: efficient scaling of language models with mixture-of-experts",
@@ -1307,7 +1702,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai Prashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, Samuel Weinbach",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "GQA: training generalized multi-query transformer models from multi-head checkpoints",
@@ -1328,7 +1727,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gemini Team",
-        "keywords": ["Large Models", "NLP"]
+        "keywords": [
+            "Large Models",
+            "NLP"
+        ]
     },
     {
         "name": "Gemma: open models based on Gemini research and technology",
@@ -1336,7 +1738,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gemma Team",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Generating adversarial examples with adversarial networks",
@@ -1357,7 +1763,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio",
-        "keywords": ["NLP"]
+        "keywords": [
+            "NLP"
+        ]
     },
     {
         "name": "Generation-augmented retrieval for open-domain question answering",
@@ -1365,7 +1773,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen",
-        "keywords": ["NLP", "Question Answering"]
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "Generative adversarial nets",
@@ -1373,7 +1784,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Generative pretraining from pixels",
@@ -1381,7 +1796,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mark Chen, Alec Radford, Rewon Child, Jeffrey Wu, Heewoo Jun, David Luan, Ilya Sutskever",
-        "keywords": ["Computer Vision", "Deep Learning"]
+        "keywords": [
+            "Computer Vision",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Genetic algorithms in search, optimization and machine learning",
@@ -1397,7 +1815,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng",
-        "keywords": ["Deep Learning", "Spatio-Temporal", "Time Series"]
+        "keywords": [
+            "Deep Learning",
+            "Spatio-Temporal",
+            "Time Series"
+        ]
     },
     {
         "name": "Getting the most out of the NVIDIA A100 GPU with Multi-Instance GPU",
@@ -1405,7 +1827,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Maggie Zhang, James Sohn, Chetan Tekur",
-        "keywords": ["Deep Learning", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Systems"
+        ]
     },
     {
         "name": "Going deeper with convolutions",
@@ -1413,7 +1838,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich",
-        "keywords": ["Computer Vision", "Image Classification"]
+        "keywords": [
+            "Computer Vision",
+            "Image Classification"
+        ]
     },
     {
         "name": "Gradient-based hyperparameter optimization through reversible learning",
@@ -1421,7 +1849,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dougal Maclaurin, David Duvenaud, Ryan P. Adams",
-        "keywords": ["Deep Learning", "Meta Learning"]
+        "keywords": [
+            "Deep Learning",
+            "Meta Learning"
+        ]
     },
     {
         "name": "Graph attention networks",
@@ -1429,7 +1860,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Petar Veli\u010dkovi\u0107, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li\u00f2, Yoshua Bengio",
-        "keywords": ["Deep Learning", "Graph Neural Networks"]
+        "keywords": [
+            "Deep Learning",
+            "Graph Neural Networks"
+        ]
     },
     {
         "name": "Grounding large language models in interactive environments with online reinforcement learning",
@@ -1437,7 +1871,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Thomas Carta, Cl\u00e9ment Romac, Thomas Wolf, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer",
-        "keywords": ["RL environments", "Reinforcement Learning"]
+        "keywords": [
+            "RL environments",
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "HiPPO: recurrent memory with optimal polynomial projections",
@@ -1445,7 +1882,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Albert Gu, Tri Dao, Stefano Ermon, Atri Rudra, Chris R\u00e9",
-        "keywords": ["Deep Learning", "State Space Models"]
+        "keywords": [
+            "Deep Learning",
+            "State Space Models"
+        ]
     },
     {
         "name": "Hierarchical neural story generation",
@@ -1453,7 +1893,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Angela Fan, Mike Lewis, Yann Dauphin",
-        "keywords": ["NLP", "Story Generation"]
+        "keywords": [
+            "NLP",
+            "Story Generation"
+        ]
     },
     {
         "name": "Hindsight: posterior-guided training of retrievers for improved open-ended generation",
@@ -1473,7 +1916,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou",
-        "keywords": ["Adversarial Examples", "NLP"]
+        "keywords": [
+            "Adversarial Examples",
+            "NLP"
+        ]
     },
     {
         "name": "How Pytorch 2.0 accelerates deep learning with operator fusion and CPU/GPU code-generation",
@@ -1481,7 +1927,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Shashank Prasanna",
-        "keywords": ["Deep Learning Compiler", "Systems"]
+        "keywords": [
+            "Deep Learning Compiler",
+            "Systems"
+        ]
     },
     {
         "name": "How big should my language model be?",
@@ -1489,7 +1938,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Teven Le Scao",
-        "keywords": ["Large Models", "NLP", "Scaling Laws"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Scaling Laws"
+        ]
     },
     {
         "name": "How should AI systems behave, and who should decide?",
@@ -1497,7 +1950,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": ["NLP", "Safety and Alignment"]
+        "keywords": [
+            "NLP",
+            "Safety and Alignment"
+        ]
     },
     {
         "name": "How we sped up transformer inference 100x for \ud83e\udd17 API customers",
@@ -1505,7 +1961,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": ["Deep Learning", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "How \ud83e\udd17 Accelerate runs very large models thanks to PyTorch",
@@ -1526,7 +1985,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Hydragen: high-throughput LLM inference with shared prefixes",
@@ -1534,7 +1996,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jordan Juravsky, Bradley Brown, Ryan Ehrlich, Daniel Y. Fu, Christopher R\u00e9, Azalia Mirhoseini",
-        "keywords": ["Efficient Inference", "Systems"]
+        "keywords": [
+            "Efficient Inference",
+            "Systems"
+        ]
     },
     {
         "name": "Hyperparameter search with Transformers and Ray Tune",
@@ -1542,7 +2007,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": ["Deep Learning", "Hyperparameter Search", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Hyperparameter Search",
+            "Transformers"
+        ]
     },
     {
         "name": "Image recognition with an adiabatic quantum computer I. mapping to quadratic unconstrained binary optimization",
@@ -1550,7 +2019,11 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Hartmut Neven, Geordie Rose, William G. Macready",
-        "keywords": ["Image Classification", "QUBO", "Quantum Computing"]
+        "keywords": [
+            "Image Classification",
+            "QUBO",
+            "Quantum Computing"
+        ]
     },
     {
         "name": "Image-to-image translation with conditional generative adversarial networks",
@@ -1566,15 +2039,22 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton",
-        "keywords": ["Computer Vision", "Image Classification"]
+        "keywords": [
+            "Computer Vision",
+            "Image Classification"
+        ]
     },
     {
         "name": "Implementing block-sparse matrix multiplication kernels using triton",
         "url": "https://openreview.net/forum?id=doa11nN5vG",
-        "topic": "AI, DL, NLP asnd RL",
+        "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Priya Mishra, Trevor Gale, Matei Zaharia, Cliff Young, Deepak Narayanan",
-        "keywords": ["Deep Learning", "Mixture of Experts", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Mixture of Experts",
+            "Systems"
+        ]
     },
     {
         "name": "Improving DRAM performance by parallelizing refreshes with accesses",
@@ -1582,7 +2062,12 @@
         "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Kevin Kai-Wei Chang, Donghyuk Lee, Zeshan Chishti, Alaa R. Alameldeen, Chris Wilkerson, Yoongu Kim, Onur Mutlu",
-        "keywords": ["Computer Architecture", "Memory", "Security", "Systems"]
+        "keywords": [
+            "Computer Architecture",
+            "Memory",
+            "Security",
+            "Systems"
+        ]
     },
     {
         "name": "Improving entity linking by modeling latent relations between mentions",
@@ -1590,7 +2075,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Phong Le, Ivan Titov",
-        "keywords": ["Entity Linking", "NLP"]
+        "keywords": [
+            "Entity Linking",
+            "NLP"
+        ]
     },
     {
         "name": "Improving language models by retrieving from trillions of tokens",
@@ -1611,7 +2099,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever",
-        "keywords": ["NLP", "Retrieval-Augmented Generation"]
+        "keywords": [
+            "NLP",
+            "Retrieval-Augmented Generation"
+        ]
     },
     {
         "name": "Improving reinforcement learning from human feedback with efficient reward model ensemble",
@@ -1619,7 +2110,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shun Zhang, Zhenfang Chen, Sunli Chen, Yikang Shen, Zhiqing Sun, Chuang Gan",
-        "keywords": ["Ensemble", "NLP", "Reinforcement Learning"]
+        "keywords": [
+            "Ensemble",
+            "NLP",
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "Incredibly fast BLOOM inference with DeepSpeed and Accelerate",
@@ -1627,7 +2122,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Stas Bekman, Sylvain Gugger",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Inference suboptimality in variational autoencoders",
@@ -1668,7 +2167,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen",
-        "keywords": ["Computer Vision"]
+        "keywords": [
+            "Computer Vision"
+        ]
     },
     {
         "name": "Introducing MPT-7B: a new standard for open-source, commercially usable LLMs",
@@ -1676,7 +2177,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "The MosaicML NLP Team",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Introducing Turing image super resolution: AI powered image enhancements for Microsoft Edge and Bing maps",
@@ -1684,7 +2189,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": ["Deep Learning", "Image Super Resolution"]
+        "keywords": [
+            "Deep Learning",
+            "Image Super Resolution"
+        ]
     },
     {
         "name": "Introducing async tensor parallelism in PyTorch",
@@ -1692,7 +2200,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Horace He, Less Wright, Luca Wehrstedt, Tianyu Liu, Wanchao Liang",
-        "keywords": ["Efficient Training", "Systems"]
+        "keywords": [
+            "Efficient Training",
+            "Systems"
+        ]
     },
     {
         "name": "Introducing nvFuser, a deep learning compiler for PyTorch",
@@ -1700,7 +2211,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Christian Sarofeen, Piotr Bialecki, Jie Jiang, Kevin Stephano, Masaki Kozuki, Neal Vaidya, Stas Bekman",
-        "keywords": ["Deep Learning", "Graph Fusion", "HPC Compiler", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Graph Fusion",
+            "HPC Compiler",
+            "Systems"
+        ]
     },
     {
         "name": "Introducing \ud83e\udd17 accelerate",
@@ -1708,7 +2224,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Sylvain Gugger",
-        "keywords": ["Deep Learning", "Distributed Training", "Large Models"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Large Models"
+        ]
     },
     {
         "name": "Introduction to algorithms",
@@ -1740,7 +2260,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Oren Leung",
-        "keywords": ["NLP", "Systems"]
+        "keywords": [
+            "NLP",
+            "Systems"
+        ]
     },
     {
         "name": "Is Flash Attention stable",
@@ -1748,7 +2271,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alicia Golden, Samuel Hsia, Fei Sun, Bilge Acun, Basil Hosmer, Yejin Lee, Zachary DeVito, Jeff Johnson, Gu-Yeon Wei, David Brooks, Carole-Jean Wu",
-        "keywords": ["Deep Learning", "Systems", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Systems",
+            "Transformers"
+        ]
     },
     {
         "name": "Is the future of neural networks Sparse? An introduction (1/N)",
@@ -1756,7 +2283,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Fran\u00e7ois Lagunas",
-        "keywords": ["Deep Learning", "Sparse Matrices"]
+        "keywords": [
+            "Deep Learning",
+            "Sparse Matrices"
+        ]
     },
     {
         "name": "Jack of all trades, master of some, a multi-purpose transformer agent",
@@ -1764,7 +2294,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Quentin Gallou\u00e9dec, Edward Beeching, Cl\u00e9ment Romac, Thomas Wolf",
-        "keywords": ["Reinforcement Learning"]
+        "keywords": [
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "Jack of all trades, master of some, a multi-purpose transformer agent",
@@ -1772,7 +2304,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Quentin Gallou\u00e9dec, Edward Beeching, Cl\u00e9ment Romac, Emmanuel Dellandr\u00e9a",
-        "keywords": ["Reinforcement Learning"]
+        "keywords": [
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "Joint reasoning on hybrid-knowledge sources for task-oriented dialog",
@@ -1780,7 +2314,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mayank Mishra, Danish Contractor, Dinesh Raghu",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Judging LLM-as-a-judge with MT-bench and chatbot arena",
@@ -1788,7 +2325,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica",
-        "keywords": ["Deep Learning", "Evaluation using LLMs"]
+        "keywords": [
+            "Deep Learning",
+            "Evaluation using LLMs"
+        ]
     },
     {
         "name": "Know what you don't know: unanswerable questions for SQuAD",
@@ -1796,7 +2336,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Pranav Rajpurkar, Robin Jia, Percy Liang",
-        "keywords": ["NLP", "Question Answering"]
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "Knowledge-grounded dialogue generation with pre-trained language models",
@@ -1804,7 +2347,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xueliang Zhao, Wei Wu, Can Xu, Chongyang Tao, Dongyan Zhao, Rui Yan",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "LLM in a flash: efficient large language model inference with limited memory",
@@ -1812,7 +2358,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar",
-        "keywords": ["Deep Learning", "Systems", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Systems",
+            "Transformers"
+        ]
     },
     {
         "name": "LLM.int8(): 8-bit matrix multiplication for transformers at scale",
@@ -1820,7 +2370,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tim Dettmers, Mike Lewis, Younes Belkada, Luke Zettlemoyer",
-        "keywords": ["Deep Learning", "Quantization"]
+        "keywords": [
+            "Deep Learning",
+            "Quantization"
+        ]
     },
     {
         "name": "Language is not all you need: aligning perception with language models",
@@ -1828,7 +2381,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra, Qiang Liu, Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei",
-        "keywords": ["Deep Learning", "Multi-modal"]
+        "keywords": [
+            "Deep Learning",
+            "Multi-modal"
+        ]
     },
     {
         "name": "Language modeling with gated convolutional networks",
@@ -1836,7 +2392,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yann N. Dauphin, Angela Fan, Michael Auli, David Grangier",
-        "keywords": ["Activation Function", "NLP"]
+        "keywords": [
+            "Activation Function",
+            "NLP"
+        ]
     },
     {
         "name": "Language modelling with pixels",
@@ -1844,7 +2403,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott",
-        "keywords": ["Computer Vision", "NLP"]
+        "keywords": [
+            "Computer Vision",
+            "NLP"
+        ]
     },
     {
         "name": "Language models (mostly) know what they know",
@@ -1852,7 +2414,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli Tran-Johnson, Scott Johnston, Sheer El-Showk, Andy Jones, Nelson Elhage, Tristan Hume, Anna Chen, Yuntao Bai, Sam Bowman, Stanislav Fort, Deep Ganguli, Danny Hernandez, Josh Jacobson, Jackson Kernion, Shauna Kravec, Liane Lovitt, Kamal Ndousse, Catherine Olsson, Sam Ringer, Dario Amodei, Tom Brown, Jack Clark, Nicholas Joseph, Ben Mann, Sam McCandlish, Chris Olah, Jared Kaplan",
-        "keywords": ["Hallucination", "NLP"]
+        "keywords": [
+            "Hallucination",
+            "NLP"
+        ]
     },
     {
         "name": "Language models are unsupervised multitask learners",
@@ -1860,7 +2425,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever",
-        "keywords": ["NLP", "Transformers"]
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Language models as compilers: simulating pseudocode execution improves algorithmic reasoning in language models",
@@ -1868,7 +2436,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Hyungjoo Chae, Yeonghyeon Kim, Seungone Kim, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo",
-        "keywords": ["NLP", "Prompting"]
+        "keywords": [
+            "NLP",
+            "Prompting"
+        ]
     },
     {
         "name": "Large language models are not fair evaluators",
@@ -1876,7 +2447,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui",
-        "keywords": ["Evaluation using LLMs", "NLP"]
+        "keywords": [
+            "Evaluation using LLMs",
+            "NLP"
+        ]
     },
     {
         "name": "Layer normalization",
@@ -1884,7 +2458,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton",
-        "keywords": ["Deep Learning", "Normalization", "Optimization"]
+        "keywords": [
+            "Deep Learning",
+            "Normalization",
+            "Optimization"
+        ]
     },
     {
         "name": "Layer-condensed KV cache for efficient inference of large language models",
@@ -1892,7 +2470,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Haoyi Wu, Kewei Tu",
-        "keywords": ["Memory Reduction", "NLP", "Transformers"]
+        "keywords": [
+            "Memory Reduction",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Learning activation functions to improve deep neural networks",
@@ -1900,7 +2482,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Forest Agostinelli, Matthew Hoffman, Peter Sadowski, Pierre Baldi",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "Learning associative inference using fast weight memory",
@@ -1908,7 +2492,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Imanol Schlag, Tsendsuren Munkhdalai, J\u00fcrgen Schmidhuber",
-        "keywords": ["Long Context Length", "NLP"]
+        "keywords": [
+            "Long Context Length",
+            "NLP"
+        ]
     },
     {
         "name": "Learning discourse-level diversity for neural dialog models using conditional variational autoencoders",
@@ -1916,7 +2503,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tiancheng Zhao, Ran Zhao, Maxine Eskenazi",
-        "keywords": ["Dialog", "NLP", "Variational Inference"]
+        "keywords": [
+            "Dialog",
+            "NLP",
+            "Variational Inference"
+        ]
     },
     {
         "name": "Learning on a general network",
@@ -1924,7 +2515,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Amir F. Atiya",
-        "keywords": ["Backpropagation", "Deep Learning"]
+        "keywords": [
+            "Backpropagation",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Learning representations by back-propagating errors",
@@ -1932,7 +2526,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams",
-        "keywords": ["Backpropagation", "Deep Learning"]
+        "keywords": [
+            "Backpropagation",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Learning transferable visual models from natural language supervision",
@@ -1940,7 +2537,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever",
-        "keywords": ["Computer Vision", "Embeddings"]
+        "keywords": [
+            "Computer Vision",
+            "Embeddings"
+        ]
     },
     {
         "name": "Learning transferable visual models from natural language supervision",
@@ -1948,7 +2548,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever",
-        "keywords": ["Computer Vision", "Deep Learning", "Embeddings"]
+        "keywords": [
+            "Computer Vision",
+            "Deep Learning",
+            "Embeddings"
+        ]
     },
     {
         "name": "Learning word embeddings efficiently with noise-contrastive estimation",
@@ -1956,7 +2560,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Andriy Mnih, Koray Kavukcuoglu",
-        "keywords": ["Embeddings", "NLP"]
+        "keywords": [
+            "Embeddings",
+            "NLP"
+        ]
     },
     {
         "name": "Leave no context behind: efficient infinite context transformers with infini-attention",
@@ -1964,7 +2571,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tsendsuren Munkhdalai, Manaal Faruqui, Siddharth Gopal",
-        "keywords": ["Long Context Length", "NLP"]
+        "keywords": [
+            "Long Context Length",
+            "NLP"
+        ]
     },
     {
         "name": "Lessons learned on language model safety and misuse",
@@ -1972,7 +2582,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": null,
-        "keywords": ["Ethical Impacts of AI", "NLP"]
+        "keywords": [
+            "Ethical Impacts of AI",
+            "NLP"
+        ]
     },
     {
         "name": "Lifelong language pretraining with distribution-specialized experts",
@@ -2021,7 +2634,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma",
-        "keywords": ["Attention Mechanism", "Deep Learning", "Transformers"]
+        "keywords": [
+            "Attention Mechanism",
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "LoRA: Low-Rank Adaptation of large language models",
@@ -2029,7 +2646,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen",
-        "keywords": ["Deep Learning", "Efficient Training"]
+        "keywords": [
+            "Deep Learning",
+            "Efficient Training"
+        ]
     },
     {
         "name": "Long sequence modeling with XGen: a 7B LLM trained on 8K input sequence length",
@@ -2037,7 +2657,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Erik Nijkamp, Hiroaki Hayashi, Tian Xie, Congying Xia, Bo Pang, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Semih Yavuz, Chen Xing, Jesse Vig, Lidiya Murakhovs'ka, Chien-Sheng Wu, Yingbo Zhou, Shafiq Rayhan Joty, Caiming Xiong, Silvio Savarese",
-        "keywords": ["Long Context Length", "NLP", "Transformers"]
+        "keywords": [
+            "Long Context Length",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Lost in the middle: how language models use long contexts",
@@ -2045,7 +2669,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang",
-        "keywords": ["Long Context Length", "Transformers"]
+        "keywords": [
+            "Long Context Length",
+            "Transformers"
+        ]
     },
     {
         "name": "M6-10T: a sharing-delinking paradigm for efficient multi-trillion parameter pretraining",
@@ -2069,7 +2696,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Quentin Anthony, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He, Aamir Shafi, Mustafa Abduljabbar, Hari Subramoni, Dhabaleswar Panda",
-        "keywords": ["Deep Learning", "Distributed Training", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Systems"
+        ]
     },
     {
         "name": "MMCoQA: conversational question answering over text, tables and images",
@@ -2077,7 +2708,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yongqi Li, Wenjie Li, Liqiang Nie",
-        "keywords": ["Dataset", "Dialog", "NLP", "Question Answering"]
+        "keywords": [
+            "Dataset",
+            "Dialog",
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "MTIA v1: Meta's first-generation AI inference accelerator",
@@ -2085,7 +2721,10 @@
         "topic": "Computer Architecture",
         "datatype": "Blog",
         "authors": "Amin Firoozshahian, Olivia Wu, Joel Coburn, Roman Levenstein",
-        "keywords": ["ASIC", "Deep Learning"]
+        "keywords": [
+            "ASIC",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Machine learning",
@@ -2109,7 +2748,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Justin Chiu, Shuai Zheng",
-        "keywords": ["Deep Learning", "Distributed Training", "Large Models"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Large Models"
+        ]
     },
     {
         "name": "Making deep learning go brrrr from first principles",
@@ -2117,7 +2760,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Horace He",
-        "keywords": ["Deep Learning", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Systems"
+        ]
     },
     {
         "name": "Mask & focus: conversation modelling by learning concepts",
@@ -2125,7 +2771,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Gaurav Pandey, Dinesh Raghu, Sachindra Joshi",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Matrix analysis and applied linear algebra",
@@ -2141,7 +2790,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aditya Kusupati, Gantavya Bhatt, Aniket Rege, Matthew Wallingford, Aditya Sinha, Vivek Ramanujan, William Howard-Snyder, Kaifeng Chen, Sham Kakade, Prateek Jain, Ali Farhadi",
-        "keywords": ["Deep Learning", "Embeddings"]
+        "keywords": [
+            "Deep Learning",
+            "Embeddings"
+        ]
     },
     {
         "name": "Maximizing communication efficiency for large-scale training via 0/1 Adam",
@@ -2149,7 +2801,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He",
-        "keywords": ["Deep Learning", "Distributed Training"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training"
+        ]
     },
     {
         "name": "Measure theory",
@@ -2165,7 +2820,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Trevor Gale, Deepak Narayanan, Cliff Young, Matei Zaharia",
-        "keywords": ["Deep Learning", "Mixture of Experts", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Mixture of Experts",
+            "Systems"
+        ]
     },
     {
         "name": "Megatron-LM: training multi-billion parameter language models using model parallelism",
@@ -2187,7 +2846,11 @@
         "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Thomas Moscibroda, Onur Mutlu",
-        "keywords": ["Computer Architecture", "Memory", "Security"]
+        "keywords": [
+            "Computer Architecture",
+            "Memory",
+            "Security"
+        ]
     },
     {
         "name": "Memory scaling: a systems architecture perspective",
@@ -2195,7 +2858,10 @@
         "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Onur Mutlu",
-        "keywords": ["Computer Architecture", "Memory"]
+        "keywords": [
+            "Computer Architecture",
+            "Memory"
+        ]
     },
     {
         "name": "Memory-efficient pipeline-parallel DNN training",
@@ -2217,7 +2883,9 @@
         "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "L. C. Heller, M. S. Farrell",
-        "keywords": ["Computer Architecture"]
+        "keywords": [
+            "Computer Architecture"
+        ]
     },
     {
         "name": "MinTL: minimalist transfer learning for task-oriented dialogue systems",
@@ -2225,7 +2893,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zhaojiang Lin, Andrea Madotto, Genta Indra Winata, Pascale Fung",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Mix and match: learning-free controllable text generation using energy language models",
@@ -2233,7 +2904,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Fatemehsadat Mireshghallah, Kartik Goyal, Taylor Berg-Kirkpatrick",
-        "keywords": ["Energy-based Models", "NLP"]
+        "keywords": [
+            "Energy-based Models",
+            "NLP"
+        ]
     },
     {
         "name": "Mixed precision training",
@@ -2241,7 +2915,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Paulius Micikevicius, Sharan Narang, Jonah Alben, Gregory Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, Hao Wu",
-        "keywords": ["Deep Learning", "Quantization"]
+        "keywords": [
+            "Deep Learning",
+            "Quantization"
+        ]
     },
     {
         "name": "Mixture of attention heads: selecting attention heads per token",
@@ -2262,7 +2939,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sheng Shen, Le Hou, Yanqi Zhou, Nan Du, Shayne Longpre, Jason Wei, Hyung Won Chung, Barret Zoph, William Fedus, Xinyun Chen, Tu Vu, Yuexin Wu, Wuyang Chen, Albert Webson, Yunxuan Li, Vincent Zhao, Hongkun Yu, Kurt Keutzer, Trevor Darrell, Denny Zhou",
-        "keywords": ["Instruction Finetuning", "Mixture of Experts", "NLP"]
+        "keywords": [
+            "Instruction Finetuning",
+            "Mixture of Experts",
+            "NLP"
+        ]
     },
     {
         "name": "Mode matching in GANs through latent space learning and inversion",
@@ -2270,7 +2951,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Deepak Mishra, Prathosh A. P., Aravind Jayendran, Varun Srivastava, Santanu Chaudhury",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Multi-level memory for task oriented dialogs",
@@ -2278,7 +2963,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Revanth Reddy, Danish Contractor, Dinesh Raghu, Sachindra Joshi",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "MultiWOZ - A large-scale multi-domain Wizard-of-Oz dataset for task-oriented dialogue modelling",
@@ -2286,7 +2974,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Pawe\u0142 Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, I\u00f1igo Casanueva, Stefan Ultes, Osman Ramadan, Milica Ga\u0161i\u0107",
-        "keywords": ["Dataset", "Dialog", "NLP"]
+        "keywords": [
+            "Dataset",
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Multitask prompt tuning enables parameter-efficient transfer learning",
@@ -2294,7 +2986,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zhen Wang, Rameswar Panda, Leonid Karlinsky, Rogerio Feris, Huan Sun, Yoon Kim",
-        "keywords": ["Efficient Training", "NLP"]
+        "keywords": [
+            "Efficient Training",
+            "NLP"
+        ]
     },
     {
         "name": "Mutual information neural estimation",
@@ -2302,7 +2997,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm",
-        "keywords": ["Deep Learning", "Information Theory"]
+        "keywords": [
+            "Deep Learning",
+            "Information Theory"
+        ]
     },
     {
         "name": "NeMo: a toolkit for building AI applications using neural modules",
@@ -2310,7 +3008,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Oleksii Kuchaiev, Jason Li, Huyen Nguyen, Oleksii Hrinchuk, Ryan Leary, Boris Ginsburg, Samuel Kriman, Stanislav Beliaev, Vitaly Lavrukhin, Jack Cook, Patrice Castonguay, Mariya Popova, Jocelyn Huang, Jonathan M. Cohen",
-        "keywords": ["Deep Learning", "Distributed Training", "Large Models"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Large Models"
+        ]
     },
     {
         "name": "Neural GPUs learn algorithms",
@@ -2318,7 +3020,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "\u0141ukasz Kaiser, Ilya Sutskever",
-        "keywords": ["Deep Learning", "Theory of Computation"]
+        "keywords": [
+            "Deep Learning",
+            "Theory of Computation"
+        ]
     },
     {
         "name": "Neural network methods for natural language processing",
@@ -2334,7 +3039,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "J. J. Hopfield",
-        "keywords": ["Biology", "Deep Learning", "Energy-based Models"]
+        "keywords": [
+            "Biology",
+            "Deep Learning",
+            "Energy-based Models"
+        ]
     },
     {
         "name": "Neural networks for pattern recognition",
@@ -2350,7 +3059,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud",
-        "keywords": ["Deep Learning", "Differential Equations"]
+        "keywords": [
+            "Deep Learning",
+            "Differential Equations"
+        ]
     },
     {
         "name": "No train no gain: revisiting efficient training algorithms for transformer-based language models",
@@ -2358,7 +3070,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jean Kaddour, Oscar Key, Piotr Nawrot, Pasquale Minervini, Matt J. Kusner",
-        "keywords": ["Deep Learning", "Miscellaneous"]
+        "keywords": [
+            "Deep Learning",
+            "Miscellaneous"
+        ]
     },
     {
         "name": "OPT: open pre-trained transformer language models",
@@ -2366,7 +3081,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt Shuster, Daniel Simig, Punit Singh Koura, Anjali Sridhar, Tianlu Wang, Luke Zettlemoyer",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples",
@@ -2374,7 +3093,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Anish Athalye, Nicholas Carlini, David Wagner",
-        "keywords": ["Adversarial Examples", "Deep Learning"]
+        "keywords": [
+            "Adversarial Examples",
+            "Deep Learning"
+        ]
     },
     {
         "name": "OctoPack: instruction tuning code large language models",
@@ -2382,7 +3104,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro von Werra, Shayne Longpre",
-        "keywords": ["AI for code", "Instruction Finetuning", "NLP"]
+        "keywords": [
+            "AI for code",
+            "Instruction Finetuning",
+            "NLP"
+        ]
     },
     {
         "name": "On the convergence of Adam and beyond",
@@ -2390,7 +3116,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sashank J. Reddi, Satyen Kale, Sanjiv Kumar",
-        "keywords": ["Convergence", "Deep Learning", "Optimization"]
+        "keywords": [
+            "Convergence",
+            "Deep Learning",
+            "Optimization"
+        ]
     },
     {
         "name": "On the power of neural networks for solving hard problems",
@@ -2398,7 +3128,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jehoshua Bruck, Joseph W. Goodman",
-        "keywords": ["Deep Learning", "NP-Hard"]
+        "keywords": [
+            "Deep Learning",
+            "NP-Hard"
+        ]
     },
     {
         "name": "One model to learn them all",
@@ -2406,7 +3139,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit",
-        "keywords": ["Deep Learning", "Multi-modal"]
+        "keywords": [
+            "Deep Learning",
+            "Multi-modal"
+        ]
     },
     {
         "name": "Open domain question answering over tables via dense retrieval",
@@ -2414,7 +3150,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonathan Herzig, Thomas M\u00fcller, Syrine Krichene, Julian Eisenschlos",
-        "keywords": ["NLP", "Question Answering"]
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "Open question answering over tables and text",
@@ -2422,7 +3161,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen",
-        "keywords": ["NLP", "Question Answering"]
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "Optimal brain compression: a framework for accurate post-training quantization and pruning",
@@ -2430,7 +3172,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Elias Frantar, Sidak Pal Singh, Dan Alistarh",
-        "keywords": ["Deep Learning", "Pruning", "Quantization"]
+        "keywords": [
+            "Deep Learning",
+            "Pruning",
+            "Quantization"
+        ]
     },
     {
         "name": "Optimal perceptual inference",
@@ -2438,7 +3184,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Geoffrey E. Hinton, Terrence J. Sejnowski",
-        "keywords": ["Deep Learning", "Energy-based Models"]
+        "keywords": [
+            "Deep Learning",
+            "Energy-based Models"
+        ]
     },
     {
         "name": "Optimization story: Bloom inference",
@@ -2446,7 +3195,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Nicolas Patry",
-        "keywords": ["Deep Learning", "Large Models", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Transformers"
+        ]
     },
     {
         "name": "Orca 2: teaching small language models how to reason",
@@ -2454,7 +3207,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Arindam Mitra, Luciano Del Corro, Shweti Mahajan, Andres Codas, Clarisse Simoes, Sahaj Agarwal, Xuxi Chen, Anastasia Razdaibiedina, Erik Jones, Kriti Aggarwal, Hamid Palangi, Guoqing Zheng, Corby Rosset, Hamed Khanpour, Ahmed Awadallah",
-        "keywords": ["Instruction Finetuning", "NLP"]
+        "keywords": [
+            "Instruction Finetuning",
+            "NLP"
+        ]
     },
     {
         "name": "Orca: progressive learning from complex explanation traces of GPT-4",
@@ -2462,7 +3218,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, Ahmed Awadallah",
-        "keywords": ["Instruction Finetuning", "NLP"]
+        "keywords": [
+            "Instruction Finetuning",
+            "NLP"
+        ]
     },
     {
         "name": "Outer product-based neural collaborative filtering",
@@ -2482,7 +3241,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean",
-        "keywords": ["Deep Learning", "Mixture of Experts"]
+        "keywords": [
+            "Deep Learning",
+            "Mixture of Experts"
+        ]
     },
     {
         "name": "Overcoming oscillations in quantization-aware training",
@@ -2490,7 +3252,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Markus Nagel, Marios Fournarakis, Yelysei Bondarenko, Tijmen Blankevoort",
-        "keywords": ["Deep Learning", "Quantization"]
+        "keywords": [
+            "Deep Learning",
+            "Quantization"
+        ]
     },
     {
         "name": "PAL: Program-aided language models",
@@ -2498,7 +3263,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig",
-        "keywords": ["Mathematical Reasoning", "NLP"]
+        "keywords": [
+            "Mathematical Reasoning",
+            "NLP"
+        ]
     },
     {
         "name": "PaLM: scaling language modeling with pathways",
@@ -2519,7 +3287,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Nir Ratner, Yoav Levine, Yonatan Belinkov, Ori Ram, Inbal Magar, Omri Abend, Ehud Karpas, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham",
-        "keywords": ["In Context Learning", "Long Context Length", "NLP"]
+        "keywords": [
+            "In Context Learning",
+            "Long Context Length",
+            "NLP"
+        ]
     },
     {
         "name": "Partitioning optimization problems for hybrid classical/quantum execution",
@@ -2551,7 +3323,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Justin Johnson, Alexandre Alahi, Li Fei-Fei",
-        "keywords": ["Computer Vision", "Image Super Resolution"]
+        "keywords": [
+            "Computer Vision",
+            "Image Super Resolution"
+        ]
     },
     {
         "name": "Personalizing dialogue agents: I have a dog, do you have pets too?",
@@ -2559,7 +3334,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela, Jason Weston",
-        "keywords": ["Dialog", "NLP"]
+        "keywords": [
+            "Dialog",
+            "NLP"
+        ]
     },
     {
         "name": "Phase-functioned neural networks for character control",
@@ -2567,7 +3345,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Daniel Holden, Taku Komura, Jun Saito",
-        "keywords": ["Computer Graphics", "Deep Learning"]
+        "keywords": [
+            "Computer Graphics",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Playing Atari with deep reinforcement learning",
@@ -2575,7 +3356,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller",
-        "keywords": ["Reinforcement Learning"]
+        "keywords": [
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer",
@@ -2583,7 +3366,10 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Peter W. Shor",
-        "keywords": ["Quantum Algorithms", "Quantum Computing"]
+        "keywords": [
+            "Quantum Algorithms",
+            "Quantum Computing"
+        ]
     },
     {
         "name": "Pre-train, prompt, and predict: a systematic survey of prompting methods in natural language processing",
@@ -2591,7 +3377,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig",
-        "keywords": ["Efficient Training", "Few Shot", "NLP", "Prompting"]
+        "keywords": [
+            "Efficient Training",
+            "Few Shot",
+            "NLP",
+            "Prompting"
+        ]
     },
     {
         "name": "Prefix-tuning: optimizing continuous prompts for generation",
@@ -2599,7 +3390,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xiang Lisa Li, Percy Liang",
-        "keywords": ["Efficient Training", "Few Shot", "NLP"]
+        "keywords": [
+            "Efficient Training",
+            "Few Shot",
+            "NLP"
+        ]
     },
     {
         "name": "Principles of traditional animation applied to 3D computer animation",
@@ -2607,7 +3402,10 @@
         "topic": "Computer Graphics",
         "datatype": "Paper",
         "authors": "John Lasseter",
-        "keywords": ["Animation", "Computer Graphics"]
+        "keywords": [
+            "Animation",
+            "Computer Graphics"
+        ]
     },
     {
         "name": "Probabilistic cloning and identification of linearly independent quantum states",
@@ -2615,7 +3413,10 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Lu-Ming Duan, Guang-Can Guo",
-        "keywords": ["Cloning", "Quantum Computing"]
+        "keywords": [
+            "Cloning",
+            "Quantum Computing"
+        ]
     },
     {
         "name": "Probabilistic latent semantic analysis",
@@ -2623,7 +3424,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Thomas Hofmann",
-        "keywords": ["Information Retrieval", "NLP"]
+        "keywords": [
+            "Information Retrieval",
+            "NLP"
+        ]
     },
     {
         "name": "Programming with D-Wave: map coloring problem",
@@ -2639,7 +3443,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Prompting with pseudo-code instructions",
@@ -2647,7 +3455,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mayank Mishra, Prince Kumar, Riyaz Bhat, Rudra Murthy V, Danish Contractor, Srikanth Tamilselvam",
-        "keywords": ["NLP", "Prompting"]
+        "keywords": [
+            "NLP",
+            "Prompting"
+        ]
     },
     {
         "name": "Proximal policy optimization algorithms",
@@ -2655,7 +3466,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov",
-        "keywords": ["Reinforcement Learning"]
+        "keywords": [
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "PullNet: open domain question answering with iterative retrieval on knowledge bases and text",
@@ -2663,7 +3476,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Haitian Sun, Tania Bedrax-Weiss, William Cohen",
-        "keywords": ["NLP", "Question Answering"]
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "PyTorch trace analysis for the masses",
@@ -2671,7 +3487,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Anupam Bhatnagar, Xizhou Feng, Brian Coutinho, Yifan Liu, Sung-Han Lin, Louis Feng, and Yuzhen Huang",
-        "keywords": ["Deep Learning", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Systems"
+        ]
     },
     {
         "name": "Q-BERT: Hessian based ultra low precision quantization of BERT",
@@ -2679,7 +3498,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer",
-        "keywords": ["NLP", "Quantization"]
+        "keywords": [
+            "NLP",
+            "Quantization"
+        ]
     },
     {
         "name": "Quantum computation and quantum information",
@@ -2711,7 +3533,10 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "David Deutsch",
-        "keywords": ["Quantum Computing", "Theory of Computation"]
+        "keywords": [
+            "Quantum Computing",
+            "Theory of Computation"
+        ]
     },
     {
         "name": "RAIDR: Retention-Aware Intelligent DRAM Refresh",
@@ -2719,7 +3544,10 @@
         "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Jamie Liu, Ben Jaiyen, Richard Veras, Onur Mutlu",
-        "keywords": ["Computer Architecture", "Memory"]
+        "keywords": [
+            "Computer Architecture",
+            "Memory"
+        ]
     },
     {
         "name": "REALM: Retrieval-augmented language model pretraining",
@@ -2739,7 +3567,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zijun Deng, Xiaowei Hu, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, Pheng-Ann Heng",
-        "keywords": ["Computer Vision", "Saliency Detection"]
+        "keywords": [
+            "Computer Vision",
+            "Saliency Detection"
+        ]
     },
     {
         "name": "Rapid solution of problems by quantum computation",
@@ -2747,7 +3578,10 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "David Deutsche, Richard Jozsa",
-        "keywords": ["Quantum Algorithms", "Quantum Computing"]
+        "keywords": [
+            "Quantum Algorithms",
+            "Quantum Computing"
+        ]
     },
     {
         "name": "ReLoRA: high-rank training through low-rank updates",
@@ -2755,7 +3589,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Vladislav Lialin, Namrata Shivagunde, Sherin Muckatira, Anna Rumshisky",
-        "keywords": ["Deep Learning", "Efficient Training"]
+        "keywords": [
+            "Deep Learning",
+            "Efficient Training"
+        ]
     },
     {
         "name": "Reading Wikipedia to answer open-domain questions",
@@ -2763,7 +3600,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Danqi Chen, Adam Fisch, Jason Weston, Antoine Bordes",
-        "keywords": ["NLP", "Question Answering"]
+        "keywords": [
+            "NLP",
+            "Question Answering"
+        ]
     },
     {
         "name": "Recurrent models of visual attention",
@@ -2805,7 +3645,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Stephen Merity, Nitish Shirish Keskar, Richard Socher",
-        "keywords": ["Deep Learning", "Optimization", "Regularization"]
+        "keywords": [
+            "Deep Learning",
+            "Optimization",
+            "Regularization"
+        ]
     },
     {
         "name": "Reinforcement Learning: An Introduction",
@@ -2861,7 +3705,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "David Lopez-Paz, Maxime Oquab",
-        "keywords": ["Deep Learning", "Unsupervised Learning"]
+        "keywords": [
+            "Deep Learning",
+            "Unsupervised Learning"
+        ]
     },
     {
         "name": "RoBERTa: a robustly optimized BERT pretraining approach",
@@ -2869,7 +3716,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov",
-        "keywords": ["NLP", "Transformers"]
+        "keywords": [
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "RoFormer: enhanced transformer with rotary position embedding",
@@ -2877,7 +3727,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu",
-        "keywords": ["NLP", "Position Embeddings", "Transformers"]
+        "keywords": [
+            "NLP",
+            "Position Embeddings",
+            "Transformers"
+        ]
     },
     {
         "name": "SOLAR 10.7B: scaling large language models with simple yet effective depth up-scaling",
@@ -2885,7 +3739,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Dahyun Kim, Chanjun Park, Sanghoon Kim, Wonsung Lee, Wonho Song, Yunsu Kim, Hyeonwoo Kim, Yungi Kim, Hyeonju Lee, Jihoo Kim, Changbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim, Mikyoung Cha, Hwalsuk Lee, Sunghun Kim",
-        "keywords": ["Model Upcycling", "NLP", "Transformers"]
+        "keywords": [
+            "Model Upcycling",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "SOLOIST: building task bots at scale with transfer learning and machine teaching",
@@ -2893,7 +3751,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Baolin Peng, Chunyuan Li, Jinchao Li, Shahin Shayandeh, Lars Liden, Jianfeng Gao",
-        "keywords": ["Dialog", "Few Shot", "NLP", "Transfer Learning"]
+        "keywords": [
+            "Dialog",
+            "Few Shot",
+            "NLP",
+            "Transfer Learning"
+        ]
     },
     {
         "name": "ST-MoE: designing stable and transferable sparse expert models",
@@ -2901,7 +3764,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus",
-        "keywords": ["Mixture of Experts", "Transformers"]
+        "keywords": [
+            "Mixture of Experts",
+            "Transformers"
+        ]
     },
     {
         "name": "SantaCoder: don't reach for the stars!",
@@ -2922,7 +3788,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Linsong Chu, Less Wright, Hamid Shojanazeri, Sophia Wen, Raghu Ganti, Geeta Chauhan",
-        "keywords": ["Distributed Training", "Large Models", "Systems"]
+        "keywords": [
+            "Distributed Training",
+            "Large Models",
+            "Systems"
+        ]
     },
     {
         "name": "Scaling instruction-finetuned language models",
@@ -2930,7 +3800,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei",
-        "keywords": ["Instruction Finetuning", "NLP"]
+        "keywords": [
+            "Instruction Finetuning",
+            "NLP"
+        ]
     },
     {
         "name": "Scaling transformer to 1M tokens and beyond with RMT",
@@ -2938,7 +3811,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aydar Bulatov, Yuri Kuratov, Mikhail S. Burtsev",
-        "keywords": ["Long Context Length", "NLP"]
+        "keywords": [
+            "Long Context Length",
+            "NLP"
+        ]
     },
     {
         "name": "Scattered mixture-of-experts implementation",
@@ -2946,7 +3822,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shawn Tan, Yikang Shen, Rameswar Panda, Aaron Courville",
-        "keywords": ["Deep Learning", "Mixture of Experts", "Systems"]
+        "keywords": [
+            "Deep Learning",
+            "Mixture of Experts",
+            "Systems"
+        ]
     },
     {
         "name": "Self-instruct: aligning language model with self generated instructions",
@@ -2954,7 +3834,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi",
-        "keywords": ["Instruction Finetuning", "NLP"]
+        "keywords": [
+            "Instruction Finetuning",
+            "NLP"
+        ]
     },
     {
         "name": "Self-normalizing neural networks",
@@ -2962,7 +3845,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "G\u00fcnter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter",
-        "keywords": ["Activation Function", "Deep Learning", "Normalization"]
+        "keywords": [
+            "Activation Function",
+            "Deep Learning",
+            "Normalization"
+        ]
     },
     {
         "name": "Semantically equivalent adversarial rules for debugging NLP models",
@@ -2970,7 +3857,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin",
-        "keywords": ["NLP"]
+        "keywords": [
+            "NLP"
+        ]
     },
     {
         "name": "Seq2seq model and the exposure bias problem",
@@ -2978,7 +3867,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Aditya Mohanty",
-        "keywords": ["Generative Models", "NLP"]
+        "keywords": [
+            "Generative Models",
+            "NLP"
+        ]
     },
     {
         "name": "Sequence parallelism: long sequence training from system perspective",
@@ -2999,7 +3891,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Byeongchang Kim, Jaewoo Ahn, Gunhee Kim",
-        "keywords": ["Dialog", "NLP", "Variational Inference"]
+        "keywords": [
+            "Dialog",
+            "NLP",
+            "Variational Inference"
+        ]
     },
     {
         "name": "Signals and systems",
@@ -3015,7 +3911,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Christopher Clark, Matt Gardner",
-        "keywords": ["NLP", "Reading Comprehension"]
+        "keywords": [
+            "NLP",
+            "Reading Comprehension"
+        ]
     },
     {
         "name": "Simplifying transformer blocks",
@@ -3023,7 +3922,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Bobby He, Thomas Hofmann",
-        "keywords": ["Deep Learning", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "SlimPajama-DC: understanding data combinations for LLM training",
@@ -3031,7 +3933,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zhiqiang Shen, Tianhua Tao, Liqun Ma, Willie Neiswanger, Zhengzhong Liu, Hongyi Wang, Bowen Tan, Joel Hestness, Natalia Vassilieva, Daria Soboleva, Eric Xing",
-        "keywords": ["Data Mixtures", "NLP"]
+        "keywords": [
+            "Data Mixtures",
+            "NLP"
+        ]
     },
     {
         "name": "SmoothQuant: accurate and efficient post-training quantization for large language models",
@@ -3052,7 +3957,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang",
-        "keywords": ["Deep Learning", "Pruning"]
+        "keywords": [
+            "Deep Learning",
+            "Pruning"
+        ]
     },
     {
         "name": "Solving quantitative reasoning problems with language models",
@@ -3060,7 +3968,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Spatial temporal graph convolutional networks for skeleton-based action recognition",
@@ -3093,7 +4005,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida",
-        "keywords": ["Adversarial Learning", "Deep Learning"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Speech and language processing",
@@ -3109,7 +4024,10 @@
         "topic": "Computer Architecture",
         "datatype": "Paper",
         "authors": "Onur Mutlu, Thomas Moscibroda",
-        "keywords": ["Computer Architecture", "Memory"]
+        "keywords": [
+            "Computer Architecture",
+            "Memory"
+        ]
     },
     {
         "name": "StarCoder: may the source be with you!",
@@ -3117,7 +4035,12 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Raymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, Qian Liu, Evgenii Zheltonozhskii, Terry Yue Zhuo, Thomas Wang, Olivier Dehaene, Mishig Davaadorj, Joel Lamy-Poirier, Jo\u00e3o Monteiro, Oleh Shliazhko, Nicolas Gontier, Nicholas Meade, Armel Zebaze, Ming-Ho Yee, Logesh Kumar Umapathi, Jian Zhu, Benjamin Lipkin, Muhtasham Oblokulov, Zhiruo Wang, Rudra Murthy, Jason Stillerman, Siva Sankalp Patel, Dmitry Abulkhanov, Marco Zocca, Manan Dey, Zhihan Zhang, Nour Fahmy, Urvashi Bhattacharyya, Wenhao Yu, Swayam Singh, Sasha Luccioni, Paulo Villegas, Maxim Kunakov, Fedor Zhdanov, Manuel Romero, Tony Lee, Nadav Timor, Jennifer Ding, Claire Schlesinger, Hailey Schoelkopf, Jan Ebert, Tri Dao, Mayank Mishra, Alex Gu, Jennifer Robinson, Carolyn Jane Anderson, Brendan Dolan-Gavitt, Danish Contractor, Siva Reddy, Daniel Fried, Dzmitry Bahdanau, Yacine Jernite, Carlos Mu\u00f1oz Ferrandis, Sean Hughes, Thomas Wolf, Arjun Guha, Leandro von Werra, Harm de Vries",
-        "keywords": ["AI for code", "Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "AI for code",
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Sticking the landing: simple, lower-variance gradient estimators for variational inference",
@@ -3137,7 +4060,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Surat Teerapittayanon, Marcus Comiter, Brad McDanel, H.T. Kung",
-        "keywords": ["Deep Learning", "Growing Neural Networks"]
+        "keywords": [
+            "Deep Learning",
+            "Growing Neural Networks"
+        ]
     },
     {
         "name": "Stochastic hyperparameter optimization through hypernetworks",
@@ -3145,7 +4071,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jonathan Lorraine, David Duvenaud",
-        "keywords": ["Deep Learning", "Meta Learning"]
+        "keywords": [
+            "Deep Learning",
+            "Meta Learning"
+        ]
     },
     {
         "name": "Strategies for teaching layered networks classification tasks",
@@ -3153,7 +4082,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ben S. Wittner, John S. Denker",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "Structured prompting: scaling in-context learning to 1,000 examples",
@@ -3161,7 +4092,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei",
-        "keywords": ["Deep Learning", "In Context Learning"]
+        "keywords": [
+            "Deep Learning",
+            "In Context Learning"
+        ]
     },
     {
         "name": "Style transfer from non-parallel text by cross-alignment",
@@ -3169,7 +4103,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tianxiao Shen, Tao Lei, Regina Barzilay, Tommi Jaakkola",
-        "keywords": ["NLP", "Style Transfer"]
+        "keywords": [
+            "NLP",
+            "Style Transfer"
+        ]
     },
     {
         "name": "Subword regularization: improving neural network translation models with multiple subword candidates",
@@ -3177,7 +4114,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Taku Kudo",
-        "keywords": ["Machine Translation", "NLP", "Regularization"]
+        "keywords": [
+            "Machine Translation",
+            "NLP",
+            "Regularization"
+        ]
     },
     {
         "name": "Supervised learning of probability distributions by neural networks",
@@ -3185,7 +4126,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Eric B. Baum, Frank Wilczek",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "Supporting efficient large model training on AMD Instinct^{TM} GPUs with DeepSpeed",
@@ -3193,7 +4136,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Olatunji Ruwase, Jeff Rasley",
-        "keywords": ["Deep Learning", "Distributed Training", "Large Models"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Large Models"
+        ]
     },
     {
         "name": "Switch transformers: scaling to trillion parameter models with simple and efficient sparsity",
@@ -3201,7 +4148,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "William Fedus, Barret Zoph, Noam Shazeer",
-        "keywords": ["Deep Learning", "Mixture of Experts"]
+        "keywords": [
+            "Deep Learning",
+            "Mixture of Experts"
+        ]
     },
     {
         "name": "Synchronization in neural nets",
@@ -3209,7 +4159,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jacques J. Vidal, John Haggerty",
-        "keywords": ["Deep Learning"]
+        "keywords": [
+            "Deep Learning"
+        ]
     },
     {
         "name": "Synthetic data (almost) from scratch: generalized instruction tuning for language models",
@@ -3229,7 +4181,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jason D. M. Rennie, Lawrence Shih, Jaime Teevan, David R. Karger",
-        "keywords": ["NLP"]
+        "keywords": [
+            "NLP"
+        ]
     },
     {
         "name": "Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels",
@@ -3237,7 +4191,10 @@
         "topic": "Quantum Computing",
         "datatype": "Paper",
         "authors": "Charles H. Bennett, Gilles Brassard, Claude Cr\u00e9peau, Richard Jozsa, Asher Peres, William K. Wootters",
-        "keywords": ["Quantum Computing", "Quantum Teleportation"]
+        "keywords": [
+            "Quantum Computing",
+            "Quantum Teleportation"
+        ]
     },
     {
         "name": "Tensor programs V: tuning large neural networks via zero-shot hyperparameter transfer",
@@ -3245,7 +4202,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Greg Yang, Edward J. Hu, Igor Babuschkin, Szymon Sidor, Xiaodong Liu, David Farhi, Nick Ryder, Jakub Pachocki, Weizhu Chen, Jianfeng Gao",
-        "keywords": ["Deep Learning", "Hyperparameter Search"]
+        "keywords": [
+            "Deep Learning",
+            "Hyperparameter Search"
+        ]
     },
     {
         "name": "TextWorld: a learning environment for text-based games",
@@ -3253,7 +4213,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Marc-Alexandre C\u00f4t\u00e9, \u00c1kos K\u00e1d\u00e1r, Xingdi Yuan, Ben Kybartas, Tavian Barnes, Emery Fine, James Moore, Ruo Yu Tao, Matthew Hausknecht, Layla El Asri, Mahmoud Adada, Wendy Tay, Adam Trischler",
-        "keywords": ["RL environments", "Reinforcement Learning"]
+        "keywords": [
+            "RL environments",
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "The Flan collection: designing data and methods for effective instruction tuning",
@@ -3261,7 +4224,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts",
-        "keywords": ["Instruction Finetuning", "NLP"]
+        "keywords": [
+            "Instruction Finetuning",
+            "NLP"
+        ]
     },
     {
         "name": "The Pile: an 800GB dataset of diverse text for language modeling",
@@ -3269,7 +4235,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor Leahy",
-        "keywords": ["Dataset", "NLP"]
+        "keywords": [
+            "Dataset",
+            "NLP"
+        ]
     },
     {
         "name": "The best of both worlds: combining recent advances in neural machine translation",
@@ -3277,7 +4246,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes",
-        "keywords": ["Machine Translation", "NLP"]
+        "keywords": [
+            "Machine Translation",
+            "NLP"
+        ]
     },
     {
         "name": "The elements of statistical learning: data mining, inference and prediction",
@@ -3293,7 +4265,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Naftali Tishby, Fernando C. Pereira, William Bialek",
-        "keywords": ["Information Theory"]
+        "keywords": [
+            "Information Theory"
+        ]
     },
     {
         "name": "The matrix cookbook",
@@ -3309,7 +4283,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Brian Lester, Rami Al-Rfou, Noah Constant",
-        "keywords": ["Efficient Training", "NLP"]
+        "keywords": [
+            "Efficient Training",
+            "NLP"
+        ]
     },
     {
         "name": "The wisdom of hindsight makes language models better instruction followers",
@@ -3317,7 +4294,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez",
-        "keywords": ["Instruction Finetuning", "NLP"]
+        "keywords": [
+            "Instruction Finetuning",
+            "NLP"
+        ]
     },
     {
         "name": "Thermometer encoding: one hot way to resist adversarial examples",
@@ -3325,7 +4305,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jacob Buckman, Aurko Roy, Colin Raffel, Ian Goodfellow",
-        "keywords": ["Adversarial Examples", "Deep Learning", "Robustness"]
+        "keywords": [
+            "Adversarial Examples",
+            "Deep Learning",
+            "Robustness"
+        ]
     },
     {
         "name": "Thomas' calculus",
@@ -3341,7 +4325,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, Prathosh AP",
-        "keywords": ["Deep Learning", "Regularization"]
+        "keywords": [
+            "Deep Learning",
+            "Regularization"
+        ]
     },
     {
         "name": "Towards crowdsourced training of large neural networks using decentralized mixture-of-experts",
@@ -3349,7 +4336,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Max Ryabinin, Anton Gusev",
-        "keywords": ["Decentralized Training", "Deep Learning", "Large Models"]
+        "keywords": [
+            "Decentralized Training",
+            "Deep Learning",
+            "Large Models"
+        ]
     },
     {
         "name": "Towards deep learning models resilient to adversarial attacks",
@@ -3357,7 +4348,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu",
-        "keywords": ["Adversarial Examples", "Deep Learning", "Robustness"]
+        "keywords": [
+            "Adversarial Examples",
+            "Deep Learning",
+            "Robustness"
+        ]
     },
     {
         "name": "Towards evaluating the robustness of neural networks",
@@ -3365,7 +4360,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Nicholas Carlini, David Wagner",
-        "keywords": ["Adversarial Examples", "Deep Learning", "Robustness"]
+        "keywords": [
+            "Adversarial Examples",
+            "Deep Learning",
+            "Robustness"
+        ]
     },
     {
         "name": "Train short, test long: Attention with linear biases enables input length extrapolation",
@@ -3373,7 +4372,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ofir Press, Noah Smith, Mike Lewis",
-        "keywords": ["Embeddings", "NLP", "Transformers"]
+        "keywords": [
+            "Embeddings",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Training compute-optimal large language models",
@@ -3381,7 +4384,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre",
-        "keywords": ["Deep Learning", "Large Models", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Transformers"
+        ]
     },
     {
         "name": "Training language models to follow instructions with human feedback",
@@ -3389,7 +4396,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, Ryan Lowe",
-        "keywords": ["Instruction Finetuning", "NLP", "Reinforcement Learning"]
+        "keywords": [
+            "Instruction Finetuning",
+            "NLP",
+            "Reinforcement Learning"
+        ]
     },
     {
         "name": "Transformer memory as a differentiable search index",
@@ -3409,7 +4420,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Weizhe Hua, Zihang Dai, Hanxiao Liu, Quoc Le",
-        "keywords": ["Deep Learning", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "Transformer-XL: attentive language models beyond a fixed-length context",
@@ -3417,7 +4431,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov",
-        "keywords": ["Long Context Length", "NLP", "Transformers"]
+        "keywords": [
+            "Long Context Length",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Transformers explained visually (part 1): overview of functionality",
@@ -3425,7 +4443,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ketan Doshi",
-        "keywords": ["Deep Learning", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "Transformers explained visually (part 2): how it works, step-by-step",
@@ -3433,7 +4454,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ketan Doshi",
-        "keywords": ["Deep Learning", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "Transformers explained visually (part 3): multi-head attention, deep dive",
@@ -3441,15 +4465,25 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Ketan Doshi",
-        "keywords": ["Deep Learning", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "Triton: an intermediate language and compiler for tiled neural network computations",
         "url": "https://dl.acm.org/doi/abs/10.1145/3315508.3329973",
-        "topic": ["AI, DL, NLP and RL", "Computer Architecture"],
+        "topic": [
+            "AI, DL, NLP and RL",
+            "Computer Architecture"
+        ],
         "datatype": "Paper",
         "authors": "Philippe Tillet, H. T. Kung, David Cox",
-        "keywords": ["Computer Architecture", "Deep Learning", "HPC Compiler"]
+        "keywords": [
+            "Computer Architecture",
+            "Deep Learning",
+            "HPC Compiler"
+        ]
     },
     {
         "name": "Turing-NLG: a 17-billion-parameter language model by Microsoft",
@@ -3457,7 +4491,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Corby Rosset",
-        "keywords": ["Deep Learning", "Large Models", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Transformers"
+        ]
     },
     {
         "name": "UL2: unifying language learning paradigms",
@@ -3465,7 +4503,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Xavier Garcia, Jason Wei, Xuezhi Wang, Hyung Won Chung, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Denny Zhou, Neil Houlsby, Donald Metzler",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Understanding convolutional neural networks with a mathematical model",
@@ -3473,7 +4515,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "C.-C. Jay Kuo",
-        "keywords": ["Computer Vision"]
+        "keywords": [
+            "Computer Vision"
+        ]
     },
     {
         "name": "Understanding digital signal processing",
@@ -3501,7 +4545,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Cameron Wolfe",
-        "keywords": ["Deep Learning", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "Unit tests for stochastic optimization",
@@ -3509,7 +4556,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Tom Schaul, Ioannis Antonoglou, David Silver",
-        "keywords": ["Deep Learning", "Optimization"]
+        "keywords": [
+            "Deep Learning",
+            "Optimization"
+        ]
     },
     {
         "name": "Universal language model fine-tuning for text classification",
@@ -3517,7 +4567,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jeremy Howard, Sebastian Ruder",
-        "keywords": ["NLP", "Text Classification"]
+        "keywords": [
+            "NLP",
+            "Text Classification"
+        ]
     },
     {
         "name": "Unlimiformer: long-range transformers with unlimited length input",
@@ -3525,7 +4578,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Amanda Bertsch, Uri Alon, Graham Neubig, Matthew R. Gormley",
-        "keywords": ["Long Context Length", "NLP", "Transformers"]
+        "keywords": [
+            "Long Context Length",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "Unpaired image-to-image translation using cycle-consistent adversarial networks",
@@ -3533,7 +4590,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Unsupervised machine translation using monolingual corpora only",
@@ -3541,7 +4602,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Guillaume Lample, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato",
-        "keywords": ["Machine Translation", "NLP", "Unsupervised Learning"]
+        "keywords": [
+            "Machine Translation",
+            "NLP",
+            "Unsupervised Learning"
+        ]
     },
     {
         "name": "Unsupervised representation learning by predicting image rotations",
@@ -3549,7 +4614,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Spyros Gidaris, Praveer Singh, Nikos Komodakis",
-        "keywords": ["Computer Vision", "Unsupervised Learning"]
+        "keywords": [
+            "Computer Vision",
+            "Unsupervised Learning"
+        ]
     },
     {
         "name": "Using DeepSpeed and Megatron to train Megatron-Turing NLG 530B, the world\u2019s largest and most powerful generative language model",
@@ -3570,7 +4638,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Akash Srivastava, Lazar Valkov, Chris Russell, Michael U. Gutmann, Charles Sutton",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Variational inference using implicit distributions",
@@ -3578,7 +4650,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Ferenc Husz\u00e1r",
-        "keywords": ["Deep Learning", "Variational Inference"]
+        "keywords": [
+            "Deep Learning",
+            "Variational Inference"
+        ]
     },
     {
         "name": "Variational inference with latent space quantization for adversarial resilience",
@@ -3599,7 +4674,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Mayank Mishra, Dhiraj Madan, Gaurav Pandey, Danish Contractor",
-        "keywords": ["Dialog", "NLP", "Variational Inference"]
+        "keywords": [
+            "Dialog",
+            "NLP",
+            "Variational Inference"
+        ]
     },
     {
         "name": "Variational lossy autoencoder",
@@ -3607,7 +4686,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel",
-        "keywords": ["Deep Learning", "Variational Inference"]
+        "keywords": [
+            "Deep Learning",
+            "Variational Inference"
+        ]
     },
     {
         "name": "Vector-quantized input-contextualized soft prompts for natural language understanding",
@@ -3615,7 +4697,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Rishabh Bhardwaj, Amrita Saha, Steven C.H. Hoi, Soujanya Poria",
-        "keywords": ["Efficient Training", "NLP"]
+        "keywords": [
+            "Efficient Training",
+            "NLP"
+        ]
     },
     {
         "name": "Very deep convolutional networks for large-scale image recognition",
@@ -3623,7 +4708,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Karen Simonyan, Andrew Zisserman",
-        "keywords": ["Computer Vision", "Image Classification"]
+        "keywords": [
+            "Computer Vision",
+            "Image Classification"
+        ]
     },
     {
         "name": "Visual instruction tuning",
@@ -3631,7 +4719,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee",
-        "keywords": ["Computer Vision", "Instruction Finetuning", "Multi-modal"]
+        "keywords": [
+            "Computer Vision",
+            "Instruction Finetuning",
+            "Multi-modal"
+        ]
     },
     {
         "name": "Visualizing data using t-SNE",
@@ -3639,7 +4731,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Laurens van der Maaten, Geoffrey Hinton",
-        "keywords": ["Data Visualization", "Deep Learning"]
+        "keywords": [
+            "Data Visualization",
+            "Deep Learning"
+        ]
     },
     {
         "name": "Wasserstein GAN",
@@ -3647,7 +4742,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Martin Arjovsky, Soumith Chintala, L\u00e9on Bottou",
-        "keywords": ["Adversarial Learning", "Deep Learning", "GAN"]
+        "keywords": [
+            "Adversarial Learning",
+            "Deep Learning",
+            "GAN"
+        ]
     },
     {
         "name": "Wavenet: a generative model for raw audio",
@@ -3655,7 +4754,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu",
-        "keywords": ["Audio", "Deep Learning"]
+        "keywords": [
+            "Audio",
+            "Deep Learning"
+        ]
     },
     {
         "name": "WebGPT: browser-assisted question-answering with human feedback",
@@ -3663,7 +4765,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman",
-        "keywords": ["Human Feedback", "Reinforcement Learning", "Transformers"]
+        "keywords": [
+            "Human Feedback",
+            "Reinforcement Learning",
+            "Transformers"
+        ]
     },
     {
         "name": "What language model to train if you have one million GPU hours?",
@@ -3684,7 +4790,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Adrian de Wynter",
-        "keywords": ["Gaming", "Planning"]
+        "keywords": [
+            "Gaming",
+            "Planning"
+        ]
     },
     {
         "name": "Word translation without parallel data",
@@ -3692,14 +4801,19 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Guillaume Lample, Alexis Conneau, Marc'Aurelio Ranzato, Ludovic Denoyer, Herv\u00e9 J\u00e9gou",
-        "keywords": ["Machine Translation", "NLP"]
+        "keywords": [
+            "Machine Translation",
+            "NLP"
+        ]
     },
     {
         "name": "Writing CUDA kernels for PyTorch",
         "url": "https://tinkerd.net/blog/machine-learning/cuda-basics/",
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
-        "keywords": ["Systems"]
+        "keywords": [
+            "Systems"
+        ]
     },
     {
         "name": "Yandex publishes YaLM 100B. It\u2019s the largest GPT-like neural network in open source",
@@ -3707,7 +4821,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Mikhail Khrushchev",
-        "keywords": ["Large Models", "NLP", "Transformers"]
+        "keywords": [
+            "Large Models",
+            "NLP",
+            "Transformers"
+        ]
     },
     {
         "name": "You only cache once: decoder-decoder architectures for language models",
@@ -3715,7 +4833,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Yutao Sun, Li Dong, Yi Zhu, Shaohan Huang, Wenhui Wang, Shuming Ma, Quanlu Zhang, Jianyong Wang, Furu Wei",
-        "keywords": ["Efficient Inference"]
+        "keywords": [
+            "Efficient Inference"
+        ]
     },
     {
         "name": "You only look once: unified, real-time object detection",
@@ -3723,7 +4843,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi",
-        "keywords": ["Computer Vision", "Object Detection"]
+        "keywords": [
+            "Computer Vision",
+            "Object Detection"
+        ]
     },
     {
         "name": "ZeRO & DeepSpeed: new system optimizations enable training models with over 100 billion parameters",
@@ -3731,7 +4854,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
-        "keywords": ["Deep Learning", "Distributed Training", "Large Models"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Large Models"
+        ]
     },
     {
         "name": "ZeRO++: Extremely efficient collective communication for giant model training",
@@ -3752,7 +4879,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "DeepSpeed Team, Rangan Majumder, Junhua Wang",
-        "keywords": ["Deep Learning", "Distributed Training", "Large Models"]
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Large Models"
+        ]
     },
     {
         "name": "ZeRO-Infinity: breaking the GPU memory wall for extreme scale deep learning",
@@ -3786,7 +4917,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever",
-        "keywords": ["Deep Learning", "Variational Inference", "Zero Shot"]
+        "keywords": [
+            "Deep Learning",
+            "Variational Inference",
+            "Zero Shot"
+        ]
     },
     {
         "name": "ZeroQuant: efficient and affordable post-training quantization for large-scale transformers",
@@ -3794,7 +4929,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He",
-        "keywords": ["Deep Learning", "Quantization"]
+        "keywords": [
+            "Deep Learning",
+            "Quantization"
+        ]
     },
     {
         "name": "mixup: beyond empirical risk minimization",
@@ -3816,7 +4954,11 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli",
-        "keywords": ["Deep Learning", "Speech", "Transformers"]
+        "keywords": [
+            "Deep Learning",
+            "Speech",
+            "Transformers"
+        ]
     },
     {
         "name": "\u03b2-VAE: learning basic visual concepts with a constrained variational framework",
@@ -3824,7 +4966,10 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Paper",
         "authors": "Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner",
-        "keywords": ["Deep Learning", "Variational Inference"]
+        "keywords": [
+            "Deep Learning",
+            "Variational Inference"
+        ]
     },
     {
         "name": "\ud83c\udf77 FineWeb: decanting the web for the finest text data at scale",
@@ -3832,6 +4977,9 @@
         "topic": "AI, DL, NLP and RL",
         "datatype": "Blog",
         "authors": "Guilherme Penedo, Hynek Kydl\u00ed\u010dek, Loubna Ben Allal, Anton Lozhkov, Colin Raffel, Leandro Werra, Thomas Wolf",
-        "keywords": ["Data Curation", "NLP"]
+        "keywords": [
+            "Data Curation",
+            "NLP"
+        ]
     }
 ]
