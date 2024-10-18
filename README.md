@@ -97,6 +97,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Multi-modal]: https://img.shields.io/static/v1?label=&message=Multi-modal&color=blue
 [NLP]: https://img.shields.io/static/v1?label=&message=NLP&color=blue
 [NP-Hard]: https://img.shields.io/static/v1?label=&message=NP-Hard&color=blue
+[Networking]: https://img.shields.io/static/v1?label=&message=Networking&color=blue
 [Normalization]: https://img.shields.io/static/v1?label=&message=Normalization&color=blue
 [Object Detection]: https://img.shields.io/static/v1?label=&message=Object%20Detection&color=blue
 [Optimization]: https://img.shields.io/static/v1?label=&message=Optimization&color=blue
@@ -752,6 +753,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][NLP] ![image][Position Embeddings] ![image][Transformers]
 1. [SantaCoder: don't reach for the stars!](https://arxiv.org/abs/2301.03988)  
    ![image][Paper] ![image][AI for code] ![image][Distributed Training] ![image][Large Models] ![image][Transformers]
+1. [Scalable hierarchical aggregation protocol (SHArP): a hardware architecture for efficient data reduction](https://ieeexplore.ieee.org/document/7830486)  
+   ![image][Paper] ![image][Deep Learning] ![image][Distributed Training] ![image][Networking] ![image][Systems]
 1. [Scaling instruction-finetuned language models](https://arxiv.org/abs/2210.11416)  
    ![image][Paper] ![image][Instruction Finetuning] ![image][NLP]
 1. [Scaling PyTorch FSDP for training foundation Models on IBM cloud](https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/)  

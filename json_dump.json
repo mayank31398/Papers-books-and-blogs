@@ -2925,6 +2925,19 @@
         ]
     },
     {
+        "name": "Scalable hierarchical aggregation protocol (SHArP): a hardware architecture for efficient data reduction",
+        "url": "https://ieeexplore.ieee.org/document/7830486",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Richard L. Graham, Devendar Bureddy, Pak Lui, Hal Rosenstock, Gilad Shainer, Gil Bloch",
+        "keywords": [
+            "Deep Learning",
+            "Distributed Training",
+            "Networking",
+            "Systems"
+        ]
+    },
+    {
         "name": "Scaling PyTorch FSDP for training foundation Models on IBM cloud",
         "url": "https://pytorch.org/blog/scaling-pytorch-fsdp-for-training-foundation-models-on-ibm-cloud/",
         "topic": "AI, DL, NLP and RL",
