@@ -747,6 +747,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Hallucination] ![image][Information Retrieval] ![image][NLP] ![image][Retrieval-Augmented Generation]
 1. [Revisiting classifier two-sample tests](https://arxiv.org/abs/1610.06545)  
    ![image][Paper] ![image][Deep Learning] ![image][Unsupervised Learning]
+1. [Revisiting MoE and dense speed-accuracy comparisons for LLM training](https://arxiv.org/abs/2405.15052)  
+   ![image][Paper] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts] ![image][Transformers]
 1. [RoBERTa: a robustly optimized BERT pretraining approach](https://arxiv.org/abs/1907.11692)  
    ![image][Paper] ![image][NLP] ![image][Transformers]
 1. [RoFormer: enhanced transformer with rotary position embedding](https://arxiv.org/abs/2104.09864)  

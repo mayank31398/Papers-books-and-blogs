@@ -2864,6 +2864,19 @@
         ]
     },
     {
+        "name": "Revisiting MoE and dense speed-accuracy comparisons for LLM training",
+        "url": "https://arxiv.org/abs/2405.15052",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Xianzhi Du, Tom Gunter, Xiang Kong, Mark Lee, Zirui Wang, Aonan Zhang, Nan Du, Ruoming Pang",
+        "keywords": [
+            "Deep Learning",
+            "Large Models",
+            "Mixture of Experts",
+            "Transformers"
+        ]
+    },
+    {
         "name": "Revisiting classifier two-sample tests",
         "url": "https://arxiv.org/abs/1610.06545",
         "topic": "AI, DL, NLP and RL",
