@@ -916,6 +916,14 @@
         "keywords": ["NLP", "Question Answering"]
     },
     {
+        "name": "Differential transformer",
+        "url": "https://arxiv.org/abs/2410.05258",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Tianzhu Ye, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei",
+        "keywords": ["NLP", "Transformers"]
+    },
+    {
         "name": "Diffusion convolutional recurrent neural network: data-driven traffic forecasting",
         "url": "https://arxiv.org/abs/1707.01926",
         "topic": "AI, DL, NLP and RL",

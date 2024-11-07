@@ -357,6 +357,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Blog] ![image][Deep Learning] ![image][Large Models] ![image][Mixture of Experts] ![image][Transformers]
 1. [Denoising distantly supervised open-domain question answering](https://aclanthology.org/P18-1161/)  
    ![image][Paper] ![image][NLP] ![image][Question Answering]
+1. [Differential transformer](https://arxiv.org/abs/2410.05258)  
+   ![image][Paper] ![image][NLP] ![image][Transformers]
 1. [Diffusion convolutional recurrent neural network: data-driven traffic forecasting](https://arxiv.org/abs/1707.01926)  
    ![image][Paper] ![image][Deep Learning] ![image][Graph Neural Networks] ![image][Spatio-Temporal] ![image][Time Series]
 1. [Discrete variational autoencoders](https://arxiv.org/abs/1609.02200)  
