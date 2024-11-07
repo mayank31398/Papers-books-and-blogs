@@ -1226,6 +1226,14 @@
         "keywords": ["NLP", "Transformers", "Zero Shot"]
     },
     {
+        "name": "Finetuning pretrained transformers into RNNs",
+        "url": "https://arxiv.org/abs/2103.13076",
+        "topic": "AI, DL, NLP and RL",
+        "datatype": "Paper",
+        "authors": "Jungo Kasai, Hao Peng, Yizhe Zhang, Dani Yogatama, Gabriel Ilharco, Nikolaos Pappas, Yi Mao, Weizhu Chen, Noah A. Smith",
+        "keywords": ["Linear Attention", "NLP", "Transformers"]
+    },
+    {
         "name": "Flash-decoding for long-context inference",
         "url": "https://pytorch.org/blog/flash-decoding/",
         "topic": "AI, DL, NLP and RL",

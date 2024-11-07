@@ -81,6 +81,7 @@ This repository contains a list of the books, blogs, research papers and white p
 [Instruction Finetuning]: https://img.shields.io/static/v1?label=&message=Instruction%20Finetuning&color=blue
 [Knowledge Graphs]: https://img.shields.io/static/v1?label=&message=Knowledge%20Graphs&color=blue
 [Large Models]: https://img.shields.io/static/v1?label=&message=Large%20Models&color=blue
+[Linear Attention]: https://img.shields.io/static/v1?label=&message=Linear%20Attention&color=blue
 [Long Context Length]: https://img.shields.io/static/v1?label=&message=Long%20Context%20Length&color=blue
 [Machine Learning Compilation]: https://img.shields.io/static/v1?label=&message=Machine%20Learning%20Compilation&color=blue
 [Machine Translation]: https://img.shields.io/static/v1?label=&message=Machine%20Translation&color=blue
@@ -413,6 +414,8 @@ This repository contains a list of the books, blogs, research papers and white p
    ![image][Paper] ![image][Deep Learning] ![image][Generative Models]
 1. [Finetuned language models are zero-shot learners](https://arxiv.org/abs/2109.01652)  
    ![image][Paper] ![image][NLP] ![image][Transformers] ![image][Zero Shot]
+1. [Finetuning pretrained transformers into RNNs](https://arxiv.org/abs/2103.13076)  
+   ![image][Paper] ![image][Linear Attention] ![image][NLP] ![image][Transformers]
 1. [Flash-decoding for long-context inference](https://pytorch.org/blog/flash-decoding/)  
    ![image][Blog] ![image][Deep Learning] ![image][Systems] ![image][Transformers]
 1. [FlashAttention: fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135)  
